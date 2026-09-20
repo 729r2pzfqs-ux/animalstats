@@ -1,0 +1,21 @@
+{
+  "slug": "scarlet-macaw",
+  "commonName": "Scarlet Macaw",
+  "scientificName": "Ara macao",
+  "classSlug": "birds",
+  "aliases": [
+    "macaw",
+    "parrot"
+  ],
+  "qid": "Q243761",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Scarlet macaw",
+  "taxonomy": {
+    "species": "Ara macao",
+    "genus": "Ara",
+    "family": "Psittacidae",
+    "order": "Psittaciformes",
+    "class": "Aves"
+  },
+  "quantities": []
+}

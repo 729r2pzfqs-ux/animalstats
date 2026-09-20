@@ -1,0 +1,55 @@
+{
+  "slug": "frog-vs-toad",
+  "summary": "The main difference between frogs and toads is skin and build: typical frogs have smooth, moist skin and long legs for leaping, while toads have dry, warty skin, stout bodies and short legs for hopping. Scientifically, toads are a kind of frog, since both belong to the order Anura. 'True toads' are the family Bufonidae, which includes the American toad.",
+  "differences": [
+    {
+      "title": "Skin",
+      "text": "Frogs such as the American bullfrog have thin, smooth, slippery skin that must stay moist, so they rarely stray far from water. Toads have thicker, drier, bumpy skin that loses water more slowly, which lets them live in gardens, woods and fields. The bumps are glands, not warts, and they cannot give you warts."
+    },
+    {
+      "title": "Legs and movement",
+      "text": "Frogs have long, muscular hind legs, often longer than the head and body combined, and can leap many times their own length or swim powerfully with fully webbed feet. Toads have short hind legs and move in brief hops or even walk. Their toes have little webbing, because adults spend most of their time on land."
+    },
+    {
+      "title": "Eggs",
+      "text": "You can often identify the parent from the spawn. Most frogs lay eggs in clumps or floating films; the bullfrog produces a thin sheet on the surface containing thousands of eggs. True toads lay their eggs in long double strings of jelly, like strands of beads, wound around underwater plants."
+    },
+    {
+      "title": "Poison glands",
+      "text": "True toads have a large, raised parotoid gland behind each eye. When a toad is threatened, these glands ooze a milky toxin that tastes foul and can sicken predators, including dogs that mouth them. Most typical frogs lack parotoid glands and rely on jumping into water to escape, although some frog families are highly poisonous."
+    },
+    {
+      "title": "Teeth and body shape",
+      "text": "Most frogs have a row of tiny teeth along the upper jaw that helps grip prey; true toads have no teeth at all. Frogs tend to be slim with a narrow waist, a pointed snout and bulging eyes set high. Toads are squat and broad, with a blunt snout and, in many species, bony crests on the head."
+    }
+  ],
+  "similarities": "Frogs and toads are all tailless amphibians in the order Anura. Both start life as aquatic tadpoles with gills and transform into air-breathing adults. Both absorb water through the skin instead of drinking, catch insects and other small prey with a sticky tongue, and gather at ponds in the breeding season, where males call to attract females.",
+  "howToTell": [
+    "Touch is not needed: smooth, shiny, wet-looking skin suggests a frog; dry, bumpy skin suggests a toad.",
+    "Look behind the eye. A large, raised, bean-shaped gland there identifies a true toad.",
+    "Watch it move. Long leaps or a splash into the water suggest a frog; short, plodding hops suggest a toad.",
+    "Check spawn in spring: clumps or sheets of eggs are from frogs, while long strings are from toads."
+  ],
+  "faq": [
+    {
+      "question": "Is a toad a frog?",
+      "answer": "Yes. Toads are a type of frog. All of them belong to the order Anura, and 'toad' is a common name for species with dry, warty skin and short legs, especially the true toads in the family Bufonidae. The distinction is informal, and some species blur the line."
+    },
+    {
+      "question": "Can you get warts from touching a toad?",
+      "answer": "No. Human warts are caused by a virus, not by toads. The bumps on a toad are skin glands. Toads do secrete a mild toxin that can irritate your eyes and mouth, so wash your hands after handling one, and keep dogs from mouthing them."
+    },
+    {
+      "question": "Can frogs and toads interbreed?",
+      "answer": "No. Typical frogs and true toads belong to different families that separated tens of millions of years ago, and they cannot produce offspring together. Males of one kind sometimes grasp females of another by mistake in crowded breeding ponds, but no viable young result."
+    },
+    {
+      "question": "Are toads poisonous?",
+      "answer": "Yes, to a degree. True toads produce toxins called bufotoxins from glands in the skin. For most species, including the American toad, the poison is mainly a deterrent that causes drooling or vomiting in pets. A few, such as the cane toad, are dangerous to dogs."
+    }
+  ],
+  "meta": {
+    "title": "Frog vs Toad: Differences in Skin, Legs and Eggs",
+    "description": "Frogs have smooth, moist skin and long jumping legs; toads have dry, warty skin and short legs. Toads are actually a kind of frog. Learn more."
+  }
+}

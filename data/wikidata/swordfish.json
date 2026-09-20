@@ -1,0 +1,20 @@
+{
+  "slug": "swordfish",
+  "commonName": "Swordfish",
+  "scientificName": "Xiphias gladius",
+  "classSlug": "fish",
+  "aliases": [],
+  "qid": "Q164327",
+  "iucnStatus": "Near Threatened",
+  "wikipedia": "Swordfish",
+  "taxonomy": {
+    "species": "Xiphias gladius",
+    "genus": "Xiphias",
+    "family": "Xiphiidae",
+    "order": "Istiophoriformes",
+    "class": "Actinopteri",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "narwhal",
+  "commonName": "Narwhal",
+  "scientificName": "Monodon monoceros",
+  "alternateNames": ["Narwhale", "Unicorn of the sea"],
+  "nameSingular": "narwhal",
+  "namePlural": "narwhals",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Monodontidae", "genus": "Monodon", "species": "M. monoceros"},
+  "facts": {
+    "lifespan": {"min": 30, "max": 50, "unit": "years", "context": "in the wild; eye-lens dating suggests some individuals reach 90 years or more", "display": "30–50 years (possibly up to 90+)"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 800, "max": 1600, "unit": "kg", "context": "adults; females average about 900 kg, males up to 1,600 kg", "display": "800–1,600 kg (1,760–3,530 lb)"},
+    "height": {"min": 3.5, "max": 5.5, "unit": "m", "label": "Length", "display": "3.5–5.5 m (11.5–18 ft), excluding the tusk"},
+    "speed": null,
+    "gestationPeriod": {"min": 420, "max": 470, "unit": "days", "label": "Gestation", "display": "14–15 months"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "A narrow diet of Greenland halibut, Arctic and polar cod, squid and shrimp, mostly caught in winter on deep dives beneath the pack ice and swallowed whole by suction.",
+    "habitat": ["Arctic seas", "Pack ice", "Deep fjords and bays", "Continental slope"],
+    "range": "Arctic waters of the Atlantic sector: the Canadian High Arctic, Baffin Bay and Davis Strait, the coasts of Greenland, and east to Svalbard and Franz Josef Land.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown",
+    "population": "about 123,000 mature individuals"
+  },
+  "description": "The narwhal is a medium-sized toothed whale of the high Arctic, famous for the single spiral tusk that gives it the nickname unicorn of the sea. The tusk is a canine tooth that grows through the upper lip of males, and occasionally females, reaching 1.5 to 3 m. Narwhals are mottled gray and white, growing paler with age, and like their closest relative, the beluga, they have no dorsal fin, an adaptation for life under ice. They winter in dense pack ice and rank among the deepest-diving marine mammals. Narwhals are cetaceans, now classified within the even-toed hoofed mammals.",
+  "answers": {
+    "lifespan": "Narwhals are generally thought to live 30–50 years, and some may live far longer. A dating method based on chemical changes in the eye lens has produced estimates of 90 years or more for the oldest females. Narwhals have never survived in captivity; every attempt in the 1960s and 1970s ended within months.",
+    "weight": "Adult narwhals weigh 800–1,600 kg (1,760–3,530 lb). Females average around 900 kg, and large males reach about 1,600 kg. Roughly a third of that weight is blubber. The tusk itself weighs up to about 10 kg.",
+    "size": "Narwhals measure 3.5–5.5 m (11.5–18 ft) from head to tail, not counting the tusk, with males averaging about 4.1 m and females about 3.5 m. A male's tusk adds another 1.5–3 m. Newborn calves are about 1.6 m long.",
+    "speed": null,
+    "gestation": "A narwhal is pregnant for about 14–15 months. Mating takes place in spring in the offshore pack ice, and the single calf is born the following summer, between about June and August. Calves nurse for more than a year, and females give birth roughly every three years.",
+    "diet": "Narwhals are carnivores with an unusually narrow diet: Greenland halibut, Arctic cod, polar cod, squid and shrimp. They do most of their feeding in winter, diving repeatedly to the seabed under the ice. With no functional teeth in the mouth, they suck prey in and swallow it whole.",
+    "habitat": "Narwhals live in Arctic waters around northern Canada, Greenland, Svalbard and western Russia, and are rarely found south of 65 degrees north. They spend summer in ice-free coastal bays and fjords and winter in deep offshore water under dense pack ice, breathing through narrow cracks.",
+    "conservation": "The narwhal is listed as Least Concern on the IUCN Red List, with about 123,000 mature individuals. It is considered one of the Arctic mammals most sensitive to climate change, because it depends on sea ice and a narrow diet. Hunting by Inuit communities is regulated by quota, and shipping noise is a growing concern."
+  },
+  "funFacts": [
+    "The narwhal's tusk is an overgrown left canine tooth that always spirals counterclockwise, and about one male in 500 grows two.",
+    "The tusk contains millions of nerve endings and can sense changes in the water, such as salinity and temperature.",
+    "Narwhals dive to 800 m (2,600 ft) or deeper many times a day in winter, and dives beyond 1,500 m have been recorded.",
+    "Drone footage from Canada has shown narwhals tapping Arctic cod with their tusks to stun them before eating them.",
+    "In medieval Europe narwhal tusks were sold as unicorn horns and could be worth many times their weight in gold."
+  ],
+  "relatedAnimals": ["beluga-whale", "bowhead-whale", "orca", "walrus", "polar-bear", "greenland-shark"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is a narwhal's tusk for?", "answer": "The tusk is mainly a male display trait, like a stag's antlers, used to signal status and attract females; males also rub tusks together. It is a sensory organ as well, with nerve endings that detect changes in the water, and narwhals have been filmed using it to stun fish."},
+    {"question": "Are narwhals real?", "answer": "Yes. Narwhals are real whales that live in Arctic waters off Canada, Greenland, Norway and Russia. They seem mythical because they live in remote, ice-covered seas, are rarely seen by most people and are not kept in any aquarium."},
+    {"question": "Do female narwhals have tusks?", "answer": "Usually not. Nearly all males grow a tusk, but only about 15 percent of females do, and their tusks are shorter and thinner. Females without tusks live just as long, which is one reason scientists think the tusk is not essential for feeding."},
+    {"question": "Why are there no narwhals in aquariums?", "answer": "Narwhals do not survive in captivity. Several were captured for aquariums in North America around 1969 and 1970, and all died within a few months. They are deep-diving animals sensitive to noise and stress, and no aquarium has tried since."},
+    {"question": "How many narwhals are left?", "answer": "The IUCN estimates around 123,000 mature narwhals, and the total including young animals is about 170,000. Most live in Canadian and Greenlandic waters, particularly around Baffin Bay. Some small populations, such as those in East Greenland, are declining."}
+  ],
+  "meta": {
+    "title": "Narwhal Facts: Tusk, Size, Lifespan, Diet & Habitat",
+    "description": "Narwhals grow 3.5–5.5 m long plus a tusk of up to 3 m, weigh 800–1,600 kg and live 30–50 years or more. Diet, Arctic habitat, gestation and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Monodon%20monoceros&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Monodon_monoceros/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Monodon_monoceros"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Narwhal"}
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "ball-python",
+  "commonName": "Ball Python",
+  "scientificName": "Python regius",
+  "classSlug": "reptiles",
+  "aliases": [
+    "royal python",
+    "python"
+  ],
+  "qid": "Q464424",
+  "iucnStatus": "Near Threatened",
+  "wikipedia": "Ball python",
+  "taxonomy": {
+    "species": "Python regius",
+    "genus": "Python",
+    "family": "Pythonidae",
+    "order": "Squamata",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

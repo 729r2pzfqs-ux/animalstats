@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% set title = "Search | AnimalStats" %}
+{% set description = "Search the AnimalStats database of animal facts, comparisons and rankings." %}
+{% block main %}
+<div class="wrap">
+  <h1 class="pt-4 text-[1.7rem] font-extrabold leading-tight tracking-tight sm:text-4xl">Search</h1>
+  <p class="prose-p mt-2" id="search-status">Type an animal name in the search box above.</p>
+  <div id="search-page-results" class="card mt-4 hidden overflow-hidden"></div>
+  <p class="mt-6"><a href="/animals/" class="link">Browse all animals A–Z</a></p>
+</div>
+{% endblock %}

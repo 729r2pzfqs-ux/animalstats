@@ -1,0 +1,64 @@
+{
+  "slug": "great-horned-owl",
+  "commonName": "Great Horned Owl",
+  "scientificName": "Bubo virginianus",
+  "alternateNames": ["Hoot owl", "Tiger owl"],
+  "nameSingular": "great horned owl",
+  "namePlural": "great horned owls",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Strigiformes", "family": "Strigidae", "genus": "Bubo", "species": "B. virginianus"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 15, "unit": "years", "context": "in the wild; the oldest banded wild bird was 28", "display": "10–15 years"},
+    "lifespanCaptivity": {"min": 20, "max": 30, "unit": "years", "context": "in human care; a few have lived longer", "display": "20–30 years"},
+    "weight": {"min": 0.9, "max": 2.5, "unit": "kg", "context": "adults; males average about 1.2 kg and females about 1.6 kg", "display": "0.9–2.5 kg (2–5.5 lb)"},
+    "height": {"min": 1.0, "max": 1.5, "unit": "m", "label": "Wingspan", "display": "1.0–1.5 m (3.3–4.9 ft)"},
+    "speed": {"min": 65, "max": 65, "unit": "km/h", "verb": "fly", "context": "top speed in level flight; hunting flights are usually slower", "display": "up to 65 km/h (40 mph)"},
+    "gestationPeriod": {"min": 30, "max": 37, "unit": "days", "label": "Incubation", "display": "30–37 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "A very broad range of prey: rabbits, hares, rats, mice, voles, squirrels and skunks, plus ducks, crows, other owls and hawks, snakes, frogs, large insects and scorpions.",
+    "habitat": ["Forest and woodland", "Desert", "Grassland", "Swamps", "Suburbs and city parks"],
+    "range": "Most of the Americas, from the tree line in Alaska and Canada through the United States, Mexico and Central America, and patchily through South America.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The great horned owl is the classic hooting owl of North American storybooks: a big, heavily built bird with long feather tufts, a barred belly, a white throat patch and large yellow eyes. The 'horns' are neither horns nor ears, only feathers. It is the most widespread true owl in the Americas and lives almost anywhere with some trees or cliffs, from boreal forest and desert to city parks. A powerful and adaptable night hunter, it takes prey from mice and beetles to skunks, geese and other owls. Pairs nest early, often in midwinter, in stick nests built by hawks or crows.",
+  "answers": {
+    "lifespan": "Great horned owls typically live 10–15 years in the wild and 20–30 years in human care. The oldest banded wild bird on record was 28 years old when it was found in Ohio. Adults have no regular predators, so most deaths are caused by starvation in the first year, vehicles, power lines, shooting and poison.",
+    "weight": "Adult great horned owls weigh 0.9–2.5 kg (2–5.5 lb). Females average about 1.6 kg and males about 1.2 kg. They are the heaviest owls in most of North America; only the snowy owl averages heavier. Birds from Alaska and Canada are larger than those from Central and South America.",
+    "size": "A great horned owl has a wingspan of 1.0–1.5 m (3.3–4.9 ft) and stands 46–63 cm (18–25 in) tall. Females are larger than males. The broad, rounded wings and soft feather edges give it slow, quiet flight suited to hunting among trees.",
+    "speed": "Great horned owls can fly at up to about 65 km/h (40 mph) in level flight. They rarely need that speed. A hunting owl normally watches from a perch, then glides down on stiff wings, relying on surprise and near-silent flight rather than pursuit.",
+    "gestation": "Great horned owl eggs hatch after 30–37 days of incubation. The female lays one to four eggs, usually two, and incubates them almost alone, sometimes through snow and temperatures far below freezing, while the male hunts for her. Owlets leave the nest at about six weeks and fly well by ten to twelve weeks.",
+    "diet": "Great horned owls are carnivores with one of the most varied diets of any American raptor, centered on rabbits, hares and rodents. They also kill skunks, opossums, ducks, geese, herons, crows and other birds of prey, along with snakes, frogs and large insects. Indigestible fur and bone are coughed up as pellets.",
+    "habitat": "Great horned owls live in nearly every habitat in the Americas, from boreal forest, swamps and deserts to farmland, suburbs and city parks. They prefer a mix of woods for roosting and nesting and open ground for hunting. They are absent only from the Arctic tundra and parts of dense tropical rainforest.",
+    "conservation": "The great horned owl is listed as Least Concern on the IUCN Red List and remains common across most of its range. North American breeding surveys suggest a gradual long-term decline in some regions. The main human-caused threats are rodent poisons passed up the food chain, vehicle collisions, electrocution and illegal shooting."
+  },
+  "funFacts": [
+    "The 'horns' are tufts of feathers called plumicorns. The real ears are hidden openings on the sides of the head.",
+    "A great horned owl's eyes are fixed in their sockets, so it turns its head instead, through as much as 270 degrees.",
+    "It is one of the few regular predators of skunks; owls have a poor sense of smell, and their nests sometimes reek of skunk spray.",
+    "Pairs often nest in January or February, earlier than almost any other North American bird, in old nests built by hawks, crows or squirrels.",
+    "Crows hate them: a roosting great horned owl discovered by day may be mobbed for hours by a noisy flock."
+  ],
+  "relatedAnimals": ["snowy-owl", "barn-owl", "red-tailed-hawk", "bald-eagle", "american-crow", "striped-skunk"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can a great horned owl pick up a cat or small dog?", "answer": "Attacks on pets are rare but do happen. A great horned owl can kill animals heavier than itself, yet it can only fly off with about 1–1.5 kg, so most cats and dogs are too heavy to carry. Kittens, toy breeds, rabbits and poultry left out at night are at some risk."},
+    {"question": "What does a great horned owl sound like?", "answer": "The call is a deep, soft series of four or five hoots, often written 'hoo-h'HOO-hoo-hoo'. Pairs duet, and the female's voice is noticeably higher in pitch even though she is the larger bird. Young owls beg with a harsh, rising screech."},
+    {"question": "Are great horned owls dangerous to humans?", "answer": "They are not dangerous in normal circumstances, but they defend their nests fiercely. People who come close to a nest or a grounded owlet have been struck on the head by silent swoops that leave deep talon cuts. Keeping your distance during the nesting season avoids the problem."},
+    {"question": "Why do great horned owls have ear tufts?", "answer": "Nobody knows for certain. The tufts have nothing to do with hearing. The leading ideas are that they break up the owl's outline so it blends in against bark and branches, and that they help owls signal mood and recognize one another."},
+    {"question": "What eats a great horned owl?", "answer": "Healthy adults have no regular predators and sit at the top of the food chain, which is why they are sometimes called 'tigers of the sky'. Eggs and nestlings may be taken by raccoons, crows and ravens, and golden eagles or other great horned owls occasionally kill adults."}
+  ],
+  "meta": {
+    "title": "Great Horned Owl: Size, Wingspan, Lifespan & Diet Facts",
+    "description": "Great horned owls weigh 0.9–2.5 kg (2–5.5 lb), span 1.0–1.5 m and live 10–15 years in the wild. What they eat, their hoot, flight speed and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Bubo%20virginianus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Bubo_virginianus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Bubo_virginianus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Great_horned_owl"}
+    ]
+  }
+}

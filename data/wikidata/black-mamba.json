@@ -1,0 +1,22 @@
+{
+  "slug": "black-mamba",
+  "commonName": "Black Mamba",
+  "scientificName": "Dendroaspis polylepis",
+  "classSlug": "reptiles",
+  "aliases": [
+    "mamba"
+  ],
+  "qid": "Q188690",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Black mamba",
+  "taxonomy": {
+    "species": "Dendroaspis polylepis",
+    "genus": "Dendroaspis",
+    "family": "Elapidae",
+    "order": "Squamata",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "bottlenose-dolphin",
+  "commonName": "Bottlenose Dolphin",
+  "scientificName": "Tursiops truncatus",
+  "alternateNames": ["Common bottlenose dolphin", "Atlantic bottlenose dolphin"],
+  "nameSingular": "bottlenose dolphin",
+  "namePlural": "bottlenose dolphins",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Delphinidae", "genus": "Tursiops", "species": "T. truncatus"},
+  "facts": {
+    "lifespan": {"min": 40, "max": 60, "unit": "years", "context": "in the wild; females tend to outlive males", "display": "40–60 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 150, "max": 650, "unit": "kg", "context": "adults; size varies greatly between populations, with cold-water dolphins the largest", "display": "150–650 kg (330–1,430 lb)"},
+    "height": {"min": 2, "max": 4, "unit": "m", "label": "Length", "display": "2–4 m (6.6–13 ft)"},
+    "speed": {"min": 30, "max": 35, "unit": "km/h", "verb": "swim", "context": "short bursts; normally travels at 5–11 km/h", "display": "30–35 km/h (18–22 mph)"},
+    "gestationPeriod": {"min": 360, "max": 375, "unit": "days", "label": "Gestation", "display": "about 12 months"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "A wide variety of fish, such as mullet, croakers, mackerel and herring, together with squid, shrimp and other crustaceans; prey is swallowed whole and varies with the local habitat.",
+    "habitat": ["Coastal waters", "Bays and estuaries", "Continental shelf", "Open ocean"],
+    "range": "Temperate and tropical waters of every ocean, as well as the Mediterranean, Black Sea and Gulf of Mexico, in both inshore and offshore populations.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The common bottlenose dolphin is the most familiar of all dolphins, the species seen along coasts worldwide, in marine parks and in film and television. It is a sturdy gray dolphin with a paler belly, a short, thick beak, a curved dorsal fin and a mouthline that looks like a permanent smile. Bottlenose dolphins are toothed whales, part of the cetacean group now classified within the even-toed hoofed mammals. They live in fluid social groups, find prey and navigate by echolocation, and are among the most intelligent animals studied, able to recognize themselves in mirrors, use tools and learn from one another.",
+  "answers": {
+    "lifespan": "Bottlenose dolphins live 40–60 years in the wild. Females generally outlive males, and some females in the long-studied Sarasota Bay population in Florida have passed 60. Dolphins in human care have also reached their 50s and 60s, although average lifespans in captivity are debated.",
+    "weight": "Adult bottlenose dolphins weigh 150–650 kg (330–1,430 lb). The spread is wide because size depends on where they live. Dolphins in warm, shallow waters such as Florida's are small, around 150–300 kg, while those in cold waters such as Scotland's Moray Firth are the giants of the species.",
+    "size": "Bottlenose dolphins are 2–4 m (6.6–13 ft) long. Coastal animals from warm regions are usually 2–2.7 m, while offshore and cold-water populations commonly exceed 3 m. Males are slightly longer and noticeably heavier than females in most populations.",
+    "speed": "Bottlenose dolphins can swim at 30–35 km/h (18–22 mph) in short bursts. Day to day they travel at only 5–11 km/h. They often save energy by riding the pressure wave at the bow of a boat or the wake behind it.",
+    "gestation": "A bottlenose dolphin is pregnant for about 12 months. The single calf is born tail first, measures about 1–1.3 m, and can swim at once. It nurses for 18–24 months and stays with its mother for three to six years, and females give birth every three to six years.",
+    "diet": "Bottlenose dolphins are carnivores that eat mainly fish and squid, plus shrimp and other crustaceans. An adult eats roughly 4–6 percent of its body weight a day. Hunting tactics are varied and often learned locally, from herding fish into mud rings to driving them onto mudbanks.",
+    "habitat": "Bottlenose dolphins live in temperate and tropical waters worldwide. Coastal populations use bays, estuaries, lagoons and river mouths, while offshore populations range over the continental shelf and deep ocean. They avoid polar waters, generally staying where surface temperatures are above about 10 degrees Celsius.",
+    "conservation": "The common bottlenose dolphin is listed as Least Concern on the IUCN Red List, with an unknown overall trend. It is abundant globally, but several local populations are threatened, including those in the Mediterranean and Black Sea and in Fiordland, New Zealand. Bycatch in fishing gear, pollution, habitat degradation and disturbance are the main problems."
+  },
+  "funFacts": [
+    "Every bottlenose dolphin develops its own signature whistle in its first year, and other dolphins use it rather like a name to call that individual.",
+    "Dolphins sleep with half the brain at a time, keeping one eye open so they can continue to surface and breathe.",
+    "In Shark Bay, Australia, some dolphins carry sea sponges on their beaks to protect them while probing the seabed, a skill mothers pass to their calves.",
+    "In Laguna, Brazil, wild bottlenose dolphins drive mullet toward fishers' nets and signal when to cast, a partnership more than a century old.",
+    "Bottlenose dolphins have 72–104 cone-shaped teeth, which are used for gripping prey rather than chewing."
+  ],
+  "relatedAnimals": ["orca", "beluga-whale", "narwhal", "sperm-whale", "california-sea-lion", "harbor-seal"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How smart are bottlenose dolphins?", "answer": "Bottlenose dolphins rank among the most intelligent animals. They pass the mirror self-recognition test, understand pointing and simple symbolic sentences, remember other dolphins' whistles for 20 years or more, use tools and pass hunting techniques from mother to calf."},
+    {"question": "Are bottlenose dolphins dangerous to humans?", "answer": "Serious attacks are rare, but dolphins are large, powerful wild predators. Wild dolphins that have been fed or harassed have bitten and rammed swimmers, and one death was reported in Brazil in 1994. In the United States it is illegal to feed or harass wild dolphins."},
+    {"question": "How long can a bottlenose dolphin hold its breath?", "answer": "Bottlenose dolphins usually surface to breathe two or three times a minute, but they can hold their breath for about 8–10 minutes. Offshore dolphins have been recorded diving to several hundred meters in search of prey."},
+    {"question": "Do dolphins sleep?", "answer": "Yes, but only one half of the brain sleeps at a time, a state called unihemispheric sleep. The other half stays alert enough to control breathing, which is voluntary in dolphins, and to watch for predators. They rest this way for several hours a day."},
+    {"question": "What is the difference between a dolphin and a porpoise?", "answer": "Dolphins usually have a beak, cone-shaped teeth and a curved dorsal fin, and they are generally larger and more vocal. Porpoises are smaller and stockier, with blunt heads, spade-shaped teeth and triangular dorsal fins. The two belong to separate families."}
+  ],
+  "meta": {
+    "title": "Bottlenose Dolphin Facts: Size, Speed, Lifespan & Diet",
+    "description": "Bottlenose dolphins live 40–60 years, grow 2–4 m (6.6–13 ft) long, weigh 150–650 kg and swim at 30–35 km/h. Intelligence, diet, gestation and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Tursiops%20truncatus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Tursiops_truncatus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Tursiops_truncatus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Common_bottlenose_dolphin"}
+    ]
+  }
+}

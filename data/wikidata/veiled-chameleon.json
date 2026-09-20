@@ -1,0 +1,22 @@
+{
+  "slug": "veiled-chameleon",
+  "commonName": "Veiled Chameleon",
+  "scientificName": "Chamaeleo calyptratus",
+  "classSlug": "reptiles",
+  "aliases": [
+    "chameleon"
+  ],
+  "qid": "Q1124882",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Veiled chameleon",
+  "taxonomy": {
+    "species": "Chamaeleo calyptratus",
+    "genus": "Chamaeleo",
+    "family": "Chamaeleonidae",
+    "order": "Squamata",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

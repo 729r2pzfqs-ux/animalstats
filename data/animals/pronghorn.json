@@ -1,0 +1,64 @@
+{
+  "slug": "pronghorn",
+  "commonName": "Pronghorn",
+  "scientificName": "Antilocapra americana",
+  "alternateNames": ["Pronghorn antelope", "American antelope", "Speed goat"],
+  "nameSingular": "pronghorn",
+  "namePlural": "pronghorn",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Antilocapridae", "genus": "Antilocapra", "species": "A. americana"},
+  "facts": {
+    "lifespan": {"min": 7, "max": 10, "unit": "years", "context": "in the wild", "display": "7–10 years"},
+    "lifespanCaptivity": {"min": 10, "max": 15, "unit": "years", "context": "in human care", "display": "10–15 years"},
+    "weight": {"min": 35, "max": 65, "unit": "kg", "context": "adults; bucks 40–65 kg, does 35–48 kg", "display": "35–65 kg (75–145 lb)"},
+    "height": {"min": 0.8, "max": 1.05, "unit": "m", "label": "Shoulder height", "display": "0.8–1.05 m (2.6–3.4 ft)"},
+    "speed": {"min": 88, "max": 88, "unit": "km/h", "verb": "run", "context": "top sprint; can hold about 55 km/h for several kilometers", "display": "88 km/h (55 mph)"},
+    "gestationPeriod": {"min": 235, "max": 250, "unit": "days", "label": "Gestation", "display": "about 250 days (8 months)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Forbs, sagebrush and other shrubs make up most of the diet, with grasses and cacti eaten seasonally; pronghorn can digest plants that are toxic to cattle and get much of their water from food.",
+    "habitat": ["Grassland", "Sagebrush steppe", "Desert", "Shrubland"],
+    "range": "Western North America, from southern Alberta and Saskatchewan through the Great Plains and Great Basin to northern Mexico, with the largest numbers in Wyoming and Montana.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The pronghorn is a hoofed mammal of western North America and the fastest land animal in the Western Hemisphere. Although often called an antelope, it is not one: it is the last surviving member of the family Antilocapridae, and its closest living relatives are the giraffe and okapi. Its horns are unique, with a permanent bony core and a forked keratin sheath that is shed and regrown every year. Pronghorn are tan with white bellies, throat bands and a white rump patch that flares as an alarm signal. Hunted down to perhaps 13,000 animals by the early 1900s, they recovered strongly under protection.",
+  "answers": {
+    "lifespan": "Pronghorn live 7–10 years in the wild and up to about 15 years in human care. Fawns face the greatest risk, with coyotes, bobcats and golden eagles taking many in the first weeks, while harsh winters with deep snow can kill large numbers of adults.",
+    "weight": "Adult pronghorn weigh 35–65 kg (75–145 lb). Bucks weigh 40–65 kg and does 35–48 kg, so the sexes differ less than in most deer. Animals in the northern plains are larger than the desert subspecies of Arizona, Sonora and Baja California.",
+    "size": "A pronghorn stands 0.8–1.05 m (2.6–3.4 ft) tall at the shoulder and measures 1.3–1.5 m from nose to tail. Bucks carry forked horns about 25–43 cm long, while does have small spikes that are usually shorter than the ears, or no horns at all.",
+    "speed": "Pronghorn can sprint at about 88 km/h (55 mph), making them the second-fastest land animal after the cheetah. Unlike a cheetah they can sustain speed, holding roughly 55 km/h for several kilometers thanks to an oversized heart, lungs and windpipe. Some sources quote higher top speeds, but those are less well documented.",
+    "gestation": "A pronghorn doe is pregnant for about 250 days, or roughly eight months, which is long for an animal of her size. Does mate in late summer or fall and give birth in May or June, most often to twins. Fawns hide in vegetation for their first few weeks.",
+    "diet": "Pronghorn are herbivores that mainly eat forbs and shrubs such as sagebrush rather than grass. They pick high-quality plants and can eat species poisonous to livestock. In winter, sagebrush poking above the snow is a critical food across much of their range.",
+    "habitat": "Pronghorn live in open grasslands, sagebrush steppe and deserts of western North America, from southern Canada to northern Mexico. They rely on eyesight and speed, so they favor wide, open terrain with low vegetation and avoid forests and rugged ground.",
+    "conservation": "The pronghorn is listed as Least Concern on the IUCN Red List, with a stable population in the hundreds of thousands. Two desert subspecies, the Sonoran and Peninsular pronghorn, are endangered. Fences, highways and energy development that block migration routes are the main concerns today."
+  },
+  "funFacts": [
+    "The pronghorn's speed is thought to be a leftover defense against extinct predators such as the American cheetah; nothing alive in North America today can catch a healthy adult.",
+    "Pronghorn are the only animals with branched horns, and the only ones that shed the horn sheath every year.",
+    "Their large eyes give a field of view of around 300 degrees and can pick out movement several kilometers away.",
+    "Pronghorn are poor jumpers and usually crawl under fences instead of leaping them, so wildlife-friendly fences leave a smooth bottom wire.",
+    "One Wyoming herd migrates about 240 km (150 miles) each way between Grand Teton National Park and the Green River Basin, along a route used for thousands of years."
+  ],
+  "relatedAnimals": ["cheetah", "giraffe", "okapi", "springbok", "thomsons-gazelle", "white-tailed-deer"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is a pronghorn an antelope?", "answer": "No. Pronghorn look like antelopes and are often called pronghorn antelope, but true antelopes belong to the cattle family, Bovidae, and live in Africa and Asia. The pronghorn is the only living member of a separate North American family, Antilocapridae, and is more closely related to giraffes."},
+    {"question": "Is a pronghorn faster than a cheetah?", "answer": "Not in a sprint. A cheetah's top speed is higher, but it can only hold it for a few hundred meters. A pronghorn can run at around 55 km/h for kilometers, so over any distance longer than a short dash the pronghorn would win."},
+    {"question": "Why are pronghorn so fast?", "answer": "Pronghorn evolved alongside fast Ice Age predators, including the American cheetah and long-legged hyenas and bears. Those predators died out around 12,000 years ago, but the pronghorn kept its large heart and lungs, light bones and cushioned hooves built for running."},
+    {"question": "Do pronghorn shed their horns?", "answer": "Partly. A pronghorn keeps the bony core of each horn for life but sheds the black outer sheath, made of keratin, every year after the fall rut. A new sheath grows over the core during winter and spring."},
+    {"question": "Where can you see pronghorn?", "answer": "Wyoming has more pronghorn than any other state, and they are easy to see from highways across its sagebrush basins. Other reliable places include Yellowstone's Lamar Valley, Montana's prairies, Oregon's Hart Mountain refuge, and the grasslands of Colorado, New Mexico and southern Alberta."}
+  ],
+  "meta": {
+    "title": "Pronghorn Facts: Top Speed, Size, Lifespan & Diet",
+    "description": "Pronghorn run at 88 km/h (55 mph), weigh 35–65 kg and live 7–10 years in the wild. Why North America's fastest land animal is not a true antelope.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Antilocapra%20americana&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Antilocapra_americana/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Antilocapra_americana"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Pronghorn"}
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "bobcat",
+  "commonName": "Bobcat",
+  "scientificName": "Lynx rufus",
+  "alternateNames": ["Red lynx", "Bay lynx", "Wildcat"],
+  "nameSingular": "bobcat",
+  "namePlural": "bobcats",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Felidae", "genus": "Lynx", "species": "L. rufus"},
+  "facts": {
+    "lifespan": {"min": 7, "max": 10, "unit": "years", "context": "in the wild; few exceed 10–12 years", "display": "7–10 years"},
+    "lifespanCaptivity": {"min": 15, "max": 25, "unit": "years", "context": "in human care; the record is about 32 years", "display": "15–25 years"},
+    "weight": {"min": 4, "max": 18, "unit": "kg", "context": "females 4–15 kg, males 6.4–18 kg; largest in the north of the range", "display": "4–18 kg (9–40 lb)"},
+    "height": {"min": 30, "max": 60, "unit": "cm", "label": "Shoulder height", "display": "30–60 cm (12–24 in)"},
+    "speed": {"min": 48, "max": 48, "unit": "km/h", "verb": "run", "context": "short bursts; commonly cited figure", "display": "about 48 km/h (30 mph)"},
+    "gestationPeriod": {"min": 60, "max": 70, "unit": "days", "label": "Gestation", "display": "60–70 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mostly rabbits and hares, along with squirrels, mice, rats, birds and occasionally reptiles; larger bobcats, especially in winter, also kill deer, mainly fawns or weakened adults.",
+    "habitat": ["Forest", "Swamp", "Desert scrub", "Mountains", "Suburban edges"],
+    "range": "Southern Canada through almost all of the contiguous United States to Oaxaca in southern Mexico.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable",
+    "population": "an estimated 2.3–3.6 million in the United States"
+  },
+  "description": "The bobcat is North America's most common wild cat, a medium-sized lynx about twice the size of a house cat. It is named for its short, 'bobbed' tail, which is only 9–20 cm long with a black tip on top and white underneath. It has a spotted tan to reddish-brown coat, a facial ruff, and small black ear tufts. Bobcats are solitary, territorial and mostly active around dusk and dawn, so they are seldom seen even where they are numerous. They adapt to forests, swamps, deserts and the fringes of suburbs, which has helped them stay widespread while other cats declined.",
+  "answers": {
+    "lifespan": "Bobcats live about 7–10 years in the wild, and few survive beyond 10–12. In captivity they commonly reach 15–25 years, with a record of about 32. Most wild deaths come from hunting and trapping, vehicles, starvation in hard winters and, for kittens, predators such as coyotes and owls.",
+    "weight": "Adult bobcats weigh 4–18 kg (9–40 lb). Males average around 9–10 kg and females about 6–7 kg. Bobcats are largest in the northern United States and Canada and smallest in the south, and a big northern male can be three times the weight of a house cat.",
+    "size": "A bobcat stands 30–60 cm (12–24 in) tall at the shoulder and measures 47–125 cm from head to the base of the tail. The stubby tail adds only 9–20 cm. Its hind legs are longer than its front legs, giving it a bobbing run.",
+    "speed": "A bobcat can run at about 48 km/h (30 mph) in a short burst. Like most cats it is an ambush hunter: it stalks or waits beside a trail, then covers the last few meters in a bound of up to about 3 m (10 ft).",
+    "gestation": "A bobcat is pregnant for 60–70 days, a little over two months. Most kittens are born in April or May, in litters of one to six and usually two to four. Kittens open their eyes at about ten days, start hunting with their mother by autumn and leave before the next spring.",
+    "diet": "Bobcats are carnivores that mainly eat rabbits and hares. Cottontails dominate the diet in the south and snowshoe hares in the north, followed by rodents, squirrels and birds. Bobcats can also kill animals much larger than themselves, including white-tailed deer, usually fawns or adults bedded down in snow.",
+    "habitat": "Bobcats live in forests, swamps, scrubland, deserts and mountains from southern Canada to southern Mexico, and increasingly on the edges of towns and suburbs. They avoid only large, intensively farmed areas with no cover and regions with deep, long-lasting snow, where the Canada lynx replaces them.",
+    "conservation": "The bobcat is listed as Least Concern on the IUCN Red List, with a stable population estimated at 2.3–3.6 million in the United States alone. It is legally hunted and trapped for fur in most US states under regulation. Local threats include habitat fragmentation, road deaths and rodent poisons."
+  },
+  "funFacts": [
+    "The bobcat is named for its short 'bobbed' tail, which is black-tipped above and white below.",
+    "Bobcats can take down white-tailed deer several times their own weight, usually by ambushing them while they rest.",
+    "A bobcat's spotted coat is unique to each animal, which lets researchers identify individuals in trail-camera photos.",
+    "Bobcats sometimes cache large kills under snow, leaves or grass and return to feed over several days.",
+    "Bobcats and Canada lynx occasionally hybridize where their ranges meet, and the offspring have been confirmed by genetic testing."
+  ],
+  "relatedAnimals": ["cougar", "cat", "coyote", "red-fox", "european-hare", "raccoon"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a bobcat and a lynx?", "answer": "The bobcat is a species of lynx, but compared with the Canada lynx it has shorter legs, smaller feet, shorter ear tufts and a more spotted, reddish coat. A bobcat's tail tip is black only on top, while a Canada lynx's tail tip is black all around."},
+    {"question": "Are bobcats dangerous to humans?", "answer": "Bobcats are rarely dangerous to people. They are shy and normally run away, and healthy bobcats almost never attack; the few recorded attacks usually involved rabid animals. They can, however, kill unattended small pets and backyard chickens."},
+    {"question": "How big is a bobcat compared to a house cat?", "answer": "A bobcat is roughly twice the size of a house cat. Typical adults weigh 6–10 kg and stand 30–60 cm at the shoulder, compared with 3.5–5 kg and about 25 cm for a domestic cat. Bobcats also have longer legs, larger paws and a much shorter tail."},
+    {"question": "Do bobcats attack pets?", "answer": "Sometimes. Bobcats occasionally take small dogs, outdoor cats, rabbits and poultry, especially around dawn and dusk. Keeping pets indoors at night, supervising small dogs, securing chicken coops and removing outdoor pet food reduce the risk considerably."},
+    {"question": "What does a bobcat sound like?", "answer": "Bobcats are usually silent, but they growl, hiss, snarl and purr like large house cats. During the winter mating season they make loud screams, yowls and caterwauls at night that are often mistaken for a person or child crying out."}
+  ],
+  "meta": {
+    "title": "Bobcat Facts: Size, Weight, Lifespan, Diet & Range",
+    "description": "Bobcats weigh 4–18 kg (9–40 lb), stand 30–60 cm at the shoulder, run at about 48 km/h and live 7–10 years in the wild. Diet, habitat and gestation facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Lynx%20rufus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Lynx_rufus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Lynx_rufus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bobcat"}
+    ]
+  }
+}

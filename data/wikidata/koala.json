@@ -1,0 +1,47 @@
+{
+  "slug": "koala",
+  "commonName": "Koala",
+  "scientificName": "Phascolarctos cinereus",
+  "classSlug": "mammals",
+  "aliases": [
+    "koala bear"
+  ],
+  "qid": "Q36101",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Koala",
+  "taxonomy": {
+    "species": "Phascolarctos cinereus",
+    "genus": "Phascolarctos",
+    "family": "Phascolarctidae",
+    "order": "Diprotodontia",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "lifeExpectancy",
+      "amount": "10",
+      "unit": "year",
+      "sex": null
+    },
+    {
+      "property": "speed",
+      "amount": "2.78",
+      "unit": "m/s",
+      "sex": null
+    },
+    {
+      "property": "speed",
+      "amount": "1.20",
+      "unit": "m/s",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "37",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "betta",
+  "commonName": "Betta Fish",
+  "scientificName": "Betta splendens",
+  "classSlug": "fish",
+  "aliases": [
+    "siamese fighting fish"
+  ],
+  "qid": "Q549",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Siamese fighting fish",
+  "taxonomy": {
+    "species": "Betta splendens",
+    "genus": "Betta",
+    "family": "Osphronemidae",
+    "order": "Anabantiformes",
+    "class": "Actinopteri",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "american-bullfrog",
+  "commonName": "American Bullfrog",
+  "scientificName": "Lithobates catesbeianus",
+  "classSlug": "amphibians",
+  "aliases": [
+    "frog",
+    "bullfrog"
+  ],
+  "qid": "Q4667413",
+  "iucnStatus": "Least Concern",
+  "wikipedia": null,
+  "taxonomy": {
+    "species": "Lithobates catesbeianus",
+    "genus": "Lithobates",
+    "family": "Ranidae",
+    "order": "Anura",
+    "class": "Amphibia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

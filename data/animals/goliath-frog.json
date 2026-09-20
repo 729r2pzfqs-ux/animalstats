@@ -1,0 +1,64 @@
+{
+  "slug": "goliath-frog",
+  "commonName": "Goliath Frog",
+  "scientificName": "Conraua goliath",
+  "alternateNames": ["Giant slippery frog", "Goliath bullfrog"],
+  "nameSingular": "goliath frog",
+  "namePlural": "goliath frogs",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Amphibia", "classSlug": "amphibians", "order": "Anura", "family": "Conrauidae", "genus": "Conraua", "species": "C. goliath"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 15, "unit": "years", "context": "estimated maximum in the wild", "display": "up to about 15 years"},
+    "lifespanCaptivity": {"min": 21, "max": 21, "unit": "years", "context": "reported maximum in human care", "display": "up to about 21 years"},
+    "weight": {"min": 0.6, "max": 3.3, "unit": "kg", "context": "adults; the largest individuals weigh just over 3 kg", "display": "0.6–3.3 kg (1.3–7.2 lb)"},
+    "height": {"min": 17, "max": 32, "unit": "cm", "label": "Body length", "display": "17–32 cm (6.7–12.6 in)"},
+    "speed": null,
+    "gestationPeriod": null
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Insects, spiders, crustaceans, worms, fish, smaller frogs and other small vertebrates. The tadpoles are specialized plant eaters that feed on a single river plant found near waterfalls and rapids.",
+    "habitat": ["Fast rainforest rivers", "Waterfalls and rapids", "Riverbanks"],
+    "range": "A small area of West-Central Africa, in southwestern Cameroon and mainland Equatorial Guinea, along clear, fast-flowing rivers in dense rainforest.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The goliath frog is the largest frog in the world, with big adults weighing over 3 kg, about as much as a small house cat. It lives only along fast, clean, oxygen-rich rivers and waterfalls in the rainforests of Cameroon and Equatorial Guinea. Despite its size it is shy and wary, resting on rocks in the spray and diving into the current at the first sign of danger. Remarkably, its tadpoles start out the same size as those of ordinary frogs. Hunting for bushmeat, collection and habitat loss have cut its numbers by more than half in recent decades.",
+  "answers": {
+    "lifespan": "Goliath frogs are thought to live up to about 15 years in the wild and up to about 21 years in captivity. These are reported maximums rather than averages, and little long-term field data exists. The species does poorly in captivity and has rarely, if ever, been bred there.",
+    "weight": "Goliath frogs weigh 0.6–3.3 kg (1.3–7.2 lb), making them the heaviest frogs on Earth. The very largest individuals reach about 3.25 kg, roughly the weight of a newborn baby. Males and females are similar in size, which is unusual among frogs.",
+    "size": "Goliath frogs measure 17–32 cm (6.7–12.6 in) from snout to vent. With the legs extended, a large adult can stretch to around 80 cm. The tadpoles, by contrast, are no bigger than those of common frogs and only begin to outgrow them after metamorphosis.",
+    "speed": null,
+    "gestation": null,
+    "diet": "Goliath frogs are carnivores that eat insects, crustaceans, fish, smaller frogs and other small animals caught along riverbanks at night. The tadpoles are strict herbivores, feeding on one aquatic plant that grows on rocks in rapids, which helps explain the species' tiny range.",
+    "habitat": "Goliath frogs live in and beside clear, fast-flowing rivers with rapids and waterfalls in the dense lowland rainforests of southwestern Cameroon and Equatorial Guinea. They need clean, clear, well-oxygenated water and do not tolerate silted or polluted streams.",
+    "conservation": "The goliath frog is listed as Endangered on the IUCN Red List, and its population is decreasing. It is heavily hunted for food, collected for zoos and the pet trade, and losing habitat to logging, farming and dam building. Numbers are estimated to have fallen by more than half in three generations."
+  },
+  "funFacts": [
+    "A study published in 2019 found that goliath frogs build nest ponds for their eggs by pushing aside stones, some weighing up to 2 kg; this heavy work may help explain their giant size.",
+    "Goliath frogs have no vocal sac and make no mating call; males produce a whistling sound with the mouth open instead.",
+    "A goliath frog can cover about 3 m (10 ft) in a single leap.",
+    "The tadpoles eat only one plant, a riverweed that clings to rocks in waterfalls and rapids.",
+    "Goliath frog tadpoles take about 85–95 days to transform into froglets."
+  ],
+  "relatedAnimals": ["american-bullfrog", "cane-toad", "red-eyed-tree-frog", "golden-poison-frog", "chinese-giant-salamander", "american-toad"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the biggest frog in the world?", "answer": "The goliath frog of Cameroon and Equatorial Guinea is the biggest living frog. Large adults reach about 32 cm in body length and just over 3 kg in weight. The next largest species, such as the African bullfrog and the cane toad, are considerably lighter."},
+    {"question": "Are goliath frogs dangerous or poisonous?", "answer": "No. Goliath frogs are harmless to people. They are not poisonous, are regularly eaten as bushmeat in their home range, and flee into the river when approached. Their main defenses are wariness, camouflage and a very powerful jump."},
+    {"question": "Can you keep a goliath frog as a pet?", "answer": "It is not realistic. Goliath frogs need huge enclosures with clean, fast-flowing water, they stress easily, injure themselves jumping against walls, and do not breed in captivity. Wild collection also harms an Endangered species, so responsible keepers avoid them."},
+    {"question": "How far can a goliath frog jump?", "answer": "A goliath frog can leap about 3 m (10 ft) in one bound, roughly ten times its body length. It tires quickly, though, because such a heavy body is costly to launch, so it relies on one or two big leaps into the river to escape danger."},
+    {"question": "Why are goliath frogs endangered?", "answer": "Goliath frogs are endangered because they are hunted for their meat, which is a local delicacy, and because logging, agriculture, dams and river pollution are destroying the clean rainforest rivers they depend on. Their very small natural range makes every loss more serious."}
+  ],
+  "meta": {
+    "title": "Goliath Frog: World's Largest Frog – Size, Weight & Facts",
+    "description": "The goliath frog is the world's largest frog: 17–32 cm (up to 12.6 in) long and 0.6–3.3 kg (up to 7.2 lb). Lifespan, diet, habitat and Endangered status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Conraua%20goliath&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Conraua_goliath/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Goliath_frog"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q739887"}
+    ]
+  }
+}

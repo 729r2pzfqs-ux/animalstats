@@ -1,0 +1,22 @@
+{
+  "slug": "american-lobster",
+  "commonName": "American Lobster",
+  "scientificName": "Homarus americanus",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "lobster"
+  ],
+  "qid": "Q37668",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "American lobster",
+  "taxonomy": {
+    "species": "Homarus americanus",
+    "genus": "Homarus",
+    "family": "Nephropidae",
+    "order": "Decapoda",
+    "class": "Malacostraca",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

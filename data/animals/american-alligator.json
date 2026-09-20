@@ -1,0 +1,65 @@
+{
+  "slug": "american-alligator",
+  "commonName": "American Alligator",
+  "scientificName": "Alligator mississippiensis",
+  "alternateNames": ["Gator", "Common alligator", "Florida alligator", "Mississippi alligator"],
+  "nameSingular": "American alligator",
+  "namePlural": "American alligators",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Crocodilia", "family": "Alligatoridae", "genus": "Alligator", "species": "A. mississippiensis"},
+  "facts": {
+    "lifespan": {"min": 35, "max": 50, "unit": "years", "context": "in the wild", "display": "35–50 years"},
+    "lifespanCaptivity": {"min": 60, "max": 80, "unit": "years", "context": "in human care", "display": "60–80 years"},
+    "weight": {"min": 90, "max": 450, "unit": "kg", "context": "adult females average about 90 kg; large males reach 230–450 kg", "display": "90–450 kg (200–1,000 lb)"},
+    "height": {"min": 2.5, "max": 4.5, "unit": "m", "label": "Length", "display": "2.5–4.5 m (8–15 ft)"},
+    "speed": {"min": 32, "max": 32, "unit": "km/h", "verb": "swim", "context": "short bursts in water; about 18 km/h in a brief rush on land", "display": "32 km/h (20 mph)"},
+    "gestationPeriod": {"min": 63, "max": 68, "unit": "days", "label": "Incubation", "display": "about 65 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Fish, turtles, snakes, frogs, wading birds and mammals such as raccoons, muskrats, nutria, wild pigs and deer; hatchlings eat insects, snails, crayfish and small fish. Alligators also eat carrion.",
+    "habitat": ["Freshwater swamps", "Marshes", "Slow rivers", "Lakes and ponds", "Brackish wetlands"],
+    "range": "The southeastern United States, from eastern Texas and Oklahoma through Louisiana and Florida to coastal North Carolina, with the largest populations in Louisiana and Florida.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable",
+    "population": "about 5 million in the southeastern United States"
+  },
+  "description": "The American alligator is the largest reptile in North America and one of only two living alligator species; the other is the much smaller, critically endangered Chinese alligator. It is recognized by its broad, rounded snout, dark coloring and the way the upper jaw hides the lower teeth when the mouth is shut. Alligators are keystone animals in southern wetlands: the gator holes they dig hold water through droughts and shelter fish, turtles and birds. Hunted to the brink of extinction by the mid-1900s, the species was protected in 1967 and declared recovered in 1987, making it one of America's best-known conservation successes.",
+  "answers": {
+    "lifespan": "American alligators live 35–50 years in the wild and 60–80 years in captivity. The oldest known is Muja, who arrived at Belgrade Zoo in Serbia as an adult in 1937 and was still living there more than 85 years later.",
+    "weight": "Adult American alligators weigh 90–450 kg (200–1,000 lb). Females average around 90 kg, while large males commonly weigh 230 kg or more. The heaviest verified wild alligator, taken in Alabama in 2014, weighed about 459 kg (1,011 lb).",
+    "size": "Adult American alligators are 2.5–4.5 m (8–15 ft) long. Females average about 2.6 m and rarely pass 3 m, while males average around 3.4 m. The longest verified in modern times, the Alabama alligator of 2014, measured 4.8 m (15 ft 9 in).",
+    "speed": "American alligators can swim at about 32 km/h (20 mph) in short bursts, using their tails for thrust. On land they can rush at roughly 18 km/h (11 mph), but only for a few seconds. A healthy adult person can outrun one over any real distance.",
+    "gestation": "American alligator eggs incubate for about 65 days. The female builds a mound of vegetation in early summer, lays 20–50 eggs and guards the nest. Nest temperature sets the sex: about 30 °C or cooler produces females, and around 33 °C produces mostly males.",
+    "diet": "American alligators are carnivores that eat fish, turtles, snakes, birds and mammals, along with carrion. Young alligators eat insects, snails, crayfish and small fish. They swallow small prey whole and tear larger prey apart by shaking or rolling, and in cool weather they may not feed at all.",
+    "habitat": "American alligators live in freshwater swamps, marshes, rivers, lakes and ponds across the southeastern United States, from Texas to North Carolina. They tolerate brackish water only for short periods because, unlike crocodiles, they lack working salt glands.",
+    "conservation": "The American alligator is listed as Least Concern on the IUCN Red List, with a stable population of around 5 million. It was listed as endangered in the United States in 1967 after decades of overhunting and removed from the list in 1987. Regulated hunting and alligator farming now operate in several states."
+  },
+  "funFacts": [
+    "Alligators survive brief freezes by poking their snouts above the surface before the water ices over, so they can keep breathing while the rest of the body stays below.",
+    "Male alligators bellow in the breeding season with sound so low that it makes the water dance in droplets over their backs.",
+    "An alligator has 74–80 teeth at a time and may go through 2,000–3,000 in a lifetime as worn teeth are replaced.",
+    "Southern Florida is the only place in the world where alligators and crocodiles live side by side in the wild.",
+    "Mother alligators carry hatchlings to the water in their mouths and may guard them for a year or more."
+  ],
+  "relatedAnimals": ["nile-crocodile", "saltwater-crocodile", "burmese-python", "komodo-dragon", "green-anaconda", "american-bullfrog"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between an alligator and a crocodile?", "answer": "Alligators have a broad, U-shaped snout, dark skin, and lower teeth that are hidden when the mouth is closed. Crocodiles have a narrower, V-shaped snout, lighter olive or tan skin and a visible lower fourth tooth. Alligators prefer fresh water, while crocodiles tolerate salt water."},
+    {"question": "Are American alligators dangerous to humans?", "answer": "They can be, but serious attacks are uncommon. Florida, with more than a million alligators, records only a handful of serious unprovoked bites per year, and deaths are rare. Most incidents involve alligators that have been fed by people and lost their natural wariness."},
+    {"question": "How many alligators are in Florida?", "answer": "Florida has an estimated 1.3 million alligators, found in all 67 counties. Louisiana has even more, at around 2 million. Together the two states hold most of the roughly 5 million American alligators living in the wild."},
+    {"question": "Can alligators climb fences?", "answer": "Yes. Alligators, especially smaller ones, are surprisingly good climbers and have been filmed scaling chain-link fences. Juveniles have also been seen basking on tree branches. A fence needs to be tall and ideally angled outward at the top to keep them out."},
+    {"question": "Do alligators hibernate?", "answer": "Not exactly. In cold weather alligators enter brumation, a state of low activity in which they stop eating and rest in burrows or at the bottom of ponds, surfacing occasionally to breathe. They become active again once temperatures climb back above roughly 20 °C."}
+  ],
+  "meta": {
+    "title": "American Alligator: Size, Weight, Lifespan & Speed",
+    "description": "American alligators grow 2.5–4.5 m (8–15 ft), weigh 90–450 kg, live 35–50 years in the wild and swim at 32 km/h. Diet, habitat, nesting and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Alligator%20mississippiensis&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Alligator_mississippiensis/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Alligator_mississippiensis"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/American_alligator"}
+    ]
+  }
+}

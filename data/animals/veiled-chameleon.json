@@ -1,0 +1,64 @@
+{
+  "slug": "veiled-chameleon",
+  "commonName": "Veiled Chameleon",
+  "scientificName": "Chamaeleo calyptratus",
+  "alternateNames": ["Yemen chameleon", "Cone-head chameleon"],
+  "nameSingular": "veiled chameleon",
+  "namePlural": "veiled chameleons",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Squamata", "family": "Chamaeleonidae", "genus": "Chamaeleo", "species": "C. calyptratus"},
+  "facts": {
+    "lifespan": {"min": 4, "max": 8, "unit": "years", "context": "females about 4–5 years, males up to 8; most data come from captive animals and wild lifespans are probably shorter", "display": "4–8 years"},
+    "lifespanCaptivity": {"min": 5, "max": 8, "unit": "years", "context": "as a well-kept pet; males outlive females", "display": "5–8 years"},
+    "weight": {"min": 90, "max": 200, "unit": "g", "context": "adults; females 90–120 g, males 100–200 g", "display": "90–200 g (3–7 oz)"},
+    "height": {"min": 35, "max": 60, "unit": "cm", "label": "Length", "display": "35–60 cm (14–24 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 150, "max": 270, "unit": "days", "label": "Incubation", "display": "about 5–9 months, depending on temperature"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Mainly insects such as crickets, locusts, flies and caterpillars, caught with a fast projectile tongue. Unusually for a chameleon, it also eats leaves, flowers and fruit, partly as a source of water in dry seasons.",
+    "habitat": ["Mountain slopes", "Wadis", "Plateau woodland", "Shrubland"],
+    "range": "The southwestern Arabian Peninsula, in Yemen and southwestern Saudi Arabia; introduced populations live in Florida and on Maui, Hawaii.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The veiled chameleon is a large, tree-dwelling chameleon from the mountains and valleys of Yemen and Saudi Arabia, and the chameleon most often kept as a pet. It is named for the tall bony crest, or casque, on its head, which can reach 5 cm in males. Like other chameleons it has eyes that swivel independently, tong-like feet, a gripping tail and a tongue that shoots out to catch insects. Its green body is banded with yellow, blue and brown, and the colors shift with mood, temperature and breeding condition rather than to match the background.",
+  "answers": {
+    "lifespan": "Veiled chameleons live about 4–8 years. Males commonly reach 6–8 years, while females average only 4–5 years because producing large clutches of eggs, even without mating, takes a heavy toll. These figures come mostly from captive animals; wild lifespans are poorly documented.",
+    "weight": "Adult veiled chameleons weigh 90–200 g (3–7 oz). Females generally weigh 90–120 g and males 100–200 g. Males are not only heavier but also longer, with a much taller casque and a small spur on each hind foot that is visible from hatching.",
+    "size": "Veiled chameleons grow 35–60 cm (14–24 in) long, including the tail. Males reach 43–60 cm, making this one of the larger chameleon species, while females are usually about 35 cm. The casque on a male's head adds up to 5 cm in height.",
+    "speed": null,
+    "gestation": "Veiled chameleon eggs take roughly 5–9 months to hatch, depending on temperature. The female lays a clutch of about 20–70 eggs in a tunnel she digs in moist soil, some 20–30 days after mating. She can lay several clutches a year.",
+    "diet": "Veiled chameleons are insectivores that mainly eat crickets, locusts, flies and other insects, caught with a tongue longer than the body. They are also one of the few chameleons that regularly eat leaves and flowers, which helps them get moisture in dry conditions.",
+    "habitat": "Veiled chameleons live in the mountains, plateaus and wadis of Yemen and southwestern Saudi Arabia, in trees and shrubs where seasonal rain supports vegetation. They almost never come to the ground except to lay eggs. Escaped pets have established wild populations in Florida and Hawaii.",
+    "conservation": "The veiled chameleon is listed as Least Concern on the IUCN Red List, with a stable population. It tolerates farmland and gardens well. It breeds readily in captivity, so most pets are captive bred, and international trade is regulated under CITES Appendix II."
+  },
+  "funFacts": [
+    "The casque on a veiled chameleon's head is thought to channel dew and rain droplets down toward the mouth.",
+    "A chameleon's tongue can be launched in a fraction of a second and extends to more than the length of its body.",
+    "Each eye moves independently, giving nearly 360-degree vision; both eyes lock forward for depth perception just before the tongue strikes.",
+    "Veiled chameleons change color to communicate and regulate temperature, not to blend in; a mated female turns dark with bright yellow and turquoise spots to reject males.",
+    "Babies can be sexed at hatching because males have a small spur on the heel of each hind foot."
+  ],
+  "relatedAnimals": ["bearded-dragon", "leopard-gecko", "green-iguana", "komodo-dragon", "red-eyed-tree-frog"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are veiled chameleons good pets for beginners?", "answer": "They are the hardiest chameleon but still a challenging pet. Veiled chameleons need a tall, well-ventilated mesh enclosure, live plants, UVB lighting, daily misting or a dripper because they do not drink from bowls, and minimal handling. They suit keepers who prefer watching to holding."},
+    {"question": "Why do veiled chameleons change color?", "answer": "Veiled chameleons change color mainly to signal mood and to control body temperature. Bright, high-contrast colors indicate excitement, aggression or courtship, dark colors help absorb heat or signal stress, and pale colors appear during sleep. Camouflage against a specific background is not the purpose."},
+    {"question": "Do veiled chameleons like to be handled?", "answer": "Generally no. Veiled chameleons are solitary and territorial, and most become stressed by frequent handling, showing dark colors, hissing, gaping or biting. Some tolerate walking calmly onto a hand. Chronic stress shortens their lives, so handling is best kept brief and occasional."},
+    {"question": "How do veiled chameleons drink water?", "answer": "They lick water droplets from leaves. In the wild they drink dew and rain, and they usually ignore standing water in a bowl. Pet veiled chameleons need their enclosure misted at least twice a day or fitted with a drip system or automatic mister."},
+    {"question": "Can two veiled chameleons live together?", "answer": "No. Veiled chameleons should be housed singly. They are strongly territorial, and the sight of another chameleon causes constant stress, fighting and refusal to eat. Males and females are put together only briefly for breeding, and even babies must be separated within a few months."}
+  ],
+  "meta": {
+    "title": "Veiled Chameleon Facts: Lifespan, Size, Diet & Care",
+    "description": "Veiled chameleons live 4–8 years, grow 35–60 cm (14–24 in) and weigh 90–200 g, with males larger than females. Diet, eggs, color change and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Chamaeleo%20calyptratus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Chamaeleo_calyptratus/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Veiled_chameleon"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q1124882"}
+    ]
+  }
+}

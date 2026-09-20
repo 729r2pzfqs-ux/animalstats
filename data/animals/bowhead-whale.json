@@ -1,0 +1,64 @@
+{
+  "slug": "bowhead-whale",
+  "commonName": "Bowhead Whale",
+  "scientificName": "Balaena mysticetus",
+  "alternateNames": ["Greenland right whale", "Arctic whale", "Polar whale"],
+  "nameSingular": "bowhead whale",
+  "namePlural": "bowhead whales",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Balaenidae", "genus": "Balaena", "species": "B. mysticetus"},
+  "facts": {
+    "lifespan": {"min": 100, "max": 200, "unit": "years", "context": "estimated; the oldest individual studied was aged at about 211 years", "display": "100–200+ years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 75000, "max": 100000, "unit": "kg", "context": "adults; females are larger than males", "display": "75–100 tonnes (83–110 US tons)"},
+    "height": {"min": 14, "max": 18, "unit": "m", "label": "Length", "display": "14–18 m (46–59 ft)"},
+    "speed": {"min": 10, "max": 10, "unit": "km/h", "verb": "swim", "context": "when fleeing; normally travels at 2–6 km/h", "display": "about 10 km/h (6 mph)"},
+    "gestationPeriod": {"min": 395, "max": 425, "unit": "days", "label": "Gestation", "display": "13–14 months"}
+  },
+  "ecology": {
+    "diet": "Filter feeder",
+    "dietDetails": "Tiny crustaceans, chiefly copepods and krill, along with amphipods and other small invertebrates, skimmed from the water at the surface, in mid-water or near the seabed with the longest baleen of any whale.",
+    "habitat": ["Arctic seas", "Pack ice edge", "Polynyas and leads", "Continental shelf"],
+    "range": "Arctic and subarctic waters only: the Bering, Chukchi and Beaufort seas, the eastern Canadian Arctic and west Greenland, the Svalbard-Barents Sea area and the Sea of Okhotsk.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The bowhead whale is a massive, dark baleen whale that spends its whole life in Arctic and subarctic seas, and it is the longest-lived mammal known. Its huge arched skull, the bow of its name, takes up about a third of the body and is strong enough to break through sea ice to reach air. Bowheads have no dorsal fin, a white chin patch, the thickest blubber of any animal at up to about 50 cm, and the longest baleen plates, reaching 4 m. They are cetaceans, a group now classified within the even-toed hoofed mammals. Commercial whalers nearly wiped them out, but most populations are now growing.",
+  "answers": {
+    "lifespan": "Bowhead whales can live more than 200 years, the longest lifespan of any mammal, and many individuals are thought to pass 100. Ages come from chemical changes in the eye lens, and the oldest whale studied was estimated at about 211 years. Such estimates carry wide margins of error.",
+    "weight": "Adult bowhead whales weigh roughly 75–100 tonnes (83–110 US tons). Only the blue whale is heavier on average, even though several whale species are longer, because the bowhead is extremely stout and wrapped in blubber up to about 50 cm thick. Females grow larger than males.",
+    "size": "Bowhead whales grow 14–18 m (46–59 ft) long, and the largest females approach 19 m. The head accounts for about a third of that length, and the mouth holds baleen plates up to 4 m long, the longest of any whale.",
+    "speed": "Bowhead whales are slow swimmers, usually traveling at 2–6 km/h and reaching about 10 km/h (6 mph) when fleeing danger. Their slowness, and the fact that they float when dead, made them easy targets for whalers in rowing boats.",
+    "gestation": "A bowhead whale is pregnant for 13–14 months. Calves are born in spring during the northward migration, measuring about 4–4.5 m long and weighing around a tonne, and are born with thick blubber to survive icy water. Females calve only about once every three to four years.",
+    "diet": "Bowhead whales are filter feeders that eat tiny crustaceans, mostly copepods and krill. They swim slowly forward with mouths open, skimming prey from the water with hundreds of baleen plates per side. An adult may eat around 100 tonnes of these small animals in a year.",
+    "habitat": "Bowhead whales live only in Arctic and subarctic waters and are the only baleen whale to stay there year-round. They follow the advancing and retreating edge of the sea ice, using openings called leads and polynyas to breathe, and can break through ice about 60 cm thick.",
+    "conservation": "The bowhead whale is listed as Least Concern on the IUCN Red List, and its overall population is increasing. The largest stock, in the Bering, Chukchi and Beaufort seas, has grown to well over 10,000 whales. The small Svalbard-Barents Sea and Okhotsk Sea populations remain endangered, and Arctic warming, shipping and oil development are concerns."
+  },
+  "funFacts": [
+    "Stone and ivory harpoon points from the 1800s have been found embedded in bowheads killed in recent decades, physical proof of their great age.",
+    "A bowhead whale can smash upward through sea ice around 60 cm (2 ft) thick with its reinforced skull to open a breathing hole.",
+    "Bowheads have the largest mouth of any animal, and the longest baleen, at up to 4 m (13 ft).",
+    "Their genome contains unusual changes in genes linked to DNA repair and cancer resistance, which scientists study for clues about aging.",
+    "Males sing complex, constantly changing songs through the dark Arctic winter; researchers recorded 184 distinct song types in one population over three years."
+  ],
+  "relatedAnimals": ["blue-whale", "humpback-whale", "narwhal", "beluga-whale", "greenland-shark", "walrus"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is the bowhead whale the longest-living animal?", "answer": "It is the longest-living mammal, with an estimated maximum beyond 200 years. Some other animals live longer: Greenland sharks may reach 270 years or more, and an ocean quahog clam was aged at 507 years."},
+    {"question": "How do scientists know how old bowhead whales are?", "answer": "The main method measures the slow chemical change of aspartic acid in the lens of the eye, which acts like a clock. Supporting evidence includes old harpoon fragments, some from the 1880s, recovered from whales taken by Alaska Native hunters, and counts of scars in the ovaries."},
+    {"question": "Why do bowhead whales live so long?", "answer": "Cold water, a slow metabolism and very large body size all favor a long life. Bowheads also have genetic adaptations for repairing DNA and suppressing cancer. Even so, the exact reasons for their extreme lifespan are still being researched."},
+    {"question": "Are bowhead whales still hunted?", "answer": "Yes, on a small scale. Indigenous communities in Alaska, Chukotka, Canada and Greenland hunt a limited number each year for food under quotas set through the International Whaling Commission or national authorities. The hunt is considered sustainable for the large western Arctic population."},
+    {"question": "What is the difference between a bowhead whale and a right whale?", "answer": "They are close relatives in the same family. Bowheads live only in the Arctic, have a more strongly arched head, a white chin and no rough skin patches. Right whales live in temperate waters and have callosities, pale crusty growths, on their heads."}
+  ],
+  "meta": {
+    "title": "Bowhead Whale Facts: 200-Year Lifespan, Size & Diet",
+    "description": "Bowhead whales can live more than 200 years, the longest of any mammal. They grow 14–18 m long and weigh 75–100 tonnes. Arctic habitat, diet and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Balaena%20mysticetus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Balaena_mysticetus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Balaena_mysticetus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bowhead_whale"}
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "elk",
+  "commonName": "Elk",
+  "scientificName": "Cervus canadensis",
+  "classSlug": "mammals",
+  "aliases": [
+    "wapiti"
+  ],
+  "qid": "Q180404",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Elk",
+  "taxonomy": {
+    "species": "Cervus canadensis",
+    "genus": "Cervus",
+    "family": "Cervidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": []
+}

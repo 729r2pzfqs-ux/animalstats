@@ -1,0 +1,65 @@
+{
+  "slug": "atlantic-puffin",
+  "commonName": "Atlantic Puffin",
+  "scientificName": "Fratercula arctica",
+  "alternateNames": ["Puffin", "Common puffin", "Sea parrot"],
+  "nameSingular": "Atlantic puffin",
+  "namePlural": "Atlantic puffins",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Charadriiformes", "family": "Alcidae", "genus": "Fratercula", "species": "F. arctica"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 25, "unit": "years", "context": "in the wild; banded birds have passed 40", "display": "20–25 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 310, "max": 550, "unit": "g", "context": "adults; northern populations are heavier", "display": "310–550 g (11–19 oz)"},
+    "height": {"min": 26, "max": 30, "unit": "cm", "label": "Length", "display": "26–30 cm (10–12 in)"},
+    "speed": {"min": 77, "max": 88, "unit": "km/h", "verb": "fly", "context": "level flight low over the sea, with up to 400 wingbeats a minute", "display": "77–88 km/h (48–55 mph)"},
+    "gestationPeriod": {"min": 39, "max": 45, "unit": "days", "label": "Incubation", "display": "39–45 days"}
+  },
+  "ecology": {
+    "diet": "Piscivore",
+    "dietDetails": "Small schooling fish, especially sand eels (sand lance), herring, sprat, capelin and young cod relatives, caught by pursuit diving, plus some crustaceans, marine worms and squid, mainly in winter.",
+    "habitat": ["Open ocean", "Sea cliffs", "Grassy offshore islands", "Rocky coasts"],
+    "range": "The North Atlantic: breeds from Maine and eastern Canada through Greenland, Iceland, the Faroes, Norway, Britain and Ireland to northwestern France; winters at sea.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The Atlantic puffin is a small black-and-white seabird of the auk family, famous for the large, triangular, red, yellow and blue-gray bill that gives it the nickname sea parrot. It is the only puffin in the Atlantic Ocean; the other two species live in the North Pacific. Puffins spend most of the year far out at sea and come ashore only from spring to late summer to nest in burrows on grassy islands and cliff tops. They use their wings to swim underwater after small fish. About 60 percent of the world population breeds in Iceland, and declines there and in Norway led to its Vulnerable listing.",
+  "answers": {
+    "lifespan": "Atlantic puffins commonly live 20–25 years in the wild, and some banded birds have passed 40. They are slow breeders: puffins usually first nest at four to six years old and raise only one chick a year, so high adult survival is essential to the population.",
+    "weight": "An adult Atlantic puffin weighs 310–550 g (11–19 oz), roughly the weight of a can of soda. Size increases with latitude, so puffins from the high Arctic are noticeably heavier than those breeding in Britain, France or Maine. Males are slightly larger than females.",
+    "size": "Atlantic puffins are 26–30 cm (10–12 in) long with a wingspan of 47–63 cm (19–25 in). Standing upright on land, a puffin is only about 20 cm (8 in) tall, which often surprises people who expect a bird closer to penguin size.",
+    "speed": "Atlantic puffins fly at 77–88 km/h (48–55 mph) in level flight, beating their small wings up to 400 times a minute. They usually fly low over the water. The same short wings work as paddles underwater, where puffins typically dive for 20–30 seconds and can reach depths of around 60 m.",
+    "gestation": "Atlantic puffin eggs hatch after 39–45 days of incubation. The pair lays a single white egg at the end of a burrow about a meter long, dug into turf or tucked among rocks, and both parents take turns incubating it. The chick leaves for the sea alone, at night, after 34–50 days.",
+    "diet": "Atlantic puffins eat mainly small fish such as sand eels, herring, sprat and capelin, which they chase underwater using their wings. Adults swallow most prey underwater and carry fish crosswise in the bill only when feeding a chick. They also eat some crustaceans, worms and squid.",
+    "habitat": "Atlantic puffins live on the open North Atlantic for most of the year, far from land. In spring and summer they breed in colonies on grassy islands and sea cliffs from Maine and Newfoundland to Iceland, Norway, Britain, Ireland and Brittany. Iceland holds the majority of the world's breeding pairs.",
+    "conservation": "The Atlantic puffin is listed as Vulnerable on the IUCN Red List, and the population is decreasing, with steep declines in Iceland and Norway. The main cause is a shortage of suitable fish for chicks, linked to warming seas and fishing. Other threats are oil spills, invasive rats and mink at colonies, and severe winter storms."
+  },
+  "funFacts": [
+    "Backward-pointing spines on the tongue and the roof of the mouth let a puffin hold a row of fish while catching more. Ten or so is typical, and the record load is 62.",
+    "The colorful outer plates of the bill are shed after the breeding season, leaving a smaller, duller bill for winter.",
+    "A baby puffin is called a puffling, and in Iceland's Westman Islands children rescue pufflings confused by town lights and release them at the shore.",
+    "Under ultraviolet light, parts of a puffin's bill glow, a discovery made in 2018; the purpose is unknown but may involve mate attraction.",
+    "Puffins were restored to islands in Maine from the 1970s by moving chicks from Newfoundland and using decoys to lure adults back, a method now used for seabirds worldwide.",
+    "Puffin pairs often reunite at the same burrow year after year and greet each other by rubbing bills, a behavior called billing."
+  ],
+  "relatedAnimals": ["emperor-penguin", "wandering-albatross", "common-swift", "bald-eagle", "mallard", "harbor-seal"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are puffins related to penguins?", "answer": "No. Puffins are auks, related to guillemots, razorbills and, more distantly, gulls, and they live only in the Northern Hemisphere. Penguins are an unrelated Southern Hemisphere family. The similar black-and-white coloring and wing-propelled diving evolved independently. Unlike penguins, puffins can fly."},
+    {"question": "Where is the best place to see Atlantic puffins?", "answer": "Puffins are only on land from about April to August. Well-known viewing sites include Iceland's Westman Islands and Látrabjarg cliffs, Skomer Island in Wales, the Farne Islands and Shetland in Britain, the Faroe Islands, Norway's Runde, Newfoundland's Witless Bay, and boat trips to Maine's Eastern Egg Rock."},
+    {"question": "How many fish can a puffin carry in its beak?", "answer": "A puffin usually carries about 10 small fish at a time, and the record is 62. It presses fish against spines on the roof of its mouth with its rough tongue, which frees the bill tip to open and catch more without dropping the rest."},
+    {"question": "What is a baby puffin called?", "answer": "A baby puffin is called a puffling. Each pair raises just one per year in a burrow. After about six weeks, the puffling leaves the burrow at night and heads to sea alone, where it will stay for two to three years before returning to land."},
+    {"question": "Why are puffins endangered?", "answer": "Atlantic puffins are classed as Vulnerable, not Endangered, but they are declining fast in their core range. The main problem is that warming seas and fishing have reduced the small, oily fish chicks need, causing repeated breeding failures in Iceland, Norway and parts of Scotland."}
+  ],
+  "meta": {
+    "title": "Atlantic Puffin Facts: Size, Speed, Lifespan & Diet",
+    "description": "Atlantic puffins are 26–30 cm long, weigh 310–550 g, fly at 77–88 km/h and live 20+ years. What puffins eat, where they nest and why they're declining.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Fratercula%20arctica&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Fratercula_arctica/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Fratercula_arctica"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Atlantic_puffin"}
+    ]
+  }
+}

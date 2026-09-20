@@ -1,0 +1,33 @@
+{
+  "slug": "golden-eagle",
+  "commonName": "Golden Eagle",
+  "scientificName": "Aquila chrysaetos",
+  "classSlug": "birds",
+  "aliases": [
+    "eagle"
+  ],
+  "qid": "Q41181",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Golden eagle",
+  "taxonomy": {
+    "species": "Aquila chrysaetos",
+    "genus": "Aquila",
+    "family": "Accipitridae",
+    "order": "Accipitriformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "3.572",
+      "unit": "kg",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "5.194",
+      "unit": "kg",
+      "sex": "female"
+    }
+  ]
+}

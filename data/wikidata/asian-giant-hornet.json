@@ -1,0 +1,23 @@
+{
+  "slug": "asian-giant-hornet",
+  "commonName": "Asian Giant Hornet",
+  "scientificName": "Vespa mandarinia",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "murder hornet",
+    "hornet"
+  ],
+  "qid": "Q121791",
+  "iucnStatus": null,
+  "wikipedia": "Asian giant hornet",
+  "taxonomy": {
+    "species": "Vespa mandarinia",
+    "genus": "Vespa",
+    "family": "Vespidae",
+    "order": "Hymenoptera",
+    "class": "Insecta",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "goliath-birdeater",
+  "commonName": "Goliath Birdeater",
+  "scientificName": "Theraphosa blondi",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "tarantula"
+  ],
+  "qid": "Q617000",
+  "iucnStatus": null,
+  "wikipedia": "Goliath birdeater",
+  "taxonomy": {
+    "species": "Theraphosa blondi",
+    "genus": "Theraphosa",
+    "family": "Theraphosidae",
+    "order": "Araneae",
+    "class": "Arachnida",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "6.2",
+      "unit": "Q48013",
+      "sex": null
+    }
+  ]
+}

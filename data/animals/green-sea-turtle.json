@@ -1,0 +1,64 @@
+{
+  "slug": "green-sea-turtle",
+  "commonName": "Green Sea Turtle",
+  "scientificName": "Chelonia mydas",
+  "alternateNames": ["Green turtle", "Honu", "Black sea turtle", "Pacific green turtle"],
+  "nameSingular": "green sea turtle",
+  "namePlural": "green sea turtles",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Testudines", "family": "Cheloniidae", "genus": "Chelonia", "species": "C. mydas"},
+  "facts": {
+    "lifespan": {"min": 60, "max": 70, "unit": "years", "context": "estimated in the wild; exact ages are hard to measure", "display": "60–70 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 110, "max": 190, "unit": "kg", "context": "nesting adults; exceptional animals exceed 300 kg", "display": "110–190 kg (240–420 lb)"},
+    "height": {"min": 0.9, "max": 1.2, "unit": "m", "label": "Shell length", "display": "0.9–1.2 m (3–4 ft)"},
+    "speed": {"min": 2.5, "max": 3, "unit": "km/h", "verb": "swim", "context": "cruising speed on migration; short bursts are much faster but poorly measured", "display": "2.5–3 km/h (1.5–1.9 mph) cruising"},
+    "gestationPeriod": {"min": 50, "max": 70, "unit": "days", "label": "Incubation", "display": "about 60 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Adults graze almost entirely on seagrasses and algae, cropping the same patches repeatedly. Hatchlings and young juveniles in the open ocean are omnivores that also eat jellyfish, sponges, small crustaceans and other invertebrates.",
+    "habitat": ["Seagrass meadows", "Coral reefs", "Coastal bays and lagoons", "Open ocean", "Sandy nesting beaches"],
+    "range": "Tropical and subtropical waters of the Atlantic, Pacific and Indian Oceans and the Mediterranean, nesting on beaches in more than 80 countries.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The green sea turtle is the largest hard-shelled sea turtle and the only one that is mainly herbivorous as an adult. It is named for the greenish color of its body fat, which comes from its seagrass and algae diet, not for its shell, which is usually brown or olive. Green turtles are long-distance migrants: adults travel hundreds or thousands of kilometers between feeding grounds and the beaches where they hatched. After decades of protection many nesting populations have grown strongly, and in 2025 the IUCN moved the species from Endangered to Least Concern, although some regional populations remain depleted.",
+  "answers": {
+    "lifespan": "Green sea turtles are estimated to live 60–70 years or more in the wild. They grow slowly and do not start breeding until they are roughly 25–35 years old. Exact ages are hard to confirm because sea turtles cannot be aged reliably from the outside, so lifespan figures are estimates from growth and tagging studies.",
+    "weight": "Adult green sea turtles typically weigh 110–190 kg (240–420 lb). That makes them the heaviest of the hard-shelled sea turtles; only the leatherback is larger. Exceptionally large individuals have weighed more than 300 kg, while hatchlings weigh only about 25 g when they leave the nest.",
+    "size": "An adult green sea turtle has a shell 0.9–1.2 m (3–4 ft) long. Size varies by region, and turtles nesting in the eastern Pacific tend to be smaller and darker than those in the Atlantic. Hatchlings are only about 5 cm long.",
+    "speed": "Green sea turtles cruise at about 2.5–3 km/h (1.5–1.9 mph) on migration. They can swim far faster in short bursts when escaping a predator, but those sprint speeds have rarely been measured properly, so the very high figures often quoted online should be treated with caution.",
+    "gestation": "Green sea turtle eggs incubate for about 60 days, with a range of roughly 50–70 days depending on sand temperature. A female lays around 100–110 eggs per nest and several nests in a season. Nest temperature also sets the sex of the hatchlings: warmer sand produces more females.",
+    "diet": "Adult green sea turtles are herbivores that eat seagrasses and algae. Their finely serrated jaws work like shears for cropping plants. Young turtles living in the open ocean are omnivores that also eat jellyfish and small invertebrates, and they switch to a plant diet when they settle in coastal waters.",
+    "habitat": "Green sea turtles live in warm tropical and subtropical coastal waters around the world, especially shallow seagrass meadows, reefs and lagoons. Hatchlings spend their first years drifting in the open ocean. Adult females return to sandy beaches, usually in the region where they hatched, to nest.",
+    "conservation": "The green sea turtle is listed as Least Concern on the IUCN Red List following a 2025 reassessment, and the global population is increasing. It was previously listed as Endangered. Threats still include fishing bycatch, egg and meat harvest, coastal development, boat strikes and warming nest beaches, and some regional populations remain threatened."
+  },
+  "funFacts": [
+    "The green sea turtle is named for its green body fat, colored by the seagrass and algae it eats, not for the color of its shell.",
+    "Females usually return to nest in the same region where they hatched decades earlier, navigating in part by the Earth's magnetic field.",
+    "The temperature of the sand decides a hatchling's sex: warmer nests produce mostly females and cooler nests mostly males.",
+    "In Hawaii, where the turtle is called honu, green turtles regularly crawl onto beaches to bask in the sun, which is unusual behavior for a sea turtle.",
+    "By grazing seagrass beds, green turtles keep the blades short and healthy, much as mowing maintains a lawn."
+  ],
+  "relatedAnimals": ["leatherback-sea-turtle", "galapagos-tortoise", "red-eared-slider", "sulcata-tortoise", "manatee"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why are green sea turtles called green?", "answer": "They are named for the greenish color of their fat and cartilage, not their shells. The color comes from the seagrass and algae that adults eat. The shell itself is usually brown, olive or dark gray with mottled or radiating patterns."},
+    {"question": "Are green sea turtles endangered?", "answer": "Globally, no longer. The IUCN reclassified the green sea turtle from Endangered to Least Concern in 2025 after decades of nest protection and reduced hunting led to strong recoveries. Some regional populations are still threatened, and the species remains legally protected in most countries, including under the US Endangered Species Act."},
+    {"question": "How many eggs does a green sea turtle lay?", "answer": "A female lays about 100–110 eggs in each nest and typically digs several nests, around two weeks apart, in one season. She nests only every two to five years. Very few hatchlings survive to adulthood because of predators on the beach and at sea."},
+    {"question": "Is it illegal to touch a green sea turtle?", "answer": "In many places, yes. In the United States, including Hawaii and Florida, green sea turtles are protected under the Endangered Species Act, and touching, chasing or harassing them can bring fines. Wildlife agencies advise staying at least 3 meters (10 feet) away."},
+    {"question": "How long can a green sea turtle hold its breath?", "answer": "A resting or sleeping green sea turtle can stay underwater for several hours, because its metabolism slows dramatically. When it is active and feeding, dives are much shorter, typically a few minutes to half an hour, before it surfaces to breathe."}
+  ],
+  "meta": {
+    "title": "Green Sea Turtle Facts: Lifespan, Size, Diet & Status",
+    "description": "Green sea turtles live 60–70 years, weigh 110–190 kg (240–420 lb) and have shells 0.9–1.2 m long. Diet, nesting, habitat and conservation status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Chelonia%20mydas&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Chelonia_mydas/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Green_sea_turtle"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q199458"}
+    ]
+  }
+}

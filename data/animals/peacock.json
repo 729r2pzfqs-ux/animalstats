@@ -1,0 +1,65 @@
+{
+  "slug": "peacock",
+  "commonName": "Indian Peafowl",
+  "scientificName": "Pavo cristatus",
+  "alternateNames": ["Peacock", "Peahen", "Blue peafowl", "Common peafowl"],
+  "nameSingular": "Indian peafowl",
+  "namePlural": "Indian peafowl",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Galliformes", "family": "Phasianidae", "genus": "Pavo", "species": "P. cristatus"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 20, "unit": "years", "context": "in the wild; estimates vary", "display": "10–20 years"},
+    "lifespanCaptivity": {"min": 20, "max": 25, "unit": "years", "context": "in human care", "display": "20–25 years"},
+    "weight": {"min": 2.75, "max": 6, "unit": "kg", "context": "adults; peacocks 4–6 kg, peahens 2.75–4 kg", "display": "2.75–6 kg (6–13 lb)"},
+    "height": {"min": 0.95, "max": 2.25, "unit": "m", "label": "Length", "display": "0.95–2.25 m (3.1–7.4 ft) including the male's train"},
+    "speed": null,
+    "gestationPeriod": {"min": 28, "max": 30, "unit": "days", "label": "Incubation", "display": "28–30 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Seeds, grain, berries, figs, flower buds and tender shoots, together with insects such as termites and grasshoppers, worms, small lizards, frogs and small snakes.",
+    "habitat": ["Dry deciduous forest", "Scrub", "Forest edges", "Farmland", "Villages"],
+    "range": "Native to India, Sri Lanka, Nepal, Bhutan, Bangladesh and eastern Pakistan; kept and gone feral in many other countries.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The Indian peafowl is the bird most people simply call a peacock, though strictly that word means the male; females are peahens and both are peafowl. The peacock's famous train is not his tail but greatly elongated upper tail coverts, each tipped with an iridescent eyespot, which he raises into a shimmering fan to court peahens. Males have a brilliant blue head and neck and a fan-shaped crest, while peahens are brown, gray and white with a green neck. A large pheasant native to the Indian subcontinent, it is the national bird of India and has been kept in parks and gardens worldwide for thousands of years.",
+  "answers": {
+    "lifespan": "Indian peafowl live about 10–20 years in the wild and 20–25 years in captivity. Wild figures are rough estimates, since few wild birds have been followed for life. Tigers, leopards, wild dogs and jackals prey on adults, and many eggs and chicks are lost to mongooses and other nest predators.",
+    "weight": "An adult Indian peafowl weighs 2.75–6 kg (6–13 lb). Peacocks weigh 4–6 kg and peahens 2.75–4 kg. The male's spectacular train looks heavy but adds only a few hundred grams, which is why he can still fly up into trees with it.",
+    "size": "A peacock measures 1.95–2.25 m (6.4–7.4 ft) from bill to the end of a full train, while his body alone is about 1.0–1.15 m long. Peahens are around 0.95 m (3.1 ft) long. The male's wingspan is roughly 1.4–1.6 m.",
+    "speed": null,
+    "gestation": "Indian peafowl eggs hatch after 28–30 days of incubation. The peahen lays three to six buff-colored eggs in a shallow scrape hidden under bushes and incubates and raises the chicks alone. Peachicks can walk and feed within hours and can flutter up to a roost after about two weeks.",
+    "diet": "Indian peafowl are omnivores that eat seeds, grain, berries, flower buds and shoots as well as insects, worms, small lizards, frogs and small snakes. They forage on the ground in small groups in the early morning and late afternoon and often feed in crop fields around villages.",
+    "habitat": "Indian peafowl live in dry deciduous forest, scrub, forest edges and farmland across the Indian subcontinent, usually below about 1,800 m and near water. They spend the day on the ground and roost in tall trees at night. Feral populations live in places such as Florida, California, Hawaii and Australia.",
+    "conservation": "The Indian peafowl is listed as Least Concern on the IUCN Red List, with a stable population. It is protected by law in India, where it is the national bird and has religious significance, and it lives comfortably around people. Local threats include poaching for feathers and meat and pesticide poisoning in farmland."
+  },
+  "funFacts": [
+    "A peacock's train is made of around 150–200 elongated upper tail covert feathers, not tail feathers. The real tail is short and stiff and props the train up from behind.",
+    "Peacocks shed the entire train every year after the breeding season and regrow it in time for the next.",
+    "The blues and greens of peacock feathers are structural colors produced by microscopic structures that reflect light; the underlying pigment is brown.",
+    "Displaying peacocks rattle their feathers to produce low-frequency sound below the range of human hearing, which other peafowl can detect.",
+    "White peacocks are not albinos. They have a genetic condition called leucism, which removes pigment from the feathers but leaves the eyes dark.",
+    "Despite the long train, peacocks fly up into tall trees every evening to roost out of reach of predators."
+  ],
+  "relatedAnimals": ["wild-turkey", "chicken", "scarlet-macaw", "greater-flamingo", "ostrich"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a peacock and a peahen?", "answer": "A peacock is a male peafowl and a peahen is a female. Peacocks have a bright blue neck and the long train of eyespot feathers. Peahens are smaller and mostly brown and gray with a white belly and a green neck, which camouflages them on the nest. Chicks are called peachicks."},
+    {"question": "Can peacocks fly?", "answer": "Yes. Peacocks can fly despite the long train, though only for short distances. They take off almost vertically with rapid wingbeats to escape danger or reach a roosting branch, then glide. They spend most of the day walking and prefer to run from threats."},
+    {"question": "Why do peacocks spread their feathers?", "answer": "Peacocks fan and shake their train to attract peahens during the breeding season. Females appear to judge males on features of the display, such as the number and quality of eyespots and how vigorously the feathers are vibrated. Males also fan the train as a threat display."},
+    {"question": "Do peacocks make good pets?", "answer": "Peafowl are hardy and easy to feed, but they are not ideal pets for most people. They need a lot of space and a tall covered roost, wander onto neighbors' property, damage gardens and cars, and males scream very loudly in the breeding season. Many towns restrict keeping them."},
+    {"question": "Do peacocks lose their tail feathers every year?", "answer": "Yes. Males molt the whole train in late summer after the breeding season, and new feathers grow back over the following months. This is why peacock feathers can be collected without harming the bird. The train reaches full length when a male is about three years old."}
+  ],
+  "meta": {
+    "title": "Peacock (Indian Peafowl) Facts: Size, Lifespan & Feathers",
+    "description": "Indian peafowl live 10–20 years in the wild and weigh 2.75–6 kg; a peacock with a full train reaches 2.25 m (7.4 ft). Diet, habitat and feather facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Pavo%20cristatus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Pavo_cristatus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Pavo_cristatus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Indian_peafowl"}
+    ]
+  }
+}

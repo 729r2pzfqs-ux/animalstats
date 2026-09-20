@@ -1,0 +1,35 @@
+{
+  "slug": "black-rhinoceros",
+  "commonName": "Black Rhinoceros",
+  "scientificName": "Diceros bicornis",
+  "classSlug": "mammals",
+  "aliases": [
+    "rhino",
+    "black rhino"
+  ],
+  "qid": "Q95036",
+  "iucnStatus": "Critically Endangered",
+  "wikipedia": "Black rhinoceros",
+  "taxonomy": {
+    "species": "Diceros bicornis",
+    "genus": "Diceros",
+    "family": "Rhinocerotidae",
+    "order": "Perissodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "36",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "450",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

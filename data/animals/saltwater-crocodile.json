@@ -1,0 +1,64 @@
+{
+  "slug": "saltwater-crocodile",
+  "commonName": "Saltwater Crocodile",
+  "scientificName": "Crocodylus porosus",
+  "alternateNames": ["Estuarine crocodile", "Saltie", "Indo-Pacific crocodile", "Sea crocodile"],
+  "nameSingular": "saltwater crocodile",
+  "namePlural": "saltwater crocodiles",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Crocodilia", "family": "Crocodylidae", "genus": "Crocodylus", "species": "C. porosus"},
+  "facts": {
+    "lifespan": {"min": 50, "max": 70, "unit": "years", "context": "estimated in the wild", "display": "50–70 years (estimated)"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 80, "max": 1000, "unit": "kg", "context": "adult females 80–150 kg; mature males 400–1,000 kg", "display": "males 400–1,000 kg (880–2,200 lb); females 80–150 kg (180–330 lb)"},
+    "height": {"min": 2.5, "max": 5, "unit": "m", "label": "Length", "display": "2.5–5 m (8–16 ft)"},
+    "speed": {"min": 24, "max": 29, "unit": "km/h", "verb": "swim", "context": "short bursts; cruising speed is only a few km/h", "display": "24–29 km/h (15–18 mph)"},
+    "gestationPeriod": {"min": 80, "max": 90, "unit": "days", "label": "Incubation", "display": "80–90 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Young crocodiles eat insects, crabs, shrimp and small fish. Adults take fish, turtles, birds, snakes, wild pigs, wallabies, monkeys, livestock and water buffalo, and occasionally sharks; they also scavenge carcasses.",
+    "habitat": ["Estuaries", "Mangrove swamps", "Tidal rivers", "Freshwater billabongs and swamps", "Coastal seas"],
+    "range": "Eastern India and Sri Lanka through Southeast Asia, Indonesia, the Philippines and New Guinea to northern Australia and the Solomon Islands.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The saltwater crocodile is the largest living reptile and the largest crocodilian, with big males reaching 5 m or more and up to a tonne in weight. It tolerates salt water better than any other crocodile, thanks to salt-excreting glands on its tongue, and individuals regularly travel long distances along coasts and between islands. Despite the name it is just as much at home in freshwater rivers and swamps far inland. Salties are ambush predators with the strongest bite measured in any living animal. Hunted close to extinction for their skins by the 1970s, they have recovered strongly in northern Australia and New Guinea under protection.",
+  "answers": {
+    "lifespan": "Saltwater crocodiles are estimated to live 50–70 years in the wild, and some individuals probably live longer. Ages are hard to verify because wild crocodiles are rarely followed from hatching. Cassius, a large captive male in Queensland, Australia, died in 2024 at an estimated age of more than 110.",
+    "weight": "Adult male saltwater crocodiles weigh 400–1,000 kg (880–2,200 lb), while females are far smaller at about 80–150 kg (180–330 lb). No other living reptile is as heavy. Lolong, a male captured in the Philippines in 2011, weighed 1,075 kg (2,370 lb).",
+    "size": "Saltwater crocodiles grow 2.5–5 m (8–16 ft) long. Females rarely exceed 3 m, while mature males are commonly 4–5 m, and a few exceed 6 m. The largest ever measured in captivity, Lolong, was 6.17 m (20 ft 3 in) long.",
+    "speed": "Saltwater crocodiles can swim at 24–29 km/h (15–18 mph) in short bursts, powered by the tail. They normally cruise at only 3–5 km/h and ride tidal currents on long journeys. On land they can lunge explosively but tire within a few meters.",
+    "gestation": "Saltwater crocodile eggs incubate for 80–90 days. The female builds a mound nest of vegetation and mud during the wet season, lays about 40–60 eggs and guards them. Nest temperature sets the sex: males result from a narrow band around 31–32 °C, and females from cooler or hotter nests.",
+    "diet": "Saltwater crocodiles are carnivores that eat almost any animal they can overpower. Juveniles take insects, crabs and small fish, while adults ambush fish, turtles, birds, wild pigs, wallabies, livestock and even water buffalo. Large prey is drowned and torn apart with a spinning death roll.",
+    "habitat": "Saltwater crocodiles live in estuaries, mangroves, tidal rivers, coastal waters and inland freshwater swamps from eastern India across Southeast Asia to northern Australia. They travel by sea between river systems, and individuals have been recorded hundreds of kilometers from the nearest land.",
+    "conservation": "The saltwater crocodile is listed as Least Concern on the IUCN Red List. Populations in northern Australia and New Guinea recovered strongly after hunting bans in the 1970s, with well over 100,000 in Australia alone. Elsewhere the picture is poorer: the species is rare or extinct in parts of Southeast Asia because of habitat loss and killing."
+  },
+  "funFacts": [
+    "A saltwater crocodile's bite was measured at about 16,400 newtons (roughly 3,700 pounds of force), the strongest bite recorded in any living animal.",
+    "Satellite-tagged salties ride ocean currents to travel; one swam more than 400 km along the Australian coast in under three weeks.",
+    "Glands on the tongue excrete excess salt, which lets saltwater crocodiles spend weeks at sea.",
+    "A crocodile replaces its teeth throughout life and may go through thousands of them.",
+    "Large crocodiles can go for many months without eating, because a cold-blooded metabolism uses very little energy."
+  ],
+  "relatedAnimals": ["nile-crocodile", "american-alligator", "komodo-dragon", "bull-shark", "great-white-shark", "green-anaconda"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the largest saltwater crocodile ever recorded?", "answer": "The largest reliably measured was Lolong, captured in the Philippines in 2011, at 6.17 m (20 ft 3 in) and 1,075 kg. Guinness World Records recognized him as the largest crocodile in captivity. Larger wild crocodiles of 7 m or more have been claimed but never verified."},
+    {"question": "Are saltwater crocodiles dangerous to humans?", "answer": "Yes. The saltwater crocodile is one of the few animals that regularly treat people as prey. Attacks occur every year across its range, and many are fatal. In northern Australia, warning signs mark crocodile waters, and swimming in tidal rivers and estuaries is strongly discouraged."},
+    {"question": "What is the difference between a saltwater crocodile and an alligator?", "answer": "Saltwater crocodiles have a narrower, V-shaped snout, and their lower teeth show when the mouth is closed; alligators have a broad, U-shaped snout that hides the lower teeth. Salties are also larger, tolerate salt water far better, and are much more aggressive toward people."},
+    {"question": "Can saltwater crocodiles live in the ocean?", "answer": "They can spend long periods at sea but do not live there permanently. Salt glands let them cope with seawater, and they use the ocean to move between rivers and islands. They feed, breed and nest mainly in estuaries, mangroves and freshwater swamps."},
+    {"question": "Who would win, a saltwater crocodile or a great white shark?", "answer": "The two rarely if ever meet, since great whites prefer cooler open coasts and salties live in tropical estuaries. Saltwater crocodiles are known to kill and eat smaller sharks, such as bull sharks, in rivers. An adult great white is much heavier than any crocodile."}
+  ],
+  "meta": {
+    "title": "Saltwater Crocodile Size, Weight, Bite Force & Facts",
+    "description": "Saltwater crocodiles are the largest reptiles: males reach 4–5 m and 400–1,000 kg (880–2,200 lb). Lifespan, speed, diet, habitat and attack facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Crocodylus%20porosus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Crocodylus_porosus/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Saltwater_crocodile"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q182599"}
+    ]
+  }
+}

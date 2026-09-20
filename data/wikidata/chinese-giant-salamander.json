@@ -1,0 +1,22 @@
+{
+  "slug": "chinese-giant-salamander",
+  "commonName": "Chinese Giant Salamander",
+  "scientificName": "Andrias davidianus",
+  "classSlug": "amphibians",
+  "aliases": [
+    "giant salamander"
+  ],
+  "qid": "Q61312",
+  "iucnStatus": "Critically Endangered",
+  "wikipedia": "Chinese giant salamander",
+  "taxonomy": {
+    "species": "Andrias davidianus",
+    "genus": "Andrias",
+    "family": "Cryptobranchidae",
+    "order": "Caudata",
+    "class": "Amphibia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

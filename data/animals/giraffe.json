@@ -1,0 +1,65 @@
+{
+  "slug": "giraffe",
+  "commonName": "Giraffe",
+  "scientificName": "Giraffa camelopardalis",
+  "alternateNames": ["Northern giraffe", "Masai giraffe", "Reticulated giraffe", "Southern giraffe"],
+  "nameSingular": "giraffe",
+  "namePlural": "giraffes",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Giraffidae", "genus": "Giraffa", "species": "G. camelopardalis"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 25, "unit": "years", "context": "in the wild", "display": "20–25 years"},
+    "lifespanCaptivity": {"min": 20, "max": 28, "unit": "years", "context": "in human care; the record is close to 40", "display": "20–28 years"},
+    "weight": {"min": 800, "max": 1200, "unit": "kg", "context": "adult averages: females about 830 kg, males about 1,190 kg; the largest bulls approach 1,900 kg", "display": "800–1,200 kg (1,760–2,650 lb)"},
+    "height": {"min": 4.3, "max": 5.7, "unit": "m", "label": "Height", "display": "4.3–5.7 m (14–18.7 ft)"},
+    "speed": {"min": 60, "max": 60, "unit": "km/h", "verb": "run", "context": "short sprints; about 50 km/h sustained", "display": "60 km/h (37 mph)"},
+    "gestationPeriod": {"min": 420, "max": 460, "unit": "days", "label": "Gestation", "display": "about 15 months (420–460 days)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Leaves, shoots, flowers and pods of trees and shrubs, above all acacias (Vachellia and Senegalia), plus Commiphora and Terminalia, plucked with a long prehensile tongue.",
+    "habitat": ["Savanna", "Open woodland", "Grassland", "Arid scrub"],
+    "range": "Scattered across sub-Saharan Africa, from Niger and Chad east to Kenya, Ethiopia and Somalia and south to Namibia, Botswana and South Africa.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing",
+    "population": "about 68,000 mature individuals (IUCN, 2016); recent surveys put the total, including young, above 100,000"
+  },
+  "description": "The giraffe is the tallest living land animal, with adults reaching 4.3–5.7 m thanks to long legs and a neck that alone can be about 2 m long. Its coat of brown patches on a pale background varies by region and is unique to each animal. Giraffes browse treetops that other herbivores cannot reach, using a dark prehensile tongue about 45 cm long. They live in loose, shifting herds on African savannas. The IUCN Red List currently assesses the giraffe as a single species with nine subspecies, though genetic studies support splitting it into four species: northern, reticulated, Masai and southern giraffes.",
+  "answers": {
+    "lifespan": "Giraffes live about 20–25 years in the wild and typically 20–28 years in zoos, with a record close to 40. Around half of all calves die in their first year, mostly killed by lions, hyenas and leopards. Healthy adults have few natural enemies apart from lions.",
+    "weight": "Adult giraffes weigh 800–1,200 kg (1,760–2,650 lb) on average. Females average about 830 kg and males about 1,190 kg, and the largest bulls approach 1,900 kg. A newborn calf already weighs around 50–70 kg and stands about 1.8 m (6 ft) tall.",
+    "size": "Giraffes stand 4.3–5.7 m (14–18.7 ft) tall, making them the tallest animals on Earth. Adult males usually reach 5–5.5 m and females 4.3–4.8 m. The neck is about 2 m long yet has only seven vertebrae, the same number as a human's, each one greatly elongated.",
+    "speed": "Giraffes can sprint at about 60 km/h (37 mph) and sustain around 50 km/h over longer distances. They have only two gaits: a walk in which both legs on one side move together, and a gallop in which the hind legs swing outside the front legs.",
+    "gestation": "A giraffe is pregnant for about 15 months, or 420–460 days. The mother gives birth standing up, so the calf drops more than 1.5 m to the ground. Calves can stand within an hour and run within a day. Females usually have a single calf, and twins are very rare.",
+    "diet": "Giraffes are herbivores that browse leaves, shoots, flowers and pods from trees, especially thorny acacias. An adult can eat around 34 kg (75 lb) of foliage a day. They are ruminants that chew cud, and they get much of their water from leaves, so they can go days without drinking.",
+    "habitat": "Giraffes live in savannas, open woodlands and arid scrub across sub-Saharan Africa wherever there are enough trees to browse. Their range is fragmented, from a small West African population in Niger through East Africa to Namibia, Botswana and South Africa. They avoid dense forest and true desert.",
+    "conservation": "The giraffe is listed as Vulnerable on the IUCN Red List after numbers fell by 36–40 percent over about 30 years. The main threats are habitat loss, poaching and civil unrest. Trends differ regionally: southern giraffes have increased, while the Nubian and Kordofan subspecies are Critically Endangered."
+  },
+  "funFacts": [
+    "A giraffe's heart weighs about 11 kg (25 lb) and generates roughly twice the blood pressure of a human's to push blood up to the brain.",
+    "The tongue is about 45 cm (18 in) long and dark bluish-purple, possibly as protection from sunburn during hours of feeding.",
+    "No two giraffes have the same coat pattern, and researchers use photographs of the patches to identify individuals.",
+    "Male giraffes fight by 'necking', swinging their heads like hammers and striking rivals with their bony ossicones.",
+    "Giraffes sleep very little, often less than two hours a night in short naps, and frequently doze standing up."
+  ],
+  "relatedAnimals": ["okapi", "african-elephant", "plains-zebra", "lion", "blue-wildebeest", "ostrich"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why do giraffes have long necks?", "answer": "The classic explanation is that a long neck lets giraffes reach leaves beyond the reach of other browsers, especially in dry seasons. A second hypothesis is sexual selection: males with longer, heavier necks win 'necking' contests and mate more often. Both factors probably contributed."},
+    {"question": "What is a group of giraffes called?", "answer": "A group of giraffes is called a tower, or a journey when they are on the move. Giraffe herds are loose and changeable, with individuals joining and leaving over hours or days, although females form longer-lasting bonds with relatives and particular companions."},
+    {"question": "How many giraffes are left in the wild?", "answer": "The IUCN's 2016 assessment estimated about 97,500 giraffes, including roughly 68,000 mature individuals, down from more than 150,000 in the 1980s. More recent surveys compiled by the Giraffe Conservation Foundation suggest a modest recovery to around 117,000."},
+    {"question": "What sound does a giraffe make?", "answer": "Giraffes are usually quiet, but they are not mute. They snort, hiss, grunt and bleat, and calves bellow for their mothers. Recordings at zoos have also revealed a low-frequency humming made at night, whose purpose is still unknown."},
+    {"question": "How many species of giraffe are there?", "answer": "It depends on the authority. The IUCN Red List still assesses one species, Giraffa camelopardalis, with nine subspecies. Genetic studies since 2016 support four distinct species, the northern, reticulated, Masai and southern giraffes, a view that many conservation bodies now follow."}
+  ],
+  "meta": {
+    "title": "How Tall Is a Giraffe? Height, Weight, Speed & Facts",
+    "description": "Giraffes stand 4.3–5.7 m (14–18.7 ft) tall, weigh 800–1,200 kg, sprint at 60 km/h and live 20–25 years. Neck, diet, 15-month gestation and conservation.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Giraffa%20camelopardalis&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Giraffa_camelopardalis/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Giraffa_camelopardalis"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Giraffe"}
+    ]
+  }
+}

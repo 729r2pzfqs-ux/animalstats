@@ -1,0 +1,64 @@
+{
+  "slug": "dromedary-camel",
+  "commonName": "Dromedary Camel",
+  "scientificName": "Camelus dromedarius",
+  "alternateNames": ["Arabian camel", "One-humped camel", "Dromedary"],
+  "nameSingular": "dromedary camel",
+  "namePlural": "dromedary camels",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Camelidae", "genus": "Camelus", "species": "C. dromedarius"},
+  "facts": {
+    "lifespan": {"min": 40, "max": 40, "unit": "years", "context": "typical maximum under human care; some individuals reach 50", "display": "about 40 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 300, "max": 600, "unit": "kg", "context": "females 300–540 kg, males 400–600 kg", "display": "300–600 kg (660–1,320 lb)"},
+    "height": {"min": 1.7, "max": 2.0, "unit": "m", "label": "Shoulder height", "display": "1.7–2.0 m (5.6–6.6 ft)"},
+    "speed": {"min": 40, "max": 65, "unit": "km/h", "verb": "run", "context": "about 65 km/h in short bursts, around 40 km/h sustained in races", "display": "40–65 km/h (25–40 mph)"},
+    "gestationPeriod": {"min": 360, "max": 440, "unit": "days", "label": "Gestation", "display": "about 13 months (12–15 months)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Desert shrubs, dry grasses, saltbush and thorny plants such as acacia that most livestock cannot eat; tough lips and a leathery mouth let it chew thorns, and it seeks out salty plants.",
+    "habitat": ["Desert", "Semi-desert", "Arid scrub", "Dry grassland"],
+    "range": "North Africa, the Sahel, the Horn of Africa, the Middle East and South Asia as a domestic animal, plus a large feral population in Australia.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "The dromedary is the one-humped camel of North Africa and the Middle East and makes up the great majority of the world's camels. It was domesticated on the Arabian Peninsula around 3,000–4,000 years ago, and its wild form died out long ago, so every dromedary alive today is domestic or feral. The hump stores fat, not water, and can shrink and flop over when food is scarce. Closable nostrils, double rows of eyelashes, broad padded feet and an ability to let body temperature swing by several degrees make it supremely adapted to hot deserts, where it provides transport, milk, meat and wool.",
+  "answers": {
+    "lifespan": "Dromedary camels live about 40 years, and some reach 50. They mature slowly, with females first calving at around four to five years old. Because the species survives only as a domestic and feral animal, there is no separate figure for truly wild dromedaries.",
+    "weight": "An adult dromedary weighs 300–600 kg (660–1,320 lb). Males typically weigh 400–600 kg and females 300–540 kg. A camel's weight can swing dramatically: a thirsty animal may lose a quarter or more of its body weight in water and regain it within minutes of drinking.",
+    "size": "A dromedary stands 1.7–2.0 m (5.6–6.6 ft) tall at the shoulder, and the hump adds roughly another 20–30 cm. Males are taller than females. Body length is about 3 m, and the long, curved neck lets it browse well above the reach of goats and sheep.",
+    "speed": "A dromedary can run at about 65 km/h (40 mph) in a short sprint and hold roughly 40 km/h (25 mph) for much longer. Racing camels in the Gulf states are bred for this. When travelling, camels usually walk at around 5 km/h and can cover long distances each day.",
+    "gestation": "A dromedary is pregnant for about 13 months, with reports ranging from 12 to 15 months. She gives birth to a single calf, which can walk within hours and nurses for a year or more. Females usually calve only once every two years.",
+    "diet": "Dromedaries are herbivores that browse desert shrubs, dry grasses and thorny or salty plants that other livestock avoid. A thick, leathery mouth lining lets them eat acacia thorns. They can go a week or more without drinking in hot weather, then drink over 100 liters in about ten minutes.",
+    "habitat": "Dromedaries live in hot deserts and arid scrub across North Africa, the Horn of Africa, the Middle East, Pakistan and northwestern India. Somalia, Sudan, Kenya and neighboring countries hold many of the world's camels. Feral dromedaries descended from animals imported in the 1800s roam the Australian outback.",
+    "conservation": "The dromedary is a domesticated animal with no IUCN Red List status, and the wild form is extinct. Tens of millions are kept across Africa and Asia. Australia has the only large feral herd, numbering in the hundreds of thousands, which is culled because it damages waterholes and vegetation."
+  },
+  "funFacts": [
+    "A camel's hump stores up to about 36 kg (80 lb) of fat, which it can metabolize for energy when food is scarce.",
+    "Camels have oval red blood cells, which keep flowing when the animal is dehydrated and resist bursting when it drinks huge volumes quickly.",
+    "A thirsty dromedary can drink more than 100 liters (26 gallons) of water in roughly ten minutes.",
+    "A dromedary lets its body temperature rise by several degrees during the day, which saves water that would otherwise be lost as sweat.",
+    "Camels have a third, clear eyelid and two rows of long eyelashes to keep out blowing sand."
+  ],
+  "relatedAnimals": ["bactrian-camel", "llama", "alpaca", "donkey", "horse"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is stored in a camel's hump?", "answer": "A camel's hump stores fat, not water. Concentrating fat in one place instead of spreading it under the skin helps the camel shed heat, and the fat is burned for energy when food runs short, at which point the hump shrinks and may droop."},
+    {"question": "How long can a camel go without water?", "answer": "A dromedary can go about a week without drinking in summer heat, and much longer in cool weather when it eats green, moisture-rich plants. It tolerates losing around a quarter of its body weight in water, a loss that would kill most mammals."},
+    {"question": "What is the difference between a dromedary and a Bactrian camel?", "answer": "A dromedary has one hump and a Bactrian camel has two. Dromedaries are taller, slimmer and short-haired, suited to hot deserts, while Bactrian camels are stockier with thick winter coats for the cold deserts of Central Asia."},
+    {"question": "Do camels spit?", "answer": "Yes. When threatened or annoyed, a camel brings up partly digested stomach contents and flings them, mixed with saliva, at the offender. It is a defensive warning rather than an attack, and well-handled camels rarely do it."},
+    {"question": "Are there wild camels in Australia?", "answer": "Yes. Australia has the world's largest population of free-ranging dromedaries, descended from pack animals imported in the 1800s and released when motor vehicles replaced them. They are feral rather than truly wild and number in the hundreds of thousands."}
+  ],
+  "meta": {
+    "title": "Dromedary Camel Facts: Lifespan, Size, Speed & Diet",
+    "description": "Dromedary camels live about 40 years, weigh 300–600 kg, stand 1.7–2 m at the shoulder and sprint at up to 65 km/h. Hump, water, diet and gestation facts.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Dromedary"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Camelus_dromedarius/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Camelus_dromedarius"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q71516"}
+    ]
+  }
+}

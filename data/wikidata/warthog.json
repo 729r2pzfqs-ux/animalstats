@@ -1,0 +1,28 @@
+{
+  "slug": "warthog",
+  "commonName": "Common Warthog",
+  "scientificName": "Phacochoerus africanus",
+  "classSlug": "mammals",
+  "aliases": [
+    "warthog"
+  ],
+  "qid": "Q183255",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Common warthog",
+  "taxonomy": {
+    "species": "Phacochoerus africanus",
+    "genus": "Phacochoerus",
+    "family": "Suidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "172",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

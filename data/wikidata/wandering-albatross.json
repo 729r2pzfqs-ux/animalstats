@@ -1,0 +1,39 @@
+{
+  "slug": "wandering-albatross",
+  "commonName": "Wandering Albatross",
+  "scientificName": "Diomedea exulans",
+  "classSlug": "birds",
+  "aliases": [
+    "albatross"
+  ],
+  "qid": "Q208682",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Wandering albatross",
+  "taxonomy": {
+    "species": "Diomedea exulans",
+    "genus": "Diomedea",
+    "family": "Diomedeidae",
+    "order": "Procellariiformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "484",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "9.11",
+      "unit": "kg",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "7.27",
+      "unit": "kg",
+      "sex": "female"
+    }
+  ]
+}

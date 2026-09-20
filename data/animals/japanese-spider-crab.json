@@ -1,0 +1,63 @@
+{
+  "slug": "japanese-spider-crab",
+  "commonName": "Japanese Spider Crab",
+  "scientificName": "Macrocheira kaempferi",
+  "alternateNames": ["Giant spider crab", "Taka-ashi-gani"],
+  "nameSingular": "Japanese spider crab",
+  "namePlural": "Japanese spider crabs",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Malacostraca", "classSlug": "invertebrates", "order": "Decapoda", "family": "Inachidae", "genus": "Macrocheira", "species": "M. kaempferi"},
+  "facts": {
+    "lifespan": {"min": 50, "max": 100, "unit": "years", "context": "widely cited estimate that has not been confirmed by aging studies", "display": "possibly 50–100 years (unverified)"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 16, "max": 19, "unit": "kg", "context": "large adult males; females are considerably smaller", "display": "16–19 kg (35–42 lb)"},
+    "height": {"min": 30, "max": 40, "unit": "cm", "label": "Body length", "display": "30–40 cm (12–16 in) carapace; leg span up to 3.7 m (12 ft)"},
+    "speed": null,
+    "gestationPeriod": null
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Dead fish and other carrion on the seabed, plus shellfish and small invertebrates it can pry open, and algae and other plant material scraped from rocks.",
+    "habitat": ["Deep seabed", "Continental slope", "Sandy and rocky bottom"],
+    "range": "Pacific coast of Japan, mainly from Tokyo Bay south to Kyushu and especially Suruga and Sagami Bays, with occasional records as far south as Taiwan.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The Japanese spider crab has the longest leg span of any living arthropod: large males can measure up to about 3.7 m (12 ft) from claw tip to claw tip. The body itself is modest by comparison, a pear-shaped, knobbly orange carapace up to 40 cm long, carried on ten long, thin legs mottled with white. It lives on the deep seabed off Japan's Pacific coast, walking slowly and scavenging, and moves into shallower water in spring to breed. Despite its alarming appearance it is a gentle animal, and it is a popular exhibit in public aquariums around the world.",
+  "answers": {
+    "lifespan": "Japanese spider crabs are often said to live 50–100 years, but this figure has never been confirmed by scientific aging studies. Crabs shed their entire shell when they molt, so there is no simple way to count their age. What is certain is that they grow slowly in cold, deep water and take many years to reach full size.",
+    "weight": "Large male Japanese spider crabs weigh about 16–19 kg (35–42 lb). That makes this the second-heaviest living arthropod after the American lobster, whose record is about 20 kg. Females are much smaller and lighter than males, with shorter claws and legs.",
+    "size": "A Japanese spider crab's carapace grows to about 30–40 cm (12–16 in) long, but its leg span can reach 3.7 m (12 ft) from claw to claw in the largest males. The legs keep lengthening as the crab ages while the body grows little. Most adults seen in aquariums span roughly 2–3 m.",
+    "speed": null,
+    "gestation": null,
+    "diet": "Japanese spider crabs are omnivores and scavengers that feed mainly on dead fish and other carrion on the seabed. They also eat shellfish, small invertebrates and algae, using their long claws to pick food from the bottom and pry open shells. They move slowly and do not actively chase prey.",
+    "habitat": "Japanese spider crabs live on sandy and rocky seabed off the Pacific coast of Japan, usually at depths of about 150–300 m (500–1,000 ft) and as deep as 600 m. In spring they migrate up to roughly 50 m to spawn. They are most numerous in Suruga Bay and Sagami Bay, southwest of Tokyo.",
+    "conservation": "The Japanese spider crab has not been evaluated for the IUCN Red List. Catches have declined over recent decades, and fishers now have to work deeper water to find them. Japan bans fishing for the crabs during the spring breeding season, when they gather in shallow water and are most vulnerable."
+  },
+  "funFacts": [
+    "With a leg span of up to 3.7 m (12 ft), the Japanese spider crab is the largest living arthropod by reach.",
+    "Young Japanese spider crabs decorate their shells with sponges, anemones and bits of seaweed for camouflage; large adults have few predators and mostly stop.",
+    "Its Japanese name, taka-ashi-gani, means 'tall-legged crab', a fair description of an animal whose legs dwarf its body.",
+    "The species was described for science in 1836 and named after Engelbert Kaempfer, a German naturalist who lived in Japan in the 1690s.",
+    "Spider crabs often lose legs to predators and nets, and can survive with several missing; lost legs may partly regrow over later molts."
+  ],
+  "relatedAnimals": ["american-lobster", "common-octopus", "giant-squid", "emperor-scorpion", "goliath-birdeater", "common-starfish"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are Japanese spider crabs dangerous to humans?", "answer": "No. Japanese spider crabs are slow, calm animals that live far deeper than people swim, and there are no records of them harming anyone unprovoked. Their claws are strong enough to cause an injury if one is handled carelessly, which is a concern only for fishers and aquarium staff."},
+    {"question": "Can you eat Japanese spider crab?", "answer": "Yes. It is eaten in Japan, particularly around Suruga Bay, where it is a regional delicacy usually served steamed or boiled. The catch is small and seasonal, and fishing is prohibited during the spring spawning period."},
+    {"question": "Is the Japanese spider crab the biggest crab in the world?", "answer": "It is the largest crab by leg span, at up to 3.7 m (12 ft), and the heaviest marine crab at up to about 19 kg. The coconut crab is the largest crab that lives on land, reaching around 4 kg with a leg span of about 1 m."},
+    {"question": "Is a Japanese spider crab a spider?", "answer": "No. It is a true crab, a decapod crustacean with ten limbs: eight walking legs plus two claw-bearing arms. It gets its name from its long, thin legs and small body. Spiders are arachnids, a separate group of arthropods."},
+    {"question": "Where can you see a Japanese spider crab?", "answer": "Because they live hundreds of meters down, the easiest place to see one is a public aquarium. Many large aquariums in Japan, North America and Europe keep them in chilled tanks, since the crabs need cold water of roughly 10–13 °C."}
+  ],
+  "meta": {
+    "title": "Japanese Spider Crab Size, Leg Span, Weight & Lifespan",
+    "description": "Japanese spider crabs have a leg span of up to 3.7 m (12 ft), weigh up to 19 kg (42 lb) and may live 50–100 years. Diet, depth, habitat and danger to humans.",
+    "sources": [
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Macrocheira_kaempferi/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Japanese_spider_crab"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q273655"}
+    ]
+  }
+}

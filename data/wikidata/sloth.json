@@ -1,0 +1,23 @@
+{
+  "slug": "sloth",
+  "commonName": "Brown-Throated Sloth",
+  "scientificName": "Bradypus variegatus",
+  "classSlug": "mammals",
+  "aliases": [
+    "sloth",
+    "three-toed sloth"
+  ],
+  "qid": "Q148752",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Brown-throated sloth",
+  "taxonomy": {
+    "species": "Bradypus variegatus",
+    "genus": "Bradypus",
+    "family": "Bradypodidae",
+    "order": "Pilosa",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

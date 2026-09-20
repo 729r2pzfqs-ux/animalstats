@@ -1,0 +1,64 @@
+{
+  "slug": "wild-turkey",
+  "commonName": "Wild Turkey",
+  "scientificName": "Meleagris gallopavo",
+  "alternateNames": ["Turkey", "Gobbler"],
+  "nameSingular": "wild turkey",
+  "namePlural": "wild turkeys",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Galliformes", "family": "Phasianidae", "genus": "Meleagris", "species": "M. gallopavo"},
+  "facts": {
+    "lifespan": {"min": 3, "max": 5, "unit": "years", "context": "in the wild; banded birds have reached about 13–15", "display": "3–5 years"},
+    "lifespanCaptivity": {"min": 10, "max": 12, "unit": "years", "context": "in human care", "display": "10–12 years"},
+    "weight": {"min": 2.5, "max": 11, "unit": "kg", "context": "adults; hens 2.5–5.4 kg, toms 5–11 kg", "display": "2.5–11 kg (5.5–24 lb)"},
+    "height": {"min": 0.76, "max": 1.25, "unit": "m", "label": "Length", "display": "76–125 cm (30–49 in)"},
+    "speed": {"min": 88, "max": 88, "unit": "km/h", "verb": "fly", "context": "short bursts of level flight; they run at about 40 km/h (25 mph)", "display": "up to 88 km/h (55 mph)"},
+    "gestationPeriod": {"min": 26, "max": 28, "unit": "days", "label": "Incubation", "display": "about 28 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Acorns, beechnuts and other nuts, seeds, berries, buds, grasses and waste grain, along with insects, snails and the occasional small salamander or lizard. Young poults eat mostly insects.",
+    "habitat": ["Hardwood forest", "Mixed woodland", "Forest edges", "Fields", "Swamps"],
+    "range": "Most of the United States, southern Canada and parts of Mexico; introduced to Hawaii, New Zealand and parts of Europe.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The wild turkey is North America's largest game bird and the ancestor of the domestic turkey, which was first domesticated in Mexico more than 2,000 years ago. Males, called toms or gobblers, have iridescent bronze plumage, a fan-shaped tail, a bare head that shifts between red, white and blue, a fleshy snood over the bill and a hair-like beard on the chest. Hens are smaller and duller. Unlike their farm-bred relatives, wild turkeys are lean, wary and strong fliers that roost in trees at night. Overhunting nearly wiped them out by the early 1900s, but reintroduction programs restored them across the continent.",
+  "answers": {
+    "lifespan": "Wild turkeys live 3–5 years on average in the wild and 10–12 years in captivity. Most poults die in their first weeks from predators and cold, wet weather, and hunting and predators take many adults. A few banded wild turkeys have survived to around 13–15 years.",
+    "weight": "Adult wild turkeys weigh 2.5–11 kg (5.5–24 lb). Toms typically weigh 5–11 kg and hens 2.5–5.4 kg, so males are about twice as heavy. Domestic turkeys are far heavier, with broad-breasted commercial toms often exceeding 18 kg.",
+    "size": "Wild turkeys measure 76–125 cm (30–49 in) from bill to tail, with males at the upper end. The wingspan is 1.25–1.44 m (4.1–4.7 ft), and a displaying tom stands roughly 1 m (3.3 ft) tall. Hens are noticeably shorter and slimmer.",
+    "speed": "Wild turkeys can fly at up to about 88 km/h (55 mph) in short bursts and run at around 40 km/h (25 mph). Flights are usually under 400 meters, enough to escape a predator or reach a roosting branch. Heavy domestic turkeys, by contrast, cannot fly at all.",
+    "gestation": "Wild turkey eggs hatch after about 28 days of incubation. The hen lays 10–12 eggs over roughly two weeks in a shallow ground nest hidden in vegetation and incubates them alone. Poults leave the nest within a day and can flutter up to low roosts at about two weeks.",
+    "diet": "Wild turkeys are omnivores that eat acorns, nuts, seeds, berries, buds, grasses and insects. They forage on the ground in flocks, scratching through leaf litter. Acorns and other hard mast are the key fall and winter food, while growing poults depend on protein-rich insects.",
+    "habitat": "Wild turkeys live in mature hardwood and mixed forests broken up by fields, pastures and clearings, from southern Canada through the United States into Mexico. They need large trees for night roosts and open ground for feeding and raising young. They have also adapted well to suburbs in many states.",
+    "conservation": "The wild turkey is listed as Least Concern on the IUCN Red List. Numbers fell to a few tens of thousands by the 1930s through overhunting and forest clearance, but trap-and-transfer programs rebuilt the population to several million birds across North America. Some regional populations have declined again in recent years."
+  },
+  "funFacts": [
+    "Only male turkeys gobble, and the sound can carry up to about 1.6 km (1 mile) on a calm morning.",
+    "The bare skin on a tom's head and neck can change between red, white and blue within seconds depending on his mood.",
+    "Wild turkeys sleep in trees, flying up to roost at dusk to stay out of reach of ground predators.",
+    "Benjamin Franklin never proposed the turkey as the national bird, but he did write privately that it was a more respectable bird than the bald eagle.",
+    "You can tell a turkey's sex from its droppings: males leave J-shaped droppings, while females leave spiral-shaped ones."
+  ],
+  "relatedAnimals": ["chicken", "peacock", "canada-goose", "bald-eagle", "ostrich", "mallard"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can wild turkeys fly?", "answer": "Yes. Wild turkeys are strong fliers over short distances, reaching about 88 km/h (55 mph) and flying up into trees every night to roost. It is the heavy, broad-breasted domestic turkey that cannot fly, which is where the misconception comes from."},
+    {"question": "What is the difference between a wild turkey and a domestic turkey?", "answer": "Wild turkeys are leaner, darker and far more agile, with brown-tipped tail feathers, and they can run fast and fly. Domestic turkeys were bred for meat, are roughly twice as heavy, usually white-feathered in commercial farms, and cannot fly or, in many breeds, mate naturally."},
+    {"question": "Are wild turkeys dangerous?", "answer": "Wild turkeys are not normally dangerous, but birds that have lost their fear of people can become aggressive, especially males in the spring breeding season. They may chase, peck or kick with their spurs. Wildlife agencies advise never feeding them and scaring off bold birds."},
+    {"question": "What is a group of turkeys called?", "answer": "A group of wild turkeys is usually called a flock; the word rafter is also used, mostly for domestic turkeys. Outside the breeding season, turkeys form separate flocks of hens with young and of adult males, which can number dozens of birds in winter."},
+    {"question": "What is the red thing on a turkey's face?", "answer": "The fleshy flap hanging over the bill is the snood, and the red skin dangling from the throat is the wattle. The bumpy growths on the head and neck are caruncles. All of them fill with blood and brighten when a tom displays, and hens prefer males with longer snoods."}
+  ],
+  "meta": {
+    "title": "Wild Turkey Facts: Size, Speed, Lifespan & Can They Fly?",
+    "description": "Wild turkeys weigh 2.5–11 kg (5.5–24 lb), live 3–5 years in the wild, run at 40 km/h and fly in bursts up to 88 km/h. Diet, habitat and nesting facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Meleagris%20gallopavo&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Meleagris_gallopavo/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Meleagris_gallopavo"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Wild_turkey"}
+    ]
+  }
+}

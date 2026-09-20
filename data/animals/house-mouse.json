@@ -1,0 +1,64 @@
+{
+  "slug": "house-mouse",
+  "commonName": "House Mouse",
+  "scientificName": "Mus musculus",
+  "alternateNames": ["Mouse", "Fancy mouse", "Laboratory mouse"],
+  "nameSingular": "house mouse",
+  "namePlural": "house mice",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Rodentia", "family": "Muridae", "genus": "Mus", "species": "M. musculus"},
+  "facts": {
+    "lifespan": {"min": 12, "max": 18, "unit": "months", "context": "in the wild; many survive less than a year", "display": "12–18 months"},
+    "lifespanCaptivity": {"min": 2, "max": 3, "unit": "years", "context": "pet and laboratory mice", "display": "2–3 years"},
+    "weight": {"min": 12, "max": 30, "unit": "g", "context": "adults; pet and lab mice are often heavier", "display": "12–30 g (0.4–1.1 oz)"},
+    "height": {"min": 7.5, "max": 10, "unit": "cm", "label": "Body length", "display": "7.5–10 cm (3–4 in)"},
+    "speed": {"min": 13, "max": 13, "unit": "km/h", "verb": "run", "context": "short dashes; commonly cited estimate", "display": "about 13 km/h (8 mph)"},
+    "gestationPeriod": {"min": 19, "max": 21, "unit": "days", "label": "Gestation", "display": "19–21 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Seeds and grain are preferred, along with roots, leaves, stems, insects and carrion; mice living with people eat almost any stored or spilled human food, pet food and even soap or glue.",
+    "habitat": ["Houses and buildings", "Farms and grain stores", "Fields", "Scrub", "Grassland"],
+    "range": "Originally from southern and central Asia; now found on every continent except Antarctica, and on most inhabited islands, wherever people live.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The house mouse is a small, slender rodent with large ears, a pointed snout and a nearly hairless tail about as long as its body. It originated in Asia and has spread around the world alongside humans, becoming one of the most numerous and widespread mammals on Earth. House mice are mainly nocturnal, agile climbers and jumpers, and breed at an extraordinary rate where food and shelter are plentiful. The same species has been domesticated as the pet 'fancy' mouse and as the laboratory mouse, the most widely used mammal in biomedical research.",
+  "answers": {
+    "lifespan": "House mice live about 12–18 months in the wild at best, and 2–3 years as pets or laboratory animals. Most wild mice survive less than a year because of cats, owls, snakes, traps, poison and cold. The oldest laboratory mice have reached four years or more.",
+    "weight": "Adult house mice weigh 12–30 g (0.4–1.1 oz), roughly the weight of two to five US quarters. Wild mice are usually at the lighter end, while well-fed pet and laboratory mice commonly reach 30–40 g or more.",
+    "size": "A house mouse has a head-and-body length of 7.5–10 cm (3–4 in), and the thin, scaly tail adds another 5–10 cm. Its skull is small enough for an adult to squeeze through a gap about 6 mm wide, roughly the width of a pencil.",
+    "speed": "House mice can run at about 13 km/h (8 mph) according to commonly cited estimates, which is fast for an animal only a few inches long. They can also jump about 30 cm straight up, climb rough vertical walls, run along wires and swim.",
+    "gestation": "A house mouse is pregnant for 19–21 days. Litters usually contain 5–8 pups, a female can become pregnant again within a day of giving birth, and she may produce 5–10 litters a year. Young females can breed at about six weeks old.",
+    "diet": "House mice are omnivores that prefer seeds and grains but will eat insects, plant matter and almost any human food. They nibble small amounts at many spots, eating about 3 g a day, and can survive with very little free water when their food contains moisture.",
+    "habitat": "House mice live wherever people do: in houses, barns, warehouses, grain stores and sewers on every continent except Antarctica. In mild climates they also live wild in fields, scrub and grassland, often moving indoors when the weather turns cold.",
+    "conservation": "House mice are listed as Least Concern on the IUCN Red List and are among the most abundant mammals in the world. They are a major pest of stored food, and on seabird islands such as Gough and Marion introduced mice kill chicks and are the target of eradication programs."
+  },
+  "funFacts": [
+    "Male house mice sing complex ultrasonic songs to females, at pitches too high for humans to hear.",
+    "A single pair of mice can in theory give rise to thousands of descendants in a year, because their young start breeding within weeks.",
+    "The laboratory mouse was the second mammal after humans to have its genome sequenced, in 2002; most human genes have a mouse counterpart.",
+    "Mice cannot vomit, which is one reason poison baits are effective against them.",
+    "House mice mark their routes with tiny drops of urine, and other mice read the scent for information about sex, status and family ties."
+  ],
+  "relatedAnimals": ["brown-rat", "hamster", "guinea-pig", "naked-mole-rat", "gray-squirrel", "barn-owl"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How long do pet mice live?", "answer": "Pet mice usually live 1.5–3 years, with around two years being typical. Good diet, a clean, roomy cage and company of other mice, for females, help them reach the upper end. Tumors and respiratory infections are the most common causes of death in older pet mice."},
+    {"question": "What is the difference between a mouse and a rat?", "answer": "A house mouse is much smaller, 12–30 g against 200–500 g for a brown rat, with proportionally larger ears, a finer snout and a thinner tail. Mouse droppings are rice-grain sized, while rat droppings are 1–2 cm long. They are separate species and cannot interbreed."},
+    {"question": "How small a hole can a mouse fit through?", "answer": "An adult house mouse can squeeze through a gap of about 6 mm (a quarter of an inch), roughly the diameter of a pencil. If the skull fits, the flexible body follows. Sealing gaps with steel wool, metal mesh or mortar is the key to mouse-proofing a building."},
+    {"question": "Do house mice carry diseases?", "answer": "Yes. House mice can spread salmonella, leptospirosis and lymphocytic choriomeningitis virus through their droppings and urine, and their dander can trigger asthma. Hantavirus in North America is mainly carried by deer mice, a different species, rather than by house mice."},
+    {"question": "Do mice really like cheese?", "answer": "Not especially. House mice prefer seeds, grains and sweet, high-calorie foods, and strong-smelling cheese can even put them off. Peanut butter, chocolate or oats are considered better trap baits. The cheese idea is mostly folklore and cartoons."}
+  ],
+  "meta": {
+    "title": "House Mouse Facts: Lifespan, Size, Diet & Breeding",
+    "description": "House mice weigh 12–30 g, measure 7.5–10 cm plus tail and live 12–18 months in the wild or 2–3 years as pets. Gestation is 19–21 days. Diet and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Mus%20musculus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Mus_musculus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Mus_musculus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/House_mouse"}
+    ]
+  }
+}

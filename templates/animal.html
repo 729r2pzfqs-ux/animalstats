@@ -1,0 +1,92 @@
+{% extends "base.html" %}
+{% from "_macros.html" import ad, badge, animal_table, faq_block %}
+{% set f = animal.facts %}
+{% set eco = animal.ecology %}
+{% set section_icons = {'lifespan': 'hourglass', 'weight': 'weight', 'size': 'ruler', 'speed': 'zap', 'gestation': 'baby', 'diet': 'utensils', 'habitat': 'map-pin', 'conservation': 'shield-alert'} %}
+{% block main %}
+<article class="wrap">
+  <header class="pt-4">
+    <div class="flex flex-wrap items-center gap-x-3 gap-y-2">
+      <h1 class="text-[1.7rem] font-extrabold leading-tight tracking-tight sm:text-4xl">{{ animal.commonName }} <span class="block text-base font-medium italic text-slate-500 sm:inline sm:text-xl">({{ animal.scientificName }})</span></h1>
+    </div>
+    <div class="mt-2 flex flex-wrap items-center gap-2">
+      {{ badge(animal) }}
+      {% if eco.iucnCategory not in ['DOM', 'NE', 'DD'] %}<span class="flex items-center gap-1 text-xs text-slate-600">{{ icon('trending-down' if eco.populationTrend == 'Decreasing' else ('trending-up' if eco.populationTrend == 'Increasing' else 'minus'), 'w-4 h-4') }} Population {{ eco.populationTrend|lower }}</span>{% endif %}
+    </div>
+  </header>
+
+  <section aria-label="Quick facts" class="card mt-3 p-3 sm:p-4">
+    <div class="grid grid-cols-2 gap-2 sm:grid-cols-3 sm:gap-3">
+      <div class="stat"><div class="stat-label">{{ icon('hourglass', 'w-3.5 h-3.5 text-emerald-700') }} Lifespan</div><div class="stat-value">{{ f.lifespan.display }}</div><div class="stat-note">{{ f.lifespan.context }}</div></div>
+      <div class="stat"><div class="stat-label">{{ icon('weight', 'w-3.5 h-3.5 text-emerald-700') }} Weight</div><div class="stat-value">{% if f.weight %}{{ f.weight.display }}{% else %}<span class="text-slate-400">Not recorded</span>{% endif %}</div></div>
+      <div class="stat"><div class="stat-label">{{ icon('ruler', 'w-3.5 h-3.5 text-emerald-700') }} {{ f.height.label }}</div><div class="stat-value">{{ f.height.display }}</div></div>
+      <div class="stat"><div class="stat-label">{{ icon('zap', 'w-3.5 h-3.5 text-emerald-700') }} Top speed</div><div class="stat-value">{% if f.speed %}{{ f.speed.display }}{% else %}<span class="text-slate-400">Not recorded</span>{% endif %}</div>{% if f.speed and f.speed.context %}<div class="stat-note">{{ f.speed.context }}</div>{% endif %}</div>
+      <div class="stat"><div class="stat-label">{{ icon('baby', 'w-3.5 h-3.5 text-emerald-700') }} {{ f.gestationPeriod.label if f.gestationPeriod else 'Gestation' }}</div><div class="stat-value">{% if f.gestationPeriod %}{{ f.gestationPeriod.display }}{% else %}<span class="text-slate-400">Not applicable</span>{% endif %}</div></div>
+      <div class="stat"><div class="stat-label">{{ icon('utensils', 'w-3.5 h-3.5 text-emerald-700') }} Diet</div><div class="stat-value">{{ eco.diet }}</div></div>
+    </div>
+  </section>
+
+  <h2 class="h2">{{ icon('book-open', 'w-6 h-6 text-emerald-700') }} {{ animal.commonName }} overview</h2>
+  <p class="prose-p">{{ animal.description }}</p>
+  <div class="card mt-4 overflow-x-auto">
+    <table class="tbl">
+      <tbody>
+        <tr><td class="w-36 font-semibold text-slate-900">Scientific name</td><td><em>{{ animal.scientificName }}</em></td></tr>
+        {% if animal.alternateNames %}<tr><td class="font-semibold text-slate-900">Also called</td><td>{{ animal.alternateNames|join(', ') }}</td></tr>{% endif %}
+        <tr><td class="font-semibold text-slate-900">Class</td><td><a href="{{ animal.cls.url }}" class="link">{{ animal.taxonomy.class }}</a> ({{ animal.cls.name|lower }})</td></tr>
+        <tr><td class="font-semibold text-slate-900">Order · Family</td><td>{{ animal.taxonomy.order }} · {{ animal.taxonomy.family }}</td></tr>
+        <tr><td class="font-semibold text-slate-900">Habitat</td><td>{{ eco.habitat|join(', ') }}</td></tr>
+        <tr><td class="font-semibold text-slate-900">Range</td><td>{{ eco.range }}</td></tr>
+        {% if f.lifespanCaptivity %}<tr><td class="font-semibold text-slate-900">Lifespan {{ f.lifespanCaptivity.context or 'in human care' }}</td><td>{{ f.lifespanCaptivity.display }}</td></tr>{% endif %}
+        {% if eco.population %}<tr><td class="font-semibold text-slate-900">Population</td><td>{{ eco.population }}</td></tr>{% endif %}
+      </tbody>
+    </table>
+  </div>
+
+  {% for key, heading in animal.headings.items() %}
+  <h2 class="h2" id="{{ key }}">{{ icon(section_icons[key], 'w-6 h-6 text-emerald-700') }} {{ heading }}</h2>
+  <p class="prose-p">{{ animal.answers[key] }}</p>
+  {% if key == 'diet' %}<p class="prose-p mt-2 text-sm"><strong class="text-slate-900">Diet type:</strong> {{ eco.diet|lower }}. {{ eco.dietDetails }}</p>{% endif %}
+  {% if key == 'conservation' %}<p class="mt-2">{{ badge(animal) }}</p>{% endif %}
+  {% if loop.index == 3 %}{{ ad('in_article_1') }}{% endif %}
+  {% endfor %}
+
+  <h2 class="h2">{{ icon('sparkles', 'w-6 h-6 text-emerald-700') }} {{ animal.commonName }} fun facts</h2>
+  <ul class="space-y-2.5">
+    {% for fact in animal.funFacts %}
+    <li class="flex gap-3"><span class="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-emerald-600"></span><span class="prose-p">{{ fact }}</span></li>
+    {% endfor %}
+  </ul>
+
+  {% if animal.appearsInLists or animal.comparisons %}
+  <h2 class="h2">{{ icon('trophy', 'w-6 h-6 text-emerald-700') }} Rankings and comparisons</h2>
+  <div class="flex flex-wrap gap-2">
+    {% for l in animal.appearsInLists %}<a href="{{ l.url }}" class="chip"><strong>#{{ l.rank }}</strong> {{ l.title }}</a>{% endfor %}
+    {% for c in animal.comparisons %}<a href="{{ c.url }}" class="chip">{{ icon('scale', 'w-4 h-4') }} {{ c.title }}</a>{% endfor %}
+  </div>
+  {% endif %}
+
+  <h2 class="h2">{{ icon('circle-help', 'w-6 h-6 text-emerald-700') }} {{ animal.commonName }} FAQ</h2>
+  {{ faq_block(animal.faq) }}
+
+  {{ ad('in_article_2') }}
+
+  {% if animal.related %}
+  <h2 class="h2">{{ icon('list', 'w-6 h-6 text-emerald-700') }} Related animals</h2>
+  <div class="grid grid-cols-2 gap-3 sm:grid-cols-3">
+    {% for r in animal.related %}
+    <a href="{{ r.url }}" class="card group flex flex-col gap-0.5 p-3 transition hover:border-emerald-500 hover:shadow">
+      <span class="font-bold text-slate-900 group-hover:text-emerald-700">{{ r.commonName }}</span>
+      <span class="text-xs italic text-slate-500">{{ r.scientificName }}</span>
+      <span class="mt-1 text-xs text-slate-600">{{ r.facts.lifespan.display }}{% if r.facts.weight %} · {{ r.facts.weight.display.split(' (')[0] }}{% endif %}</span>
+    </a>
+    {% endfor %}
+  </div>
+  {% endif %}
+  <p class="mt-6"><a href="{{ animal.cls.url }}" class="inline-flex items-center gap-1.5 rounded-full bg-emerald-700 px-4 py-2 text-sm font-semibold text-white hover:bg-emerald-800">All {{ animal.cls.name|lower }} {{ icon('arrow-right', 'w-4 h-4') }}</a></p>
+
+  <div class="mt-8 border-t border-slate-200 pt-4 text-xs leading-relaxed text-slate-500">
+    <p><strong class="text-slate-600">Sources:</strong> {% for s in animal.meta.sources %}<a href="{{ s.url }}" rel="noopener nofollow" class="underline">{{ s.name }}</a>{% if not loop.last %} · {% endif %}{% endfor %}. Reviewed {{ site.updated }}. Figures are typical adult ranges; individuals and populations vary. <a href="/about/" class="underline">How we compile this data</a>.</p>
+  </div>
+</article>
+{% endblock %}

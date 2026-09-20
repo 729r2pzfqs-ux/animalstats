@@ -1,0 +1,20 @@
+{
+  "slug": "goliath-frog",
+  "commonName": "Goliath Frog",
+  "scientificName": "Conraua goliath",
+  "classSlug": "amphibians",
+  "aliases": [],
+  "qid": "Q739887",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Goliath frog",
+  "taxonomy": {
+    "species": "Conraua goliath",
+    "genus": "Conraua",
+    "family": "Petropedetidae",
+    "order": "Anura",
+    "class": "Amphibia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

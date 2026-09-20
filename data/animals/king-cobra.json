@@ -1,0 +1,64 @@
+{
+  "slug": "king-cobra",
+  "commonName": "King Cobra",
+  "scientificName": "Ophiophagus hannah",
+  "alternateNames": ["Hamadryad"],
+  "nameSingular": "king cobra",
+  "namePlural": "king cobras",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Squamata", "family": "Elapidae", "genus": "Ophiophagus", "species": "O. hannah"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 20, "unit": "years", "context": "estimated in the wild", "display": "about 15–20 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 5, "max": 9, "unit": "kg", "context": "typical adults; the heaviest recorded captive weighed 12.7 kg", "display": "5–9 kg (11–20 lb)"},
+    "height": {"min": 3, "max": 4, "unit": "m", "label": "Length", "display": "3–4 m (10–13 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 60, "max": 90, "unit": "days", "label": "Incubation", "display": "60–90 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mostly other snakes, including rat snakes, pythons, kraits, true cobras and smaller king cobras. Monitor lizards are taken occasionally, and rodents or birds only rarely when snakes are scarce.",
+    "habitat": ["Tropical rainforest", "Bamboo thickets", "Mangrove swamps", "Forest streams", "Tea and palm plantations"],
+    "range": "India, including the Western Ghats and the northeast, through Bangladesh, Myanmar and southern China to Thailand, Vietnam, Malaysia, Indonesia and the Philippines.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The king cobra is the longest venomous snake in the world, regularly reaching 3–4 m and occasionally more than 5 m. Despite its name it is not a true cobra of the genus Naja; it is the only member of its own genus, Ophiophagus, which means snake eater, and other snakes make up nearly all of its diet. When threatened it can raise the front third of its body off the ground, spread a narrow hood and give a deep, growl-like hiss. It is also the only snake known to build a nest for its eggs. A 2024 study proposed dividing it into four separate species.",
+  "answers": {
+    "lifespan": "King cobras are thought to live about 15–20 years in the wild. Well-kept captive animals can reach around 20 years or slightly more. Wild lifespans are estimates, because these shy forest snakes are hard to follow over time; radio-tracking studies in India and Thailand have only recently begun to fill the gap.",
+    "weight": "Adult king cobras typically weigh 5–9 kg (11–20 lb). They are long but fairly slender, so they weigh far less than a python of the same length. The heaviest on record, a captive at the New York Zoological Park, weighed 12.7 kg (28 lb).",
+    "size": "Adult king cobras are usually 3–4 m (10–13 ft) long, which makes them the longest venomous snakes in the world. The longest on record, kept at London Zoo in the 1930s, grew to 5.71 m (18 ft 9 in). Males grow larger than females, which is unusual among snakes.",
+    "speed": null,
+    "gestation": "King cobra eggs incubate for 60–90 days. The female scrapes leaf litter into a mound with her coils, lays about 20–40 eggs inside and stays on the nest to guard them, the only snake known to build a nest. She usually leaves shortly before the young hatch.",
+    "diet": "King cobras are carnivores that eat mainly other snakes, including rat snakes, pythons, kraits and other cobras. They track prey by scent, bite and hang on while the venom works, then swallow the snake head first. After a big meal a king cobra may not need to eat again for months.",
+    "habitat": "King cobras live in forests across South and Southeast Asia, from India to Indonesia and the Philippines. They favor dense rainforest, bamboo stands and mangroves, usually near streams, but also turn up in tea estates and farmland next to forest.",
+    "conservation": "The king cobra is listed as Vulnerable on the IUCN Red List, and its population is decreasing. The main causes are deforestation, killing out of fear, and collection for skins, meat, traditional medicine and the pet trade. It is protected in India and listed on CITES Appendix II."
+  },
+  "funFacts": [
+    "A king cobra can lift roughly a third of its body off the ground, enough for a large one to look an adult person in the eye.",
+    "Its hiss is much lower-pitched than other snakes' and is often described as sounding like a growling dog.",
+    "The genus name Ophiophagus literally means snake eater.",
+    "King cobra venom is not the most toxic of any snake, but a single bite can deliver a very large dose, reportedly enough to kill an Asian elephant.",
+    "The king cobra is the only snake known to build a nest, gathering leaves into a mound with loops of its body."
+  ],
+  "relatedAnimals": ["indian-cobra", "black-mamba", "reticulated-python", "burmese-python", "rattlesnake", "honey-badger"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is a king cobra a real cobra?", "answer": "Not strictly. True cobras belong to the genus Naja, while the king cobra is the sole member of the genus Ophiophagus. It spreads a hood like a cobra, but the hood is narrower, the snake is far larger, and genetic studies suggest it may be closer to the mambas than to true cobras."},
+    {"question": "How deadly is a king cobra bite?", "answer": "Very. The venom is a neurotoxin that can cause paralysis and respiratory failure, and an untreated bite can kill a person in as little as 30 minutes. With prompt antivenom and breathing support most victims survive. Bites are rare, because king cobras avoid people."},
+    {"question": "Are king cobras aggressive?", "answer": "Generally no. King cobras are shy and usually retreat when they sense people. If cornered they rear up, spread the hood and hiss as a warning, and may make closed-mouth bluff strikes. Females guarding a nest are more defensive than other individuals."},
+    {"question": "What eats a king cobra?", "answer": "Adult king cobras have few natural predators. Mongooses, which are quick and partly resistant to cobra venom, occasionally kill young ones, and birds of prey take juveniles. Larger king cobras sometimes eat smaller ones. People are by far the biggest threat."},
+    {"question": "Who would win, a king cobra or a black mamba?", "answer": "They never meet, since king cobras live in Asia and black mambas in Africa. The king cobra is longer and much heavier and specializes in killing and eating other snakes, while the mamba is faster with quicker-acting venom. Any answer is speculation."}
+  ],
+  "meta": {
+    "title": "King Cobra Facts: Length, Venom, Diet & Lifespan",
+    "description": "King cobras are the longest venomous snakes at 3–4 m (10–13 ft), weigh 5–9 kg and live about 20 years. Venom, snake-eating diet, nests and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Ophiophagus%20hannah&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Ophiophagus_hannah/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/King_cobra"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q48186"}
+    ]
+  }
+}

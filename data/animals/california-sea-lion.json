@@ -1,0 +1,64 @@
+{
+  "slug": "california-sea-lion",
+  "commonName": "California Sea Lion",
+  "scientificName": "Zalophus californianus",
+  "alternateNames": ["Sea lion"],
+  "nameSingular": "California sea lion",
+  "namePlural": "California sea lions",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Otariidae", "genus": "Zalophus", "species": "Z. californianus"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 25, "unit": "years", "context": "in the wild", "display": "15–25 years"},
+    "lifespanCaptivity": {"min": 25, "max": 30, "unit": "years", "context": "in human care", "display": "25–30 years"},
+    "weight": {"min": 100, "max": 350, "unit": "kg", "context": "adult females about 100 kg, adult males about 300–350 kg", "display": "100–350 kg (220–770 lb)"},
+    "height": {"min": 1.8, "max": 2.4, "unit": "m", "label": "Length", "display": "1.8–2.4 m (5.9–7.9 ft)"},
+    "speed": {"min": 40, "max": 40, "unit": "km/h", "verb": "swim", "context": "short bursts; cruising speed is around 15–18 km/h", "display": "up to 40 km/h (25 mph)"},
+    "gestationPeriod": {"min": 330, "max": 350, "unit": "days", "label": "Gestation", "display": "about 11 months, including delayed implantation"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Schooling fish and squid, including anchovies, sardines, mackerel, hake, rockfish, herring, salmon and market squid, taken opportunistically wherever prey is concentrated near the coast.",
+    "habitat": ["Coastal waters", "Rocky and sandy shores", "Offshore islands", "Harbors and marinas"],
+    "range": "The Pacific coast of North America from southeast Alaska to central Mexico, including the Gulf of California, with most breeding on islands off southern California and Baja California.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The California sea lion is the sleek, noisy, dark brown sea lion seen on docks, buoys and beaches along the west coast of North America, and the species most often trained in zoos, aquariums and by the US Navy. It is an eared seal, with small external ear flaps and long front flippers, and it can rotate its hind flippers forward to walk and gallop on land. Adult males are three to four times heavier than females and develop a raised bony crest on the forehead. California sea lions are highly social, gather in dense colonies, and are fast, agile and intelligent hunters.",
+  "answers": {
+    "lifespan": "California sea lions live 15–25 years in the wild and 25–30 years in zoos and aquariums. Pups and yearlings have the highest death rates, particularly in El Niño years when warm water drives prey away. Orcas and large sharks are their main predators.",
+    "weight": "Adult female California sea lions weigh about 100 kg (220 lb), and adult males weigh about 300–350 kg (660–770 lb), with the largest bulls approaching 400 kg. Males are therefore three to four times heavier than females. Breeding bulls fast for weeks while defending territories and lose much of that bulk.",
+    "size": "California sea lions are 1.8–2.4 m (5.9–7.9 ft) long: adult females average about 1.8 m and adult males about 2.4 m. Males also have a thicker neck and chest and a pronounced forehead crest, which often turns pale with age. Pups are roughly 75 cm long at birth.",
+    "speed": "California sea lions can swim at up to about 40 km/h (25 mph) in short bursts, which makes them among the fastest seals and sea lions. They cruise at around 15–18 km/h and often leap clear of the water, or porpoise, when traveling fast.",
+    "gestation": "A California sea lion's pregnancy lasts about 11 months in total, including roughly three months of delayed implantation before the embryo starts to develop. Most pups are born in June or July, and mothers mate again about three to four weeks later. Pups nurse for six months to a year.",
+    "diet": "California sea lions are carnivores that eat fish and squid, including anchovies, sardines, mackerel, hake, rockfish and salmon. An adult eats roughly 5–8 percent of its body weight a day. They hunt alone or in groups and sometimes gather at river mouths and dams to catch migrating salmon.",
+    "habitat": "California sea lions live along the Pacific coast from southeast Alaska to central Mexico, mostly within about 20 km of shore. They haul out on sandy and rocky beaches and on docks, jetties and buoys. Breeding is centered on California's Channel Islands and islands off Baja California and in the Gulf of California.",
+    "conservation": "The California sea lion is listed as Least Concern on the IUCN Red List, and its population is increasing. Numbers have grown several-fold since the US Marine Mammal Protection Act of 1972, to more than 250,000 in US waters. Current problems include entanglement in fishing gear, toxic algal blooms that cause domoic acid poisoning, and El Niño food shortages."
+  },
+  "funFacts": [
+    "The performing seals seen in circuses and marine parks are almost always California sea lions.",
+    "A California sea lion named Ronan learned to bob her head in time to music, the first non-human mammal shown to keep a beat.",
+    "The US Navy trains California sea lions to locate and mark underwater objects and swimmers; they can dive repeatedly without getting decompression sickness.",
+    "They can dive to nearly 300 m (900 ft) and stay under for almost 10 minutes, though most dives are far shorter.",
+    "Sea lions began crowding onto the docks at San Francisco's Pier 39 shortly after the 1989 Loma Prieta earthquake, and have been there ever since."
+  ],
+  "relatedAnimals": ["harbor-seal", "walrus", "sea-otter", "orca", "great-white-shark", "bottlenose-dolphin"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are California sea lions dangerous to humans?", "answer": "They usually are not, but they are large wild predators with strong jaws. Bites happen when people get too close, feed them or let dogs approach. Sea lions sick with domoic acid poisoning can behave aggressively and unpredictably, so it is safest to stay at least 50 meters away."},
+    {"question": "Why do sea lions bark?", "answer": "Barking is how California sea lions communicate. Males bark almost constantly during the breeding season to advertise and defend their territories, mothers and pups find each other in crowded colonies by voice, and barks also serve as threats and alarm calls."},
+    {"question": "What is the difference between a sea lion and a seal?", "answer": "Sea lions have small external ear flaps, long front flippers that they swim with, and hind flippers that turn forward so they can walk on land. True seals, such as harbor seals, have no ear flaps, swim with their hind flippers and crawl on their bellies."},
+    {"question": "What eats California sea lions?", "answer": "Orcas and large sharks, especially great white sharks, are the main predators of California sea lions. Pups on land may also be taken by coyotes and feral dogs in a few places. Sea lions often bear scars from shark bites they have survived."},
+    {"question": "Where is the best place to see California sea lions?", "answer": "Famous viewing spots include Pier 39 in San Francisco, La Jolla Cove in San Diego, the Monterey and Santa Cruz wharves, the Channel Islands, and the docks at Astoria and Newport in Oregon. In Mexico, Los Islotes near La Paz is a well-known colony."}
+  ],
+  "meta": {
+    "title": "California Sea Lion Facts: Size, Speed, Lifespan & Diet",
+    "description": "California sea lions live 15–25 years in the wild. Males weigh 300–350 kg, females about 100 kg, and they swim at up to 40 km/h. Diet, habitat and pups.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Zalophus%20californianus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Zalophus_californianus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Zalophus_californianus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/California_sea_lion"}
+    ]
+  }
+}

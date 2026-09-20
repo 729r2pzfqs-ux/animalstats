@@ -1,0 +1,64 @@
+{
+  "slug": "greenland-shark",
+  "commonName": "Greenland Shark",
+  "scientificName": "Somniosus microcephalus",
+  "alternateNames": ["Gurry shark", "Grey shark", "Eqalussuaq"],
+  "nameSingular": "Greenland shark",
+  "namePlural": "Greenland sharks",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Chondrichthyes", "classSlug": "fish", "order": "Squaliformes", "family": "Somniosidae", "genus": "Somniosus", "species": "S. microcephalus"},
+  "facts": {
+    "lifespan": {"min": 250, "max": 500, "unit": "years", "context": "estimated by radiocarbon dating of eye lenses; the oldest shark studied was 392 ± 120 years, so uncertainty is large", "display": "an estimated 250–500 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 300, "max": 1000, "unit": "kg", "context": "adults; most weigh a few hundred kilograms and the largest about 1,000 kg or more", "display": "about 300–1,000 kg (660–2,200 lb)"},
+    "height": {"min": 2.4, "max": 4.8, "unit": "m", "label": "Length", "display": "2.4–4.8 m (8–16 ft)"},
+    "speed": {"min": 1.2, "max": 2.6, "unit": "km/h", "verb": "swim", "context": "measured by tags: average cruising speed to fastest recorded burst", "display": "1.2–2.6 km/h (0.8–1.6 mph)"},
+    "gestationPeriod": null
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Fish such as cod, halibut, wolffish, redfish and skates, plus squid and seals, and carrion ranging from whale carcasses to drowned reindeer, polar bear and moose remains found in stomachs.",
+    "habitat": ["Deep sea", "Arctic and subarctic seas", "Continental slopes", "Fjords"],
+    "range": "North Atlantic and Arctic Oceans, from eastern Canada, Greenland and Iceland to Norway and the Barents Sea, living deeper toward the south of its range.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The Greenland shark is a huge, sluggish sleeper shark of the cold North Atlantic and Arctic and the longest-lived vertebrate known. A 2016 study that radiocarbon-dated proteins in the eye lens estimated that these sharks live for centuries and do not mature until about 150 years old. They grow less than a centimeter a year, swim slower than any other fish of their size, and spend most of their lives in near-freezing water as deep as 2,200 m. Most carry a parasitic copepod on each eye that leaves them nearly blind. Their flesh is toxic unless specially cured, as in Iceland's fermented dish hákarl.",
+  "answers": {
+    "lifespan": "Greenland sharks are estimated to live at least 250 years and possibly up to 500, the longest of any vertebrate. The figure comes from a 2016 radiocarbon study of eye lenses from 28 sharks; the largest, a 5 m female, was dated to 392 years, give or take 120. The uncertainty is large, so ages quoted as exact are misleading.",
+    "weight": "Adult Greenland sharks weigh roughly 300–1,000 kg (660–2,200 lb). Most of those caught measure 2.4–4.8 m and weigh a few hundred kilograms, while the largest individuals, over 6 m long, are estimated to exceed 1,000 kg. Few have been weighed accurately because they are rarely landed whole.",
+    "size": "Greenland sharks are typically 2.4–4.8 m (8–16 ft) long, and the largest confirmed reach about 6.4 m (21 ft), with unverified reports of 7 m or more. That rivals the great white for the title of largest predatory shark. They grow extremely slowly, by about 1 cm or less per year.",
+    "speed": "Greenland sharks cruise at about 1.2 km/h (0.8 mph) and their fastest recorded burst is only about 2.6 km/h (1.6 mph). Measured with tags attached to free-swimming sharks, this is the slowest swimming speed known for a fish of its size, a consequence of living in water near 0 °C.",
+    "gestation": null,
+    "diet": "Greenland sharks are carnivores and scavengers that eat fish such as cod, halibut and skates, along with squid, seals and carrion. Reindeer, polar bear and moose remains have turned up in their stomachs. Because they are so slow, scientists think they catch seals by ambushing them while the seals sleep in the water.",
+    "habitat": "Greenland sharks live in the cold, deep waters of the North Atlantic and Arctic Oceans, usually at temperatures of −1 to 10 °C. They have been recorded from the surface, mainly in the far north in winter, down to about 2,200 m, and stay deeper in the warmer southern parts of their range.",
+    "conservation": "The Greenland shark is listed as Vulnerable on the IUCN Red List, and its population is thought to be decreasing. It was fished heavily for liver oil until the 1960s and is still caught accidentally in trawls and longlines set for halibut and shrimp. With maturity at about 150 years, lost adults take centuries to replace."
+  },
+  "funFacts": [
+    "Greenland sharks are thought to reach sexual maturity at around 150 years old, later than any other known animal.",
+    "Most Greenland sharks have a parasitic copepod, Ommatokoita elongata, hanging from each cornea, which badly damages their vision.",
+    "Fresh Greenland shark meat is toxic because of high levels of trimethylamine N-oxide; Icelanders ferment and dry it for months to make hákarl.",
+    "A Greenland shark alive today could have been born before the United States was founded, if the upper age estimates are right.",
+    "The species belongs to the sleeper shark family, named for the sluggish, seemingly drowsy way these sharks move."
+  ],
+  "relatedAnimals": ["great-white-shark", "whale-shark", "bowhead-whale", "tiger-shark", "ocean-quahog", "narwhal"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How do scientists know how old Greenland sharks are?", "answer": "Scientists radiocarbon-date the center of the eye lens, which forms before birth and never changes. Sharks born after the 1950s carry a carbon-14 spike from nuclear bomb tests, which anchors a growth curve used to estimate older sharks. The method gives broad ranges, such as 272–512 years for the oldest shark studied."},
+    {"question": "Is the Greenland shark the oldest living animal?", "answer": "The Greenland shark is the longest-lived vertebrate known, ahead of the bowhead whale at around 200 years. Some invertebrates live longer: an ocean quahog clam was aged at 507 years, and certain corals and sponges are thought to survive for thousands of years."},
+    {"question": "Are Greenland sharks dangerous to humans?", "answer": "There are no verified attacks by Greenland sharks on people. They live in deep, near-freezing water where swimmers are absent, and they move very slowly. Their size means they should be treated with caution, but the only real hazard they pose is their toxic flesh if eaten uncured."},
+    {"question": "Are Greenland sharks blind?", "answer": "Many are nearly blind. A parasitic copepod attaches to the cornea of most Greenland sharks and scars the eye. It seems to matter little, because the sharks live in deep, dark water and hunt mainly by smell and by sensing movement and electrical fields."},
+    {"question": "Can you eat Greenland shark?", "answer": "Only after processing. The fresh meat contains so much trimethylamine N-oxide and urea that eating it causes symptoms resembling extreme drunkenness. In Iceland the meat is fermented for weeks and hung to dry for several months to make hákarl, which has a strong ammonia smell."}
+  ],
+  "meta": {
+    "title": "How Long Do Greenland Sharks Live? Age, Size & Facts",
+    "description": "Greenland sharks live an estimated 250–500 years, the longest of any vertebrate, grow 2.4–4.8 m long and cruise at about 1.2 km/h. Diet, habitat, status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Somniosus%20microcephalus&searchType=species"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Somniosus_microcephalus"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Somniosus_microcephalus/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Greenland_shark"}
+    ]
+  }
+}

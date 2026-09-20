@@ -1,0 +1,20 @@
+{
+  "slug": "great-horned-owl",
+  "commonName": "Great Horned Owl",
+  "scientificName": "Bubo virginianus",
+  "classSlug": "birds",
+  "aliases": [
+    "owl"
+  ],
+  "qid": "Q81515",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Great horned owl",
+  "taxonomy": {
+    "species": "Bubo virginianus",
+    "genus": "Bubo",
+    "family": "Strigidae",
+    "order": "Strigiformes",
+    "class": "Aves"
+  },
+  "quantities": []
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "goldfish",
+  "commonName": "Goldfish",
+  "scientificName": "Carassius auratus",
+  "alternateNames": ["Common goldfish", "Golden crucian carp"],
+  "nameSingular": "goldfish",
+  "namePlural": "goldfish",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Cypriniformes", "family": "Cyprinidae", "genus": "Carassius", "species": "C. auratus"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 15, "unit": "years", "context": "with good care in a large tank or pond; the record is 43 years", "display": "10–15 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 100, "max": 500, "unit": "g", "context": "adult common goldfish; pond fish are heaviest and rare giants exceed 2 kg", "display": "100–500 g (3.5 oz–1.1 lb)"},
+    "height": {"min": 10, "max": 30, "unit": "cm", "label": "Length", "display": "10–30 cm (4–12 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 2, "max": 7, "unit": "days", "label": "Egg development", "display": "2–7 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Plants, algae, insect larvae, small crustaceans, worms and detritus; pet goldfish do well on sinking pellets or flakes supplemented with vegetables such as shelled peas.",
+    "habitat": ["Aquariums", "Garden ponds", "Slow rivers", "Lakes"],
+    "range": "Domesticated in China from wild East Asian carp; now kept worldwide, with feral populations established in fresh waters on every continent except Antarctica.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "The goldfish is a small freshwater carp that was domesticated in China more than 1,000 years ago, making it one of the oldest pet fish. Breeders selected naturally occurring orange and yellow mutants of a dull, olive-colored wild carp, and centuries of selection have produced well over a hundred varieties, from the streamlined common and comet goldfish to round-bodied fancy types such as orandas, ryukins and telescope eyes. Goldfish are hardy, social and tolerant of cold water, but they grow much larger and live far longer than most owners expect, which is why small bowls suit them poorly.",
+  "answers": {
+    "lifespan": "Goldfish live 10–15 years on average when they are kept in a large, filtered tank or pond, and some pass 20. The oldest on record, a fairground prize named Tish, reached 43 years. Most pet goldfish die far younger because bowls and small unfiltered tanks let waste build up to toxic levels.",
+    "weight": "An adult goldfish typically weighs 100–500 g (3.5 oz–1.1 lb). Slim-bodied common and comet goldfish kept in ponds are the heaviest, while round fancy varieties stay smaller. Feral goldfish released into lakes have occasionally been caught at more than 2 kg (4.4 lb), but those are exceptional fish.",
+    "size": "Goldfish grow 10–30 cm (4–12 in) long as adults. Fancy varieties usually stay at 10–20 cm, while common and comet goldfish in ponds often reach 25–30 cm. The longest goldfish measured by Guinness World Records was 47.4 cm. Goldfish do not stay small to fit their tank; cramped fish are simply stunted by poor water quality.",
+    "speed": null,
+    "gestation": "Goldfish eggs hatch in 2–7 days, depending on water temperature. Goldfish do not get pregnant: a female scatters hundreds to thousands of sticky eggs onto plants and the male fertilizes them in the water. At around 20–24 °C most eggs hatch in three to four days, and cooler water slows development.",
+    "diet": "Goldfish are omnivores that eat plants, algae, insect larvae, small crustaceans and detritus. Pet goldfish should get a sinking pellet or flake as a staple, plus vegetables such as shelled peas or blanched greens. They have no true stomach, so several small meals suit them better than one large one.",
+    "habitat": "Goldfish live in aquariums and garden ponds worldwide, and feral populations live in slow rivers, lakes and ponds on every continent except Antarctica. Their wild ancestors come from slow, plant-rich fresh waters of East Asia. Goldfish tolerate cold, low-oxygen water well, which is why they overwinter under pond ice.",
+    "conservation": "Goldfish are domesticated and are not at risk; the wild form of Carassius auratus is rated Least Concern by the IUCN. The conservation problem runs the other way: released pet goldfish become invasive, growing large, stirring up sediment and competing with native fish, so unwanted goldfish should never be released."
+  },
+  "funFacts": [
+    "Goldfish can remember things for months, not three seconds; in experiments they learn to press levers, navigate mazes and anticipate feeding times.",
+    "A goldfish has no true stomach, so food passes straight into a long intestine and the fish forages almost constantly.",
+    "The oldest known goldfish, Tish from North Yorkshire in England, was won at a fair in 1956 and lived to the age of 43.",
+    "Goldfish kept in the dark for long periods gradually lose their color, because their pigment cells respond to light.",
+    "Goldfish can survive for months under pond ice with almost no oxygen by converting lactic acid into alcohol, which diffuses out through their gills."
+  ],
+  "relatedAnimals": ["koi", "betta", "guppy", "clownfish", "axolotl"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do goldfish really have a three-second memory?", "answer": "No. Goldfish remember things for at least several months. In studies they have learned to push levers for food, recognize feeding times and colors, and find their way through simple mazes, then repeated the behavior after long breaks. Many owners notice their fish recognize the person who feeds them."},
+    {"question": "How big a tank does a goldfish need?", "answer": "A commonly recommended minimum is about 75 liters (20 gallons) for one fancy goldfish, plus roughly 40 liters for each additional fish, with strong filtration. Common and comet goldfish grow larger and do best in ponds or much bigger tanks. Bowls are unsuitable because waste builds up quickly."},
+    {"question": "Can goldfish live in a bowl?", "answer": "A goldfish can survive for a while in a bowl, but it will not thrive. Goldfish produce a lot of waste, and a small unfiltered volume of water quickly becomes toxic with ammonia, which stunts growth and shortens life from a potential 10–15 years to a year or two."},
+    {"question": "Why do goldfish turn white or black?", "answer": "Goldfish change color because of genetics, age, light levels and water quality. Many young goldfish start out bronze and turn orange in their first year, and some later fade to white. Black patches that appear suddenly are often healing ammonia burns, which point to a water quality problem."},
+    {"question": "Can goldfish live with other fish?", "answer": "Goldfish do best with other goldfish of a similar body type. They prefer cooler water than most tropical aquarium fish, eat anything small enough to fit in their mouths, and slow fancy varieties are easily outcompeted for food by faster single-tailed goldfish."}
+  ],
+  "meta": {
+    "title": "Goldfish Facts: Lifespan, Size, Diet & Care Basics",
+    "description": "Goldfish live 10–15 years with good care (record 43), grow 10–30 cm long and weigh 100–500 g. Diet, tank needs, egg hatching and more goldfish facts.",
+    "sources": [
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Carassius_auratus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Carassius_auratus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Goldfish"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q123141"}
+    ]
+  }
+}

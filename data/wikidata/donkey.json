@@ -1,0 +1,29 @@
+{
+  "slug": "donkey",
+  "commonName": "Donkey",
+  "scientificName": "Equus asinus",
+  "classSlug": "mammals",
+  "aliases": [
+    "ass",
+    "burro"
+  ],
+  "qid": "Q19829417",
+  "iucnStatus": null,
+  "wikipedia": null,
+  "taxonomy": {
+    "species": "Equus asinus",
+    "genus": "Equus",
+    "family": "Equidae",
+    "order": "Perissodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "367.5",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

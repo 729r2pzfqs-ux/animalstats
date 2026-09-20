@@ -1,0 +1,22 @@
+{
+  "slug": "mosquito",
+  "commonName": "Yellow Fever Mosquito",
+  "scientificName": "Aedes aegypti",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "mosquito"
+  ],
+  "qid": "Q1148004",
+  "iucnStatus": null,
+  "wikipedia": "Aedes aegypti",
+  "taxonomy": {
+    "species": "Aedes aegypti",
+    "genus": "Aedes",
+    "family": "Culicidae",
+    "order": "Diptera",
+    "class": "Insecta",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "cow",
+  "commonName": "Cow",
+  "scientificName": "Bos taurus",
+  "alternateNames": ["Cattle", "Domestic cattle", "Bull", "Ox"],
+  "nameSingular": "cow",
+  "namePlural": "cows",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Bovidae", "genus": "Bos", "species": "B. taurus"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 20, "unit": "years", "context": "natural lifespan; most farmed cattle are slaughtered far younger", "display": "15–20 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 400, "max": 1100, "unit": "kg", "context": "adult cows 400–800 kg, bulls of large breeds 900–1,100 kg or more", "display": "400–1,100 kg (880–2,400 lb)"},
+    "height": {"min": 1.2, "max": 1.5, "unit": "m", "label": "Shoulder height", "display": "1.2–1.5 m (4–5 ft)"},
+    "speed": {"min": 40, "max": 40, "unit": "km/h", "verb": "run", "context": "short bursts; commonly cited figure", "display": "about 40 km/h (25 mph)"},
+    "gestationPeriod": {"min": 279, "max": 287, "unit": "days", "label": "Gestation", "display": "about 283 days (9 months)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Grass and other pasture plants, hay and silage, often supplemented with grain and protein feeds on farms; as ruminants, cattle ferment plant fiber in a four-chambered stomach and chew cud.",
+    "habitat": ["Pasture", "Grassland", "Farmland", "Rangeland"],
+    "range": "Farmed on every continent except Antarctica, with the largest herds in Brazil, India, the United States, China and Ethiopia.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "Cattle are large domesticated hoofed mammals raised for milk, meat, leather and draft power. Strictly, a cow is an adult female that has calved, a bull is an intact male, a steer is a castrated male and a heifer is a young female, but 'cow' is widely used for any of them. Cattle descend from the aurochs, a huge wild ox domesticated in the Near East about 10,500 years ago; the last aurochs died in Poland in 1627. Humped zebu cattle, domesticated separately in South Asia, are often treated as a subspecies or separate species. There are well over a thousand breeds worldwide.",
+  "answers": {
+    "lifespan": "Cows can live 15–20 years if allowed to reach old age. Few do: beef cattle are typically slaughtered at one to two years old, and dairy cows are usually culled at around five or six when milk yield drops. The oldest cow on record, Big Bertha of Ireland, lived to 48.",
+    "weight": "Adult cattle weigh 400–1,100 kg (880–2,400 lb) depending on breed and sex. A Jersey cow weighs about 400–450 kg and a Holstein cow 600–700 kg, while bulls of large beef breeds such as Charolais and Chianina commonly exceed 1,000 kg. Newborn calves weigh 25–45 kg.",
+    "size": "Most cattle stand 1.2–1.5 m (4–5 ft) tall at the shoulder. Holstein cows average about 1.45 m, small breeds such as the Dexter are around 1 m, and Chianina bulls, the tallest breed, can reach 1.8 m.",
+    "speed": "A cow can run at about 40 km/h (25 mph) in a short burst. Cattle seldom run and cannot keep up that pace for long, but a startled or protective animal can easily outrun a person, which is one reason walkers are advised to give cows with calves a wide berth.",
+    "gestation": "A cow is pregnant for about 283 days, a little over nine months, which is close to human pregnancy. The normal range is roughly 279–287 days and varies slightly by breed. Cows usually have one calf; twins occur in only a few percent of births.",
+    "diet": "Cows are herbivores that eat grass, hay, silage and, on many farms, grain. They are ruminants with a four-chambered stomach: microbes in the rumen break down cellulose, and the cow regurgitates and re-chews the cud. A dairy cow can eat over 20 kg of dry feed and drink 100 liters of water a day.",
+    "habitat": "Cattle live on pastures, rangeland and farms on every continent except Antarctica. European-type breeds do best in temperate climates, while humped zebu cattle tolerate heat, drought and ticks better and dominate in South Asia, Africa and the tropics of South America.",
+    "conservation": "Cattle are domesticated and have no IUCN Red List status; with roughly 1.5 billion animals they are among the most numerous large mammals on Earth. Their wild ancestor, the aurochs, went extinct in 1627. Many traditional local breeds, however, are rare and at risk of disappearing."
+  },
+  "funFacts": [
+    "A cow has one stomach with four chambers: the rumen, reticulum, omasum and abomasum.",
+    "Cattle spend around eight hours a day chewing cud, making tens of thousands of jaw movements.",
+    "Cows have almost panoramic vision of about 330 degrees but poor depth perception.",
+    "Cattle have no upper front teeth; they tear grass by pressing their lower incisors against a tough dental pad.",
+    "A high-yielding Holstein dairy cow can produce more than 30 liters of milk a day."
+  ],
+  "relatedAnimals": ["american-bison", "african-buffalo", "sheep", "goat", "horse", "pig"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a cow and a bull?", "answer": "A cow is an adult female that has had at least one calf, and a bull is an adult male that has not been castrated. A heifer is a young female that has not calved, a steer is a castrated male raised for beef, and an ox is a trained draft animal."},
+    {"question": "Do cows have four stomachs?", "answer": "Not exactly. A cow has one stomach divided into four compartments: the rumen, reticulum, omasum and abomasum. The rumen works as a large fermentation vat where microbes digest plant fiber, and the abomasum functions like a human stomach."},
+    {"question": "How many cows are there in the world?", "answer": "There are roughly 1.5 billion cattle worldwide according to UN Food and Agriculture Organization statistics. Brazil and India have the largest national herds, followed by the United States, China and Ethiopia."},
+    {"question": "Are cows dangerous?", "answer": "Cattle are usually placid, but they are large, strong animals and do kill people each year, mostly farm workers. Bulls and cows protecting calves are the most dangerous, and walkers with dogs are at particular risk in fields with calves."},
+    {"question": "Do all cows have horns?", "answer": "No. In horned breeds both males and females grow horns, but many farm animals are dehorned as calves. Some breeds, such as Angus, are naturally hornless, which is called polled."}
+  ],
+  "meta": {
+    "title": "Cow Facts: Lifespan, Weight, Gestation & Diet of Cattle",
+    "description": "Cows can live 15–20 years, weigh 400–1,100 kg (880–2,400 lb) and are pregnant for about 283 days. Size, speed, diet and more facts about cattle.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Cattle"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Bos_taurus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Bos_taurus"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q19610691"}
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bobcat",
+  "commonName": "Bobcat",
+  "scientificName": "Lynx rufus",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q131907",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Bobcat",
+  "taxonomy": {
+    "species": "Lynx rufus",
+    "genus": "Lynx",
+    "family": "Felidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "310",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "65",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

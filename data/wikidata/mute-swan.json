@@ -1,0 +1,45 @@
+{
+  "slug": "mute-swan",
+  "commonName": "Mute Swan",
+  "scientificName": "Cygnus olor",
+  "classSlug": "birds",
+  "aliases": [
+    "swan"
+  ],
+  "qid": "Q25402",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Mute swan",
+  "taxonomy": {
+    "species": "Cygnus olor",
+    "genus": "Cygnus",
+    "family": "Anatidae",
+    "order": "Anseriformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "11.8",
+      "unit": "kg",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "9.67",
+      "unit": "kg",
+      "sex": "female"
+    },
+    {
+      "property": "height",
+      "amount": "1.2",
+      "unit": "m",
+      "sex": null
+    },
+    {
+      "property": "length",
+      "amount": "147.5",
+      "unit": "cm",
+      "sex": null
+    }
+  ]
+}

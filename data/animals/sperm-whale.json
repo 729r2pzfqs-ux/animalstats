@@ -1,0 +1,64 @@
+{
+  "slug": "sperm-whale",
+  "commonName": "Sperm Whale",
+  "scientificName": "Physeter macrocephalus",
+  "alternateNames": ["Cachalot"],
+  "nameSingular": "sperm whale",
+  "namePlural": "sperm whales",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Physeteridae", "genus": "Physeter", "species": "P. macrocephalus"},
+  "facts": {
+    "lifespan": {"min": 60, "max": 70, "unit": "years", "context": "estimated from tooth growth layers", "display": "60–70 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 14000, "max": 45000, "unit": "kg", "context": "adult females about 14–15 tonnes, adult males about 35–45 tonnes", "display": "14–45 tonnes (15–50 US tons)"},
+    "height": {"min": 11, "max": 16, "unit": "m", "label": "Length", "display": "11–16 m (36–52 ft)"},
+    "speed": {"min": 35, "max": 35, "unit": "km/h", "verb": "swim", "context": "approximate burst speed when alarmed; normally 5–15 km/h", "display": "about 35 km/h (22 mph) in bursts"},
+    "gestationPeriod": {"min": 430, "max": 490, "unit": "days", "label": "Gestation", "display": "14–16 months"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mainly medium-sized and large deep-sea squid, including giant and colossal squid, plus octopuses, rays, sharks and deepwater fish, caught on dives that typically reach 400–1,200 m.",
+    "habitat": ["Deep open ocean", "Continental slopes", "Submarine canyons"],
+    "range": "Deep waters of all oceans from the equator to the edge of the polar ice; females and young stay in tropical and temperate seas while adult males range into polar waters.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Unknown"
+  },
+  "description": "The sperm whale is the largest toothed whale and the largest toothed predator on Earth. Its enormous, box-shaped head makes up about a third of its body length and holds the biggest brain of any animal, along with the spermaceti organ, a mass of waxy oil that early whalers mistook for sperm and that helps focus the whale's sonar clicks. Only the narrow lower jaw carries functional teeth. Like all cetaceans, it is now classified within the even-toed hoofed mammals. Females and young live in tight family units in warm waters, while adult males roam alone as far as the polar seas. Herman Melville's Moby Dick was a sperm whale.",
+  "answers": {
+    "lifespan": "Sperm whales live an estimated 60–70 years, based on growth layers counted in their teeth. Females reach maturity at around 9 years and males do not reach full size until about 50. They have never been kept in captivity, apart from brief attempts to rehabilitate stranded calves.",
+    "weight": "Adult female sperm whales weigh about 14–15 tonnes, and adult males about 35–45 tonnes (up to roughly 50 US tons). Males weigh around three times as much as females, the greatest size difference between the sexes of any whale. The largest bulls on record exceeded 55 tonnes.",
+    "size": "Sperm whales measure 11–16 m (36–52 ft) long: adult females average about 11 m and adult males about 16 m. Exceptional bulls have been measured at more than 18 m, and heavy whaling of the largest males may be why such giants are seldom seen today.",
+    "speed": "Sperm whales can reach roughly 35 km/h (22 mph) in short bursts when alarmed, although figures vary between sources. They normally travel at a relaxed 5–15 km/h at the surface and descend on dives at about 1–3 meters per second.",
+    "gestation": "A sperm whale is pregnant for 14–16 months, one of the longest pregnancies of any mammal. The single calf is about 4 m long and weighs about a tonne at birth. It may nurse for several years, and females give birth only once every four to six years or more.",
+    "diet": "Sperm whales are carnivores that eat mainly deep-sea squid, along with some octopus, fish, rays and sharks. An adult eats roughly 3 percent of its body weight a day. Most prey is modest in size, but sucker scars on their skin show that they also tackle giant and colossal squid.",
+    "habitat": "Sperm whales live in deep water in every ocean, usually beyond the continental shelf where depths exceed 1,000 m. They are common over submarine canyons and continental slopes. Females and calves stay in waters warmer than about 15 degrees Celsius, while adult males feed as far as the polar ice edge.",
+    "conservation": "The sperm whale is listed as Vulnerable on the IUCN Red List, and its population trend is unknown. Whalers killed around a million sperm whales between the 1700s and 1980s. Today the threats are ship strikes, entanglement in fishing gear, swallowed plastic debris and underwater noise."
+  },
+  "funFacts": [
+    "The sperm whale's brain weighs about 8 kg (18 lb), the largest brain of any animal known.",
+    "Sperm whales can dive deeper than 2,000 m (6,500 ft) and stay under for more than an hour, though dives of about 45 minutes are typical.",
+    "Their echolocation clicks can reach about 230 decibels underwater, the loudest sound produced by any animal.",
+    "Sperm whales sleep in short bouts while hanging vertically in the water, often in groups, just below the surface.",
+    "Ambergris, a waxy substance formed in the sperm whale's gut around squid beaks, was once prized by perfume makers and can still fetch high prices."
+  ],
+  "relatedAnimals": ["giant-squid", "orca", "blue-whale", "humpback-whale", "bottlenose-dolphin", "beluga-whale"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why is it called a sperm whale?", "answer": "The name comes from spermaceti, the milky-white waxy oil that fills a large organ in the whale's head. Early whalers thought it looked like semen. Spermaceti was valued for candles, lamp oil and lubricants, which made the sperm whale the main target of the whaling industry."},
+    {"question": "How deep can a sperm whale dive?", "answer": "Sperm whales routinely dive to 400–1,200 m to hunt and can exceed 2,000 m. Typical dives last 30–60 minutes. Collapsible lungs, a flexible rib cage and muscles packed with oxygen-storing myoglobin allow them to cope with the pressure and the long breath-hold."},
+    {"question": "Do sperm whales really fight giant squid?", "answer": "Yes, in the sense that they eat them. Giant and colossal squid beaks are found in sperm whale stomachs, and many whales carry circular scars from squid suckers. No one has ever witnessed such an encounter, and the whale is always the predator rather than the prey."},
+    {"question": "Was Moby Dick based on a real whale?", "answer": "Partly. Herman Melville drew on the sinking of the whaleship Essex, which was rammed by a large sperm whale in the Pacific in 1820, and on stories of Mocha Dick, an aggressive albino sperm whale reported off Chile in the early 1800s."},
+    {"question": "Are sperm whales dangerous to humans?", "answer": "Sperm whales do not hunt people and are usually calm or wary around divers and boats. In the whaling era, harpooned bulls sometimes smashed boats and a few sank ships. Today the realistic risks are accidental, such as a collision or being struck by the tail."}
+  ],
+  "meta": {
+    "title": "Sperm Whale Facts: Size, Diving Depth, Diet & Lifespan",
+    "description": "Sperm whales reach 11–16 m (36–52 ft), weigh 14–45 tonnes and live 60–70 years. They dive past 2,000 m to hunt squid. Gestation, habitat and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Physeter%20macrocephalus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Physeter_macrocephalus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Physeter_macrocephalus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Sperm_whale"}
+    ]
+  }
+}

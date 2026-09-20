@@ -1,0 +1,64 @@
+{
+  "slug": "striped-skunk",
+  "commonName": "Striped Skunk",
+  "scientificName": "Mephitis mephitis",
+  "alternateNames": ["Skunk", "Polecat (US regional)"],
+  "nameSingular": "striped skunk",
+  "namePlural": "striped skunks",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Mephitidae", "genus": "Mephitis", "species": "M. mephitis"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 3, "unit": "years", "context": "average in the wild; occasionally up to 7", "display": "2–3 years"},
+    "lifespanCaptivity": {"min": 8, "max": 10, "unit": "years", "context": "in human care", "display": "up to 10 years"},
+    "weight": {"min": 1.8, "max": 4.5, "unit": "kg", "context": "adults; heaviest in fall, males slightly larger", "display": "1.8–4.5 kg (4–10 lb)"},
+    "height": {"min": 52, "max": 77, "unit": "cm", "label": "Length", "display": "52–77 cm (20–30 in) including tail"},
+    "speed": {"min": 16, "max": 16, "unit": "km/h", "verb": "run", "context": "top speed over short distances", "display": "16 km/h (10 mph)"},
+    "gestationPeriod": {"min": 59, "max": 77, "unit": "days", "label": "Gestation", "display": "59–77 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Mainly insects such as beetles, grubs, grasshoppers and crickets, plus mice, voles, eggs, frogs, carrion, berries, corn and nuts; skunks near people also eat garbage and pet food.",
+    "habitat": ["Woodland edges", "Grassland", "Farmland", "Suburbs"],
+    "range": "Southern Canada, almost all of the contiguous United States and northern Mexico.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The striped skunk is a cat-sized North American mammal famous for the foul-smelling spray it uses in self-defense. Its black coat with a white stripe that splits in two along the back is a warning signal to predators. Skunks were once classed with weasels but are now placed in their own family, Mephitidae. Striped skunks are nocturnal, solitary and rather slow, relying on their chemical defense rather than speed. They den in burrows, hollow logs and under buildings, and in cold regions they spend much of the winter dozing underground, sometimes in shared dens, without truly hibernating.",
+  "answers": {
+    "lifespan": "Striped skunks live about 2–3 years on average in the wild and up to 10 years in human care. Most wild skunks die in their first year or two from vehicle strikes, disease, severe winters and predators such as great horned owls, though a few reach six or seven.",
+    "weight": "Adult striped skunks weigh 1.8–4.5 kg (4–10 lb). Males are slightly heavier than females. Weight swings through the year: skunks fatten up in fall and can lose a third or more of their body weight over winter.",
+    "size": "A striped skunk is 52–77 cm (20–30 in) long including its bushy tail, which makes up 18–40 cm of the total. That is about the size of a house cat, with a small head, short legs and long front claws for digging.",
+    "speed": "Striped skunks can run at about 16 km/h (10 mph) at most. They are slow for their size and normally just waddle, because their real protection is a spray that can hit a target around 3 m (10 ft) away.",
+    "gestation": "A striped skunk is pregnant for 59–77 days. The length varies because females that mate early in the season may delay implantation of the embryo. A litter of four to seven kits is born in May or early June and is weaned at about two months.",
+    "diet": "Striped skunks are omnivores that eat mostly insects and grubs, along with mice, eggs, frogs, carrion, fruit and corn. Insects can make up most of the summer diet. The small cone-shaped holes skunks dig in lawns are made while hunting for beetle grubs.",
+    "habitat": "Striped skunks live in woodland edges, brushy fields, grasslands, farmland and suburbs across southern Canada, the United States and northern Mexico. They favor open, mixed country near water and readily den under porches, sheds and decks.",
+    "conservation": "Striped skunks are listed as Least Concern on the IUCN Red List with a stable population. They are common across most of their range and adapt well to farmland and towns. Road traffic and disease, especially rabies, are the main causes of death."
+  },
+  "funFacts": [
+    "Skunk spray is a mix of sulfur compounds called thiols, which the human nose can detect at extremely low concentrations.",
+    "Before spraying, a striped skunk gives fair warning: it stamps its front feet, raises its tail, hisses and may make short charges.",
+    "A skunk carries only enough spray for about five or six uses and needs up to 10 days to refill, so it avoids wasting it.",
+    "Great horned owls are among the skunk's few regular predators, as they have a very poor sense of smell.",
+    "Skunks are resistant to snake venom and occasionally eat rattlesnakes."
+  ],
+  "relatedAnimals": ["raccoon", "honey-badger", "wolverine", "great-horned-owl", "armadillo", "red-fox"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How far can a skunk spray?", "answer": "A striped skunk can spray accurately to about 3 m (10 ft), and the mist may drift farther. The spray comes from two glands beside the anus, each with a nozzle-like nipple the skunk can aim, and the smell can carry more than a kilometer downwind."},
+    {"question": "How do you get rid of skunk smell?", "answer": "The widely recommended remedy is a fresh mix of 1 quart of 3 percent hydrogen peroxide, a quarter cup of baking soda and a teaspoon of dish soap, which chemically neutralizes the thiols. Tomato juice only masks the odor. Never store the mixture in a sealed container."},
+    {"question": "Are skunks dangerous?", "answer": "Skunks are not aggressive, but they are one of the main wild carriers of rabies in North America. A skunk that is active by day, unusually tame or staggering should be avoided and reported. The spray itself causes temporary stinging and nausea but no lasting harm."},
+    {"question": "Do skunks make good pets?", "answer": "Captive-bred, descented skunks are kept as pets in some US states, but it is illegal in many others, and wild skunks should never be taken in. Pet skunks need a specialized diet and lots of attention, and there is no approved rabies vaccine for them."},
+    {"question": "Do skunks hibernate?", "answer": "No. Striped skunks do not truly hibernate, but in cold climates they stay in their dens for weeks at a time in a drowsy state, living off body fat. Several females often share a winter den to save heat."}
+  ],
+  "meta": {
+    "title": "Striped Skunk Facts: Spray, Size, Lifespan & Diet",
+    "description": "Striped skunks weigh 1.8–4.5 kg (4–10 lb), live 2–3 years in the wild and can spray about 3 m (10 ft). Size, diet, gestation, habitat and behavior.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Mephitis%20mephitis&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Mephitis_mephitis/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Mephitis_mephitis"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Striped_skunk"}
+    ]
+  }
+}

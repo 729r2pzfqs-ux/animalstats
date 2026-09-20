@@ -1,0 +1,64 @@
+{
+  "slug": "giant-anteater",
+  "commonName": "Giant Anteater",
+  "scientificName": "Myrmecophaga tridactyla",
+  "alternateNames": ["Ant bear", "Anteater"],
+  "nameSingular": "giant anteater",
+  "namePlural": "giant anteaters",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Pilosa", "family": "Myrmecophagidae", "genus": "Myrmecophaga", "species": "M. tridactyla"},
+  "facts": {
+    "lifespan": {"min": 14, "max": 14, "unit": "years", "context": "estimated; wild lifespan is poorly documented", "display": "about 14 years"},
+    "lifespanCaptivity": {"min": 20, "max": 26, "unit": "years", "context": "in human care", "display": "20–26 years"},
+    "weight": {"min": 27, "max": 50, "unit": "kg", "context": "adults; males 33–50 kg, females 27–47 kg", "display": "27–50 kg (60–110 lb)"},
+    "height": {"min": 1.8, "max": 2.2, "unit": "m", "label": "Length", "display": "1.8–2.2 m (6–7 ft) including tail"},
+    "speed": {"min": 50, "max": 50, "unit": "km/h", "verb": "run", "context": "short gallop; commonly cited estimate", "display": "about 50 km/h (31 mph)"},
+    "gestationPeriod": {"min": 170, "max": 190, "unit": "days", "label": "Gestation", "display": "170–190 days"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Almost entirely ants and termites, as many as 30,000 a day, lapped up with a sticky tongue. It feeds briefly at each nest and moves on, and occasionally eats beetle larvae, bees and fallen fruit.",
+    "habitat": ["Savanna", "Grassland", "Tropical forest", "Wetlands"],
+    "range": "Central and South America from Honduras to northern Argentina; extinct in Belize, El Salvador, Guatemala and Uruguay.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The giant anteater is the largest of the four anteater species, a long-snouted, bushy-tailed insect eater of Central and South American grasslands and forests. It has no teeth at all. Instead it tears open ant and termite nests with huge front claws and collects the insects with a sticky tongue that can extend about 60 cm. To protect those claws it walks on its knuckles with the claws curled under. Giant anteaters are solitary, have poor eyesight but an excellent sense of smell, and sleep curled up under their fan-like tails. Their closest relatives are the tamanduas and sloths.",
+  "answers": {
+    "lifespan": "Giant anteaters are estimated to live about 14 years in the wild and commonly reach 20–26 years in human care. Wild lifespans are poorly documented. Jaguars and pumas are their main natural predators, while road collisions and grassland fires kill many.",
+    "weight": "Adult giant anteaters weigh 27–50 kg (60–110 lb). Males weigh 33–50 kg and females 27–47 kg. Despite that bulk, the body temperature is unusually low for a mammal, about 33 °C, reflecting the low energy value of an insect diet.",
+    "size": "A giant anteater is 1.8–2.2 m (6–7 ft) long from the snout to the tip of the tail. The bushy tail accounts for 60–90 cm, and the tubular head alone is about 30 cm long. It stands roughly 60 cm at the shoulder.",
+    "speed": "Giant anteaters are usually said to gallop at up to about 50 km/h (31 mph) over short distances, although precise measurements are lacking. They normally walk with a slow shuffle. They are also good swimmers, using the long snout like a snorkel.",
+    "gestation": "A giant anteater is pregnant for 170–190 days, or about six months. The female gives birth standing up to a single pup weighing a little over 1 kg, which climbs onto her back and rides there, camouflaged against her stripe, for six to nine months.",
+    "diet": "Giant anteaters are insectivores that eat ants and termites almost exclusively, as many as 30,000 a day. The tongue flicks in and out up to 150 times a minute. Each nest visit lasts only about a minute, which limits stings and keeps the colony alive for future meals.",
+    "habitat": "Giant anteaters live in savannas, grasslands, swamps and tropical forests from Honduras to northern Argentina. They are most numerous in open country such as Brazil's Cerrado and Pantanal and the Venezuelan and Colombian llanos, wherever ants and termites are abundant.",
+    "conservation": "Giant anteaters are listed as Vulnerable on the IUCN Red List, and the population is decreasing. Habitat loss to agriculture, wildfires, road kills, hunting and dog attacks are the main threats. The species has disappeared from several Central American countries and from Uruguay."
+  },
+  "funFacts": [
+    "The giant anteater's tongue is about 60 cm (2 ft) long, is anchored to the breastbone and is covered in tiny backward-pointing spines and sticky saliva.",
+    "Giant anteaters have no teeth; they crush insects against the hard palate and grind them in a muscular stomach with swallowed sand and soil.",
+    "The species name tridactyla means 'three fingers', referring to the three most visible claws, although each front foot has five digits.",
+    "A cornered giant anteater rears up on its hind legs and slashes with 10 cm claws, a defense that can deter even jaguars.",
+    "Giant anteaters cover themselves with their large bushy tails when they sleep, as a blanket and as camouflage."
+  ],
+  "relatedAnimals": ["sloth", "armadillo", "jaguar", "capybara", "honey-badger"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are giant anteaters dangerous to humans?", "answer": "Giant anteaters are not aggressive and normally avoid people, but a cornered or injured one defends itself with powerful forelimbs and long claws. A small number of human deaths have been documented in Brazil, mostly involving hunters, so they should never be approached closely."},
+    {"question": "How many ants does a giant anteater eat in a day?", "answer": "A giant anteater eats up to about 30,000 ants and termites a day. It visits many nests, feeding at each for only around a minute before the soldiers' bites and chemical defenses drive it on, so no single colony is destroyed."},
+    {"question": "How long is a giant anteater's tongue?", "answer": "A giant anteater's tongue is about 60 cm (2 ft) long and only around 1–1.5 cm wide. It can flick in and out up to 150 times a minute and is coated with thick, sticky saliva that traps insects."},
+    {"question": "Do anteaters have teeth?", "answer": "No. All anteaters are completely toothless. The giant anteater swallows insects whole after crushing them against the roof of its mouth, and its thick-walled, muscular stomach does the grinding, helped by grit swallowed along with the prey."},
+    {"question": "Are anteaters related to aardvarks?", "answer": "No. Anteaters and aardvarks look and feed alike but are not closely related; the resemblance is a case of convergent evolution. Anteaters belong to the South American order Pilosa with the sloths, while the African aardvark is the only species in its own order, Tubulidentata."}
+  ],
+  "meta": {
+    "title": "Giant Anteater Facts: Size, Tongue, Diet & Lifespan",
+    "description": "Giant anteaters grow 1.8–2.2 m long, weigh 27–50 kg (60–110 lb) and eat up to 30,000 ants and termites a day. Lifespan, speed, habitat and Vulnerable status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Myrmecophaga%20tridactyla&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Myrmecophaga_tridactyla/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Myrmecophaga_tridactyla"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Giant_anteater"}
+    ]
+  }
+}

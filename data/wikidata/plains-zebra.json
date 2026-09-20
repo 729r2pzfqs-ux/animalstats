@@ -1,0 +1,28 @@
+{
+  "slug": "plains-zebra",
+  "commonName": "Plains Zebra",
+  "scientificName": "Equus quagga",
+  "classSlug": "mammals",
+  "aliases": [
+    "zebra"
+  ],
+  "qid": "Q245305",
+  "iucnStatus": "Near Threatened",
+  "wikipedia": "Plains zebra",
+  "taxonomy": {
+    "species": "Equus quagga",
+    "genus": "Equus",
+    "family": "Equidae",
+    "order": "Perissodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "1",
+      "unit": "year",
+      "sex": null
+    }
+  ]
+}

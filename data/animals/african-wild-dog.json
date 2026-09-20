@@ -1,0 +1,65 @@
+{
+  "slug": "african-wild-dog",
+  "commonName": "African Wild Dog",
+  "scientificName": "Lycaon pictus",
+  "alternateNames": ["Painted dog", "Painted wolf", "Cape hunting dog", "African hunting dog"],
+  "nameSingular": "African wild dog",
+  "namePlural": "African wild dogs",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Canidae", "genus": "Lycaon", "species": "L. pictus"},
+  "facts": {
+    "lifespan": {"min": 9, "max": 11, "unit": "years", "context": "in the wild for animals that reach adulthood; many die younger", "display": "up to 9–11 years"},
+    "lifespanCaptivity": {"min": 12, "max": 15, "unit": "years", "context": "in human care", "display": "12–15 years"},
+    "weight": {"min": 18, "max": 36, "unit": "kg", "context": "adults; southern African dogs are larger than East African ones", "display": "18–36 kg (40–79 lb)"},
+    "height": {"min": 60, "max": 75, "unit": "cm", "label": "Shoulder height", "display": "60–75 cm (24–30 in)"},
+    "speed": {"min": 66, "max": 66, "unit": "km/h", "verb": "run", "context": "top speed during a chase; can hold about 50 km/h for several kilometers", "display": "66 km/h (41 mph)"},
+    "gestationPeriod": {"min": 69, "max": 73, "unit": "days", "label": "Gestation", "display": "about 70 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Medium-sized antelopes such as impala, Thomson's gazelle, kudu, springbok and wildebeest calves, run down by the pack; also warthogs, hares and other small prey. They rarely scavenge.",
+    "habitat": ["Savanna", "Open woodland", "Grassland", "Semi-desert"],
+    "range": "Scattered populations in sub-Saharan Africa, mainly in southern and East Africa: Botswana, Zimbabwe, Zambia, Tanzania, Mozambique, Namibia and South Africa.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing",
+    "population": "about 6,600 adults, including roughly 1,400 mature (breeding) individuals"
+  },
+  "description": "The African wild dog, or painted dog, is a long-legged, large-eared canid with a blotched coat of black, tan and white that is unique to each individual. It is the only living member of the genus Lycaon and differs from other dogs in having just four toes on each foot. Wild dogs are among the most social of all carnivores: packs are led by a breeding pair, everyone helps raise the pups, and sick or injured members are fed by the others. They hunt by cooperative chases and succeed far more often than lions or leopards. It is one of Africa's most endangered large carnivores.",
+  "answers": {
+    "lifespan": "African wild dogs can live 9–11 years in the wild and 12–15 years in captivity. Few wild dogs reach old age, though: pup mortality is high, and adults are killed by lions, snares, road traffic and diseases such as rabies and canine distemper caught from domestic dogs.",
+    "weight": "Adult African wild dogs weigh 18–36 kg (40–79 lb). Dogs in southern Africa are the largest, often 25–35 kg, while East African animals typically weigh 20–25 kg. Males and females are close in size, with males only slightly heavier on average.",
+    "size": "An African wild dog stands 60–75 cm (24–30 in) tall at the shoulder. Head-and-body length is 75–110 cm (30–43 in), with a white-tipped tail of 30–40 cm. They are lean and long-legged, built for endurance running, with large rounded ears that help shed heat and pick up distant calls.",
+    "speed": "African wild dogs can reach about 66 km/h (41 mph) in a chase. More important is their stamina: a pack can keep up roughly 50 km/h for several kilometers, taking turns at the front until the prey tires. Hunts often succeed more than half the time.",
+    "gestation": "African wild dog pregnancy lasts about 70 days. Usually only the dominant female breeds, giving birth in an underground den to around 10 pups on average, the largest litters of any canid, with a range of about 6–16. The whole pack feeds the mother and pups by regurgitating meat.",
+    "diet": "African wild dogs are carnivores that hunt medium-sized antelopes such as impala, gazelles, kudu and young wildebeest. The pack hunts together at dawn and dusk, chasing prey over long distances. They eat quickly to avoid losing kills to hyenas and lions, and pups are allowed to feed first.",
+    "habitat": "African wild dogs live in savannas, open woodlands and semi-arid country in sub-Saharan Africa. The largest remaining populations are in northern Botswana, Zimbabwe, Zambia, southern Tanzania and northern Mozambique. Packs roam home ranges of hundreds to over a thousand square km, which is why they need very large protected areas.",
+    "conservation": "The African wild dog is listed as Endangered on the IUCN Red List, and its numbers are decreasing. About 6,600 adults survive in some 39 subpopulations, with only around 1,400 mature breeding individuals. The main threats are habitat fragmentation, conflict with livestock farmers, snaring, road deaths and infectious disease."
+  },
+  "funFacts": [
+    "No two African wild dogs share the same coat pattern, so researchers identify individuals by their markings.",
+    "Unlike other members of the dog family, African wild dogs have only four toes on their front feet, lacking dewclaws.",
+    "A study in Botswana found that packs appear to 'vote' on whether to set off hunting by sneezing: the more sneezes, the more likely they leave.",
+    "Pack members regurgitate meat for pups, nursing mothers and injured adults that stayed behind at the den.",
+    "The scientific name Lycaon pictus means 'painted wolf', a reference to the mottled coat."
+  ],
+  "relatedAnimals": ["spotted-hyena", "gray-wolf", "dog", "lion", "cheetah", "thomsons-gazelle"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are African wild dogs dangerous to humans?", "answer": "African wild dogs are not considered dangerous to people. There are essentially no verified records of wild packs attacking humans, and they usually keep their distance from people on foot. They can kill livestock, however, which is a major reason farmers have persecuted them."},
+    {"question": "How many African wild dogs are left?", "answer": "Around 6,600 adult African wild dogs remain, according to the IUCN, of which only about 1,400 are mature breeding individuals because just one pair breeds in most packs. They have disappeared from most of West and Central Africa and much of their former range elsewhere."},
+    {"question": "Are African wild dogs related to hyenas or domestic dogs?", "answer": "African wild dogs are true canids, in the same family as wolves and domestic dogs, but they belong to their own genus, Lycaon, and cannot interbreed with dogs. Hyenas look superficially similar but are a separate family that is more closely related to cats and mongooses."},
+    {"question": "How successful are African wild dogs at hunting?", "answer": "African wild dogs are among Africa's most successful hunters. Studies report that packs make a kill in well over half of their hunts, and in some areas much more, compared with roughly a quarter to a third for lions. Teamwork and stamina are the keys to their success."},
+    {"question": "Can African wild dogs be domesticated?", "answer": "No. African wild dogs have never been domesticated and are not suited to life as pets. They are a separate species from the domestic dog, highly social within their own packs, wary of humans, and require vast ranges. They are kept only by accredited zoos and breeding programs."}
+  ],
+  "meta": {
+    "title": "African Wild Dog Facts: Speed, Size, Packs & Status",
+    "description": "African wild dogs weigh 18–36 kg (40–79 lb), run up to 66 km/h (41 mph) and live about 10 years. Only around 6,600 adults remain. Pack life, diet and range.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Lycaon%20pictus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Lycaon_pictus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Lycaon_pictus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/African_wild_dog"}
+    ]
+  }
+}

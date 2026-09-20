@@ -1,0 +1,65 @@
+{
+  "slug": "african-elephant",
+  "commonName": "African Elephant",
+  "scientificName": "Loxodonta africana",
+  "alternateNames": ["African bush elephant", "African savanna elephant", "Savanna elephant"],
+  "nameSingular": "African elephant",
+  "namePlural": "African elephants",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Proboscidea", "family": "Elephantidae", "genus": "Loxodonta", "species": "L. africana"},
+  "facts": {
+    "lifespan": {"min": 60, "max": 70, "unit": "years", "context": "in the wild, for animals that escape poaching and drought", "display": "60–70 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 2700, "max": 6000, "unit": "kg", "context": "adult females about 2,700–3,500 kg, adult males 4,500–6,000 kg", "display": "2,700–6,000 kg (6,000–13,200 lb)"},
+    "height": {"min": 2.5, "max": 4.0, "unit": "m", "label": "Shoulder height", "display": "2.5–4 m (8.2–13 ft)"},
+    "speed": {"min": 25, "max": 40, "unit": "km/h", "verb": "run", "context": "about 25 km/h measured in studies; 40 km/h is a commonly quoted top speed", "display": "25–40 km/h (15–25 mph)"},
+    "gestationPeriod": {"min": 640, "max": 660, "unit": "days", "label": "Gestation", "display": "about 22 months (around 650 days)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Grasses, leaves, bark, roots, fruit and seed pods; an adult eats roughly 150 kg (330 lb) of vegetation a day and drinks well over 100 liters of water, feeding for up to 16–18 hours daily.",
+    "habitat": ["Savanna", "Grassland", "Woodland", "Wetlands", "Semi-desert"],
+    "range": "Scattered across sub-Saharan Africa, with the largest populations in southern and eastern Africa, especially Botswana, Zimbabwe, Tanzania, Kenya, Zambia and South Africa.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing",
+    "population": "about 415,000 African elephants of both species (2016 estimate)"
+  },
+  "description": "The African elephant covered here is the African bush or savanna elephant, the largest living land animal. Since 2021 the IUCN has treated it as a separate species from the smaller African forest elephant (Loxodonta cyclotis) of the Congo Basin and West Africa. It has enormous ears shaped rather like the African continent, a concave back, tusks in both sexes and two finger-like tips on its trunk. Elephants live in close-knit family herds of related females and calves led by an experienced matriarch, while adult bulls roam alone or in loose bachelor groups. By felling trees and dispersing seeds they shape entire landscapes.",
+  "answers": {
+    "lifespan": "African elephants live 60–70 years in the wild. Their lifespan is limited partly by their teeth: an elephant has six sets of molars in its life, and when the last set wears down it can no longer chew properly. Zoo elephants have often had shorter lives than protected wild ones.",
+    "weight": "Adult African elephants weigh 2,700–6,000 kg (6,000–13,200 lb). Bulls typically weigh 4,500–6,000 kg, about twice as much as cows at 2,700–3,500 kg. The heaviest bull on record, shot in Angola in 1956, was estimated at around 10,000 kg. Calves weigh about 100 kg at birth.",
+    "size": "African elephants stand 2.5–4 m (8.2–13 ft) tall at the shoulder. Bulls average about 3.2 m and cows about 2.6 m, and bulls keep growing for most of their lives. The ears alone can be up to about 2 m long, and tusks of old bulls can exceed 2 m.",
+    "speed": "African elephants can move at about 25 km/h (15 mph), and top speeds of up to 40 km/h (25 mph) are often quoted. Even at full speed an elephant always keeps at least one foot on the ground, so technically it is a very fast walk rather than a true run.",
+    "gestation": "An African elephant is pregnant for about 22 months, roughly 650 days, the longest gestation of any land mammal. A cow normally has a single calf every four to five years. The calf can stand within an hour and is cared for by the whole family, not just its mother.",
+    "diet": "African elephants are herbivores that eat grasses, leaves, bark, roots and fruit. An adult consumes roughly 150 kg (330 lb) of vegetation a day and spends most of its waking hours feeding. They eat more grass in the wet season and switch to browsing trees and shrubs when the grass dries out.",
+    "habitat": "African bush elephants live in savannas, grasslands, woodlands, wetlands and even semi-deserts across sub-Saharan Africa, wherever water is within reach. Botswana holds the largest population. They need very large ranges and often move seasonally, which brings them into conflict with farmers.",
+    "conservation": "The African bush elephant is listed as Endangered on the IUCN Red List, and the population is decreasing. Poaching for ivory and loss of habitat to farming are the main threats. A 2016 continent-wide survey estimated about 415,000 African elephants of both species, far fewer than the millions of a century ago."
+  },
+  "funFacts": [
+    "An elephant's trunk contains around 40,000 muscles and no bones, and can lift a log or pick up a single peanut.",
+    "Elephants communicate with low-frequency rumbles, partly below human hearing, that travel several kilometers.",
+    "Both male and female African elephants grow tusks, which are enlarged incisor teeth that keep growing throughout life.",
+    "Elephants flap their huge, blood-vessel-rich ears to cool down in the African heat.",
+    "Elephants are among the few animals that pass the mirror self-recognition test, and they show marked interest in the bones of dead elephants."
+  ],
+  "relatedAnimals": ["asian-elephant", "white-rhinoceros", "hippopotamus", "giraffe", "black-rhinoceros", "manatee"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between African and Asian elephants?", "answer": "African elephants are larger, with much bigger ears, a swayed back and two 'fingers' at the trunk tip, and both sexes usually have tusks. Asian elephants have smaller ears, a rounded back, a twin-domed head and one trunk finger, and only some males carry large tusks."},
+    {"question": "How many African elephants are left?", "answer": "About 415,000 African elephants remained according to the 2016 African Elephant Status Report, which counted bush and forest elephants together. Numbers have fallen steeply from several million in the early 1900s, mostly because of ivory hunting."},
+    {"question": "Are elephants afraid of mice?", "answer": "There is no good evidence that elephants fear mice. They can be startled by any small, fast movement near their feet. Elephants do avoid bees, however, and conservationists use beehive fences to keep them away from crops."},
+    {"question": "How much does an elephant eat in a day?", "answer": "An adult African elephant eats roughly 150 kg (330 lb) of plants a day and may drink more than 100 liters of water. Because it digests less than half of what it eats, it must feed for most of the day and night."},
+    {"question": "Why are elephants poached?", "answer": "Elephants are poached mainly for their ivory tusks, which are carved into ornaments and jewelry. International commercial trade in ivory has been banned since 1990, and China closed its legal domestic market in 2017, but illegal killing continues in parts of Africa."}
+  ],
+  "meta": {
+    "title": "African Elephant Facts: Weight, Height, Lifespan & Diet",
+    "description": "African elephants weigh 2,700–6,000 kg, stand 2.5–4 m at the shoulder, live 60–70 years and are pregnant for 22 months. Diet, habitat and IUCN status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Loxodonta%20africana&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Loxodonta_africana/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Loxodonta_africana"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/African_bush_elephant"}
+    ]
+  }
+}

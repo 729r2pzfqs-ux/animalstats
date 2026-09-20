@@ -1,0 +1,64 @@
+{
+  "slug": "barn-owl",
+  "commonName": "Barn Owl",
+  "scientificName": "Tyto alba",
+  "alternateNames": ["Common barn owl", "Western barn owl", "Ghost owl", "Screech owl (UK folk name)"],
+  "nameSingular": "barn owl",
+  "namePlural": "barn owls",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Strigiformes", "family": "Tytonidae", "genus": "Tyto", "species": "T. alba"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 4, "unit": "years", "context": "typical in the wild; most die in their first year, but banded wild birds have passed 15", "display": "2–4 years"},
+    "lifespanCaptivity": {"min": 15, "max": 20, "unit": "years", "context": "in human care", "display": "15–20 years"},
+    "weight": {"min": 300, "max": 700, "unit": "g", "context": "adults; females are heavier, and American birds are larger than European ones", "display": "300–700 g (0.7–1.5 lb)"},
+    "height": {"min": 80, "max": 125, "unit": "cm", "label": "Wingspan", "display": "80–125 cm (31–49 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 29, "max": 34, "unit": "days", "label": "Incubation", "display": "29–34 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Overwhelmingly small mammals, especially voles, mice, shrews and young rats; also small birds, bats, frogs, lizards and large insects when rodents are scarce.",
+    "habitat": ["Farmland", "Grassland", "Marsh edges", "Open woodland", "Villages and farm buildings"],
+    "range": "Found on every continent except Antarctica, across the Americas, Europe, Africa, southern Asia and Australasia; absent from deserts, the far north and most of northern Asia.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The barn owl is a pale, long-legged owl with a white, heart-shaped face and dark eyes, and one of the most widely distributed land birds in the world. It hunts at night over rough grassland and farmland, flying low and slow and locating voles and mice largely by sound. Instead of hooting, it gives a long, rasping shriek. Barn owls nest in barns, church towers, tree hollows and nest boxes. Taxonomy is in flux: the IUCN treats Tyto alba as one worldwide species, while some authorities split it into western, American and eastern barn owls. This page covers the group as a whole.",
+  "answers": {
+    "lifespan": "Wild barn owls typically live only 2–4 years, while birds in human care commonly reach 15–20 years. Most wild barn owls die in their first year, mainly from starvation in hard winters and collisions with vehicles. Survivors can live much longer, and banded wild birds in North America and Europe have exceeded 15 years.",
+    "weight": "Barn owls weigh 300–700 g (0.7–1.5 lb), about the weight of a can or two of soup. Females are heavier than males, and American barn owls, at roughly 400–700 g, are larger than European birds, which often weigh little more than 300 g. Thick, soft plumage makes them look bigger.",
+    "size": "A barn owl's wingspan is 80–125 cm (31–49 in), and its body is 29–44 cm (11–17 in) long. European birds are at the small end, with wingspans of about 80–95 cm, and American birds are at the large end, at about 100–125 cm. The wings are large for the body's weight, which allows slow, buoyant flight.",
+    "speed": null,
+    "gestation": "Barn owl eggs hatch after 29–34 days of incubation. The female lays four to seven eggs at intervals of two to three days and starts sitting from the first egg, so the chicks hatch in sequence and differ in size. The male brings food to the nest. Young owls fly at about eight to ten weeks.",
+    "diet": "Barn owls are carnivores that eat mainly small mammals, especially voles, mice, shrews and young rats. An adult eats roughly three or four prey animals a night, swallowing them whole and later coughing up fur and bones as a pellet. A breeding pair and its chicks can consume more than a thousand rodents in a year.",
+    "habitat": "Barn owls live in open, low-lying country such as farmland, rough grassland, marsh edges and open woodland on every continent except Antarctica. They need areas of long grass with plenty of voles and mice, plus a sheltered cavity for roosting and nesting, such as a barn, tree hollow, cliff crevice or nest box.",
+    "conservation": "The barn owl is listed as Least Concern on the IUCN Red List, with a stable global trend. Regional populations tell a different story: the species has declined in parts of Europe and the US Midwest as farming intensified. The main threats are loss of rough grassland and nest sites, rodent poisons and road traffic."
+  },
+  "funFacts": [
+    "In laboratory tests, barn owls caught mice in total darkness using hearing alone, among the most accurate sound location measured in any animal.",
+    "One ear opening sits higher on the head than the other, so the owl can tell a sound's height as well as its direction.",
+    "Comb-like fringes on the leading wing feathers and a velvety feather surface break up airflow, making a barn owl's flight almost silent.",
+    "Barn owls do not hoot. Their main call is a drawn-out, hissing screech, which probably fed folklore about ghosts and banshees.",
+    "The heart-shaped facial disc works like a satellite dish, funneling faint sounds toward the ears."
+  ],
+  "relatedAnimals": ["great-horned-owl", "snowy-owl", "red-tailed-hawk", "house-mouse", "brown-rat", "vampire-bat"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What does a barn owl sound like?", "answer": "A barn owl does not hoot. Its typical call is a harsh, drawn-out shriek lasting about two seconds, usually given in flight at night. Chicks and adults at the nest also make loud hissing and snoring sounds, which can be startling when heard from an old building."},
+    {"question": "Are barn owls good for rodent control?", "answer": "Yes. Barn owls eat almost nothing but small rodents, and a family can take more than a thousand in a year. Farmers and vineyards in California, Israel and elsewhere put up nest boxes to attract them, which helps suppress rodents, although owls alone rarely eliminate an infestation."},
+    {"question": "Why do barn owls have heart-shaped faces?", "answer": "The heart-shaped face is a sound collector. Stiff, densely packed feathers form a dish that channels sound to the ear openings hidden behind it, greatly improving the owl's hearing. The owl can adjust the shape of the disc with its facial muscles to focus on a sound."},
+    {"question": "Are barn owls rare?", "answer": "Globally, no: the barn owl is one of the world's most widespread birds and is rated Least Concern. Locally it can be scarce. It is listed as endangered or of special concern in several US Midwestern and northeastern states, and UK numbers fell heavily during the twentieth century before partly recovering."},
+    {"question": "Do barn owls only live in barns?", "answer": "No. Barn owls use any dry, sheltered cavity near good hunting ground, including hollow trees, cliff holes, church towers, silos, hay lofts and nest boxes. Barns simply became the best-known site because old farm buildings sat right beside rodent-rich fields."}
+  ],
+  "meta": {
+    "title": "Barn Owl Facts: Size, Wingspan, Lifespan, Diet & Call",
+    "description": "Barn owls weigh 300–700 g (0.7–1.5 lb), have an 80–125 cm wingspan and usually live just 2–4 years in the wild. Diet, silent flight, call and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Tyto%20alba&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Tyto_alba/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Tyto_alba"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Western_barn_owl"}
+    ]
+  }
+}

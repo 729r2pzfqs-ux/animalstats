@@ -1,0 +1,45 @@
+{
+  "slug": "komodo-dragon",
+  "commonName": "Komodo Dragon",
+  "scientificName": "Varanus komodoensis",
+  "classSlug": "reptiles",
+  "aliases": [],
+  "qid": "Q4504",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Komodo dragon",
+  "taxonomy": {
+    "species": "Varanus komodoensis",
+    "genus": "Varanus",
+    "family": "Varanidae",
+    "order": "Squamata",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "70",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "lifeExpectancy",
+      "amount": "30",
+      "unit": "year",
+      "sex": null
+    },
+    {
+      "property": "speed",
+      "amount": "20",
+      "unit": "km/h",
+      "sex": null
+    },
+    {
+      "property": "length",
+      "amount": "1.5",
+      "unit": "m",
+      "sex": null
+    }
+  ]
+}

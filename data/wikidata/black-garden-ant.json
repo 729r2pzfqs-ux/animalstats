@@ -1,0 +1,22 @@
+{
+  "slug": "black-garden-ant",
+  "commonName": "Black Garden Ant",
+  "scientificName": "Lasius niger",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "ant"
+  ],
+  "qid": "Q839823",
+  "iucnStatus": null,
+  "wikipedia": "Black garden ant",
+  "taxonomy": {
+    "species": "Lasius niger",
+    "genus": "Lasius",
+    "family": "Formicidae",
+    "order": "Hymenoptera",
+    "class": "Insecta",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

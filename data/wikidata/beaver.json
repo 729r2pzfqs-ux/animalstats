@@ -1,0 +1,29 @@
+{
+  "slug": "beaver",
+  "commonName": "North American Beaver",
+  "scientificName": "Castor canadensis",
+  "classSlug": "mammals",
+  "aliases": [
+    "beaver"
+  ],
+  "qid": "Q81056",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "North American beaver",
+  "taxonomy": {
+    "species": "Castor canadensis",
+    "genus": "Castor",
+    "family": "Castoridae",
+    "order": "Rodentia",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "lifeExpectancy",
+      "amount": "15",
+      "unit": "year",
+      "sex": null
+    }
+  ]
+}

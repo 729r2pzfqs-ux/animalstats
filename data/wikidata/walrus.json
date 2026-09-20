@@ -1,0 +1,26 @@
+{
+  "slug": "walrus",
+  "commonName": "Walrus",
+  "scientificName": "Odobenus rosmarus",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q40994",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Walrus",
+  "taxonomy": {
+    "species": "Odobenus rosmarus",
+    "genus": "Odobenus",
+    "family": "Odobenidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "15",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

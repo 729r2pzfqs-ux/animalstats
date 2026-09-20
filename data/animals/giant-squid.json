@@ -1,0 +1,64 @@
+{
+  "slug": "giant-squid",
+  "commonName": "Giant Squid",
+  "scientificName": "Architeuthis dux",
+  "alternateNames": ["Architeuthis"],
+  "nameSingular": "giant squid",
+  "namePlural": "giant squid",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Mollusca", "class": "Cephalopoda", "classSlug": "invertebrates", "order": "Oegopsida", "family": "Architeuthidae", "genus": "Architeuthis", "species": "A. dux"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 5, "unit": "years", "context": "estimated from growth rings in statoliths; poorly known", "display": "an estimated 2–5 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 150, "max": 275, "unit": "kg", "context": "large adults; males reach about 150 kg, females about 275 kg", "display": "150–275 kg (330–610 lb)"},
+    "height": {"min": 10, "max": 13, "unit": "m", "label": "Length", "display": "10–13 m (33–43 ft) total length of the largest adults"},
+    "speed": null,
+    "gestationPeriod": null
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Deep-sea fish and other squid, including smaller giant squid, seized with the two long feeding tentacles and cut into small pieces by the beak and toothed radula.",
+    "habitat": ["Deep ocean", "Continental slope", "Twilight zone"],
+    "range": "All the world's oceans, mostly near continental and island slopes; recorded most often off Japan, New Zealand, Newfoundland, Norway, Spain and southern Africa. Rare in tropical and polar waters.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The giant squid is one of the largest invertebrates on Earth and the likely source of the kraken legend. It has eight arms and two much longer feeding tentacles tipped with toothed suckers, and eyes about the size of a dinner plate. It lives hundreds of meters down in the open ocean, so almost everything known about it comes from carcasses washed ashore, animals caught in trawls and remains found in sperm whale stomachs. A live giant squid was not photographed in its habitat until 2004 and not filmed there until 2012. Genetic studies indicate a single worldwide species.",
+  "answers": {
+    "lifespan": "Giant squid are thought to live only about 2–5 years. The estimate comes from counting growth rings in statoliths, tiny balance stones in the head, and it is uncertain because nobody has followed a living animal over time. If it is right, giant squid grow astonishingly fast, reaching full size in just a few years, and like most squid they probably breed once and die.",
+    "weight": "Large giant squid weigh roughly 150–275 kg (330–610 lb). Females are much bigger than males: the heaviest well-documented females are about 275 kg, while males top out near 150 kg. The colossal squid of the Southern Ocean is shorter but heavier, reaching about 500 kg.",
+    "size": "The largest giant squid reach about 12–13 m (39–43 ft) in total length for females and about 10 m (33 ft) for males. Most of that is the two thin feeding tentacles; the mantle, or body, is rarely more than 2.25 m (7.4 ft) long. Older claims of 18 m or more are not backed by measured specimens and probably reflect tentacles that were stretched like elastic.",
+    "speed": null,
+    "gestation": null,
+    "diet": "Giant squid are carnivores that eat deep-sea fish and other squid. They grab prey with the clubbed tips of their two long tentacles, pull it to the arms and slice it up with a sharp beak, because food must pass through a narrow esophagus that runs through the middle of the brain. They appear to be solitary hunters.",
+    "habitat": "Giant squid live in the deep open ocean, mostly between about 300 and 1,000 m (1,000–3,300 ft) down. They have been recorded in every ocean, most often along continental and island slopes off Japan, New Zealand, the North Atlantic and southern Africa, and only rarely in tropical or polar seas.",
+    "conservation": "The giant squid is listed as Least Concern on the IUCN Red List, and its population trend is unknown. It is not targeted by any fishery and is caught only occasionally as deep-water trawl bycatch. The number of beaks found in sperm whale stomachs suggests that giant squid are far more common than the rarity of sightings implies."
+  },
+  "funFacts": [
+    "Giant squid eyes are about 27 cm (11 in) across, among the largest in the animal kingdom, and probably help them spot the faint glow stirred up by approaching sperm whales.",
+    "The first photographs of a live giant squid in its natural habitat were taken off Japan's Ogasawara Islands in 2004, and the first video there followed in 2012.",
+    "Sperm whales are the giant squid's main predator, and many whales carry circular scars left by the toothed rings inside the squid's suckers.",
+    "Giant squid keep themselves buoyant with an ammonium solution in their tissues, which is lighter than seawater and makes the flesh taste unpleasant to people.",
+    "DNA from specimens collected around the world is remarkably similar, which points to a single global species of giant squid."
+  ],
+  "relatedAnimals": ["common-octopus", "sperm-whale", "garden-snail", "giant-clam", "japanese-spider-crab", "greenland-shark"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is the giant squid bigger than the colossal squid?", "answer": "The giant squid is longer, but the colossal squid is heavier. Giant squid reach about 12–13 m because of their very long tentacles but weigh up to about 275 kg, whereas the colossal squid reaches roughly 10 m and about 500 kg."},
+    {"question": "Has a giant squid ever attacked a ship or a person?", "answer": "There is no verified case of a giant squid sinking a ship or killing a person. Sailors' stories and the kraken legend were probably inspired by dying squid seen at the surface. Giant squid live far below the depths where people swim or dive."},
+    {"question": "Do sperm whales eat giant squid?", "answer": "Yes. Sperm whales are the main known predator of adult giant squid, and squid beaks are regularly found in their stomachs. Sucker scars on whales show that the squid fight back, but there is no evidence that a giant squid has ever killed a sperm whale."},
+    {"question": "Has a giant squid ever been kept in an aquarium?", "answer": "No. No adult giant squid has ever been kept alive in captivity. They live in cold, dark, high-pressure water and the few animals caught alive at the surface died quickly. Museums display preserved specimens instead."},
+    {"question": "Is the kraken a giant squid?", "answer": "Probably. The kraken of Scandinavian folklore was described as a huge, many-armed sea monster, and most historians and biologists think rare sightings of giant squid at the surface were the starting point for the legend, exaggerated over centuries of retelling."}
+  ],
+  "meta": {
+    "title": "Giant Squid Size, Weight, Lifespan & Facts",
+    "description": "Giant squid reach about 12–13 m (39–43 ft) long and up to 275 kg (610 lb), and may live only 2–5 years. Real size, diet, habitat and predators explained.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Architeuthis%20dux&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Architeuthis_dux/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Giant_squid"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q13537131"}
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "giant-panda",
+  "commonName": "Giant Panda",
+  "scientificName": "Ailuropoda melanoleuca",
+  "alternateNames": ["Panda", "Panda bear"],
+  "nameSingular": "giant panda",
+  "namePlural": "giant pandas",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Ursidae", "genus": "Ailuropoda", "species": "A. melanoleuca"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 20, "unit": "years", "context": "in the wild", "display": "15–20 years"},
+    "lifespanCaptivity": {"min": 25, "max": 30, "unit": "years", "context": "in human care; the record is 38", "display": "25–30 years"},
+    "weight": {"min": 70, "max": 125, "unit": "kg", "context": "adults; males are 10–20% heavier and large males can reach about 160 kg", "display": "70–125 kg (155–275 lb)"},
+    "height": {"min": 0.6, "max": 0.9, "unit": "m", "label": "Shoulder height", "display": "0.6–0.9 m (2–3 ft)"},
+    "speed": {"min": 32, "max": 32, "unit": "km/h", "verb": "run", "context": "commonly cited top speed in brief bursts; pandas rarely run", "display": "32 km/h (20 mph)"},
+    "gestationPeriod": {"min": 95, "max": 160, "unit": "days", "label": "Gestation", "display": "95–160 days (about 135 on average), including delayed implantation"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Almost entirely bamboo: leaves, stems and seasonal shoots of several dozen species, which make up about 99 percent of the diet. Pandas occasionally eat other plants, small rodents or carrion.",
+    "habitat": ["Temperate mountain forest", "Bamboo forest"],
+    "range": "Six isolated mountain ranges in the Sichuan, Shaanxi and Gansu provinces of central China, mostly at elevations of 1,200–3,400 meters.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Increasing",
+    "population": "1,864 in the wild (China's fourth national survey, 2014)"
+  },
+  "description": "The giant panda is a black-and-white bear found only in the mountain bamboo forests of central China. It is a true bear, but one that has switched to an almost purely plant diet: about 99 percent of what it eats is bamboo. Because bamboo is low in nutrients and pandas still have a carnivore's short gut, they must eat for much of the day. An enlarged wrist bone works as a false thumb for gripping stems. Pandas are solitary, do not hibernate, and reproduce slowly. Decades of habitat protection led the IUCN to move the species from Endangered to Vulnerable in 2016.",
+  "answers": {
+    "lifespan": "Giant pandas live 15–20 years in the wild and 25–30 years in zoos and breeding centers. The oldest panda on record, a female named Jia Jia in Hong Kong, died in 2016 at age 38. Wild lifespans are harder to measure, and figures come mostly from long-term monitoring of a few reserves.",
+    "weight": "Adult giant pandas weigh 70–125 kg (155–275 lb). Males are 10–20 percent heavier than females, and large males can reach around 160 kg. A newborn cub, in contrast, weighs only about 100 g, roughly one nine-hundredth of its mother's weight, one of the biggest size gaps of any placental mammal.",
+    "size": "A giant panda stands 0.6–0.9 m (2–3 ft) tall at the shoulder when on all fours. Head-and-body length is 1.2–1.9 m (4–6 ft), with a short tail of 10–15 cm. They are similar in length to an American black bear but stockier, with a notably large, round head housing powerful jaw muscles.",
+    "speed": "Giant pandas are commonly said to reach about 32 km/h (20 mph) in a brief burst, but they almost never run. Their low-energy bamboo diet favors a slow, deliberate lifestyle. They are, however, capable climbers and swimmers, and cubs often climb trees to stay safe.",
+    "gestation": "Giant panda pregnancy lasts 95–160 days, about 135 days on average. The wide range is due to delayed implantation: the embryo floats free for weeks before attaching. Females are fertile for only one to three days a year. One or two cubs are born, but in the wild the mother usually raises only one.",
+    "diet": "Giant pandas are herbivores in practice, eating bamboo for about 99 percent of their diet. An adult eats roughly 12–38 kg (26–84 lb) of bamboo a day and spends 10–16 hours feeding. They digest bamboo poorly, which is why they need so much, and they switch between shoots, leaves and stems with the seasons.",
+    "habitat": "Giant pandas live in cool, damp mountain forests with a dense bamboo understory in central China's Sichuan, Shaanxi and Gansu provinces. They range mostly between 1,200 and 3,400 meters and move up and down slopes seasonally. Farming and development pushed them out of the lowlands they once occupied.",
+    "conservation": "The giant panda is listed as Vulnerable on the IUCN Red List, downgraded from Endangered in 2016, and the population is increasing. China's 2014 survey counted 1,864 wild pandas. The remaining threats are habitat fragmentation, which isolates small populations, and the projected loss of bamboo habitat as the climate warms."
+  },
+  "funFacts": [
+    "Pandas have a 'false thumb', an enlarged wrist bone that works with the five true fingers to grip bamboo stems.",
+    "A newborn panda is pink, blind and about the size of a stick of butter, weighing around 100 g (3.5 oz).",
+    "Unlike most other bears in cold climates, giant pandas do not hibernate, because a bamboo diet does not let them build enough fat reserves.",
+    "Pandas communicate largely by scent, and males sometimes do a handstand against a tree to place their scent marks as high as possible.",
+    "Genetically, the giant panda is a true bear whose lineage split from other bears roughly 19 million years ago."
+  ],
+  "relatedAnimals": ["red-panda", "black-bear", "grizzly-bear", "polar-bear", "koala"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are giant pandas bears?", "answer": "Yes. Genetic studies confirm that the giant panda is a true bear in the family Ursidae, the earliest branch of the living bear family tree. It was once debated whether pandas were closer to raccoons. The red panda, despite the shared name, belongs to a separate family."},
+    {"question": "How many giant pandas are left in the world?", "answer": "China's most recent complete national survey, published in 2014, counted 1,864 giant pandas in the wild, up from about 1,100 in the 1980s. Several hundred more live in zoos and breeding centers, mostly in China."},
+    {"question": "Why are pandas black and white?", "answer": "Research suggests the pattern serves two purposes. The white body helps pandas blend into snowy backgrounds and the dark limbs into shade, giving year-round camouflage for an animal that cannot hibernate. The black ears and eye patches are thought to help with signaling and recognition between pandas."},
+    {"question": "Are giant pandas dangerous?", "answer": "Giant pandas are generally peaceful and avoid people, but they are still bears with strong jaws and claws. Wild pandas rarely attack, yet zoo visitors who have entered panda enclosures have been seriously bitten. They should be treated as the powerful wild animals they are."},
+    {"question": "Why do pandas only eat bamboo?", "answer": "Pandas specialized on bamboo because it is abundant year-round in their mountain forests and few competitors eat it. They lost a working copy of a gene for tasting savory flavors found in meat. They still have a carnivore's digestive system, so they absorb little from bamboo and must eat huge amounts."}
+  ],
+  "meta": {
+    "title": "Giant Panda Facts: Weight, Lifespan, Diet & Habitat",
+    "description": "Giant pandas weigh 70–125 kg (155–275 lb), live 15–20 years in the wild and eat 12–38 kg of bamboo a day. Size, cubs, habitat and conservation status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Ailuropoda%20melanoleuca&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Ailuropoda_melanoleuca/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Ailuropoda_melanoleuca"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Giant_panda"}
+    ]
+  }
+}

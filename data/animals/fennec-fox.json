@@ -1,0 +1,64 @@
+{
+  "slug": "fennec-fox",
+  "commonName": "Fennec Fox",
+  "scientificName": "Vulpes zerda",
+  "alternateNames": ["Fennec", "Desert fox"],
+  "nameSingular": "fennec fox",
+  "namePlural": "fennec foxes",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Canidae", "genus": "Vulpes", "species": "V. zerda"},
+  "facts": {
+    "lifespan": {"min": 8, "max": 10, "unit": "years", "context": "estimated in the wild; poorly studied", "display": "about 8–10 years"},
+    "lifespanCaptivity": {"min": 12, "max": 14, "unit": "years", "context": "in human care; occasionally longer", "display": "12–14 years"},
+    "weight": {"min": 0.8, "max": 1.9, "unit": "kg", "context": "adults; the smallest of all wild canids", "display": "0.8–1.9 kg (1.8–4.2 lb)"},
+    "height": {"min": 18, "max": 22, "unit": "cm", "label": "Shoulder height", "display": "18–22 cm (7–8.7 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 50, "max": 52, "unit": "days", "label": "Gestation", "display": "50–52 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Insects such as beetles, locusts and termites, small rodents, lizards, birds and their eggs, along with roots, tubers, fruit and leaves that also supply much of its water.",
+    "habitat": ["Sandy desert", "Dunes", "Arid scrub"],
+    "range": "The Sahara and surrounding deserts of North Africa, from Morocco and Mauritania east to Egypt and Sudan, and into the Sinai Peninsula.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The fennec fox is the smallest member of the dog family, a pale, cream-colored fox of the Sahara with enormous ears that can be 10–15 cm long. The ears shed body heat and pick up the faint sounds of insects and rodents moving under the sand. Thick fur on the soles of its feet protects against hot sand and gives traction on dunes. Fennecs are nocturnal and spend the scorching day in burrows they dig themselves, often living in small family groups. They can survive without drinking free water, getting moisture from food. The fennec is the national animal of Algeria.",
+  "answers": {
+    "lifespan": "Fennec foxes are thought to live about 8–10 years in the wild and typically 12–14 years in captivity. Wild figures are estimates, because the species is hard to study in the open desert. Known predators include eagle owls, jackals and other larger carnivores, and people trap fennecs for the pet and fur trades.",
+    "weight": "Adult fennec foxes weigh just 0.8–1.9 kg (1.8–4.2 lb), less than most house cats and lighter than any other wild canid. Males are slightly larger than females. Their fluffy coat and oversized ears make them look bigger than their actual body weight suggests.",
+    "size": "A fennec fox stands about 18–22 cm (7–8.7 in) tall at the shoulder. Head-and-body length is 24–41 cm (9–16 in), the bushy black-tipped tail adds 18–31 cm, and the ears measure 10–15 cm, the largest ears relative to body size of any canid.",
+    "speed": null,
+    "gestation": "Fennec fox pregnancy lasts 50–52 days. Fennecs typically mate in January and February and give birth in March or April to a litter of one to four kits, sometimes more. The male defends the den and brings food while the female nurses, and kits are weaned at about two to three months.",
+    "diet": "Fennec foxes are omnivores that eat insects, small rodents, lizards, birds and eggs, plus roots, tubers, fruit and leaves. They hunt alone at night, using their huge ears to locate prey beneath the sand and digging it out quickly. Plant food and prey supply most of the water they need.",
+    "habitat": "Fennec foxes live in sandy deserts and dune fields across North Africa, from Morocco and Mauritania to Egypt and Sudan, and in the Sinai. They prefer stable dunes where they can dig burrows, which may be several meters long with multiple entrances, and they shelter there from daytime heat.",
+    "conservation": "The fennec fox is listed as Least Concern on the IUCN Red List, and its population is believed to be stable, though no reliable count exists. The main pressures are trapping for the pet trade and for fur, and new settlements in parts of the northern Sahara. The species is listed on CITES Appendix II."
+  },
+  "funFacts": [
+    "A fennec's ears can be 15 cm (6 in) long, up to a third or more of its body length, and work as radiators to shed heat.",
+    "Fennecs are unusually sociable for foxes, living in family groups of up to about ten animals that share a burrow system.",
+    "Fennecs can live without drinking, thanks to kidneys adapted to conserve water and moisture-rich food.",
+    "Algeria's national football team is nicknamed 'Les Fennecs' after the fennec fox, the country's national animal.",
+    "Fur on the soles of its feet lets a fennec walk on scorching sand and muffles its footsteps while hunting."
+  ],
+  "relatedAnimals": ["red-fox", "arctic-fox", "meerkat", "dromedary-camel", "coyote"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do fennec foxes make good pets?", "answer": "Fennec foxes are legal to own in some US states and countries, but they are not domesticated. They are nocturnal, very active, loud, prone to digging and hard to house-train, and they need a specialized diet. Many places ban or require permits for them, and wild capture harms local populations."},
+    {"question": "Why do fennec foxes have such big ears?", "answer": "The large ears serve two purposes. Their big, blood-rich surface releases body heat, helping the fox stay cool in the desert, and they give extremely sensitive hearing, allowing the fennec to detect insects and rodents moving under the sand at night."},
+    {"question": "Are fennec foxes endangered?", "answer": "No. The fennec fox is listed as Least Concern by the IUCN and is still widespread across the Sahara. Exact numbers are unknown. Local declines have been reported where foxes are trapped for sale to tourists or for the exotic pet trade."},
+    {"question": "How do fennec foxes survive in the desert?", "answer": "Fennec foxes avoid the heat by staying in cool burrows during the day and hunting at night. Pale fur reflects sunlight, large ears release heat, furry feet insulate against hot sand, and efficient kidneys let them get by on the water contained in their food."},
+    {"question": "Is a fennec fox smaller than a cat?", "answer": "Yes. At 0.8–1.9 kg, a fennec fox weighs well under half as much as a typical 4–5 kg house cat, and it stands only about 20 cm tall at the shoulder. It is the smallest member of the entire dog family."}
+  ],
+  "meta": {
+    "title": "Fennec Fox Facts: Size, Ears, Lifespan, Diet & Pets",
+    "description": "Fennec foxes weigh only 0.8–1.9 kg (1.8–4.2 lb), stand about 20 cm tall and have 10–15 cm ears. Lifespan, desert adaptations, diet and whether they make pets.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Vulpes%20zerda&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Vulpes_zerda/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Vulpes_zerda"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Fennec_fox"}
+    ]
+  }
+}

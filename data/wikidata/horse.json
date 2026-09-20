@@ -1,0 +1,30 @@
+{
+  "slug": "horse",
+  "commonName": "Horse",
+  "scientificName": "Equus caballus",
+  "classSlug": "mammals",
+  "aliases": [
+    "pony",
+    "stallion",
+    "mare"
+  ],
+  "qid": "Q10758650",
+  "iucnStatus": null,
+  "wikipedia": null,
+  "taxonomy": {
+    "species": "Equus caballus",
+    "genus": "Equus",
+    "family": "Equidae",
+    "order": "Perissodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "335",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

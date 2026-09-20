@@ -1,0 +1,35 @@
+{
+  "slug": "gray-squirrel",
+  "commonName": "Eastern Gray Squirrel",
+  "scientificName": "Sciurus carolinensis",
+  "classSlug": "mammals",
+  "aliases": [
+    "squirrel"
+  ],
+  "qid": "Q468500",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Eastern gray squirrel",
+  "taxonomy": {
+    "species": "Sciurus carolinensis",
+    "genus": "Sciurus",
+    "family": "Sciuridae",
+    "order": "Rodentia",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "15.5",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "40",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

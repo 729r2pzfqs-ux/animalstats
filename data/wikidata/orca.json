@@ -1,0 +1,27 @@
+{
+  "slug": "orca",
+  "commonName": "Orca",
+  "scientificName": "Orcinus orca",
+  "classSlug": "mammals",
+  "aliases": [
+    "killer whale"
+  ],
+  "qid": "Q26843",
+  "iucnStatus": "Data Deficient",
+  "wikipedia": "Orca",
+  "taxonomy": {
+    "species": "Orcinus orca",
+    "genus": "Orcinus",
+    "family": "Delphinidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "16.5",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

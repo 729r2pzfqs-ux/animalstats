@@ -1,0 +1,20 @@
+{
+  "slug": "red-tailed-hawk",
+  "commonName": "Red-Tailed Hawk",
+  "scientificName": "Buteo jamaicensis",
+  "classSlug": "birds",
+  "aliases": [
+    "hawk"
+  ],
+  "qid": "Q457471",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Red-tailed hawk",
+  "taxonomy": {
+    "species": "Buteo jamaicensis",
+    "genus": "Buteo",
+    "family": "Accipitridae",
+    "order": "Accipitriformes",
+    "class": "Aves"
+  },
+  "quantities": []
+}

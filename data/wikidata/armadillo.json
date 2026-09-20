@@ -1,0 +1,22 @@
+{
+  "slug": "armadillo",
+  "commonName": "Nine-Banded Armadillo",
+  "scientificName": "Dasypus novemcinctus",
+  "classSlug": "mammals",
+  "aliases": [
+    "armadillo"
+  ],
+  "qid": "Q649549",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Nine-banded armadillo",
+  "taxonomy": {
+    "species": "Dasypus novemcinctus",
+    "genus": "Dasypus",
+    "family": "Dasypodidae",
+    "order": "Cingulata",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

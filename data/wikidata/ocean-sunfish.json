@@ -1,0 +1,21 @@
+{
+  "slug": "ocean-sunfish",
+  "commonName": "Ocean Sunfish",
+  "scientificName": "Mola mola",
+  "classSlug": "fish",
+  "aliases": [
+    "mola"
+  ],
+  "qid": "Q192285",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Ocean sunfish",
+  "taxonomy": {
+    "species": "Mola mola",
+    "genus": "Mola",
+    "family": "Molidae",
+    "order": "Tetraodontiformes",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "alpaca",
+  "commonName": "Alpaca",
+  "scientificName": "Vicugna pacos",
+  "alternateNames": ["Huacaya", "Suri", "Lama pacos"],
+  "nameSingular": "alpaca",
+  "namePlural": "alpacas",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Camelidae", "genus": "Vicugna", "species": "V. pacos"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 20, "unit": "years", "context": "with good care; some reach their mid-twenties", "display": "15–20 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 48, "max": 84, "unit": "kg", "context": "adults; males are slightly heavier", "display": "48–84 kg (106–185 lb)"},
+    "height": {"min": 81, "max": 99, "unit": "cm", "label": "Shoulder height", "display": "81–99 cm (32–39 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 335, "max": 355, "unit": "days", "label": "Gestation", "display": "about 345 days (11.5 months)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Mainly grasses, along with some herbs and leaves, plus grass hay on farms; alpacas chew cud, have a three-chambered stomach and eat only about 1.5–2 percent of body weight daily.",
+    "habitat": ["High-altitude grassland", "Mountain plateau", "Farmland"],
+    "range": "The high Andes of Peru, Bolivia, Chile and Ecuador at about 3,500–5,000 m, with the great majority in Peru; farmed worldwide.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "The alpaca is a small domesticated South American camelid bred for its soft, warm fleece. Genetic studies show it descends mainly from the wild vicuña and was domesticated in the Peruvian Andes around 6,000 years ago; Inca nobility reserved the finest alpaca cloth for themselves. There are two types: the Huacaya, with dense, crimped, teddy-bear fleece, which makes up about 90 percent of all alpacas, and the Suri, whose silky fiber hangs in long locks. Alpacas are gentle herd animals that hum to one another, share communal dung piles and become stressed if kept alone. They do not exist in the wild.",
+  "answers": {
+    "lifespan": "Alpacas live 15–20 years, and well-cared-for animals occasionally reach their mid-twenties. Longevity depends on parasite control, dental and toenail care, good pasture and annual shearing to prevent heat stress. Their wild ancestor, the vicuña, lives roughly 15–20 years.",
+    "weight": "An adult alpaca weighs 48–84 kg (106–185 lb). That is less than half the weight of a llama, which typically weighs 130–200 kg. Newborn alpacas, called crias, weigh about 6–9 kg and usually stand within an hour.",
+    "size": "An alpaca stands 81–99 cm (32–39 in) tall at the shoulder, and about 1.5 m (5 ft) at the top of its head. The fluffy fleece makes alpacas look bulkier than they are; after shearing they appear surprisingly slender.",
+    "speed": null,
+    "gestation": "An alpaca is pregnant for about 345 days, or roughly 11.5 months, although healthy pregnancies vary by a few weeks either way. Females almost always have a single cria, typically born during daylight. Like llamas, alpacas are induced ovulators and can breed at any time of year.",
+    "diet": "Alpacas are herbivores that eat mostly grass. They are efficient feeders with a three-chambered stomach, needing only about 1.5–2 percent of their body weight in forage each day. A split upper lip and a dental pad let them nip plants without pulling up the roots.",
+    "habitat": "Alpacas live on the cold, high grasslands of the Andes at around 3,500–5,000 m, mainly in southern Peru and neighboring Bolivia and Chile. They cope well with thin air, intense sun and freezing nights. Alpacas are also farmed in the United States, the United Kingdom, Australia and New Zealand.",
+    "conservation": "The alpaca is a domesticated animal with no IUCN Red List status. There are several million, the great majority in Peru. Its wild ancestor, the vicuña, was hunted to around 6,000 animals by the 1960s but has recovered strongly under protection and is now listed as Least Concern."
+  },
+  "funFacts": [
+    "Alpaca fleece comes in more than 20 recognized natural colors, from white and fawn to brown, gray and black.",
+    "An alpaca yields roughly 2–5 kg of fiber at its annual shearing.",
+    "Alpaca fiber contains no lanolin, so it needs less washing than sheep's wool and is often tolerated by people who find wool itchy.",
+    "Alpacas hum to each other, and mothers and crias hum back and forth constantly.",
+    "A whole herd uses the same few dung piles, a habit that helps limit the spread of parasites."
+  ],
+  "relatedAnimals": ["llama", "sheep", "goat", "dromedary-camel", "bactrian-camel"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between an alpaca and a llama?", "answer": "Alpacas are much smaller, at 48–84 kg versus 130–200 kg for llamas, with short spear-shaped ears, blunt faces and finer fleece. Llamas have long banana-shaped ears and were bred to carry loads, while alpacas were bred for fiber."},
+    {"question": "Do alpacas spit?", "answer": "Yes, but mostly at each other. Alpacas spit to warn off herd mates at feeding time or to reject a male's advances. They seldom spit at people unless they feel cornered or frightened, although a bystander can get caught in the crossfire."},
+    {"question": "Can you keep just one alpaca?", "answer": "No. Alpacas are strongly social herd animals and become stressed, ill or difficult when kept alone. Breed associations generally recommend keeping at least three together, ideally of the same sex or with castrated males."},
+    {"question": "Is alpaca wool warmer than sheep's wool?", "answer": "Alpaca fiber is generally considered warmer than sheep's wool for its weight, because its fibers contain tiny air pockets that improve insulation. It is also soft, lightweight and free of lanolin, though it is less elastic than wool."},
+    {"question": "What is a baby alpaca called?", "answer": "A baby alpaca is called a cria, the same term used for baby llamas, vicuñas and guanacos. An adult female is often called a hembra and an adult male a macho, from Spanish."}
+  ],
+  "meta": {
+    "title": "Alpaca Facts: Lifespan, Size, Weight, Fleece & Diet",
+    "description": "Alpacas live 15–20 years, weigh 48–84 kg (106–185 lb), stand 81–99 cm at the shoulder and are pregnant for about 11.5 months. Diet and alpaca facts.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Vicugna_pacos"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q81564"}
+    ]
+  }
+}

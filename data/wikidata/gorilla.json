@@ -1,0 +1,22 @@
+{
+  "slug": "gorilla",
+  "commonName": "Western Gorilla",
+  "scientificName": "Gorilla gorilla",
+  "classSlug": "mammals",
+  "aliases": [
+    "gorilla",
+    "western lowland gorilla"
+  ],
+  "qid": "Q737838",
+  "iucnStatus": "Critically Endangered",
+  "wikipedia": "Western gorilla",
+  "taxonomy": {
+    "species": "Gorilla gorilla",
+    "genus": "Gorilla",
+    "family": "Hominidae",
+    "order": "Primates",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": []
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "chinese-giant-salamander",
+  "commonName": "Chinese Giant Salamander",
+  "scientificName": "Andrias davidianus",
+  "alternateNames": ["Wawa yu", "Baby fish"],
+  "nameSingular": "Chinese giant salamander",
+  "namePlural": "Chinese giant salamanders",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Amphibia", "classSlug": "amphibians", "order": "Caudata", "family": "Cryptobranchidae", "genus": "Andrias", "species": "A. davidianus"},
+  "facts": {
+    "lifespan": {"min": 50, "max": 60, "unit": "years", "context": "approximate maximum, known mostly from captive animals; wild lifespan is poorly documented", "display": "up to 50–60 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 25, "max": 30, "unit": "kg", "context": "average large adults; records reach about 50 kg, and most wild animals today are much smaller", "display": "25–30 kg (55–66 lb)"},
+    "height": {"min": 1, "max": 1.2, "unit": "m", "label": "Length", "display": "1–1.2 m (3.3–3.9 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 50, "max": 60, "unit": "days", "label": "Egg development", "display": "50–60 days to hatch"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Fish, freshwater crabs, shrimp, frogs, worms, aquatic insects and smaller salamanders, including its own kind. It waits motionless on the stream bed and sucks passing prey into its wide mouth.",
+    "habitat": ["Mountain streams", "Rocky rivers", "Underwater caves and crevices"],
+    "range": "Cool, fast-flowing mountain streams and rivers in central and southern China, within the Yangtze, Yellow and Pearl River basins; now extremely fragmented.",
+    "conservationStatus": "Critically Endangered",
+    "iucnCategory": "CR",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The Chinese giant salamander is one of the largest amphibians on Earth, a wrinkled, flat-headed river dweller that can exceed a meter in length. It belongs to a family that has changed little in well over 100 million years; its closest relatives are the Japanese giant salamander and the North American hellbender. Fully aquatic and nocturnal, it has tiny lidless eyes and finds prey through vibration sensors along its body, breathing mostly through folds of skin. Once widespread in China, it has been nearly wiped out in the wild by overharvesting for food, even as millions are raised on farms.",
+  "answers": {
+    "lifespan": "Chinese giant salamanders can live up to about 50–60 years, based mainly on captive animals. Wild lifespans are poorly documented. Popular claims of 200-year-old individuals have never been verified, and no scientific evidence supports them.",
+    "weight": "Large adult Chinese giant salamanders average 25–30 kg (55–66 lb), and the heaviest on record reached about 50 kg. Most wild individuals found today are far smaller than that, because big animals have been removed by decades of hunting.",
+    "size": "Adult Chinese giant salamanders typically measure 1–1.2 m (3.3–3.9 ft) long, with an average of about 1.15 m. The largest on record was about 1.8 m (5.9 ft). That makes this species, together with its close relative the South China giant salamander, the largest living amphibian.",
+    "speed": null,
+    "gestation": "Chinese giant salamander eggs hatch after about 50–60 days. The female lays a string of roughly 400–500 eggs in an underwater den, where the male fertilizes them. The male, called the den master, then guards the eggs from predators until they hatch.",
+    "diet": "Chinese giant salamanders are carnivores that eat fish, crabs, shrimp, frogs, worms and insects. With very poor eyesight, they detect prey using sensory nodes that run along the head and body, then open the mouth suddenly to suck the animal in. They also eat smaller salamanders.",
+    "habitat": "Chinese giant salamanders live in cool, clear, fast-flowing mountain streams and rivers in central and southern China, usually in forested hills between roughly 100 and 1,500 m. They shelter by day in rock crevices, caves and burrows along the bank and hunt at night.",
+    "conservation": "The Chinese giant salamander is listed as Critically Endangered on the IUCN Red List, and wild numbers have fallen by an estimated 80 percent or more since the 1950s. Poaching for the luxury food market, dams and pollution are the main threats. Surveys in 2013–2016 found almost none in the wild."
+  },
+  "funFacts": [
+    "Its Chinese name, wawa yu, means \"baby fish,\" because its distress call is said to sound like a crying infant.",
+    "Genetic studies published in 2018 and 2019 showed that the \"Chinese giant salamander\" is actually several distinct species, including the South China giant salamander, Andrias sligoi.",
+    "It has lungs but absorbs most of its oxygen through the loose, wrinkled skin along its sides.",
+    "Millions of giant salamanders live on farms in China, yet releases of farmed animals risk mixing lineages and spreading disease to the last wild populations.",
+    "Its family, Cryptobranchidae, dates back to the age of dinosaurs and is often described as a group of living fossils."
+  ],
+  "relatedAnimals": ["axolotl", "fire-salamander", "eastern-newt", "goliath-frog", "giant-panda"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the largest amphibian in the world?", "answer": "The Chinese giant salamanders are the largest living amphibians. Adults commonly exceed 1 m, and a museum specimen now assigned to the South China giant salamander measured about 1.8 m. The Japanese giant salamander is slightly smaller, and the hellbender of North America is the third largest."},
+    {"question": "Are Chinese giant salamanders dangerous?", "answer": "No. Chinese giant salamanders are not dangerous to people and are not venomous. They are shy, slow-moving animals that hide during the day. A large one can give a painful bite if handled, and the skin releases a sticky white secretion when the animal is stressed."},
+    {"question": "Do people eat Chinese giant salamanders?", "answer": "Yes. The species is considered a luxury food in parts of China and is also used in traditional medicine, which is the main reason it has almost vanished from the wild. Hunting wild salamanders is illegal in China, but farmed animals are sold legally."},
+    {"question": "Can Chinese giant salamanders really live 200 years?", "answer": "There is no evidence for it. A 2015 news report of a 200-year-old salamander found in a cave in Chongqing was never scientifically confirmed. Documented lifespans for giant salamanders are around 50–60 years in captivity, which is still among the longest of any amphibian."},
+    {"question": "How many Chinese giant salamanders are left in the wild?", "answer": "No reliable count exists, but wild populations are extremely small. A four-year survey covering 97 counties across China, published in 2018, found giant salamanders at only a handful of sites, and those may have been released farm animals. By contrast, farms hold millions."}
+  ],
+  "meta": {
+    "title": "Chinese Giant Salamander: Size, Weight, Lifespan & Facts",
+    "description": "Chinese giant salamanders reach 1–1.2 m (3.3–3.9 ft), average 25–30 kg and can live 50–60 years. Record size, diet, habitat and why they are nearly extinct.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Andrias%20davidianus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Andrias_davidianus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Andrias_davidianus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Chinese_giant_salamander"}
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "horse",
+  "commonName": "Horse",
+  "scientificName": "Equus caballus",
+  "alternateNames": ["Domestic horse", "Pony", "Equus ferus caballus"],
+  "nameSingular": "horse",
+  "namePlural": "horses",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Perissodactyla", "family": "Equidae", "genus": "Equus", "species": "E. caballus"},
+  "facts": {
+    "lifespan": {"min": 25, "max": 30, "unit": "years", "context": "domestic horses with good care; ponies often live longer", "display": "25–30 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 380, "max": 1000, "unit": "kg", "context": "light riding horses 380–550 kg, heavy draft breeds 700–1,000 kg", "display": "380–1,000 kg (840–2,200 lb)"},
+    "height": {"min": 1.4, "max": 1.8, "unit": "m", "label": "Shoulder height", "display": "1.4–1.8 m (14–18 hands, 4.6–5.9 ft)"},
+    "speed": {"min": 40, "max": 70, "unit": "km/h", "verb": "run", "context": "typical gallop 40–48 km/h; the fastest racehorses reach about 70 km/h over short distances", "display": "40–70 km/h (25–44 mph)"},
+    "gestationPeriod": {"min": 320, "max": 370, "unit": "days", "label": "Gestation", "display": "about 340 days (11 months)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "A grazing herbivore that eats mostly grass and hay, supplemented in working horses by grain or concentrated feed; a horse eats roughly 1.5–2.5 percent of its body weight in dry feed daily.",
+    "habitat": ["Pasture", "Grassland", "Farmland", "Steppe"],
+    "range": "Kept worldwide on every continent except Antarctica, with free-roaming feral herds in North America, Australia and parts of Europe and Asia.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "The horse is a large, single-toed hoofed mammal that was domesticated on the steppes of Central Asia by about 4,000–5,500 years ago and went on to transform human transport, farming and warfare. Horses are herd animals built for flight: they have long legs, large eyes set on the sides of the head for near all-round vision, and can sleep standing up. More than 300 breeds exist, from miniature horses and ponies to heavy draft breeds such as the Shire. Free-roaming mustangs and brumbies are feral descendants of domestic horses; the only surviving truly wild horse is the closely related Przewalski's horse of Mongolia.",
+  "answers": {
+    "lifespan": "Horses live 25–30 years on average with good care. Ponies and smaller breeds often live into their thirties, while large draft horses tend to have shorter lives. The oldest horse on record, an English barge horse called Old Billy, died in 1822 at the age of 62.",
+    "weight": "An adult horse weighs 380–1,000 kg (840–2,200 lb) depending on breed. Light riding horses such as Arabians and Thoroughbreds usually weigh 380–550 kg, while draft breeds such as Shires, Belgians and Clydesdales weigh 700–1,000 kg. Ponies and miniature horses can weigh well under 300 kg.",
+    "size": "Most horses stand 1.4–1.8 m (4.6–5.9 ft) at the withers, which is 14–18 hands. One hand equals 4 inches (10.16 cm). An equine under 14.2 hands (about 1.47 m) is generally classed as a pony, and the tallest draft horses can exceed 19 hands.",
+    "speed": "A horse gallops at about 40–48 km/h (25–30 mph), and the fastest racehorses reach roughly 70 km/h (44 mph) in a sprint. The Guinness record for a Thoroughbred is 70.76 km/h over two furlongs. American Quarter Horses are the quickest over very short distances.",
+    "gestation": "A mare is pregnant for about 340 days, or 11 months, with a normal range of 320–370 days. She almost always carries a single foal, because twins rarely survive. A healthy foal stands and nurses within an hour or two of birth and can run within a day.",
+    "diet": "Horses are herbivores that eat mainly grass and hay. They have a small stomach and a large hindgut for fermenting fiber, so they are adapted to graze for up to 16 hours a day rather than eat big meals. A 500 kg horse eats around 7–12 kg of dry feed and drinks 25–50 liters of water daily.",
+    "habitat": "Horses are kept worldwide in pastures, farms and stables on every continent except Antarctica. Their ancestors evolved on open grassland and steppe, and feral herds still live in the American West, the Australian outback, and on barrier islands such as Assateague.",
+    "conservation": "The horse is a domesticated animal with no IUCN Red List status, and there are roughly 60 million worldwide. Its wild ancestor is extinct. The related Przewalski's horse, once extinct in the wild, has been reintroduced to Mongolia and is now listed as Endangered."
+  },
+  "funFacts": [
+    "Horses can doze standing up thanks to a 'stay apparatus' of tendons and ligaments that locks their legs, but they must lie down for deep REM sleep.",
+    "A horse's eyes are among the largest of any land mammal and give it nearly 350 degrees of vision.",
+    "Horses cannot vomit, which is one reason colic and digestive blockages are so dangerous for them.",
+    "A horse's height is measured in hands, a unit of 4 inches that dates back to ancient times.",
+    "Foals can stand within about an hour of birth, an adaptation to life as a prey animal on open ground."
+  ],
+  "relatedAnimals": ["donkey", "plains-zebra", "cow", "white-rhinoceros", "dromedary-camel"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a horse and a pony?", "answer": "A pony is a small horse, usually defined as standing under 14.2 hands (about 1.47 m) at the withers. Ponies also tend to have stockier bodies, thicker coats and manes, and shorter legs relative to their size. They are the same species as horses."},
+    {"question": "Do horses sleep standing up?", "answer": "Yes, horses doze standing up by locking their leg joints, which lets them flee quickly from danger. They still need to lie down for REM sleep, usually for a total of only 30 minutes to a few hours per day."},
+    {"question": "How many hands is a horse?", "answer": "Most horses measure 14–18 hands at the withers. A hand is 4 inches, so a 16-hand horse is 64 inches (1.63 m) tall at the top of the shoulders. A measurement such as 15.2 means 15 hands plus 2 inches."},
+    {"question": "What is a baby horse called?", "answer": "A baby horse is called a foal. A young male is a colt and a young female is a filly until about four years old. An adult female is a mare, an uncastrated adult male is a stallion, and a castrated male is a gelding."},
+    {"question": "Are there any wild horses left?", "answer": "The only surviving truly wild horse is Przewalski's horse of Mongolia, which has never been domesticated. Mustangs in North America and brumbies in Australia are feral horses, meaning free-living descendants of escaped or released domestic animals."}
+  ],
+  "meta": {
+    "title": "Horse Facts: Lifespan, Weight, Height, Speed & Diet",
+    "description": "Horses live 25–30 years, weigh 380–1,000 kg, stand 14–18 hands and gallop at up to 70 km/h (44 mph). Gestation, diet and more horse facts and stats.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Horse"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Equus_caballus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Equus_caballus"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q10758650"}
+    ]
+  }
+}

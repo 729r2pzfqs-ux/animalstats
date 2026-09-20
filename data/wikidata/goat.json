@@ -1,0 +1,21 @@
+{
+  "slug": "goat",
+  "commonName": "Goat",
+  "scientificName": "Capra hircus",
+  "classSlug": "mammals",
+  "aliases": [
+    "domestic goat"
+  ],
+  "qid": "Q45320358",
+  "iucnStatus": null,
+  "wikipedia": null,
+  "taxonomy": {
+    "species": "Capra hircus",
+    "genus": "Capra",
+    "family": "Bovidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": []
+}

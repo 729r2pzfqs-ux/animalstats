@@ -1,0 +1,22 @@
+{
+  "slug": "koi",
+  "commonName": "Koi",
+  "scientificName": "Cyprinus rubrofuscus",
+  "classSlug": "fish",
+  "aliases": [
+    "koi carp"
+  ],
+  "qid": "Q3246258",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Cyprinus rubrofuscus",
+  "taxonomy": {
+    "species": "Cyprinus rubrofuscus",
+    "genus": "Cyprinus",
+    "family": "Cyprinidae",
+    "order": "Cypriniformes",
+    "class": "Actinopteri",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

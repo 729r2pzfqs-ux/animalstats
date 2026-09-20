@@ -1,0 +1,64 @@
+{
+  "slug": "hammerhead-shark",
+  "commonName": "Great Hammerhead Shark",
+  "scientificName": "Sphyrna mokarran",
+  "alternateNames": ["Great hammerhead", "Hammerhead shark", "Squat-headed hammerhead"],
+  "nameSingular": "great hammerhead shark",
+  "namePlural": "great hammerhead sharks",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Chondrichthyes", "classSlug": "fish", "order": "Carcharhiniformes", "family": "Sphyrnidae", "genus": "Sphyrna", "species": "S. mokarran"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 30, "unit": "years", "context": "typical estimate; the oldest individual aged was about 44", "display": "20–30 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 230, "max": 450, "unit": "kg", "context": "adults; the record is a 580 kg pregnant female", "display": "230–450 kg (500–1,000 lb)"},
+    "height": {"min": 3, "max": 4, "unit": "m", "label": "Length", "display": "3–4 m (10–13 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 330, "max": 330, "unit": "days", "label": "Gestation", "display": "about 11 months"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Stingrays and other rays are the favorite prey, along with skates, smaller sharks, groupers, sea catfish, jacks, squid, octopus and crabs; great hammerheads sometimes eat their own species.",
+    "habitat": ["Coastal seas", "Coral reefs", "Continental shelf", "Lagoons"],
+    "range": "Tropical and warm-temperate seas worldwide between about 40°N and 37°S, along coasts and continental shelves; many populations migrate toward the poles in summer.",
+    "conservationStatus": "Critically Endangered",
+    "iucnCategory": "CR",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The great hammerhead is the largest of the nine or so hammerhead shark species, recognized by its wide, nearly straight-edged hammer and very tall, sickle-shaped dorsal fin. The hammer, called a cephalofoil, spreads the eyes, nostrils and electrical sensors over a wide area, improving depth vision and helping the shark detect stingrays buried in sand, which it pins down with its head before biting. Unlike scalloped hammerheads, which gather in large schools, great hammerheads are solitary, wide-ranging hunters of warm coastal seas. Heavy demand for their large fins has made them one of the most threatened sharks.",
+  "answers": {
+    "lifespan": "Great hammerhead sharks live an estimated 20–30 years, and the oldest individual aged by growth rings in its vertebrae was about 44. They grow relatively fast for a large shark but breed only every second year, which limits how quickly populations can recover. They are very rarely kept in aquariums.",
+    "weight": "Adult great hammerhead sharks typically weigh 230–450 kg (500–1,000 lb). The heaviest on record was a 4.4 m female caught off Boca Grande, Florida, in 2006 that weighed 580 kg (1,280 lb) and was carrying 55 pups. Females grow larger and heavier than males.",
+    "size": "Great hammerhead sharks are usually 3–4 m (10–13 ft) long as adults, and the largest reach about 6 m (20 ft). That makes them by far the biggest hammerhead; the scalloped and smooth hammerheads seldom pass 4 m. Pups measure 50–70 cm at birth and have a more rounded hammer than adults.",
+    "speed": null,
+    "gestation": "Great hammerhead sharks are pregnant for about 11 months. Like mammals, the embryos are nourished through a placenta-like connection once their yolk is used up. Litters contain 6–42 pups, and occasionally more, born in late spring or summer in shallow coastal nurseries. Females breed once every two years.",
+    "diet": "Great hammerhead sharks are carnivores that specialize in stingrays, and they also eat other rays, smaller sharks, bony fish, squid, octopus and crabs. They use the hammer to sweep the seabed for electrical signals and to pin rays down. Stingray barbs are often found lodged in their mouths without apparent harm.",
+    "habitat": "Great hammerhead sharks live in tropical and warm-temperate seas around the world, mostly over continental shelves, coral reefs, lagoons and island terraces from the shallows down to about 80 m. They are nomadic and migrate seasonally; well-known winter gathering spots include Bimini in the Bahamas.",
+    "conservation": "The great hammerhead is listed as Critically Endangered on the IUCN Red List, with the global population estimated to have fallen by more than 80 percent over three generations. It is targeted and caught accidentally for its large, valuable fins and often dies from the stress of capture even when released. It is listed on CITES Appendix II."
+  },
+  "funFacts": [
+    "Great hammerheads often swim rolled onto their side at an angle of 50–75 degrees, using their very tall dorsal fin as an extra wing to save energy.",
+    "The wide spacing of the eyes gives hammerheads excellent binocular vision and a full 360-degree view in the vertical plane.",
+    "A great hammerhead's hammer is nearly straight along the front edge with a notch in the middle, unlike the curved, scalloped edge of its smaller relatives.",
+    "Great hammerheads have been seen pinning a stingray to the seabed with one side of the hammer, then biting off its wings to immobilize it.",
+    "Hammerhead sharks are among the youngest shark lineages, appearing roughly 20 million years ago."
+  ],
+  "relatedAnimals": ["great-white-shark", "tiger-shark", "bull-shark", "whale-shark", "manta-ray"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why do hammerhead sharks have a hammer-shaped head?", "answer": "The hammer-shaped head spreads the shark's sensory organs over a wide area. It gives better depth perception and all-round vision, more room for the electrical sensors that detect buried prey, and wider-set nostrils for tracking scents. It also provides lift and tight maneuvering, and great hammerheads use it to pin down stingrays."},
+    {"question": "Are great hammerhead sharks dangerous to humans?", "answer": "Great hammerheads are large enough to be potentially dangerous, but attacks are very rare. The International Shark Attack File records only a small number of unprovoked bites by hammerheads of any species, none of them fatal. Divers regularly swim with great hammerheads in the Bahamas without incident."},
+    {"question": "How many species of hammerhead shark are there?", "answer": "There are nine to ten recognized hammerhead species, depending on the classification used. They range from the 1 m bonnethead to the great hammerhead at up to 6 m, and include the scalloped, smooth and winghead sharks, the last with a hammer nearly half its body length."},
+    {"question": "Do hammerhead sharks swim in schools?", "answer": "Scalloped hammerheads famously gather in schools of hundreds around seamounts and islands such as the Galápagos and Cocos. The great hammerhead is different: it is a solitary hunter that travels alone and is usually seen singly, even at sites where several visit the same area."},
+    {"question": "Why are great hammerheads critically endangered?", "answer": "Great hammerheads are critically endangered mainly because of overfishing. Their large fins are among the most valuable in the shark fin trade, they are caught in longlines and nets aimed at other species, and they frequently die after capture even if released. Breeding only every two years slows recovery."}
+  ],
+  "meta": {
+    "title": "Great Hammerhead Shark: Size, Lifespan, Diet & Status",
+    "description": "Great hammerhead sharks grow 3–4 m long (up to 6 m), weigh 230–450 kg and live 20–30 years. Pregnancy lasts about 11 months. Diet, habitat and threats.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Sphyrna%20mokarran&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Sphyrna_mokarran/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Great_hammerhead"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q757353"}
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "common-swift",
+  "commonName": "Common Swift",
+  "scientificName": "Apus apus",
+  "alternateNames": ["Swift", "European swift"],
+  "nameSingular": "common swift",
+  "namePlural": "common swifts",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Apodiformes", "family": "Apodidae", "genus": "Apus", "species": "A. apus"},
+  "facts": {
+    "lifespan": {"min": 7, "max": 10, "unit": "years", "context": "in the wild, for birds that reach adulthood; the banding record is about 21 years", "display": "7–10 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 36, "max": 52, "unit": "g", "context": "adults", "display": "36–52 g (1.3–1.8 oz)"},
+    "height": {"min": 38, "max": 44, "unit": "cm", "label": "Wingspan", "display": "38–44 cm (15–17 in)"},
+    "speed": {"min": 36, "max": 112, "unit": "km/h", "verb": "fly", "context": "level flight; cruises at 36–43 km/h, with 111.6 km/h measured during display flights", "display": "up to 112 km/h (69 mph)"},
+    "gestationPeriod": {"min": 19, "max": 21, "unit": "days", "label": "Incubation", "display": "19–21 days"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Flying insects and airborne spiders caught on the wing: aphids, flies, flying ants, small beetles, hoverflies and mosquitoes. Parents deliver them to chicks as compact food balls holding hundreds of insects each.",
+    "habitat": ["Open sky", "Towns and cities", "Cliffs", "Old woodland", "Wetlands"],
+    "range": "Breeds across Europe, North Africa and Asia east to China; winters in Africa south of the Sahara, mainly the Congo Basin and southeastern Africa.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The common swift is a sooty-brown, scythe-winged bird that spends almost its entire life in the air. It eats, drinks, mates and sleeps on the wing, and tracking studies have shown that some birds stay airborne for ten months without landing, touching down only to nest. Swifts look like swallows but are not related to them; their closest relatives are the hummingbirds. They breed in holes in buildings and cliffs across Europe and Asia and spend the northern winter over Africa. Screaming parties of swifts racing around rooftops on summer evenings are a familiar sight and sound in European towns.",
+  "answers": {
+    "lifespan": "Common swifts that reach adulthood typically live 7–10 years, which is long for such a small bird. The oldest known wild swift, a banded bird, lived about 21 years. Over a lifetime like that, a swift is estimated to fly millions of kilometers. They cannot be kept in captivity.",
+    "weight": "An adult common swift weighs 36–52 g (1.3–1.8 oz), about the same as a golf ball. Weight drops quickly in cold, wet spells when flying insects are scarce. Swifts store little fat during the breeding season, so a run of bad weather can be fatal for adults and chicks alike.",
+    "size": "Common swifts have a wingspan of 38–44 cm (15–17 in) and a body length of 16–17 cm (6.3–6.7 in). The long, narrow, crescent-shaped wings are much longer than the body, and the tail is short and forked. The legs are tiny, suited only to clinging to vertical surfaces.",
+    "speed": "Common swifts have been measured at 111.6 km/h (69 mph) in level flight, the fastest reliably recorded level flight of any bird. That speed was reached during social screaming flights. Normal cruising and migration speed is much lower, around 36–43 km/h (22–27 mph). Peregrine falcons are faster only in a dive.",
+    "gestation": "Common swift eggs hatch after 19–21 days of incubation. The pair lays two or three white eggs in a shallow nest of airborne material glued with saliva, inside a roof space, wall cavity or cliff hole. Both parents incubate, and the chicks fledge after five to eight weeks depending on the weather.",
+    "diet": "Common swifts are insectivores that eat only flying insects and drifting spiders, all caught in the air. A pair feeding chicks can collect many thousands of insects a day. In bad weather the adults may fly hundreds of kilometers around a storm to find food, while their chicks survive by becoming torpid.",
+    "habitat": "Common swifts live in the open air above almost any landscape, from cities and farmland to lakes and forests. They nest in crevices in buildings, cliffs and occasionally old trees across Europe, North Africa and Asia, and spend the winter over the forests and savannas of sub-Saharan Africa.",
+    "conservation": "The common swift is listed as Least Concern globally on the IUCN Red List, but it is declining in much of Europe; the United Kingdom placed it on its national Red List in 2021. Likely causes are fewer flying insects and the loss of nest holes when old buildings are renovated. Swift nest boxes and swift bricks help."
+  },
+  "funFacts": [
+    "Tracking tags showed some common swifts stay in the air for ten months without landing, the longest continuous flight known for any bird.",
+    "Swifts sleep on the wing, climbing to 2,000–3,000 m at dusk and dawn.",
+    "A young swift that leaves the nest may not land again for two or three years, until it is old enough to breed.",
+    "The genus name Apus comes from Greek for without feet, because people once thought the short-legged birds had none.",
+    "Swift chicks can survive days without food by lowering their body temperature and going torpid, a rare ability among birds.",
+    "Swifts mate in flight, one of very few birds known to do so."
+  ],
+  "relatedAnimals": ["hummingbird", "peregrine-falcon", "wandering-albatross", "american-robin", "dragonfly", "atlantic-puffin"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do swifts really never land?", "answer": "Almost. Common swifts land only to nest. Outside the breeding season they stay airborne for up to ten months, feeding, drinking, sleeping and molting in flight. Their short legs and long wings make taking off from flat ground difficult, though a healthy adult can usually manage it."},
+    {"question": "How do swifts sleep while flying?", "answer": "Swifts are thought to sleep in short bouts with one half of the brain at a time while gliding at high altitude. At dusk they ascend to a few thousand meters, then drift and glide through the night with occasional wingbeats, descending again around dawn."},
+    {"question": "What is the difference between a swift and a swallow?", "answer": "Swifts are all dark brown with long, stiff, sickle-shaped wings, fly high with rapid flickering wingbeats, scream loudly and never perch on wires. Swallows have pale underparts, a red throat and long tail streamers, fly lower and perch readily. The two are unrelated; swifts are closer to hummingbirds."},
+    {"question": "Is the common swift the fastest bird in the world?", "answer": "It holds the record for the fastest reliably measured level flight, 111.6 km/h (69 mph). The peregrine falcon is the fastest bird overall, exceeding 300 km/h, but only in a steep hunting dive. Higher level-flight claims for other species, such as the white-throated needletail, are unverified."},
+    {"question": "What should I do if I find a swift on the ground?", "answer": "A grounded swift is usually a fledgling that left the nest too early or an exhausted or injured adult. Place it in a ventilated box, do not throw it into the air or try to feed it, and contact a wildlife rehabilitator with swift experience, since swifts need specialist insect diets."}
+  ],
+  "meta": {
+    "title": "Common Swift Facts: Speed, Lifespan & 10 Months in Flight",
+    "description": "Common swifts fly at up to 112 km/h (69 mph) in level flight, weigh 36–52 g, live 7–10 years and can stay airborne for 10 months. Diet and range facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Apus%20apus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Apus_apus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Apus_apus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Common_swift"}
+    ]
+  }
+}

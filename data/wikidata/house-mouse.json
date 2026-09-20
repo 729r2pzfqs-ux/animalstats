@@ -1,0 +1,21 @@
+{
+  "slug": "house-mouse",
+  "commonName": "House Mouse",
+  "scientificName": "Mus musculus",
+  "classSlug": "mammals",
+  "aliases": [
+    "mouse"
+  ],
+  "qid": "Q83310",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "House mouse",
+  "taxonomy": {
+    "species": "Mus musculus",
+    "genus": "Mus",
+    "family": "Muridae",
+    "order": "Rodentia",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": []
+}

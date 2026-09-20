@@ -1,0 +1,64 @@
+{
+  "slug": "toco-toucan",
+  "commonName": "Toco Toucan",
+  "scientificName": "Ramphastos toco",
+  "alternateNames": ["Toucan", "Common toucan", "Giant toucan"],
+  "nameSingular": "toco toucan",
+  "namePlural": "toco toucans",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Piciformes", "family": "Ramphastidae", "genus": "Ramphastos", "species": "R. toco"},
+  "facts": {
+    "lifespan": {"min": 12, "max": 20, "unit": "years", "context": "in the wild; an estimate, as wild birds are poorly studied", "display": "12–20 years"},
+    "lifespanCaptivity": {"min": 20, "max": 26, "unit": "years", "context": "in human care", "display": "20–26 years"},
+    "weight": {"min": 500, "max": 876, "unit": "g", "context": "adults; males are slightly larger", "display": "500–876 g (1.1–1.9 lb)"},
+    "height": {"min": 55, "max": 65, "unit": "cm", "label": "Length", "display": "55–65 cm (22–26 in) including the bill"},
+    "speed": null,
+    "gestationPeriod": {"min": 17, "max": 18, "unit": "days", "label": "Incubation", "display": "17–18 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Mainly fruit such as figs, guavas and palm fruits, plucked with the bill tip and tossed back into the throat, supplemented with insects, frogs, small lizards and the eggs and nestlings of other birds.",
+    "habitat": ["Savanna", "Gallery forest", "Forest edges", "Palm groves", "Plantations"],
+    "range": "Central and eastern South America: Brazil, Bolivia, Paraguay, northern Argentina and the Guianas, including the Cerrado and Pantanal.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The toco toucan is the largest and best-known of the roughly 40 toucan species, with a black body, white throat, blue-ringed eye and an enormous orange-yellow bill tipped with a black spot. The bill can be 20 cm long, about a third of the bird's total length, yet it is surprisingly light because it is made of a thin keratin shell over a foam-like bony core. Unlike most toucans, which live deep in rainforest, the toco prefers open country: savannas, forest edges, river corridors and plantations across central South America. It nests in tree cavities and usually travels in pairs or small groups.",
+  "answers": {
+    "lifespan": "Toco toucans are estimated to live 12–20 years in the wild and 20–26 years in captivity. Wild lifespans are not well documented. In human care they are prone to iron storage disease, so zoos and keepers feed them special low-iron diets to help them reach old age.",
+    "weight": "An adult toco toucan weighs 500–876 g (1.1–1.9 lb), making it the heaviest toucan. Males are slightly larger than females. The huge bill accounts for very little of this: it makes up only about one-twentieth of the bird's body weight.",
+    "size": "Toco toucans are 55–65 cm (22–26 in) long, including a bill of about 16–23 cm (6–9 in). That bill has the largest surface area relative to body size of any bird. The wings are short and rounded for a bird of this size, suited to brief flights between trees rather than long journeys.",
+    "speed": null,
+    "gestation": "Toco toucan eggs hatch after 17–18 days of incubation. The pair nests in a tree hollow, a hole in an earth bank or a termite mound, and lays two to four white eggs. Both parents incubate and feed the chicks, which hatch naked and blind and fledge at six to eight weeks.",
+    "diet": "Toco toucans are omnivores that eat mostly fruit, especially figs and palm fruits, along with insects, frogs, small reptiles and the eggs and chicks of other birds. The long bill lets them reach fruit on branches too thin to hold their weight. They swallow fruit whole and spread the seeds.",
+    "habitat": "Toco toucans live in semi-open habitats of central and eastern South America, including the Brazilian Cerrado savanna, the Pantanal wetlands, gallery forest along rivers, palm groves and plantations. They avoid the unbroken interior of rainforest and are mostly found in the lowlands, with some birds up to about 1,750 m.",
+    "conservation": "The toco toucan is listed as Least Concern on the IUCN Red List because of its very large range, although its population is thought to be decreasing. Threats include habitat loss to agriculture, capture for the pet trade and some hunting. It tolerates disturbed habitats better than most toucans."
+  },
+  "funFacts": [
+    "The toco toucan's bill works as a radiator: by adjusting blood flow to it, the bird can shed a large share of its body heat, and it tucks the bill under a wing to stay warm at night.",
+    "The bill is a thin layer of keratin over a rigid foam of bony struts, which makes it strong and very light.",
+    "A toucan's tongue is long, narrow and frayed along the edges like a feather, which helps it move food down the bill.",
+    "Toucans sleep folded into a ball, with the bill laid along the back and the tail flipped forward over it.",
+    "Toco toucans are important seed dispersers, carrying the seeds of figs and other fruit trees far from the parent plant."
+  ],
+  "relatedAnimals": ["scarlet-macaw", "african-grey-parrot", "hummingbird", "peacock", "greater-flamingo"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why do toucans have such big beaks?", "answer": "The bill serves several purposes. It lets a toucan reach fruit at the tips of thin branches, acts as a radiator to get rid of excess body heat, and probably plays a role in display and in intimidating smaller birds when raiding their nests. It is of little use as a weapon."},
+    {"question": "Do toco toucans make good pets?", "answer": "For most people, no. Toco toucans need a very large aviary, a fresh fruit-based low-iron diet, and constant cleaning because their droppings are frequent and messy. They do not talk like parrots, they are expensive, and keeping them is restricted or requires permits in many places."},
+    {"question": "Is a toucan's beak heavy?", "answer": "No. Although it is about a third of the bird's length, the bill makes up only around 5 percent of its body weight. It is built like a hard foam sandwich: a thin outer sheath of keratin plates around a lightweight network of bony fibers and air spaces."},
+    {"question": "Can toco toucans fly well?", "answer": "Not especially. Toco toucans have short, rounded wings and fly with a burst of heavy flaps followed by a glide, usually over short distances between trees. They spend most of their time hopping along branches and rarely make long sustained flights."},
+    {"question": "Are toucans related to parrots?", "answer": "No. Toucans belong to the order Piciformes and their closest relatives are the American barbets and, more distantly, woodpeckers. Parrots are a separate order. Toucans are also unrelated to the hornbills of Africa and Asia, which evolved similar large bills independently."}
+  ],
+  "meta": {
+    "title": "Toco Toucan Facts: Beak Size, Lifespan, Diet & Habitat",
+    "description": "Toco toucans are 55–65 cm long with a bill up to 23 cm, weigh 500–876 g and live about 20 years. What they eat, where they live and why the beak is so big.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Ramphastos%20toco&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Ramphastos_toco/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Ramphastos_toco"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Toco_toucan"}
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "cheetah",
+  "commonName": "Cheetah",
+  "scientificName": "Acinonyx jubatus",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q23907",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Cheetah",
+  "taxonomy": {
+    "species": "Acinonyx jubatus",
+    "genus": "Acinonyx",
+    "family": "Felidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "275",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "40.2",
+      "unit": "kg",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "35",
+      "unit": "kg",
+      "sex": "female"
+    },
+    {
+      "property": "speed",
+      "amount": "120",
+      "unit": "km/h",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "92",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

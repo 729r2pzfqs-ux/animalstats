@@ -1,0 +1,64 @@
+{
+  "slug": "wombat",
+  "commonName": "Common Wombat",
+  "scientificName": "Vombatus ursinus",
+  "alternateNames": ["Bare-nosed wombat", "Coarse-haired wombat"],
+  "nameSingular": "common wombat",
+  "namePlural": "common wombats",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Diprotodontia", "family": "Vombatidae", "genus": "Vombatus", "species": "V. ursinus"},
+  "facts": {
+    "lifespan": {"min": 12, "max": 15, "unit": "years", "context": "in the wild", "display": "12–15 years"},
+    "lifespanCaptivity": {"min": 20, "max": 30, "unit": "years", "context": "in human care", "display": "20–30 years"},
+    "weight": {"min": 20, "max": 35, "unit": "kg", "context": "adults; Tasmanian and island animals are smaller", "display": "20–35 kg (44–77 lb)"},
+    "height": {"min": 90, "max": 115, "unit": "cm", "label": "Body length", "display": "90–115 cm (35–45 in)"},
+    "speed": {"min": 40, "max": 40, "unit": "km/h", "verb": "run", "context": "short bursts", "display": "40 km/h (25 mph)"},
+    "gestationPeriod": {"min": 20, "max": 30, "unit": "days", "label": "Gestation", "display": "20–30 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Native grasses such as tussock and kangaroo grass, along with sedges, rushes, roots, bark and moss. Rootless, ever-growing teeth cope with the constant wear of this gritty diet.",
+    "habitat": ["Eucalyptus forest", "Woodland", "Heathland", "Alpine grassland", "Coastal scrub"],
+    "range": "Southeastern Australia, from southern Queensland through eastern New South Wales and Victoria to the southeast corner of South Australia, plus Tasmania and Flinders Island.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The common wombat, also called the bare-nosed wombat, is a stocky, short-legged burrowing marsupial from southeastern Australia and Tasmania. It is the most widespread of the three living wombat species; the other two are the hairy-nosed wombats. Built like a small bear with a broad head and almost no tail, it digs extensive burrow systems with its strong claws and spends the day underground, coming out at night to graze. The female's pouch faces backward so that it does not fill with soil while she digs. Wombats are the closest living relatives of the koala.",
+  "answers": {
+    "lifespan": "Common wombats live about 12–15 years in the wild and 20–30 years in human care. Wild wombats are often killed by vehicles, dogs and sarcoptic mange, a mite infestation that is frequently fatal, which is why protected animals in zoos live so much longer.",
+    "weight": "Adult common wombats weigh 20–35 kg (44–77 lb), with an average around 26 kg. Males and females are similar in size. Mainland animals are the largest, while those on Tasmania and Flinders Island are noticeably smaller.",
+    "size": "A common wombat is 90–115 cm (35–45 in) long and stands roughly 25–35 cm at the shoulder. The tail is a stub of only about 2.5 cm hidden in the fur. The body is barrel-shaped and low to the ground, with short, powerful legs and broad, flat claws built for digging.",
+    "speed": "Common wombats can run at up to 40 km/h (25 mph) in short bursts. That is surprisingly fast for such a heavy-set animal, and they can hold the pace for around 150 m, usually just long enough to reach a burrow.",
+    "gestation": "A common wombat is pregnant for only about 20–30 days. The single tiny joey crawls into the backward-facing pouch and stays there for 6–10 months, then follows its mother at foot until it is 15–18 months old.",
+    "diet": "Common wombats are herbivores that graze mainly on native grasses, plus sedges, rushes, roots and bark. Their incisors never stop growing, like a rodent's. Digestion is remarkably slow, taking up to two weeks, which lets them extract the most from poor-quality food.",
+    "habitat": "Common wombats live in the forests, woodlands, heath, coastal scrub and alpine grasslands of southeastern Australia and Tasmania. They prefer sloping, well-drained ground where burrows are easy to dig, from sea level to above the snowline in the Australian Alps.",
+    "conservation": "Common wombats are listed as Least Concern on the IUCN Red List with a stable population. Local threats include sarcoptic mange, road deaths and habitat loss. The other two wombat species are rarer, and the northern hairy-nosed wombat is Critically Endangered."
+  },
+  "funFacts": [
+    "Wombats produce cube-shaped droppings, the only animals known to do so; the shape forms in the last section of the intestine.",
+    "A wombat's rump is a shield of thick skin, cartilage and bone that it uses to block its burrow against predators.",
+    "The pouch opens toward the rear, which keeps dirt off the joey while the mother digs.",
+    "A single wombat may use several burrows, and large burrow systems can run 20 m or more with multiple entrances.",
+    "Wombat teeth grow continuously throughout life, a trait unique among marsupials."
+  ],
+  "relatedAnimals": ["koala", "red-kangaroo", "tasmanian-devil", "platypus", "capybara", "beaver"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why is wombat poop square?", "answer": "Wombat droppings are cube-shaped because the final section of the intestine has bands of differing stiffness that squeeze the drying feces into flat-sided blocks. Wombats stack the cubes on rocks and logs as scent markers, and flat sides may help stop them rolling away."},
+    {"question": "Are wombats dangerous?", "answer": "Wombats are usually shy, but they can be dangerous if cornered or provoked. They can charge at speed, knock a person over and bite or scratch deeply. Attacks are uncommon, and most wombats simply retreat to a burrow when disturbed."},
+    {"question": "Do wombats make good pets?", "answer": "No. Wombats are protected wildlife in Australia and cannot legally be kept as pets without a permit. Hand-raised orphans are affectionate when young but usually become strong, destructive and aggressive as they mature, and they are released back into the wild."},
+    {"question": "What is a group of wombats called?", "answer": "A group of wombats is called a wisdom, and sometimes a mob or colony. The term is rarely needed for common wombats, which are mostly solitary and share burrows only occasionally."},
+    {"question": "How many species of wombat are there?", "answer": "There are three living species: the common or bare-nosed wombat, the southern hairy-nosed wombat and the northern hairy-nosed wombat. The northern species is one of the rarest mammals in the world, surviving at just a few protected sites in Queensland."}
+  ],
+  "meta": {
+    "title": "Common Wombat Facts: Size, Weight, Speed & Lifespan",
+    "description": "Common wombats weigh 20–35 kg (44–77 lb), reach 90–115 cm long, run at 40 km/h and live 12–15 years in the wild. Diet, burrows, cube poop and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Vombatus%20ursinus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Vombatus_ursinus/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Common_wombat"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q752436"}
+    ]
+  }
+}

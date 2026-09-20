@@ -1,0 +1,28 @@
+{
+  "slug": "hippopotamus",
+  "commonName": "Hippopotamus",
+  "scientificName": "Hippopotamus amphibius",
+  "classSlug": "mammals",
+  "aliases": [
+    "hippo"
+  ],
+  "qid": "Q34505",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Hippopotamus",
+  "taxonomy": {
+    "species": "Hippopotamus amphibius",
+    "genus": "Hippopotamus",
+    "family": "Hippopotamidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "8",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

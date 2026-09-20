@@ -1,0 +1,64 @@
+{
+  "slug": "whale-shark",
+  "commonName": "Whale Shark",
+  "scientificName": "Rhincodon typus",
+  "alternateNames": ["Butanding"],
+  "nameSingular": "whale shark",
+  "namePlural": "whale sharks",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Chondrichthyes", "classSlug": "fish", "order": "Orectolobiformes", "family": "Rhincodontidae", "genus": "Rhincodon", "species": "R. typus"},
+  "facts": {
+    "lifespan": {"min": 80, "max": 130, "unit": "years", "context": "estimated from growth models; the oldest age verified directly is about 50 years", "display": "an estimated 80–130 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 9000, "max": 18000, "unit": "kg", "context": "large adults; estimates, because very few have ever been weighed", "display": "about 9,000–18,000 kg (20,000–40,000 lb)"},
+    "height": {"min": 5.5, "max": 12, "unit": "m", "label": "Length", "display": "5.5–12 m (18–39 ft)"},
+    "speed": {"min": 3, "max": 5, "unit": "km/h", "verb": "swim", "context": "normal cruising speed", "display": "3–5 km/h (2–3 mph)"},
+    "gestationPeriod": null
+  },
+  "ecology": {
+    "diet": "Filter feeder",
+    "dietDetails": "Plankton such as krill, copepods, crab larvae and fish eggs, along with small schooling fish like anchovies and sardines and occasional small squid, strained from the water through filter pads in the gills.",
+    "habitat": ["Open ocean", "Coastal seas", "Coral reef edges"],
+    "range": "Tropical and warm-temperate oceans worldwide, roughly between 30°N and 35°S, with seasonal gatherings off Mexico, Western Australia, the Philippines, the Maldives, Mozambique and elsewhere.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The whale shark is the largest fish alive today, a slow-moving filter feeder of warm seas that is a shark, not a whale. It has a broad, flat head with a meter-wide mouth at the very front, and a gray-blue back covered in a checkerboard of pale spots and stripes that is unique to each individual, like a fingerprint. Despite its size it feeds almost entirely on plankton and small fish and is harmless to people. Whale sharks travel thousands of kilometers and gather seasonally where food is concentrated, but much of their life, including where they give birth, remains unknown.",
+  "answers": {
+    "lifespan": "Whale sharks are estimated to live 80–130 years, but the figure is uncertain. The only direct evidence, a 2020 study using bomb radiocarbon in vertebrae, confirmed an age of about 50 years for one individual; longer estimates come from growth models. They mature late, at perhaps 25–30 years.",
+    "weight": "Large adult whale sharks weigh roughly 9,000–18,000 kg (20,000–40,000 lb). These are estimates, because almost none have been put on a scale. A 12 m shark is thought to weigh around 15–20 tonnes, and the biggest individuals, at over 18 m, may be considerably heavier.",
+    "size": "Whale sharks are typically 5.5–12 m (18–39 ft) long, making them the biggest fish in the sea. Most of those seen at coastal gathering sites are juvenile males of 4–9 m. The largest reliably measured whale shark was 18.8 m (about 62 ft), and females grow larger than males.",
+    "speed": "Whale sharks swim slowly, cruising at about 3–5 km/h (2–3 mph), roughly a human walking pace. They sweep their whole body from side to side rather than just the tail. Even so, they cover great distances: tagged whale sharks have traveled more than 10,000 km over a couple of years.",
+    "gestation": null,
+    "diet": "Whale sharks are filter feeders that eat plankton, including krill, copepods, crab larvae and fish eggs, plus small schooling fish and squid. They feed by swimming with the mouth open or by gulping water while hanging vertically, straining food through spongy filter pads. A juvenile may eat around 20 kg of plankton a day.",
+    "habitat": "Whale sharks live in tropical and warm-temperate oceans around the world, usually in water of 21–30 °C. They spend much of their time near the surface in the open sea but visit coasts and reef edges when plankton blooms or fish spawn, and they can dive to nearly 2,000 m.",
+    "conservation": "The whale shark is listed as Endangered on the IUCN Red List, and its numbers are decreasing; the global population is thought to have fallen by more than half over 75 years. Threats include targeted fishing and bycatch, ship strikes, and demand for fins, meat and oil. It is protected under CITES Appendix II."
+  },
+  "funFacts": [
+    "Each whale shark's pattern of spots is unique, and researchers identify individuals from photos using software adapted from star-mapping algorithms.",
+    "A whale shark's mouth can be about 1.5 m wide and holds more than 300 rows of tiny teeth that play no part in feeding.",
+    "The only pregnant whale shark ever examined, caught off Taiwan in 1995, carried about 300 embryos at different stages of development.",
+    "Whale sharks have tiny tooth-like scales covering their eyeballs and can retract their eyes into the sockets for protection.",
+    "Whale shark skin on the back can be around 10 cm thick, among the thickest of any animal."
+  ],
+  "relatedAnimals": ["manta-ray", "great-white-shark", "blue-whale", "tiger-shark", "hammerhead-shark", "ocean-sunfish"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is a whale shark a whale or a shark?", "answer": "A whale shark is a shark, and therefore a fish. It breathes through gills, has a skeleton of cartilage and is cold-blooded. The word whale refers only to its enormous size and its filter-feeding habits, which resemble those of baleen whales."},
+    {"question": "Are whale sharks dangerous to humans?", "answer": "No. Whale sharks feed on plankton and small fish, have tiny teeth, and show no aggression toward people. Swimming with them is a major tourist activity. The main risk is being accidentally bumped by the tail, so snorkelers are told to keep a few meters away and never touch them."},
+    {"question": "What is the biggest whale shark ever recorded?", "answer": "The largest whale shark that scientists accept as reliably measured was 18.8 m (about 62 ft) long. Reports of even longer individuals exist but are poorly documented. Most whale sharks encountered by divers are much smaller, usually between 4 and 10 m."},
+    {"question": "How do whale sharks give birth?", "answer": "Whale sharks give birth to live young that hatch from eggs inside the mother. Pups are about 40–60 cm long at birth. Almost everything else is unknown: no one has recorded a birth, the pregnancy length has not been measured, and the pupping grounds have never been found."},
+    {"question": "Where can you swim with whale sharks?", "answer": "Reliable seasonal whale shark sites include Ningaloo Reef in Western Australia, Isla Mujeres and La Paz in Mexico, Donsol in the Philippines, South Ari Atoll in the Maldives, Tofo in Mozambique and Mafia Island in Tanzania. Seasons vary by location and follow plankton blooms or fish spawning."}
+  ],
+  "meta": {
+    "title": "Whale Shark Facts: Size, Weight, Lifespan & Diet",
+    "description": "Whale sharks, the largest fish, grow 5.5–12 m long (record 18.8 m), weigh up to about 18,000 kg and may live 80–130 years. Diet, speed, habitat, status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Rhincodon%20typus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Rhincodon_typus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Rhincodon_typus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Whale_shark"}
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "eastern-newt",
+  "commonName": "Eastern Newt",
+  "scientificName": "Notophthalmus viridescens",
+  "alternateNames": ["Red-spotted newt", "Red eft", "Eastern red-spotted newt"],
+  "nameSingular": "eastern newt",
+  "namePlural": "eastern newts",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Amphibia", "classSlug": "amphibians", "order": "Caudata", "family": "Salamandridae", "genus": "Notophthalmus", "species": "N. viridescens"},
+  "facts": {
+    "lifespan": {"min": 12, "max": 15, "unit": "years", "context": "in the wild, including the larval and eft stages", "display": "12–15 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 2, "max": 4, "unit": "g", "context": "approximate adult weight", "display": "about 2–4 g (0.07–0.14 oz)"},
+    "height": {"min": 7, "max": 12.5, "unit": "cm", "label": "Length", "display": "7–12.5 cm (2.8–5 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 20, "max": 35, "unit": "days", "label": "Egg development", "display": "3–5 weeks to hatch"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Aquatic insects and their larvae, including mosquito larvae, plus small crustaceans, snails, worms, fish eggs and amphibian eggs and larvae. Land-living efts eat springtails, mites, small snails and other leaf-litter invertebrates.",
+    "habitat": ["Ponds", "Small lakes", "Marshes", "Slow streams", "Moist forest"],
+    "range": "Eastern North America, from the Canadian Maritimes and southern Ontario west to the Great Lakes region and south to Florida and eastern Texas.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The eastern newt is a small salamander of eastern North America with one of the most unusual life cycles of any amphibian. It hatches as a gilled aquatic larva, then usually transforms into a bright orange-red, land-dwelling juvenile called a red eft that wanders the forest floor for several years. Finally it returns to a pond and becomes an olive-green aquatic adult with a yellow belly and a row of black-ringed red spots. At every stage its skin contains tetrodotoxin, the same poison found in pufferfish, and the eft's vivid color advertises it.",
+  "answers": {
+    "lifespan": "Eastern newts live 12–15 years in the wild. That total includes a few months as an aquatic larva, typically two to three years (sometimes up to seven) as a land-dwelling red eft, and the remaining years as a breeding adult in ponds. Their skin toxin protects them from most fish and birds.",
+    "weight": "An adult eastern newt weighs only about 2–4 g (0.07–0.14 oz), about the weight of a small coin. Published weights are scarce and vary with season and breeding condition, so this figure is approximate. Males bulk up slightly in the breeding season.",
+    "size": "Adult eastern newts are 7–12.5 cm (2.8–5 in) long, including the tail. Red efts are smaller, usually 3.5–8.5 cm. Breeding males can be recognized by a taller tail fin, swollen vent and dark, rough pads on the hind legs used to grip the female.",
+    "speed": null,
+    "gestation": "Eastern newt eggs hatch in about 3–5 weeks, depending on water temperature. In spring a female lays 200–375 eggs one at a time, wrapping each in the leaf of an underwater plant. The gilled larvae stay in the pond for two to five months before transforming into efts.",
+    "diet": "Eastern newts are carnivores that eat aquatic insects, mosquito larvae, small crustaceans, snails, worms and the eggs and larvae of other amphibians. Red efts on land feed on tiny leaf-litter animals such as springtails, mites and small snails, mostly on damp nights and after rain.",
+    "habitat": "Adult eastern newts live in small, still or slow bodies of fresh water with plenty of plants, such as ponds, marshes, beaver ponds and lake shallows. Red efts live in the surrounding moist forests, under logs and leaf litter, sometimes far from water.",
+    "conservation": "The eastern newt is listed as Least Concern on the IUCN Red List, with a stable population. It is one of the most common salamanders in eastern North America. Threats include forest clearance around breeding ponds, road deaths, and the potential arrival of the salamander-killing fungus Bsal."
+  },
+  "funFacts": [
+    "Red efts are many times more toxic than adult newts, and their orange-red color warns birds and other predators to leave them alone.",
+    "Eastern newts can find their way home using the Earth's magnetic field, acting like a built-in compass.",
+    "The species effectively metamorphoses twice: from larva to land-dwelling eft, and later from eft to aquatic adult.",
+    "Like many salamanders, eastern newts can regenerate lost limbs, tails and even parts of the eye and heart.",
+    "In some populations, especially on the coast, newts skip the eft stage entirely and stay in the water for life."
+  ],
+  "relatedAnimals": ["fire-salamander", "axolotl", "chinese-giant-salamander", "american-toad", "american-bullfrog"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are eastern newts poisonous?", "answer": "Yes. Eastern newts have tetrodotoxin in their skin, and the red eft stage is the most toxic. They are harmless to handle briefly if your skin is unbroken and you wash your hands afterward, but they must never be eaten, and they can sicken pets that swallow them."},
+    {"question": "What is a red eft?", "answer": "A red eft is the juvenile, land-living stage of the eastern newt. After leaving the pond as a larva, the young newt turns bright orange-red, develops dry, rough skin and lives on the forest floor for roughly two to seven years before returning to water as an adult."},
+    {"question": "What is the difference between a newt and a salamander?", "answer": "All newts are salamanders, but not all salamanders are newts. Newts are members of the family Salamandridae that spend their adult lives largely in water. They tend to have rougher, less slimy skin than other salamanders, and many, like the eastern newt, have a separate land-dwelling juvenile stage."},
+    {"question": "Can you keep an eastern newt as a pet?", "answer": "Adult eastern newts do well in a cool, planted aquarium with a small land area and a tight lid, and they eat bloodworms and other small live or frozen foods. Check local laws first, since collection is restricted in some states, and United States rules limit salamander trade to prevent disease."},
+    {"question": "Where do eastern newts go in winter?", "answer": "Adult eastern newts often stay active under the ice in ponds through winter, moving slowly in the cold water. If their pond dries up or freezes solid, they move onto land and shelter under logs and debris. Red efts hibernate under logs and leaf litter."}
+  ],
+  "meta": {
+    "title": "Eastern Newt & Red Eft Facts: Size, Lifespan, Life Cycle",
+    "description": "Eastern newts are 7–12.5 cm (2.8–5 in) long, weigh about 2–4 g and live 12–15 years. Eggs hatch in 3–5 weeks. Red eft stage, toxin, diet and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Notophthalmus%20viridescens&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Notophthalmus_viridescens/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Notophthalmus_viridescens"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Eastern_newt"}
+    ]
+  }
+}

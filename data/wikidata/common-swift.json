@@ -1,0 +1,27 @@
+{
+  "slug": "common-swift",
+  "commonName": "Common Swift",
+  "scientificName": "Apus apus",
+  "classSlug": "birds",
+  "aliases": [
+    "swift"
+  ],
+  "qid": "Q25377",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Common swift",
+  "taxonomy": {
+    "species": "Apus apus",
+    "genus": "Apus",
+    "family": "Apodidae",
+    "order": "Apodiformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "3.5",
+      "unit": "g",
+      "sex": null
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "sheep",
+  "commonName": "Sheep",
+  "scientificName": "Ovis aries",
+  "alternateNames": ["Domestic sheep", "Lamb", "Ewe", "Ram"],
+  "nameSingular": "sheep",
+  "namePlural": "sheep",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Bovidae", "genus": "Ovis", "species": "O. aries"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 12, "unit": "years", "context": "natural lifespan; lambs raised for meat are slaughtered within their first year", "display": "10–12 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 45, "max": 160, "unit": "kg", "context": "ewes 45–100 kg, rams 45–160 kg depending on breed", "display": "45–160 kg (100–350 lb)"},
+    "height": {"min": 60, "max": 90, "unit": "cm", "label": "Shoulder height", "display": "60–90 cm (24–35 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 144, "max": 152, "unit": "days", "label": "Gestation", "display": "about 147 days (5 months)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "A grazer that eats mainly short grasses, clover and other low pasture plants, plus hay, silage and some grain in winter; sheep are ruminants and chew cud.",
+    "habitat": ["Pasture", "Grassland", "Hills and moorland", "Rangeland"],
+    "range": "Farmed worldwide, with the largest flocks in China, India, Australia, Iran and parts of Africa, and famously high numbers per person in New Zealand.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "The sheep is a woolly, flock-living ruminant domesticated in Mesopotamia roughly 10,000–11,000 years ago, most likely from the wild mouflon. Sheep were first kept for meat, milk and skins; breeding for a continuously growing wool fleece came later and means most modern sheep must be shorn every year. There are more than a billion sheep in over a thousand breeds. Sheep have a strong instinct to follow a leader and stay bunched together, which makes them easy to herd, and research shows they can recognize and remember dozens of individual sheep and human faces for years.",
+  "answers": {
+    "lifespan": "Sheep live 10–12 years on average when allowed to grow old. Commercial animals have shorter lives: lambs raised for meat are slaughtered at a few months to a year old, and breeding ewes are usually culled at around six to eight years, when their teeth wear down. A few sheep have passed 20.",
+    "weight": "Adult sheep weigh 45–160 kg (100–350 lb). Ewes of most breeds weigh 45–100 kg, and rams are heavier at 45–160 kg. Small primitive breeds such as the Soay weigh only 25–35 kg, while large breeds such as the Suffolk and Lincoln are at the top of the range.",
+    "size": "Most sheep stand 60–90 cm (24–35 in) tall at the shoulder, depending on breed. Body length is typically 1.2–1.8 m. A full fleece can make a sheep look much bulkier than it is.",
+    "speed": null,
+    "gestation": "A ewe is pregnant for about 147 days, or five months, with a normal range of 144–152 days. Most ewes have one or two lambs, and triplets are fairly common in prolific breeds. Lambs stand and nurse within an hour of birth.",
+    "diet": "Sheep are herbivores that graze on grass, clover and other low-growing plants. Unlike goats, which prefer to browse on shrubs, sheep crop vegetation close to the ground. As ruminants they ferment plant fiber in a four-chambered stomach and spend several hours a day chewing cud.",
+    "habitat": "Sheep live on pastures, hills, moorland and dry rangeland on every continent except Antarctica. They tolerate cold, wet uplands and semi-arid country that is unsuitable for crops. The largest national flocks are in China, India and Australia.",
+    "conservation": "Sheep are domesticated and have no IUCN Red List status; there are about 1.2 billion worldwide. Wild relatives fare less well: the mouflon and urial group of wild sheep includes populations listed as Vulnerable or Near Threatened. Many rare heritage breeds are also at risk."
+  },
+  "funFacts": [
+    "Sheep can recognize and remember at least 50 individual sheep faces, and familiar human faces, for two years or more.",
+    "Like goats, sheep have rectangular pupils that give them a field of view of around 300 degrees.",
+    "Domestic sheep do not shed their wool naturally; a sheep named Chris in Australia carried a fleece of about 41 kg after years unshorn.",
+    "Dolly, born in Scotland in 1996, was a sheep and the first mammal cloned from an adult cell.",
+    "Lanolin, the grease that waterproofs wool, is used in cosmetics and skin ointments."
+  ],
+  "relatedAnimals": ["goat", "cow", "alpaca", "llama", "pig"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is a group of sheep called?", "answer": "A group of sheep is called a flock; very large groups are sometimes called a mob in Australia and New Zealand. An adult female is a ewe, an intact male is a ram or tup, a castrated male is a wether, and a young sheep is a lamb."},
+    {"question": "What is the difference between a sheep and a lamb?", "answer": "A lamb is a sheep under about one year old. Meat from these young animals is sold as lamb, while meat from older sheep is called hogget or mutton and has a stronger flavor."},
+    {"question": "Do sheep need to be sheared?", "answer": "Yes, most wool breeds must be sheared at least once a year. Their fleece grows continuously and does not shed, so an unshorn sheep can overheat, become immobile or suffer fly strike. Hair sheep and primitive breeds such as the Soay shed naturally."},
+    {"question": "Are sheep intelligent?", "answer": "Sheep are smarter than their reputation suggests. In tests they recognize individual faces, learn mazes, remember solutions for months and can even pick out photographs of familiar people. Their flocking behavior is a defense against predators, not a sign of stupidity."},
+    {"question": "How many sheep are there in New Zealand?", "answer": "New Zealand has roughly 25 million sheep, about five for every person. That is far below the peak of around 70 million in the early 1980s, when there were more than 20 sheep per person."}
+  ],
+  "meta": {
+    "title": "Sheep Lifespan, Weight, Gestation & Other Sheep Facts",
+    "description": "Sheep live 10–12 years, weigh 45–160 kg (100–350 lb), stand 60–90 cm tall and are pregnant for about 147 days. Diet, habitat and facts about Ovis aries.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Sheep"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Ovis_aries/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Ovis_aries"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q29350771"}
+    ]
+  }
+}

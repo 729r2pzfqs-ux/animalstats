@@ -1,0 +1,63 @@
+{
+  "slug": "manta-ray",
+  "commonName": "Giant Manta Ray",
+  "scientificName": "Mobula birostris",
+  "alternateNames": ["Oceanic manta ray", "Giant oceanic manta ray", "Manta", "Devilfish"],
+  "nameSingular": "giant manta ray",
+  "namePlural": "giant manta rays",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Chondrichthyes", "classSlug": "fish", "order": "Myliobatiformes", "family": "Mobulidae", "genus": "Mobula", "species": "M. birostris"},
+  "facts": {
+    "lifespan": {"min": 40, "max": 45, "unit": "years", "context": "estimated from long-term photo-identification; true maximum unknown", "display": "an estimated 40–45 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 1200, "max": 2000, "unit": "kg", "context": "large adults; the heaviest recorded are around 2,400–3,000 kg", "display": "about 1,200–2,000 kg (2,650–4,400 lb)"},
+    "height": {"min": 4.5, "max": 7, "unit": "m", "label": "Wingspan", "display": "4.5–7 m (15–23 ft)"},
+    "speed": {"min": 14, "max": 35, "unit": "km/h", "verb": "swim", "context": "commonly cited cruising speed to short escape bursts; estimates, not precise measurements", "display": "about 14–35 km/h (9–22 mph)"},
+    "gestationPeriod": {"min": 365, "max": 395, "unit": "days", "label": "Gestation", "display": "12–13 months"}
+  },
+  "ecology": {
+    "diet": "Filter feeder",
+    "dietDetails": "Zooplankton including copepods, krill, mysid shrimp, arrow worms and crab larvae, with some small fish; studies show much of it is taken from deep water rather than at the surface.",
+    "habitat": ["Open ocean", "Seamounts", "Oceanic islands", "Productive coastlines"],
+    "range": "Tropical, subtropical and temperate oceans worldwide, with known gathering sites off Ecuador, Mexico's Revillagigedo Islands, Mozambique, Indonesia, the Maldives and Sri Lanka.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The giant manta ray is the largest ray in the world, a plankton feeder with triangular wing-like fins that can span 7 m. Two paddle-shaped lobes on the head, the cephalic fins, unroll to funnel water into its wide mouth as it swims. Mantas have the largest brain relative to body size of any fish and show curiosity toward divers. Unlike stingrays, they have no functional tail barb and are harmless. The giant manta is more oceanic and migratory than its smaller relative the reef manta, from which it was separated as a species in 2009, and both were moved from the genus Manta to Mobula in 2017.",
+  "answers": {
+    "lifespan": "Giant manta rays are estimated to live about 40–45 years. The figure comes from photo-identification of wild individuals seen again over decades, so the real maximum could be higher. They do not mature until around 8–10 years of age and are kept in only a handful of very large aquariums.",
+    "weight": "Large giant manta rays weigh roughly 1,200–2,000 kg (2,650–4,400 lb). The heaviest individuals on record are put at about 2,400–3,000 kg. Very few mantas have ever been weighed, so published figures are mostly estimates based on a small number of landed animals.",
+    "size": "Giant manta rays typically measure 4.5–7 m (15–23 ft) from wingtip to wingtip, a measurement called disc width, and about 4.5 m is average for adults. Reports of 9 m individuals exist but are not well documented. The reef manta is smaller, usually 3–3.5 m across.",
+    "speed": "Giant manta rays cruise at around 14 km/h (9 mph) and are said to reach about 35 km/h (22 mph) in short bursts when escaping danger. These are commonly cited estimates rather than precise measurements. The speed is enough to launch them clear of the water in spectacular breaches.",
+    "gestation": "Giant manta rays are pregnant for about 12–13 months and give birth to a single pup, rarely two. The pup hatches from an egg inside the mother, is nourished by a milky uterine secretion, and is born rolled up like a burrito at around 1.4 m across. Females usually breed only every two to five years.",
+    "diet": "Giant manta rays are filter feeders that eat zooplankton such as copepods, krill, mysid shrimp and crab larvae, plus some small fish. They swim with the mouth open, straining food through plates in the gills. Tissue studies off Ecuador suggest most of their food comes from deep water, not the surface.",
+    "habitat": "Giant manta rays live in tropical, subtropical and temperate oceans worldwide, mostly in open water near seamounts, oceanic islands and coasts with nutrient-rich upwelling. They visit reef cleaning stations to have parasites removed and dive to 1,000 m or more to feed. Some migrate long distances while other populations stay put.",
+    "conservation": "The giant manta ray is listed as Endangered on the IUCN Red List, and its numbers are decreasing. It is hunted for its gill plates, which are sold for use in a Chinese health tonic, and caught as bycatch in tuna fisheries. Producing one pup every few years makes populations extremely slow to recover."
+  },
+  "funFacts": [
+    "Mantas have the largest brain-to-body ratio of any fish studied, and giant mantas examined their own reflections in a way some scientists interpret as self-awareness.",
+    "The pattern of dark spots on a manta's white belly is unique to each individual and is used by researchers like a fingerprint.",
+    "Mantas leap completely out of the water, landing with a loud slap; the reason, whether communication, courtship or parasite removal, is still unknown.",
+    "The name manta comes from the Spanish word for blanket or cloak, a nod to the ray's broad, flat shape.",
+    "Mantas must keep swimming to push oxygen-rich water over their gills, so they never stop to rest on the seabed."
+  ],
+  "relatedAnimals": ["whale-shark", "hammerhead-shark", "great-white-shark", "ocean-sunfish", "tiger-shark"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are manta rays dangerous to humans?", "answer": "No. Manta rays eat plankton, have no stinging barb on the tail and are not aggressive. They are often curious about divers and approach closely. The only risk is an accidental collision with a very large animal, so divers are asked to stay still and never touch them."},
+    {"question": "What is the difference between a manta ray and a stingray?", "answer": "Manta rays are huge, open-water filter feeders with the mouth at the front of the head and no functional stinger. Stingrays are generally smaller bottom dwellers with the mouth underneath, crushing teeth for shellfish and one or more venomous barbs on the tail."},
+    {"question": "How big is the largest manta ray?", "answer": "The giant manta ray is the largest ray, with a confirmed wingspan of up to about 7 m (23 ft) and a weight approaching 3,000 kg. Older reports of 9 m mantas are not reliably documented. Most adults seen by divers are 4–5 m across."},
+    {"question": "What is the difference between giant and reef manta rays?", "answer": "The giant manta is bigger, up to 7 m across compared with about 3.5 m, lives in the open ocean and migrates farther. It has a T-shaped white shoulder marking and a dark mouth. The reef manta, Mobula alfredi, stays near coasts and reefs and has Y-shaped shoulder patches."},
+    {"question": "Do manta rays lay eggs?", "answer": "No. Manta rays give birth to live young. The egg hatches inside the mother, and the embryo then feeds on a nutrient-rich uterine milk for about a year. The single pup is born as a fully formed miniature adult and receives no parental care."}
+  ],
+  "meta": {
+    "title": "Giant Manta Ray Facts: Wingspan, Weight & Lifespan",
+    "description": "Giant manta rays span 4.5–7 m (15–23 ft), weigh up to about 2,000 kg or more and live an estimated 40–45 years. Diet, habitat, reproduction and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Mobula%20birostris&searchType=species"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Giant_oceanic_manta_ray"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q321976"}
+    ]
+  }
+}

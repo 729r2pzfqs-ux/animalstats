@@ -1,0 +1,64 @@
+{
+  "slug": "bactrian-camel",
+  "commonName": "Bactrian Camel",
+  "scientificName": "Camelus bactrianus",
+  "alternateNames": ["Two-humped camel", "Mongolian camel", "Domestic Bactrian camel"],
+  "nameSingular": "Bactrian camel",
+  "namePlural": "Bactrian camels",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Camelidae", "genus": "Camelus", "species": "C. bactrianus"},
+  "facts": {
+    "lifespan": {"min": 40, "max": 50, "unit": "years", "context": "upper range under human care; many working animals live 20–40 years", "display": "up to 40–50 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 300, "max": 1000, "unit": "kg", "context": "adults; males are much heavier than females", "display": "300–1,000 kg (660–2,200 lb)"},
+    "height": {"min": 1.6, "max": 1.8, "unit": "m", "label": "Shoulder height", "display": "1.6–1.8 m (5.2–5.9 ft)"},
+    "speed": {"min": 65, "max": 65, "unit": "km/h", "verb": "run", "context": "short bursts; they rarely run", "display": "up to 65 km/h (40 mph)"},
+    "gestationPeriod": {"min": 360, "max": 420, "unit": "days", "label": "Gestation", "display": "about 13 months"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Dry grasses, shrubs, saltbush and thorny or bitter desert plants that other livestock refuse; when starving it will even chew bones, hides and rope. It can eat snow for water in winter.",
+    "habitat": ["Cold desert", "Steppe", "Rocky mountains", "Semi-desert"],
+    "range": "Central Asia from Turkey, Iran and Kazakhstan east to Mongolia and northern China, as a domestic animal of the steppe and cold deserts.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "The Bactrian camel is the two-humped camel of Central Asia, named after the ancient region of Bactria. It was domesticated more than 4,000 years ago and carried goods along the Silk Road; today about two million are kept for transport, milk, meat and wool in Mongolia, China, Kazakhstan and neighboring countries. It is stockier than the one-humped dromedary and grows a thick, shaggy winter coat that it sheds in great clumps each spring, letting it endure temperatures from about −30°C in winter to 40°C in summer. The few remaining truly wild two-humped camels are a separate, Critically Endangered species, Camelus ferus.",
+  "answers": {
+    "lifespan": "Bactrian camels can live up to 40–50 years, although many working animals live 20–40 years. They mature slowly: females have their first calf at around five years old and then usually give birth only every other year.",
+    "weight": "An adult Bactrian camel weighs 300–1,000 kg (660–2,200 lb), which makes it the largest living camel. Males are considerably bigger and heavier than females. Full, upright humps signal a well-fed animal, since each hump stores fat that is drawn on when food is scarce.",
+    "size": "A Bactrian camel stands 1.6–1.8 m (5.2–5.9 ft) tall at the shoulder and more than 2 m (about 7 ft) at the top of the humps. Head-and-body length is around 2.3–3.5 m. It is shorter-legged and more heavily built than the dromedary.",
+    "speed": "A Bactrian camel can run at up to about 65 km/h (40 mph) in a short burst, but it rarely does. Its normal working pace is a steady walk of roughly 4–5 km/h, which it can hold all day while carrying a heavy load.",
+    "gestation": "A Bactrian camel is pregnant for about 13 months. She gives birth to a single calf, rarely twins, and the calf can stand and walk within hours. Calves nurse for about a year and a half and stay with their mothers for several years.",
+    "diet": "Bactrian camels are herbivores that eat dry grasses, shrubs and thorny, salty or bitter plants most animals avoid. They can go for days without water and then drink more than 100 liters at once. In winter they eat snow to meet their water needs.",
+    "habitat": "Bactrian camels live on the steppes, rocky mountain massifs and cold deserts of Central Asia, including the Gobi. The climate is extreme, swinging from roughly −30°C in winter to 40°C in summer, and the camels' thick seasonal coat and fat-filled humps help them cope with both.",
+    "conservation": "The domestic Bactrian camel has no IUCN Red List status, and about two million exist. The wild Bactrian camel, now treated as a separate species (Camelus ferus), is Critically Endangered, with fewer than 1,000 animals surviving in remote deserts of northwest China and southwest Mongolia."
+  },
+  "funFacts": [
+    "The easy way to remember the humps: a capital B on its side has two humps for Bactrian, and a D has one for dromedary.",
+    "Bactrian camels shed their heavy winter coat so quickly in spring that it peels away in large ragged sheets.",
+    "Bactrian camels were the main pack animals of the Silk Road caravans between China and the Mediterranean.",
+    "The humps store fat, not water; when a camel is underfed its humps shrink and flop to one side.",
+    "Genetic studies show the wild Bactrian camel is not the ancestor of the domestic one; the two lineages split hundreds of thousands of years ago."
+  ],
+  "relatedAnimals": ["dromedary-camel", "llama", "alpaca", "horse", "donkey"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How many humps does a Bactrian camel have?", "answer": "A Bactrian camel has two humps, while the dromedary or Arabian camel has one. Both humps store fat rather than water. Crossing the two species produces a hybrid that usually has a single long hump, sometimes with a slight dip."},
+    {"question": "Are Bactrian camels endangered?", "answer": "Domestic Bactrian camels are not endangered; about two million are kept across Central Asia. The wild Bactrian camel, a separate species called Camelus ferus, is Critically Endangered, with fewer than 1,000 left in China and Mongolia."},
+    {"question": "What is the difference between a Bactrian camel and a dromedary?", "answer": "The Bactrian camel has two humps, a stocky build and a thick winter coat for the cold deserts of Central Asia. The dromedary has one hump, longer legs and short hair suited to the hot deserts of Africa and Arabia, and is far more numerous."},
+    {"question": "How much can a Bactrian camel carry?", "answer": "A Bactrian camel can carry roughly 170–250 kg (375–550 lb) and travel around 40–50 km a day with that load. Its strength, stamina and tolerance of cold, thirst and high altitude made it the standard freight animal of Silk Road caravans."},
+    {"question": "Can Bactrian camels survive in the cold?", "answer": "Yes. Bactrian camels grow a dense, woolly winter coat and tolerate temperatures of about −30°C (−22°F), then shed the coat to cope with summer heat of 40°C (104°F). Few large mammals handle such a wide temperature range."}
+  ],
+  "meta": {
+    "title": "Bactrian Camel: Size, Lifespan, Humps & Key Facts",
+    "description": "Bactrian camels have two humps, weigh 300–1,000 kg, stand 1.6–1.8 m at the shoulder and live up to 40–50 years. Speed, diet, gestation and habitat facts.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bactrian_camel"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Camelus_bactrianus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Camelus_bactrianus"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q132922"}
+    ]
+  }
+}

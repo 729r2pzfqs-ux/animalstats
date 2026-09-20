@@ -1,0 +1,64 @@
+{
+  "slug": "beluga-sturgeon",
+  "commonName": "Beluga Sturgeon",
+  "scientificName": "Huso huso",
+  "alternateNames": ["Beluga", "Great sturgeon", "European sturgeon"],
+  "nameSingular": "beluga sturgeon",
+  "namePlural": "beluga sturgeon",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Acipenseriformes", "family": "Acipenseridae", "genus": "Huso", "species": "H. huso"},
+  "facts": {
+    "lifespan": {"min": 50, "max": 100, "unit": "years", "context": "potential lifespan; the record is about 118 years, but few survive that long today because of fishing", "display": "50–100 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 19, "max": 264, "unit": "kg", "context": "mature fish caught in recent decades; historic giants exceeded 1,000 kg", "display": "19–264 kg (42–582 lb)"},
+    "height": {"min": 1.4, "max": 3.3, "unit": "m", "label": "Length", "display": "1.4–3.3 m (4.7–10.8 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 6, "max": 10, "unit": "days", "label": "Egg development", "display": "about 6–10 days"}
+  },
+  "ecology": {
+    "diet": "Piscivore",
+    "dietDetails": "Adults eat mostly fish, including gobies, herring, anchovies, roach and carp, and large individuals have been found with waterfowl and young seals in their stomachs; juveniles feed on bottom invertebrates.",
+    "habitat": ["Inland seas", "Estuaries", "Large rivers"],
+    "range": "Caspian Sea and Black Sea basins, entering rivers such as the Volga, Ural and Danube to spawn; now gone from the Adriatic Sea and most of its former river range.",
+    "conservationStatus": "Critically Endangered",
+    "iucnCategory": "CR",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The beluga is the largest sturgeon and one of the biggest bony fish on Earth, an armored, shark-shaped giant from the Caspian and Black Seas that historically topped 1,000 kg. Like all sturgeons it belongs to an ancient lineage, with a skeleton made mostly of cartilage and rows of bony plates called scutes instead of scales. It lives mainly in salt or brackish water and swims far up large rivers to spawn. Females do not breed until they are 15 years old or more, and their unfertilized eggs are sold as beluga caviar, the most expensive in the world, which has driven the species to the brink of extinction.",
+  "answers": {
+    "lifespan": "Beluga sturgeon can live 50–100 years, and the oldest on record was estimated at about 118. They mature very late, males at roughly 10–16 years and females at 15–20 or more, and females spawn only every four to seven years. Because of intense fishing, few wild belugas now survive beyond a few decades.",
+    "weight": "Mature beluga sturgeon caught in recent decades typically weigh 19–264 kg (42–582 lb). The species once grew vastly larger: the biggest accepted record is a female of 1,571 kg (3,463 lb) and 7.2 m taken in the Volga estuary in 1827. Fish anywhere near that size no longer exist.",
+    "size": "Adult beluga sturgeon are generally 1.4–3.3 m (4.7–10.8 ft) long today. Historical records describe fish of 5 m and more, with a maximum of about 7.2 m (nearly 24 ft), which would make the beluga a rival to the largest sharks. Such giants were very old females, and decades of fishing have removed them.",
+    "speed": null,
+    "gestation": "Beluga sturgeon eggs hatch in about 6–10 days, developing faster in warmer water. Belugas do not get pregnant: a female sheds hundreds of thousands to several million sticky eggs over gravel in a fast-flowing river in spring, and males fertilize them. The larvae then drift downstream toward the sea.",
+    "diet": "Beluga sturgeon are mainly fish eaters. Unlike most sturgeons, which vacuum small invertebrates from the bottom, adult belugas are active predators of gobies, herring, anchovies, carp and other fish, and very large ones have taken waterbirds and seal pups. Young belugas start on insect larvae, crustaceans and mollusks.",
+    "habitat": "Beluga sturgeon live in the Caspian Sea and Black Sea, and to a lesser extent the Sea of Azov, spending most of their lives in open brackish water. They migrate up large rivers such as the Volga, Ural and Danube to spawn. Dams now block most of the historic spawning grounds.",
+    "conservation": "The beluga sturgeon is listed as Critically Endangered on the IUCN Red List, and wild populations have fallen by more than 90 percent over three generations. Poaching for caviar, dams that block spawning rivers, and pollution are the main causes. International trade is controlled under CITES, the United States banned beluga caviar imports in 2005, and many stocks rely on hatchery releases."
+  },
+  "funFacts": [
+    "Beluga caviar is the world's most expensive, with the rarest grades selling for many thousands of dollars per kilogram.",
+    "Sturgeons have existed for roughly 200 million years and have changed little since the age of the dinosaurs.",
+    "A large female beluga's eggs can make up a quarter of her body weight, and she may carry several million of them.",
+    "The name beluga comes from the Russian word for white; the beluga whale gets its name from the same root, though the two animals are unrelated.",
+    "Instead of scales, belugas have five rows of bony plates called scutes, which are sharp in juveniles and wear smooth with age."
+  ],
+  "relatedAnimals": ["atlantic-salmon", "koi", "great-white-shark", "beluga-whale", "rainbow-trout", "largemouth-bass"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why is beluga caviar so expensive?", "answer": "Beluga caviar is expensive because the fish is critically endangered and females take 15 years or more to produce eggs. The eggs are the largest of any sturgeon, with a prized soft texture. Legal supply now comes almost entirely from fish farms, which must raise each fish for many years before harvest."},
+    {"question": "Is a beluga sturgeon related to a beluga whale?", "answer": "No. The beluga sturgeon is a fish and the beluga whale is a mammal. They share only a name, which comes from the Russian word for white. The sturgeon lives in the Caspian and Black Sea basins, while the whale lives in Arctic and subarctic seas."},
+    {"question": "What is the largest beluga sturgeon ever caught?", "answer": "The largest generally accepted record is a female caught in the Volga estuary in 1827 that measured 7.2 m (23 ft 7 in) and weighed 1,571 kg (3,463 lb). That makes the beluga a contender for the largest bony fish, although specimens today rarely exceed 3 m."},
+    {"question": "Is beluga caviar illegal in the United States?", "answer": "Imports of wild beluga caviar and other beluga products have been banned in the United States since 2005, after the species was listed as threatened under the Endangered Species Act. A limited exemption allows caviar from an approved US farm that raises beluga sturgeon in Florida."},
+    {"question": "Are beluga sturgeon dangerous to humans?", "answer": "No. Despite their size, beluga sturgeon pose no threat to people. They feed on fish, have no teeth as adults and swallow prey whole, and they avoid humans. There are no records of belugas attacking swimmers."}
+  ],
+  "meta": {
+    "title": "Beluga Sturgeon Facts: Size, Lifespan, Caviar & Status",
+    "description": "Beluga sturgeon live 50–100 years and reach 1.4–3.3 m today, though an 1827 giant measured 7.2 m and 1,571 kg. Diet, habitat, caviar and conservation status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Huso%20huso&searchType=species"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Huso_huso"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Beluga_(sturgeon)"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q191816"}
+    ]
+  }
+}

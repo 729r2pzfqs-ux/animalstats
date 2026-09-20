@@ -1,0 +1,29 @@
+{
+  "slug": "luna-moth",
+  "commonName": "Luna Moth",
+  "scientificName": "Actias luna",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "moth"
+  ],
+  "qid": "Q135289",
+  "iucnStatus": null,
+  "wikipedia": "Luna moth",
+  "taxonomy": {
+    "species": "Actias luna",
+    "genus": "Actias",
+    "family": "Saturniidae",
+    "order": "Lepidoptera",
+    "class": "Insecta",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "lifeExpectancy",
+      "amount": "1",
+      "unit": "week",
+      "sex": null
+    }
+  ]
+}

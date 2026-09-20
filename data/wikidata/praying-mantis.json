@@ -1,0 +1,22 @@
+{
+  "slug": "praying-mantis",
+  "commonName": "European Mantis",
+  "scientificName": "Mantis religiosa",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "praying mantis"
+  ],
+  "qid": "Q268319",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "European mantis",
+  "taxonomy": {
+    "species": "Mantis religiosa",
+    "genus": "Mantis",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "class": "Insecta",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "african-buffalo",
+  "commonName": "African Buffalo",
+  "scientificName": "Syncerus caffer",
+  "alternateNames": ["Cape buffalo", "Forest buffalo", "Savanna buffalo"],
+  "nameSingular": "African buffalo",
+  "namePlural": "African buffalo",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Bovidae", "genus": "Syncerus", "species": "S. caffer"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 20, "unit": "years", "context": "in the wild", "display": "15–20 years"},
+    "lifespanCaptivity": {"min": 25, "max": 30, "unit": "years", "context": "in human care", "display": "25–30 years"},
+    "weight": {"min": 300, "max": 900, "unit": "kg", "context": "adults; Cape buffalo 500–900 kg, the small forest buffalo around 300 kg", "display": "300–900 kg (660–1,980 lb)"},
+    "height": {"min": 1.0, "max": 1.7, "unit": "m", "label": "Shoulder height", "display": "1.0–1.7 m (3.3–5.6 ft)"},
+    "speed": {"min": 56, "max": 56, "unit": "km/h", "verb": "run", "context": "top speed in a charge", "display": "56 km/h (35 mph)"},
+    "gestationPeriod": {"min": 330, "max": 346, "unit": "days", "label": "Gestation", "display": "about 340 days (11 months)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "A bulk grazer that eats mostly tall and medium grasses, using its wide muzzle and tongue to take large mouthfuls; it browses leaves and shrubs when grass is scarce and drinks daily.",
+    "habitat": ["Savanna", "Floodplain", "Swamp", "Woodland", "Rainforest"],
+    "range": "Sub-Saharan Africa, from Senegal east to Ethiopia and south to South Africa, in savannas of East and southern Africa and rainforests of West and Central Africa.",
+    "conservationStatus": "Near Threatened",
+    "iucnCategory": "NT",
+    "populationTrend": "Decreasing",
+    "population": "roughly 400,000 mature individuals"
+  },
+  "description": "The African buffalo is a large, heavily built wild ox of sub-Saharan Africa and one of the 'Big Five' game animals. The best-known form is the black Cape buffalo of East and southern Africa, whose bulls have horns that fuse across the forehead into a solid shield called a boss. The much smaller, reddish forest buffalo lives in the rainforests of West and Central Africa. African buffalo form herds of dozens to many hundreds, and herd members cooperate to defend calves, even driving off lions. The species has never been domesticated and is not closely related to the Asian water buffalo or the American bison.",
+  "answers": {
+    "lifespan": "African buffalo live about 15–20 years in the wild and can reach 25–30 years in captivity. Lions are their main predator, and crocodiles, hyenas and leopards take calves. Disease matters too: the rinderpest epidemic of the 1890s killed the vast majority of buffalo, and bovine tuberculosis affects some herds today.",
+    "weight": "Adult African buffalo weigh 300–900 kg (660–1,980 lb), depending on subspecies and sex. Cape buffalo bulls commonly weigh 600–900 kg and cows 500–600 kg, while the forest buffalo of Central and West Africa is far smaller, at around 300 kg or a little less.",
+    "size": "An African buffalo stands 1.0–1.7 m (3.3–5.6 ft) tall at the shoulder, with Cape buffalo at the upper end and forest buffalo at the lower end. Head-and-body length is 1.7–3.4 m (5.6–11 ft). The horns of a big Cape bull can span more than 1 m (3.3 ft) across.",
+    "speed": "African buffalo can charge at about 56 km/h (35 mph), remarkable for an animal that can weigh close to a tonne. They usually walk between grazing areas and water, but a herd can stampede at speed, and wounded or cornered bulls are known for fast, determined charges.",
+    "gestation": "An African buffalo cow is pregnant for about 340 days, or roughly 11 months. Most calves are born in the rainy season, when grass is richest. The single calf weighs around 40 kg, stays hidden for a short time, and then remains close to its mother within the protection of the herd.",
+    "diet": "African buffalo are herbivores that graze mainly on grass, preferring tall, coarse species. They feed largely at night and in the cool of the morning and evening and need to drink every day, so they are seldom found far from water. By trimming tall grass they improve grazing for smaller antelope.",
+    "habitat": "African buffalo live in savannas, floodplains, swamps, woodlands and rainforests across sub-Saharan Africa, from sea level to over 4,000 meters in East African mountains. Their key requirements are plentiful grass, shade and permanent water within about a day's walk. Large herds are typical in places such as the Serengeti, Kruger and the Okavango Delta.",
+    "conservation": "The African buffalo is listed as Near Threatened on the IUCN Red List, with roughly 400,000 mature individuals and a decreasing trend. Most now live in protected areas. The main threats are habitat loss, hunting for meat, drought, and disease, along with conflict over diseases they can transmit to cattle."
+  },
+  "funFacts": [
+    "The horn bases of a mature bull fuse into a bony shield called a boss, which protects the skull during head-on clashes between rival bulls.",
+    "Before moving, herd members, mostly adult females, stand and face a preferred direction; the herd then tends to travel the way most are pointing, a form of 'voting'.",
+    "Buffalo herds will turn on lions and have been filmed rescuing captured calves and herd-mates by mobbing the attackers.",
+    "Despite its strength and numbers, the African buffalo has never been domesticated, unlike the Asian water buffalo.",
+    "Old bulls that leave the herd and spend their days in mud wallows are nicknamed 'dagga boys', from a Zulu word for mud."
+  ],
+  "relatedAnimals": ["american-bison", "cow", "blue-wildebeest", "lion", "hippopotamus", "white-rhinoceros"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are African buffalo dangerous to humans?", "answer": "Yes. African buffalo are considered among the most dangerous animals in Africa, particularly lone old bulls and wounded animals, which may charge without warning or circle back on hunters. They are often said to kill a couple of hundred people a year, although reliable statistics do not exist."},
+    {"question": "What is the difference between a Cape buffalo and a water buffalo?", "answer": "They are separate species on different continents. The Cape buffalo is the wild African buffalo, with horns fused into a boss, and has never been domesticated. The water buffalo is an Asian species with long, backswept crescent horns, domesticated thousands of years ago for milk and farm work."},
+    {"question": "Can an African buffalo kill a lion?", "answer": "Yes. Buffalo regularly injure and sometimes kill lions by goring or trampling them, and herds often mob lions to drive them off. Lions still prey heavily on buffalo in many parks, but it usually takes several lions working together to bring down an adult."},
+    {"question": "Why is the African buffalo one of the Big Five?", "answer": "The 'Big Five' was coined by big-game hunters for the five African animals considered most difficult and dangerous to hunt on foot: lion, leopard, elephant, rhinoceros and buffalo. The buffalo earned its place through its habit of charging or ambushing hunters when wounded."},
+    {"question": "How big are African buffalo herds?", "answer": "Savanna herds typically hold from about 50 to 500 animals, and gatherings of 1,000 or more occur in places like the Serengeti and Okavango in the dry season. Herds are built around related females and young. Forest buffalo live in much smaller groups, usually fewer than 20."}
+  ],
+  "meta": {
+    "title": "African (Cape) Buffalo Facts: Size, Weight & Danger",
+    "description": "African buffalo weigh 300–900 kg (660–1,980 lb), stand 1.0–1.7 m at the shoulder, charge at 56 km/h (35 mph) and live 15–20 years. Herds, horns and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Syncerus%20caffer&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Syncerus_caffer/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Syncerus_caffer"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/African_buffalo"}
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "andean-condor",
+  "commonName": "Andean Condor",
+  "scientificName": "Vultur gryphus",
+  "classSlug": "birds",
+  "aliases": [
+    "condor"
+  ],
+  "qid": "Q170598",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Andean condor",
+  "taxonomy": {
+    "species": "Vultur gryphus",
+    "genus": "Vultur",
+    "family": "Cathartidae",
+    "order": "Accipitriformes",
+    "class": "Aves"
+  },
+  "quantities": []
+}

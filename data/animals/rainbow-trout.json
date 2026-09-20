@@ -1,0 +1,64 @@
+{
+  "slug": "rainbow-trout",
+  "commonName": "Rainbow Trout",
+  "scientificName": "Oncorhynchus mykiss",
+  "alternateNames": ["Steelhead", "Steelhead trout", "Redband trout"],
+  "nameSingular": "rainbow trout",
+  "namePlural": "rainbow trout",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Salmoniformes", "family": "Salmonidae", "genus": "Oncorhynchus", "species": "O. mykiss"},
+  "facts": {
+    "lifespan": {"min": 4, "max": 6, "unit": "years", "context": "in the wild; the maximum recorded is about 11 years", "display": "4–6 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 0.5, "max": 3.6, "unit": "kg", "context": "adult stream and lake fish; sea-run steelhead and large-lake fish are often much heavier", "display": "0.5–3.6 kg (1–8 lb)"},
+    "height": {"min": 30, "max": 75, "unit": "cm", "label": "Length", "display": "30–75 cm (12–30 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 28, "max": 49, "unit": "days", "label": "Egg development", "display": "about 4–7 weeks"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Aquatic and terrestrial insects such as mayflies, caddisflies, stoneflies, midges, ants and grasshoppers, plus crustaceans, snails, fish eggs and small fish; steelhead at sea eat squid, krill and fish.",
+    "habitat": ["Cold streams and rivers", "Lakes", "Coastal ocean (steelhead)"],
+    "range": "Native to Pacific-draining waters from Alaska to northern Mexico and to Russia's Kamchatka Peninsula; introduced for fishing and farming to every continent except Antarctica.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The rainbow trout is a cold-water member of the salmon family, named for the pink-to-red stripe that runs along its silvery, black-spotted sides. It is native to rivers and lakes draining into the North Pacific, but it is such a popular sport and food fish that it has been stocked on every continent except Antarctica and is farmed worldwide. The species has two life histories: resident rainbow trout stay in fresh water all their lives, while steelhead migrate to the ocean, grow large and silvery, and return to rivers to spawn. Both are the same species and can come from the same parents.",
+  "answers": {
+    "lifespan": "Rainbow trout usually live 4–6 years in the wild, and the oldest recorded reached about 11. Fish in cold, food-poor mountain streams tend to grow slowly and live longer, while stocked hatchery trout rarely survive more than a season or two. Sea-run steelhead tend to live longer than resident stream trout.",
+    "weight": "Adult rainbow trout typically weigh 0.5–3.6 kg (1–8 lb). Small-stream fish are often under 1 kg, while lake-dwelling fish and sea-run steelhead regularly reach 4–9 kg. The heaviest on record, a 21.8 kg (48 lb) fish caught in Saskatchewan's Lake Diefenbaker in 2009, was a sterile escapee from a fish farm.",
+    "size": "Adult rainbow trout are usually 30–75 cm (12–30 in) long. Resident trout in small streams may mature at just 20–30 cm, while steelhead returning from the ocean commonly measure 60–90 cm and can reach about 1.2 m (4 ft). Growth depends heavily on water temperature and food supply.",
+    "speed": null,
+    "gestation": "Rainbow trout eggs hatch in about 4–7 weeks, depending on water temperature; at around 10 °C it takes roughly a month. The female digs a gravel nest called a redd in spring and lays 200–8,000 eggs, which the male fertilizes. Hatchlings stay in the gravel for two to three more weeks absorbing their yolk.",
+    "diet": "Rainbow trout are carnivores that eat mostly insects, both aquatic larvae and adults that fall onto the water, along with crustaceans, snails, fish eggs and small fish. Larger trout eat more fish. Steelhead feeding in the ocean switch to squid, krill and small fish, which is why they grow so much bigger.",
+    "habitat": "Rainbow trout live in cold, clear, well-oxygenated streams, rivers and lakes, preferring water of about 10–16 °C and struggling above roughly 24 °C. They are native to the Pacific slope of North America and to Kamchatka in Russia. Steelhead spend one to three years in the North Pacific before returning to rivers.",
+    "conservation": "The rainbow trout has not been assessed globally for the IUCN Red List, and as a species it is abundant and widely introduced. Several native populations are in trouble, however: a number of steelhead populations on the US West Coast are listed as threatened or endangered. Elsewhere, introduced rainbow trout are an invasive threat to native fish and frogs."
+  },
+  "funFacts": [
+    "Steelhead and rainbow trout are the same species; offspring of resident trout can go to sea, and offspring of steelhead can stay in the river.",
+    "The species name mykiss comes from the local Kamchatkan name for the fish, recorded when it was first described from Russia in 1792.",
+    "Unlike Pacific salmon, steelhead do not always die after spawning and some return to the ocean and spawn again.",
+    "Rainbow trout are listed among the world's 100 worst invasive species because stocked fish outcompete and hybridize with native trout.",
+    "Golden trout, redband trout and Kamloops trout are all subspecies or regional forms of the rainbow trout."
+  ],
+  "relatedAnimals": ["atlantic-salmon", "largemouth-bass", "beluga-sturgeon", "bald-eagle", "grizzly-bear", "koi"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a rainbow trout and a steelhead?", "answer": "They are the same species. A rainbow trout spends its whole life in fresh water, while a steelhead migrates to the ocean, where it grows larger, turns silvery with a fainter stripe, and returns to a river to spawn. Steelhead regain some rainbow coloring once back in fresh water."},
+    {"question": "Is a rainbow trout a salmon?", "answer": "Rainbow trout belong to the salmon family and to the same genus, Oncorhynchus, as the Pacific salmon such as Chinook and coho. They are called trout by tradition, but genetically they are closer to Pacific salmon than to brown trout or Atlantic salmon."},
+    {"question": "What is the biggest rainbow trout ever caught?", "answer": "The all-tackle world record rainbow trout weighed 21.8 kg (48 lb) and was caught by Sean Konrad in Lake Diefenbaker, Saskatchewan, in 2009. The lake's giant trout are sterile triploid fish that escaped from a fish farm; because they do not spawn, they put all their energy into growth."},
+    {"question": "What water temperature do rainbow trout need?", "answer": "Rainbow trout do best in cold, well-oxygenated water of about 10–16 °C (50–60 °F). They become stressed above about 20 °C and temperatures around 24–25 °C can be lethal, which is why they are found in mountain streams, spring-fed rivers and deep, cool lakes."},
+    {"question": "Are rainbow trout good to eat?", "answer": "Yes. Rainbow trout is a mild, delicate fish with pink to orange flesh and is one of the most widely farmed freshwater fish in the world. Farmed rainbow trout is generally considered a sustainable seafood choice and is low in mercury."}
+  ],
+  "meta": {
+    "title": "Rainbow Trout Facts: Size, Lifespan, Diet & Steelhead",
+    "description": "Rainbow trout live 4–6 years, grow 30–75 cm (12–30 in) and weigh 0.5–3.6 kg; sea-run steelhead get far bigger. Diet, habitat, spawning and record size.",
+    "sources": [
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Oncorhynchus_mykiss/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Oncorhynchus_mykiss"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Rainbow_trout"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q187986"}
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "leatherback-sea-turtle",
+  "commonName": "Leatherback Sea Turtle",
+  "scientificName": "Dermochelys coriacea",
+  "classSlug": "reptiles",
+  "aliases": [
+    "leatherback",
+    "sea turtle"
+  ],
+  "qid": "Q120043",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Leatherback sea turtle",
+  "taxonomy": {
+    "species": "Dermochelys coriacea",
+    "genus": "Dermochelys",
+    "family": "Dermochelyidae",
+    "order": "Testudines",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

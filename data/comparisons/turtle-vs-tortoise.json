@@ -1,0 +1,55 @@
+{
+  "slug": "turtle-vs-tortoise",
+  "summary": "The main difference between turtles and tortoises is that tortoises live entirely on land, while most other turtles spend much or all of their lives in water. Strictly speaking, every tortoise is a turtle: tortoises are one family, Testudinidae, within the turtle order Testudines. Tortoises have domed shells and sturdy, elephant-like legs; aquatic turtles have flatter shells and webbed feet or flippers.",
+  "differences": [
+    {
+      "title": "Land or water",
+      "text": "Tortoises are fully terrestrial. They cannot swim, and most will drown in deep water. Other turtles range from pond and river species that bask on logs to sea turtles, such as the green sea turtle, which come ashore only to lay eggs. The Galápagos tortoise wallows in shallow pools but never swims by choice."
+    },
+    {
+      "title": "Legs and feet",
+      "text": "A tortoise has thick, column-shaped legs with short, blunt toes, much like a miniature elephant, built to carry a heavy shell over rough ground. Freshwater turtles have webbed feet with long claws. Sea turtles have gone further: their front limbs are long, wing-like flippers that they use to 'fly' through the water."
+    },
+    {
+      "title": "Shell shape",
+      "text": "Tortoise shells are typically tall, heavy and domed, which makes it harder for a predator to get its jaws around them. Aquatic turtles have flatter, lighter, more streamlined shells that reduce drag. Sea turtles are so streamlined that they cannot pull the head or flippers inside the shell, unlike most tortoises."
+    },
+    {
+      "title": "Diet",
+      "text": "Most tortoises are herbivores that graze on grasses, leaves, flowers, fruit and cactus pads. Turtles as a whole are more varied: many freshwater species are omnivores, snapping turtles are mostly predators, and leatherbacks eat jellyfish. The green sea turtle is unusual because adults are largely vegetarian, feeding on seagrass and algae."
+    },
+    {
+      "title": "Naming",
+      "text": "Usage depends on where you are. In American English, 'turtle' covers the whole group, and 'tortoise' is reserved for the land family. In British English, 'turtle' often means sea turtles only, freshwater species may be called terrapins, and land species are tortoises. Scientists avoid the problem by calling all of them chelonians or Testudines."
+    }
+  ],
+  "similarities": "Turtles and tortoises all belong to the order Testudines and share the feature that defines it: a bony shell fused to the ribs and spine, covered in most species by plates called scutes. All are toothless, with a horny beak instead. All breathe air and lay their eggs on land, even sea turtles, and many species are remarkably long-lived.",
+  "howToTell": [
+    "Look at the legs: stumpy, elephant-like legs mean a tortoise; webbed feet or flippers mean an aquatic turtle.",
+    "Check the shell profile. A high dome suggests a tortoise, while a flatter, smoother shell suggests a turtle.",
+    "Consider where you found it. An animal swimming in a pond or the sea is not a tortoise.",
+    "Paddle-shaped flippers with no separate toes identify a sea turtle."
+  ],
+  "faq": [
+    {
+      "question": "Is a tortoise a turtle?",
+      "answer": "Yes. Tortoises are a family of land-dwelling turtles, Testudinidae, within the order Testudines, so all tortoises are turtles but not all turtles are tortoises. In everyday American English, 'turtle' is the umbrella term, and 'tortoise' refers specifically to the land-living family."
+    },
+    {
+      "question": "Can tortoises swim?",
+      "answer": "No. Tortoises are built for land, with heavy domed shells and stumpy legs that make them poor swimmers. They may drink and soak in shallow water, but they can drown if placed in deep water. Never put a tortoise in a pond or release one into a lake."
+    },
+    {
+      "question": "Which lives longer, a turtle or a tortoise?",
+      "answer": "Tortoises generally live longer. Giant tortoises, including the Galápagos tortoise, are among the longest-lived land animals, and individuals have been documented living well over a century. Sea turtles are also long-lived, but their ages are harder to confirm. See the comparison table for typical figures."
+    },
+    {
+      "question": "Can turtles and tortoises interbreed?",
+      "answer": "No. Sea turtles, freshwater turtles and tortoises belong to separate families that diverged many millions of years ago, and they differ greatly in anatomy, habitat and breeding behavior. Hybrids do occur between some closely related species within a family, such as different sea turtle species."
+    }
+  ],
+  "meta": {
+    "title": "Turtle vs Tortoise: What Is the Difference?",
+    "description": "Tortoises are land-dwelling turtles with domed shells and stumpy legs; other turtles live mostly in water with webbed feet or flippers. See more."
+  }
+}

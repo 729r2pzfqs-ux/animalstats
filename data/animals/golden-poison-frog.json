@@ -1,0 +1,64 @@
+{
+  "slug": "golden-poison-frog",
+  "commonName": "Golden Poison Frog",
+  "scientificName": "Phyllobates terribilis",
+  "alternateNames": ["Golden poison dart frog", "Golden dart frog", "Golden poison arrow frog"],
+  "nameSingular": "golden poison frog",
+  "namePlural": "golden poison frogs",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Amphibia", "classSlug": "amphibians", "order": "Anura", "family": "Dendrobatidae", "genus": "Phyllobates", "species": "P. terribilis"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 10, "unit": "years", "context": "approximate; known mostly from captive frogs, wild lifespan is poorly documented", "display": "around 10 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 20, "max": 30, "unit": "g", "context": "approximate adult weight; the largest of the poison dart frogs", "display": "up to about 30 g (1 oz)"},
+    "height": {"min": 4.5, "max": 5.5, "unit": "cm", "label": "Body length", "display": "4.5–5.5 cm (1.8–2.2 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 10, "max": 14, "unit": "days", "label": "Egg development", "display": "about 10–14 days to hatch"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Ants, termites, small beetles, flies and other tiny invertebrates picked from the forest floor. Its toxin is believed to be built up from chemicals in wild prey, possibly small beetles.",
+    "habitat": ["Lowland rainforest", "Forest floor leaf litter"],
+    "range": "A very small area of lowland rainforest on the Pacific coast of Colombia, mainly in the Cauca and Valle del Cauca departments.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The golden poison frog is widely regarded as the most poisonous animal on Earth. A single wild frog, only about 5 cm long, carries around one milligram of batrachotoxin in its skin, enough in theory to kill several adult humans. Its uniform bright color, which may be golden yellow, orange or pale mint green depending on the population, warns predators to stay away. Unlike most frogs it is bold and active by day on the rainforest floor. It lives only in a small patch of Colombia's Pacific coast, where the Indigenous Emberá people have long used its poison on blowgun darts.",
+  "answers": {
+    "lifespan": "Golden poison frogs live around 10 years, based mostly on captive animals. Lifespan in the wild is poorly documented, but adults have almost no predators thanks to their toxin, so survival is probably high once they reach maturity at a little over one year old.",
+    "weight": "An adult golden poison frog weighs up to about 30 g (1 oz). That is tiny in absolute terms but large for a poison dart frog; it is the biggest member of the family. Females are slightly larger and heavier than males. Published weights are few, so the figure is approximate.",
+    "size": "Golden poison frogs are 4.5–5.5 cm (1.8–2.2 in) long from snout to vent. Females are usually a little larger than males. That makes the species the largest of the poison dart frogs, most of which are under 4 cm.",
+    "speed": null,
+    "gestation": "Golden poison frog eggs hatch in about 10–14 days. The female lays a small clutch, typically under 20 eggs, in moist leaf litter, not in water. After hatching, the male carries the tadpoles on his back to a small pool, where they develop into froglets in roughly two months.",
+    "diet": "Golden poison frogs are insectivores that eat ants, termites, tiny beetles and other small invertebrates, caught with a sticky tongue. Their diet is also the source of their poison: frogs raised in captivity on fruit flies and crickets never develop the toxin.",
+    "habitat": "Golden poison frogs live on the floor of humid lowland rainforest on the Pacific coast of Colombia, in an area of only a few thousand square kilometers. The region is hot, with extremely high rainfall. The frogs live among leaf litter and are active by day.",
+    "conservation": "The golden poison frog is listed as Endangered on the IUCN Red List, and its population is decreasing. Its tiny range is being cut into by logging, illegal gold mining, and the planting of illegal crops. A small private reserve in Colombia protects part of its habitat."
+  },
+  "funFacts": [
+    "Batrachotoxin forces nerve cells' sodium channels to stay open, which can cause paralysis and heart failure; there is no known antidote.",
+    "Emberá hunters poison blowgun darts by gently rubbing the tips across a live frog's back; a dart can stay lethal for a year or more.",
+    "Captive-bred golden poison frogs are harmless because they lack the wild diet that supplies the toxin.",
+    "A snake, Erythrolamprus epinephelus, is the only known predator with resistance to the frog's poison, and it mainly eats young frogs.",
+    "The frog is immune to its own poison thanks to a small change in its sodium channels."
+  ],
+  "relatedAnimals": ["red-eyed-tree-frog", "cane-toad", "american-bullfrog", "goliath-frog", "fire-salamander", "eastern-newt"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can a golden poison frog kill you?", "answer": "Potentially, yes. A wild golden poison frog carries about one milligram of batrachotoxin, and estimates suggest that is enough to kill several adult humans if it entered the bloodstream. The poison must get into the body through a wound or mucous membrane, and confirmed human deaths are not well documented."},
+    {"question": "Can you touch a golden poison frog?", "answer": "You should never touch a wild one. The toxin sits on the skin and can enter through small cuts or when you touch your eyes or mouth. Captive-bred frogs are non-toxic, but keepers still avoid handling them because amphibian skin is delicate and easily damaged."},
+    {"question": "Why are golden poison frogs so poisonous?", "answer": "They build up batrachotoxin from their food. Scientists believe the chemical, or its building blocks, comes from small insects in their rainforest home, possibly tiny beetles. The frog stores the toxin in skin glands, and its own nerves have a mutation that makes it immune."},
+    {"question": "Is the golden poison frog the most poisonous animal in the world?", "answer": "It is generally considered the most poisonous vertebrate, and often the most poisonous animal overall, based on the potency and amount of toxin it carries. Note the difference between poisonous and venomous: this frog is toxic to touch or eat, but it cannot bite or sting to inject toxin."},
+    {"question": "Can you keep a golden poison frog as a pet?", "answer": "Yes. Captive-bred golden poison frogs are legal to keep in many places and are popular with dart frog keepers because they are bold, large and non-toxic in captivity. They need a warm, very humid planted terrarium and a steady supply of fruit flies and small crickets."}
+  ],
+  "meta": {
+    "title": "Golden Poison Frog: Deadliest Frog Facts, Size & Habitat",
+    "description": "Golden poison frogs are only 4.5–5.5 cm (about 2 in) long yet carry about 1 mg of batrachotoxin. Lifespan, diet, Colombian habitat and Endangered status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Phyllobates%20terribilis&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Phyllobates_terribilis/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Golden_poison_frog"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q963997"}
+    ]
+  }
+}

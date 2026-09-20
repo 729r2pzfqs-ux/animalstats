@@ -1,0 +1,63 @@
+{
+  "slug": "goliath-birdeater",
+  "commonName": "Goliath Birdeater",
+  "scientificName": "Theraphosa blondi",
+  "alternateNames": ["Goliath bird-eating spider", "Goliath tarantula", "Goliath birdeater tarantula"],
+  "nameSingular": "Goliath birdeater",
+  "namePlural": "Goliath birdeaters",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Arachnida", "classSlug": "invertebrates", "order": "Araneae", "family": "Theraphosidae", "genus": "Theraphosa", "species": "T. blondi"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 25, "unit": "years", "context": "females, based largely on animals in human care; males live only 3–6 years", "display": "15–25 years (females); males 3–6 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 100, "max": 175, "unit": "g", "context": "large adults; about 175 g is the maximum reported", "display": "up to about 175 g (6.2 oz)"},
+    "height": {"min": 11, "max": 13, "unit": "cm", "label": "Body length", "display": "11–13 cm body (4.3–5.1 in); leg span up to 30 cm (12 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 42, "max": 56, "unit": "days", "label": "Egg development", "display": "6–8 weeks"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mostly earthworms and large insects such as beetles, crickets and cockroaches, along with frogs, toads, lizards, small snakes and rodents. Despite the name, it only occasionally takes small birds or nestlings.",
+    "habitat": ["Tropical rainforest", "Swampy forest floor", "Burrows"],
+    "range": "Upland rainforests of northern South America: Suriname, Guyana, French Guiana, northern Brazil and southern Venezuela.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The Goliath birdeater is a tarantula from the rainforests of northern South America and the heaviest spider in the world, with large females weighing as much as a young puppy. It lives in deep, silk-lined burrows in marshy forest floor and comes out at night to hunt by ambush. The name comes from an eighteenth-century engraving showing one eating a hummingbird, but its real diet is mostly earthworms, insects and frogs. When threatened it hisses loudly by rubbing bristles on its legs together and flicks clouds of barbed, irritating hairs from its abdomen.",
+  "answers": {
+    "lifespan": "Female Goliath birdeaters live about 15–25 years, while males live only 3–6 years. Males mature at around three years old and usually die within months of their final molt, often soon after mating. Most lifespan figures come from spiders kept in zoos and private collections; little is known about survival in the wild.",
+    "weight": "A large Goliath birdeater weighs up to about 175 g (6.2 oz), which makes it the heaviest spider known. Adult females commonly weigh over 100 g. The giant huntsman spider of Laos has a slightly wider leg span but is a far more lightly built animal.",
+    "size": "The Goliath birdeater has a body up to 11–13 cm (4.3–5.1 in) long and a leg span of up to about 30 cm (12 in), roughly the size of a dinner plate. Its fangs are 2–4 cm (0.8–1.5 in) long. Females are bulkier than males, which have longer legs for their body size.",
+    "speed": null,
+    "gestation": "Goliath birdeater eggs hatch in about 6–8 weeks. The female lays roughly 100–200 eggs in a silk sac about the size of a tennis ball and guards it inside her burrow, carrying it with her if she has to move. Spiderlings stay in the burrow for their first few molts.",
+    "diet": "Goliath birdeaters are carnivores that eat mainly earthworms and large insects, plus frogs, toads, lizards and the occasional rodent or small snake. They hunt at night near the burrow entrance, sensing vibrations in the ground, then pounce and inject venom. Birds are taken only rarely.",
+    "habitat": "Goliath birdeaters live on the floor of upland tropical rainforest in Suriname, Guyana, French Guiana, northern Brazil and southern Venezuela, usually in swampy or marshy areas. They shelter by day in deep burrows, often ones abandoned by rodents, which they line with silk.",
+    "conservation": "The Goliath birdeater has not been evaluated for the IUCN Red List, and its population size is unknown. It is not thought to be in immediate danger, but it is collected for the exotic pet trade and depends on intact rainforest, so deforestation is a long-term concern."
+  },
+  "funFacts": [
+    "It is the heaviest spider on Earth; only the giant huntsman spider has a longer leg span.",
+    "The hissing sound it makes by rubbing bristles on its legs together, called stridulation, can be heard about 4.5 m (15 ft) away.",
+    "Its main defense is to kick barbed hairs off its abdomen; these cause intense itching and can seriously irritate the eyes and airways.",
+    "The name birdeater comes from an early-1700s engraving by naturalist Maria Sibylla Merian showing a tarantula eating a hummingbird.",
+    "In parts of northeastern South America, people roast Goliath birdeaters in banana leaves after singeing off the hairs; the taste is compared to shrimp."
+  ],
+  "relatedAnimals": ["black-widow", "emperor-scorpion", "green-anaconda", "golden-poison-frog", "praying-mantis"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do Goliath birdeaters really eat birds?", "answer": "Rarely. They are capable of killing a small bird or nestling and will do so if the chance arises, but they hunt on the ground at night and their usual meals are earthworms, large insects, frogs and other small animals found on the forest floor."},
+    {"question": "Is the Goliath birdeater dangerous to humans?", "answer": "Not seriously. Its venom is mild for people, and a bite is usually compared to a wasp sting, though the large fangs can cause a painful puncture wound. The irritating hairs it flicks are the bigger problem, especially if they get into the eyes or are inhaled."},
+    {"question": "Is the Goliath birdeater the biggest spider in the world?", "answer": "By weight and body size, yes: it can reach about 175 g with a body up to 13 cm long. By leg span, the giant huntsman spider of Laos is usually given the title at up to about 30 cm, similar to or slightly more than the largest Goliath birdeaters."},
+    {"question": "Do Goliath birdeaters make good pets?", "answer": "Only for experienced keepers. They need a large enclosure with deep, damp substrate, high humidity and warm temperatures, and they are defensive spiders that flick irritating hairs readily. They are animals to watch rather than handle, and females can live two decades."},
+    {"question": "Do Goliath birdeaters spin webs?", "answer": "They do not build webs to catch prey. Like other tarantulas, they use silk to line their burrows, lay trip lines near the entrance, make a mat for molting and wrap their egg sacs, and they hunt by ambush instead."}
+  ],
+  "meta": {
+    "title": "Goliath Birdeater: Size, Weight, Lifespan & Diet Facts",
+    "description": "The Goliath birdeater is the heaviest spider, up to 175 g (6.2 oz) with a 30 cm (12 in) leg span. Females live 15–25 years. Diet, venom and habitat facts.",
+    "sources": [
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Theraphosa_blondi/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Goliath_birdeater"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q617000"}
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "pronghorn",
+  "commonName": "Pronghorn",
+  "scientificName": "Antilocapra americana",
+  "classSlug": "mammals",
+  "aliases": [
+    "pronghorn antelope"
+  ],
+  "qid": "Q187943",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Pronghorn",
+  "taxonomy": {
+    "species": "Antilocapra americana",
+    "genus": "Antilocapra",
+    "family": "Antilocapridae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "3.5",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "250",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

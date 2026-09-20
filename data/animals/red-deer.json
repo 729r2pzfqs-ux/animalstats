@@ -1,0 +1,64 @@
+{
+  "slug": "red-deer",
+  "commonName": "Red Deer",
+  "scientificName": "Cervus elaphus",
+  "alternateNames": ["Stag", "Hart", "European red deer", "Barbary stag"],
+  "nameSingular": "red deer",
+  "namePlural": "red deer",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Cervidae", "genus": "Cervus", "species": "C. elaphus"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 13, "unit": "years", "context": "in the wild; some hinds reach 18–20", "display": "10–13 years"},
+    "lifespanCaptivity": {"min": 20, "max": 25, "unit": "years", "context": "in human care; the record is about 31", "display": "20–25 years"},
+    "weight": {"min": 120, "max": 240, "unit": "kg", "context": "adults; hinds 120–170 kg, stags 160–240 kg; varies greatly by region", "display": "120–240 kg (265–530 lb)"},
+    "height": {"min": 0.95, "max": 1.3, "unit": "m", "label": "Shoulder height", "display": "0.95–1.3 m (3.1–4.3 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 230, "max": 240, "unit": "days", "label": "Gestation", "display": "about 235 days (33–34 weeks)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Grasses, sedges and heather make up much of the diet, together with leaves, shoots and bark of trees and shrubs, brambles, acorns, beechnuts, fungi and farm crops.",
+    "habitat": ["Woodland", "Moorland", "Mountain pasture", "Grassland"],
+    "range": "Much of Europe from Ireland and Spain to the Caucasus, plus Turkey, northern Iran and the Atlas Mountains of North Africa; introduced to New Zealand, Australia and Argentina.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The red deer is one of the largest deer species and the largest wild land mammal in Britain and Ireland. It is named for its reddish-brown summer coat, which turns grayer in winter. Males, called stags, carry large branching antlers that are shed and regrown every year; females are called hinds. For most of the year the sexes live apart, coming together for the fall rut, when stags roar, parallel-walk and fight to hold harems. The North American elk, or wapiti, was long treated as the same species but is now classed separately. Red deer have been introduced to several Southern Hemisphere countries and are widely farmed for venison.",
+  "answers": {
+    "lifespan": "Red deer live 10–13 years in the wild on average, and hinds sometimes reach 18–20. In parks and captivity they commonly live more than 20 years. Stags tend to die younger than hinds because the rut is exhausting: a stag may lose around 20 percent of his body weight and enter winter in poor condition.",
+    "weight": "Adult red deer stags weigh 160–240 kg (350–530 lb) and hinds 120–170 kg (265–375 lb). Size depends heavily on habitat. Deer on open Scottish hills are much lighter, with stags often around 90–140 kg, while stags in the forests of the Carpathians can exceed 300 kg.",
+    "size": "A red deer stands 0.95–1.3 m (3.1–4.3 ft) tall at the shoulder. Stags measure 1.75–2.5 m (5.7–8.2 ft) in body length and hinds 1.6–2.1 m. A mature stag's antlers are typically about 70 cm long, with exceptional sets exceeding 1 m and carrying a dozen or more points.",
+    "speed": null,
+    "gestation": "Red deer hinds are pregnant for about 235 days, or 33–34 weeks. Mating takes place during the rut in late September and October, and calves are born in late May and June. A hind almost always has a single spotted calf, which lies hidden in vegetation for its first weeks.",
+    "diet": "Red deer are herbivores that both graze and browse. They eat grasses, sedges, heather and herbs, plus leaves, shoots and bark of trees and shrubs, and acorns and beechnuts in fall. Where numbers are high, their browsing prevents young trees from growing, a major issue for forest regeneration in Scotland.",
+    "habitat": "Red deer live in woodlands, open moorland, mountain pastures and grasslands across Europe, the Caucasus, Turkey, northern Iran and the Atlas Mountains. They are naturally a forest-edge species, but in Scotland they have adapted to treeless hills. Many populations move uphill in summer and down to sheltered valleys in winter.",
+    "conservation": "The red deer is listed as Least Concern on the IUCN Red List, and its population is increasing across most of Europe. Some isolated forms are rare, including the Barbary stag of North Africa and the Corsican red deer. Elsewhere the concern is overabundance, and populations are controlled by culling and hunting."
+  },
+  "funFacts": [
+    "A stag's roar during the rut advertises his size and stamina; hinds prefer males that roar more often, and rivals use it to decide whether to fight.",
+    "Antlers are shed every spring and regrown by late summer, growing as fast as about 2.5 cm (1 in) a day.",
+    "The Barbary stag, a red deer subspecies of Algeria and Tunisia, is the only deer native to Africa.",
+    "Red deer on the Scottish island of Rum have been studied continuously since the 1950s, one of the longest-running studies of any wild mammal.",
+    "Red deer introduced to New Zealand in the 1800s became so numerous that the country built a major venison farming industry around them."
+  ],
+  "relatedAnimals": ["elk", "white-tailed-deer", "moose", "reindeer", "wild-boar", "gray-wolf"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a red deer and an elk?", "answer": "The North American elk, or wapiti, is a separate, larger species (Cervus canadensis) with a pale rump patch and a high-pitched bugle. The red deer (Cervus elaphus) of Europe is smaller and redder, and stags roar rather than bugle. The two were considered one species until genetic studies in the early 2000s."},
+    {"question": "What are male and female red deer called?", "answer": "A male red deer is a stag, or a hart in older English, a female is a hind, and the young is a calf. A stag with twelve antler points is traditionally called a 'royal' stag, and one with fourteen an 'imperial'."},
+    {"question": "When is the red deer rut?", "answer": "The red deer rut runs from late September to early November in Europe, peaking in October. Stags gather groups of hinds, roar repeatedly, thrash vegetation and wallow in mud. Evenly matched rivals walk side by side to size each other up before locking antlers."},
+    {"question": "Are red deer dangerous?", "answer": "Red deer normally avoid people, but stags can be dangerous during the rut, when they are aggressive and unpredictable, and hinds may defend calves. People have been seriously injured in deer parks. Visitors are advised to stay at least 50 meters away and keep dogs on a lead."},
+    {"question": "Do red deer shed their antlers every year?", "answer": "Yes. Stags cast their antlers each year between about March and May, older stags first. New antlers start growing immediately under a covering of velvet, are fully grown by late summer, and are cleaned of velvet just before the fall rut."}
+  ],
+  "meta": {
+    "title": "Red Deer Facts: Size, Weight, Antlers, Rut & Lifespan",
+    "description": "Red deer stags weigh 160–240 kg (350–530 lb) and hinds 120–170 kg; they stand 0.95–1.3 m tall and live 10–13 years. Rut, antlers, diet and range explained.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Cervus%20elaphus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Cervus_elaphus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Cervus_elaphus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Red_deer"}
+    ]
+  }
+}

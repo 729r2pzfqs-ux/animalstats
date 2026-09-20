@@ -1,0 +1,64 @@
+{
+  "slug": "red-kangaroo",
+  "commonName": "Red Kangaroo",
+  "scientificName": "Osphranter rufus",
+  "alternateNames": ["Red giant kangaroo", "Macropus rufus", "Marloo"],
+  "nameSingular": "red kangaroo",
+  "namePlural": "red kangaroos",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Diprotodontia", "family": "Macropodidae", "genus": "Osphranter", "species": "O. rufus"},
+  "facts": {
+    "lifespan": {"min": 8, "max": 12, "unit": "years", "context": "in the wild; a few reach about 20", "display": "8–12 years"},
+    "lifespanCaptivity": {"min": 16, "max": 20, "unit": "years", "context": "in human care", "display": "16–20 years"},
+    "weight": {"min": 18, "max": 90, "unit": "kg", "context": "adults; females 18–40 kg, males 55–90 kg", "display": "18–90 kg (40–200 lb)"},
+    "height": {"min": 1.0, "max": 1.6, "unit": "m", "label": "Height", "display": "1.0–1.6 m (3.3–5.2 ft)"},
+    "speed": {"min": 56, "max": 70, "unit": "km/h", "verb": "run", "context": "hopping in short bursts; cruising speed is 20–25 km/h", "display": "56–70 km/h (35–43 mph)"},
+    "gestationPeriod": {"min": 32, "max": 34, "unit": "days", "label": "Gestation", "display": "about 33 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Mostly green grasses, plus forbs and the leaves of low shrubs such as saltbush. Red kangaroos get much of their water from fresh vegetation and can go long periods without drinking.",
+    "habitat": ["Arid grassland", "Scrubland", "Desert", "Open woodland"],
+    "range": "Most of mainland Australia's dry interior, absent from the wetter east coast, far north, southwest corner and Tasmania.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The red kangaroo is the largest kangaroo, the largest living marsupial and the largest native land mammal in Australia. Adult males are usually reddish-brown and can weigh more than twice as much as the smaller, often blue-gray females. Red kangaroos live in loose groups called mobs across the dry inland plains, resting in shade by day and grazing from dusk to dawn. They move by hopping on powerful hind legs, using the long, heavy tail for balance at speed and as a fifth limb when moving slowly. Numbers rise and fall sharply with rainfall and drought.",
+  "answers": {
+    "lifespan": "Red kangaroos typically live 8–12 years in the wild and 16–20 years in zoos. A few wild animals reach about 20, but most die much younger: drought, food shortages and dingo predation kill many joeys and young adults, so the average life of a wild kangaroo is far shorter than its potential.",
+    "weight": "Adult red kangaroos weigh 18–90 kg (40–200 lb). The spread is wide because males are far bigger than females: males usually weigh 55–90 kg, while females weigh 18–40 kg. Males keep growing throughout life, so the oldest dominant males are the heaviest.",
+    "size": "A red kangaroo stands 1.0–1.6 m (3.3–5.2 ft) tall in its normal upright posture, and very large males can top 1.8 m when stretched up. Head-and-body length is 0.85–1.6 m, and the muscular tail adds another 0.65–1.2 m.",
+    "speed": "Red kangaroos can hop at 56–70 km/h (35–43 mph) in short bursts. Their comfortable cruising speed is 20–25 km/h, which they can hold for long distances because elastic tendons in the hind legs store and return energy with every bound. A single leap can cover 8 m or more.",
+    "gestation": "A red kangaroo is pregnant for about 33 days. The newborn is around 2.5 cm long and weighs under a gram; it climbs unaided into the pouch, attaches to a teat and stays there for roughly 8 months before it starts to venture out.",
+    "diet": "Red kangaroos are herbivores that eat mainly green grasses, along with forbs and the leaves of shrubs such as saltbush. They feed mostly from dusk to dawn, have chambered stomachs that ferment tough plants, and can survive for long periods without drinking when fresh green feed is available.",
+    "habitat": "Red kangaroos live on the dry grasslands, scrublands and desert plains of inland Australia. They prefer open country with scattered trees for shade and avoid the wetter forests of the east coast, the tropical far north and the southwest. They do not occur in Tasmania.",
+    "conservation": "Red kangaroos are listed as Least Concern on the IUCN Red List with a stable population. They number in the millions, although counts swing widely with drought and rain. The species is protected by law, and commercial harvesting is allowed only under government quotas."
+  },
+  "funFacts": [
+    "A female red kangaroo can have a joey at foot, a younger joey in the pouch and a paused embryo waiting in the womb all at the same time.",
+    "A mother can produce two different kinds of milk at once, from separate teats, to suit joeys of different ages.",
+    "Kangaroos cannot easily walk backward; at slow speeds they use the tail as a fifth limb in a movement called pentapedal walking.",
+    "Males settle disputes by 'boxing': they grapple with the forearms and balance on the tail to kick with both hind feet.",
+    "A newborn red kangaroo weighs less than a gram, tens of thousands of times lighter than its mother."
+  ],
+  "relatedAnimals": ["koala", "wombat", "tasmanian-devil", "platypus", "emu"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is a group of kangaroos called?", "answer": "A group of kangaroos is called a mob, and sometimes a troop or court. Red kangaroo mobs are loose and changeable, usually holding 2 to 10 animals, though many more may gather where there is fresh grass or water."},
+    {"question": "Are red kangaroos dangerous to humans?", "answer": "Rarely. Red kangaroos normally flee from people, but a cornered or hand-fed male can kick, scratch and grapple hard enough to cause serious injuries. Deaths are extremely rare. The biggest risk to people is collisions between kangaroos and vehicles on outback roads."},
+    {"question": "How far can a red kangaroo jump?", "answer": "A red kangaroo can cover about 8 m (26 ft) in a single bound at speed, and it can clear obstacles roughly 1.8 m (6 ft) high. Longer leaps have been reported, but 8–9 m is the figure most sources support."},
+    {"question": "What is the difference between a red kangaroo and a gray kangaroo?", "answer": "Red kangaroos are larger, live in the arid interior and have a squarer muzzle with black and white patches; males are usually reddish. Eastern and western gray kangaroos are gray-brown, slightly smaller, and prefer wetter woodland and forest edges in the east and south."},
+    {"question": "How long does a joey stay in the pouch?", "answer": "A red kangaroo joey stays in the pouch full-time for about 6 months, begins making short trips outside soon after, and leaves for good at around 8 months. It keeps suckling from outside the pouch until it is about a year old."}
+  ],
+  "meta": {
+    "title": "Red Kangaroo Facts: Size, Speed, Lifespan & Diet",
+    "description": "Red kangaroos weigh 18–90 kg, stand up to 1.6 m tall, hop at 56–70 km/h and live 8–12 years in the wild. Diet, habitat, joeys and conservation status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Osphranter%20rufus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Macropus_rufus/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Red_kangaroo"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q104831614"}
+    ]
+  }
+}

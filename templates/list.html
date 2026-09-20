@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% from "_macros.html" import ad %}
+{% block main %}
+<article class="wrap">
+  <header class="pt-4">
+    <h1 class="text-[1.7rem] font-extrabold leading-tight tracking-tight sm:text-4xl">{{ lst.title }}</h1>
+    {% set r1 = lst.rows[0] %}{% set r2 = lst.rows[1] %}{% set r3 = lst.rows[2] %}
+    <p class="mt-2 text-base leading-relaxed text-slate-700 sm:text-lg">
+      {% if lst.metric == 'endangered' %}The most threatened animal in our database is the <a class="link" href="{{ r1.animal.url }}">{{ r1.animal.commonName|lower }}</a>, assessed as {{ r1.display }} on the IUCN Red List, followed by the <a class="link" href="{{ r2.animal.url }}">{{ r2.animal.commonName|lower }}</a> and the <a class="link" href="{{ r3.animal.url }}">{{ r3.animal.commonName|lower }}</a>.
+      {% else %}Number one is the <a class="link" href="{{ r1.animal.url }}">{{ r1.animal.commonName|lower }}</a> at <strong>{{ r1.display }}</strong>{% if r1.note and r1.note|length < 60 %} ({{ r1.note }}){% endif %}, followed by the <a class="link" href="{{ r2.animal.url }}">{{ r2.animal.commonName|lower }}</a> at {{ r2.display }} and the <a class="link" href="{{ r3.animal.url }}">{{ r3.animal.commonName|lower }}</a> at {{ r3.display }}.{% endif %}
+    </p>
+  </header>
+
+  <section aria-label="Ranking" class="card mt-4 overflow-x-auto">
+    <table class="tbl">
+      <thead><tr><th class="w-10">#</th><th>Animal</th><th>{{ lst.unit }}</th><th>Notes</th></tr></thead>
+      <tbody>
+      {% for r in lst.rows %}
+        <tr>
+          <td class="font-extrabold text-slate-900">{{ r.rank }}</td>
+          <td><a href="{{ r.animal.url }}" class="link">{{ r.animal.commonName }}</a><div class="text-xs text-slate-500">{{ r.animal.cls.singular|capitalize }}</div></td>
+          <td class="font-semibold text-slate-900">{% if lst.metric == 'endangered' %}<span class="iucn iucn-{{ r.animal.ecology.iucnCategory }}">{{ r.display }}</span>{% else %}{{ r.display }}{% endif %}</td>
+          <td class="text-slate-600">{{ r.note }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </section>
+
+  <h2 class="h2">{{ icon('info', 'w-6 h-6 text-emerald-700') }} About this ranking</h2>
+  <p class="prose-p">{{ lst.intro }}</p>
+  <p class="prose-p mt-3 text-sm"><strong class="text-slate-900">How it is ranked:</strong> {{ lst.method }} The list covers the {{ animal_count }} animals in the AnimalStats database, not every species on Earth.</p>
+
+  {{ ad('in_article_1') }}
+
+  <h2 class="h2">The top five in detail</h2>
+  <div class="space-y-4">
+    {% set key = {'speed': 'speed', 'weight': 'weight', 'height': 'size', 'gestation': 'gestation', 'lifespan': 'lifespan', 'longevity': 'lifespan', 'endangered': 'conservation'}[lst.metric] %}
+    {% for r in lst.rows[:5] %}
+    <div><h3 class="font-bold text-slate-900">{{ r.rank }}. <a href="{{ r.animal.url }}" class="link">{{ r.animal.commonName }}</a> — {{ r.display }}</h3><p class="prose-p mt-1">{{ r.animal.answers[key] }}</p></div>
+    {% endfor %}
+  </div>
+
+  {{ ad('in_article_2') }}
+
+  <h2 class="h2">More rankings</h2>
+  <div class="flex flex-wrap gap-2">
+    {% for l in lists if l.slug != lst.slug %}<a href="{{ l.url }}" class="chip">{{ l.title }}</a>{% endfor %}
+  </div>
+</article>
+{% endblock %}

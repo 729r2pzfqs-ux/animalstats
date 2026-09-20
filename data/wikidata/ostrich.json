@@ -1,0 +1,39 @@
+{
+  "slug": "ostrich",
+  "commonName": "Common Ostrich",
+  "scientificName": "Struthio camelus",
+  "classSlug": "birds",
+  "aliases": [
+    "ostrich"
+  ],
+  "qid": "Q17592",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Common ostrich",
+  "taxonomy": {
+    "species": "Struthio camelus",
+    "genus": "Struthio",
+    "family": "Struthionidae",
+    "order": "Struthioniformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "1.5",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "115",
+      "unit": "kg",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "100",
+      "unit": "kg",
+      "sex": "female"
+    }
+  ]
+}

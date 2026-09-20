@@ -1,0 +1,22 @@
+{
+  "slug": "garden-snail",
+  "commonName": "Garden Snail",
+  "scientificName": "Cornu aspersum",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "snail"
+  ],
+  "qid": "Q22019793",
+  "iucnStatus": null,
+  "wikipedia": "Cornu aspersum",
+  "taxonomy": {
+    "species": "Cornu aspersum",
+    "genus": "Cornu",
+    "family": "Helicidae",
+    "order": "Stylommatophora",
+    "class": "Gastropoda",
+    "phylum": "Mollusca",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

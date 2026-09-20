@@ -1,0 +1,64 @@
+{
+  "slug": "red-eared-slider",
+  "commonName": "Red-Eared Slider",
+  "scientificName": "Trachemys scripta",
+  "alternateNames": ["Red-eared terrapin", "Red-eared slider turtle", "Pond slider", "Trachemys scripta elegans"],
+  "nameSingular": "red-eared slider",
+  "namePlural": "red-eared sliders",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Testudines", "family": "Emydidae", "genus": "Trachemys", "species": "T. scripta"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 30, "unit": "years", "context": "in the wild", "display": "20–30 years"},
+    "lifespanCaptivity": {"min": 30, "max": 40, "unit": "years", "context": "with good care; many pets die far younger from poor husbandry", "display": "30–40 years"},
+    "weight": {"min": 0.5, "max": 1.5, "unit": "kg", "context": "adults; females are larger, and big females can exceed 2 kg", "display": "0.5–1.5 kg (1.1–3.3 lb)"},
+    "height": {"min": 15, "max": 28, "unit": "cm", "label": "Shell length", "display": "15–28 cm (6–11 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 60, "max": 90, "unit": "days", "label": "Incubation", "display": "60–90 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Juveniles eat mostly animal food such as aquatic insects, snails, tadpoles, small fish and carrion. Adults shift toward plants, eating large amounts of aquatic vegetation and algae while still taking animal prey when available.",
+    "habitat": ["Ponds", "Lakes", "Slow rivers", "Marshes", "Drainage canals"],
+    "range": "Native to the Mississippi River basin and south-central United States into northeastern Mexico; introduced through the pet trade to every continent except Antarctica.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The red-eared slider is a medium-sized freshwater turtle and the most widely kept pet turtle in the world. It is a subspecies, Trachemys scripta elegans, of the pond slider (Trachemys scripta), and is recognized by the red or orange stripe behind each eye; the other subspecies are the yellow-bellied and Cumberland sliders. The name slider comes from its habit of sliding off logs and rocks into the water at the first sign of danger. Native to the central and southern United States, it has been released by pet owners around the world and is now listed among the world's most damaging invasive species.",
+  "answers": {
+    "lifespan": "Red-eared sliders live 20–30 years in the wild and 30–40 years in captivity with good care. Many pet sliders die much younger because of poor water quality, a lack of UVB lighting or an unsuitable diet. Anyone buying one should plan for a commitment of several decades.",
+    "weight": "Adult red-eared sliders typically weigh 0.5–1.5 kg (1.1–3.3 lb). Females grow noticeably larger than males, and a big adult female can weigh more than 2 kg. Hatchlings weigh only a few grams and are about the size of a large coin.",
+    "size": "Adult red-eared sliders have a shell 15–28 cm (6–11 in) long. Males usually reach 15–20 cm, while females commonly reach 25–28 cm. Hatchlings are about 3 cm long, which is why the tiny turtles sold as pets quickly outgrow small tanks.",
+    "speed": null,
+    "gestation": "Red-eared slider eggs incubate for 60–90 days, depending on nest temperature. Females dig a nest on land and lay clutches of roughly 2–20 eggs, often several clutches a year. As in many turtles, warmer nests produce more females and cooler nests more males.",
+    "diet": "Red-eared sliders are omnivores. Young turtles eat mostly insects, snails, tadpoles and small fish, while adults eat far more aquatic plants and algae. Pet sliders do best on commercial turtle pellets plus leafy greens and occasional animal protein. They can only swallow food while in the water.",
+    "habitat": "Red-eared sliders live in warm, calm fresh water with soft bottoms, plenty of plants and places to bask, such as ponds, lakes, marshes and slow rivers. They are native to the south-central United States and northern Mexico but now live wild in many countries after pet releases.",
+    "conservation": "The pond slider, including the red-eared slider, is listed as Least Concern on the IUCN Red List and is abundant. The conservation concern runs the other way: released pets compete with native turtles for food and basking sites, and the species is on the IUCN list of 100 of the world's worst invasive species."
+  },
+  "funFacts": [
+    "The red patch behind each eye gives the turtle its name, although sliders have no external ears; the patch often fades in old males, which can turn almost black.",
+    "In the United States it has been illegal since 1975 to sell turtles with shells under 4 inches long, a rule introduced to reduce salmonella infections in children.",
+    "Red-eared sliders spend the winter in brumation at the bottom of ponds and can survive for weeks in cold water with very little oxygen.",
+    "Males have very long front claws, which they flutter in front of a female's face during courtship.",
+    "The European Union banned imports of red-eared sliders in 1997 because released pets were establishing wild populations."
+  ],
+  "relatedAnimals": ["green-sea-turtle", "sulcata-tortoise", "galapagos-tortoise", "leatherback-sea-turtle", "american-bullfrog", "bearded-dragon"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do red-eared sliders make good pets?", "answer": "They can, but they are more demanding than most people expect. A slider may live 30 years or more, grows to 20–28 cm, and needs a large tank or pond, strong filtration, a basking area with heat and UVB light, and a varied diet. They are best watched rather than handled."},
+    {"question": "How big of a tank does a red-eared slider need?", "answer": "A common guideline is about 10 US gallons of water per inch of shell length, so an adult usually needs a tank of 75–125 gallons (roughly 280–470 liters) or an outdoor pond. The enclosure also needs a dry basking platform, a heat lamp and UVB lighting."},
+    {"question": "Can red-eared sliders carry salmonella?", "answer": "Yes. Like most reptiles, red-eared sliders commonly carry Salmonella bacteria without being sick. Wash your hands after touching the turtle, its water or its equipment, keep it away from kitchens, and avoid turtles as pets for children under five or people with weak immune systems."},
+    {"question": "How can you tell if a red-eared slider is male or female?", "answer": "Adult males are smaller and have very long front claws and a longer, thicker tail with the vent placed beyond the edge of the shell. Females are larger with short claws and a short tail. The differences only become clear once the turtle is a few years old."},
+    {"question": "Is it OK to release a pet red-eared slider into the wild?", "answer": "No. Releasing a pet slider is illegal in many places and harms native wildlife, because sliders outcompete local turtles and can spread disease. Released pets also often die. Contact a reptile rescue, a herpetological society or the seller to rehome an unwanted turtle."}
+  ],
+  "meta": {
+    "title": "Red-Eared Slider Lifespan, Size & Care Facts",
+    "description": "Red-eared sliders live 20–30 years in the wild and 30–40 as pets, reaching 15–28 cm (6–11 in) and 0.5–1.5 kg. Diet, habitat, eggs and invasive status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Trachemys%20scripta&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Trachemys_scripta/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Trachemys_scripta"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Pond_slider"}
+    ]
+  }
+}

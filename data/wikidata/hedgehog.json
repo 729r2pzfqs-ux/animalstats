@@ -1,0 +1,29 @@
+{
+  "slug": "hedgehog",
+  "commonName": "European Hedgehog",
+  "scientificName": "Erinaceus europaeus",
+  "classSlug": "mammals",
+  "aliases": [
+    "hedgehog"
+  ],
+  "qid": "Q6145",
+  "iucnStatus": "Near Threatened",
+  "wikipedia": "European hedgehog",
+  "taxonomy": {
+    "species": "Erinaceus europaeus",
+    "genus": "Erinaceus",
+    "family": "Erinaceidae",
+    "order": "Eulipotyphla",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "34",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

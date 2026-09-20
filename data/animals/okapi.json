@@ -1,0 +1,64 @@
+{
+  "slug": "okapi",
+  "commonName": "Okapi",
+  "scientificName": "Okapia johnstoni",
+  "alternateNames": ["Forest giraffe", "Zebra giraffe", "Congolese giraffe"],
+  "nameSingular": "okapi",
+  "namePlural": "okapis",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Giraffidae", "genus": "Okapia", "species": "O. johnstoni"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 30, "unit": "years", "context": "estimate based largely on zoo animals; lifespan in the wild is poorly known", "display": "20–30 years"},
+    "lifespanCaptivity": {"min": 20, "max": 30, "unit": "years", "context": "in human care; the record is about 33", "display": "20–30 years"},
+    "weight": {"min": 200, "max": 350, "unit": "kg", "context": "adults; females are slightly larger than males", "display": "200–350 kg (440–770 lb)"},
+    "height": {"min": 1.4, "max": 1.6, "unit": "m", "label": "Shoulder height", "display": "about 1.5 m (4.9 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 440, "max": 450, "unit": "days", "label": "Gestation", "display": "440–450 days (about 14.5 months)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Leaves, buds and shoots of more than 100 species of rainforest understory plants, along with grasses, ferns, fruit and fungi; it also eats mineral-rich clay and charcoal from burned trees.",
+    "habitat": ["Tropical rainforest"],
+    "range": "Found only in the dense rainforests of the northeastern Democratic Republic of the Congo, chiefly the Ituri Forest, at elevations of about 500–1,500 meters.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The okapi is the giraffe's only living relative, a shy, solitary browser found solely in the rainforests of the Democratic Republic of the Congo. It has a velvety chocolate-brown coat, a long neck and large ears, and bold white stripes on its hindquarters and legs that break up its outline in the dappled forest light. Like the giraffe it has a long, dark, prehensile tongue, and males carry short skin-covered horns called ossicones. The okapi was unknown to Western science until 1901. It is a national symbol of the DRC, but poaching, mining and armed conflict in its forest home have made it Endangered.",
+  "answers": {
+    "lifespan": "Okapis live 20–30 years in zoos, and the oldest on record reached about 33. Their lifespan in the wild is poorly known, because the species is so secretive and hard to study in dense rainforest, but it is assumed to be somewhat shorter. The leopard is the okapi's main natural predator.",
+    "weight": "Adult okapis weigh 200–350 kg (440–770 lb). Unlike giraffes, females are slightly larger and heavier than males, by about 25–50 kg on average. A newborn calf weighs roughly 14–30 kg and can stand within half an hour of birth.",
+    "size": "An okapi stands about 1.5 m (4.9 ft) tall at the shoulder and measures roughly 2.5 m (8 ft) in body length, similar in size to a large horse but with a longer neck and sloping back. Males have ossicones up to about 15 cm long; females usually have only small bumps.",
+    "speed": null,
+    "gestation": "An okapi is pregnant for 440–450 days, about fourteen and a half months. The female gives birth to a single calf, which spends most of its first two months hidden in a nest spot in the vegetation, nursing infrequently. Calves are weaned at around six months and keep growing for about three years.",
+    "diet": "Okapis are herbivores that browse the leaves, buds and shoots of over 100 plant species in the rainforest understory. They strip foliage with a prehensile tongue 30–45 cm long, eating around 20–27 kg a day. They also eat clay from riverbanks and charcoal, probably for minerals.",
+    "habitat": "Okapis live only in dense, humid rainforest in the northeastern Democratic Republic of the Congo, mainly in the Ituri Forest between about 500 and 1,500 meters. They avoid open and disturbed areas. The Okapi Wildlife Reserve, a UNESCO World Heritage Site, protects a large part of the core population.",
+    "conservation": "The okapi is listed as Endangered on the IUCN Red List, and its population is decreasing, with an estimated decline of about half over two decades. There is no reliable count of wild animals. The main threats are forest loss, illegal mining, bushmeat hunting, and armed groups that make protection difficult."
+  },
+  "funFacts": [
+    "The okapi's tongue is long enough for the animal to wash its own eyelids and clean inside its ears.",
+    "Western scientists first described the okapi in 1901, from skin and skulls obtained by Sir Harry Johnston, who is honored in its scientific name.",
+    "The striped hindquarters may help a calf follow its mother through the dim forest and break up the animal's outline from predators.",
+    "Okapi mothers communicate with calves using very low-frequency calls that are below the range of human hearing.",
+    "Okapi calves may not defecate for the first month or more of life, which is thought to keep predators from sniffing out their hiding place."
+  ],
+  "relatedAnimals": ["giraffe", "plains-zebra", "bonobo", "gorilla", "leopard"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is an okapi related to a zebra or a giraffe?", "answer": "The okapi is related to the giraffe, not the zebra. The two are the only living members of the family Giraffidae and share features such as ossicones, a long prehensile tongue and similar teeth. The zebra-like leg stripes are camouflage that evolved independently; zebras are relatives of horses."},
+    {"question": "Where do okapis live?", "answer": "Wild okapis live only in the Democratic Republic of the Congo, in dense tropical rainforest in the northeast of the country, especially the Ituri Forest. They once also occurred just across the border in Uganda but are now extinct there."},
+    {"question": "How many okapis are left in the wild?", "answer": "Nobody knows precisely. Okapis are nearly impossible to count in thick forest, and surveys rely on dung. Older estimates ranged from about 10,000 to 35,000, and the IUCN believes numbers have been falling steeply since the mid-1990s. The species is classed as Endangered."},
+    {"question": "Why do okapis have stripes?", "answer": "The stripes on an okapi's rump and legs are thought to work as camouflage, mimicking streaks of sunlight filtering through the rainforest canopy. They may also act as a 'follow me' signal that helps a calf keep track of its mother in dense vegetation."},
+    {"question": "Are okapis dangerous?", "answer": "Okapis are not dangerous to people. They are shy, solitary animals that slip away into the forest when disturbed, which is why they stayed unknown to science for so long. Like any large hoofed animal, a cornered okapi can kick hard in self-defense."}
+  ],
+  "meta": {
+    "title": "Okapi Facts: The Forest Giraffe's Size, Diet & Habitat",
+    "description": "The okapi, the giraffe's only relative, weighs 200–350 kg (440–770 lb), stands about 1.5 m at the shoulder and lives 20–30 years. Found only in DR Congo.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Okapia%20johnstoni&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Okapia_johnstoni/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Okapia_johnstoni"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Okapi"}
+    ]
+  }
+}

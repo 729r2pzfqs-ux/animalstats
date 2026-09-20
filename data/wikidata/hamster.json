@@ -1,0 +1,30 @@
+{
+  "slug": "hamster",
+  "commonName": "Hamster",
+  "scientificName": "Mesocricetus auratus",
+  "classSlug": "mammals",
+  "aliases": [
+    "syrian hamster",
+    "golden hamster"
+  ],
+  "qid": "Q204175",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Golden hamster",
+  "taxonomy": {
+    "species": "Mesocricetus auratus",
+    "genus": "Mesocricetus",
+    "family": "Cricetidae",
+    "order": "Rodentia",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "16",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

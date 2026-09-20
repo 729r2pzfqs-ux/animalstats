@@ -1,0 +1,65 @@
+{
+  "slug": "axolotl",
+  "commonName": "Axolotl",
+  "scientificName": "Ambystoma mexicanum",
+  "alternateNames": ["Mexican walking fish", "Mexican salamander"],
+  "nameSingular": "axolotl",
+  "namePlural": "axolotls",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Amphibia", "classSlug": "amphibians", "order": "Caudata", "family": "Ambystomatidae", "genus": "Ambystoma", "species": "A. mexicanum"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 15, "unit": "years", "context": "typical; most data come from captive animals, and wild axolotls probably live shorter lives", "display": "10–15 years"},
+    "lifespanCaptivity": {"min": 10, "max": 15, "unit": "years", "context": "in aquariums; a few exceed 20 years", "display": "10–15 years"},
+    "weight": {"min": 60, "max": 225, "unit": "g", "context": "adults", "display": "60–225 g (2–8 oz)"},
+    "height": {"min": 15, "max": 30, "unit": "cm", "label": "Length", "display": "15–30 cm (6–12 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 10, "max": 14, "unit": "days", "label": "Egg development", "display": "10–14 days to hatch"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Worms, insect larvae, small crustaceans, mollusks, tadpoles and small fish, sucked into the mouth with a sudden gulp of water. Pets are usually fed earthworms, bloodworms and sinking carnivore pellets.",
+    "habitat": ["Freshwater lakes", "Canals", "Wetlands"],
+    "range": "Found in the wild only in the remaining canals and wetlands of Lake Xochimilco on the southern edge of Mexico City; it formerly also lived in nearby Lake Chalco, which has been drained.",
+    "conservationStatus": "Critically Endangered",
+    "iucnCategory": "CR",
+    "populationTrend": "Decreasing",
+    "population": "an estimated 50–1,000 mature individuals in the wild"
+  },
+  "description": "The axolotl is a Mexican salamander famous for never growing up. Most salamanders lose their gills and move onto land, but the axolotl keeps its feathery external gills, tail fin and fully aquatic lifestyle for life, a condition called neoteny, and breeds in this larval form. Wild axolotls are dark brown with speckles; the pink and golden ones seen in aquariums are captive-bred color forms. The species is a laboratory star because it can regrow whole limbs and parts of its organs. It is common in captivity yet nearly extinct in its only wild home, the canals of Mexico City.",
+  "answers": {
+    "lifespan": "Axolotls typically live 10–15 years in captivity, and a few have passed 20. Wild lifespans are poorly known and are thought to be shorter because of predatory fish and polluted water. Cool, clean water is the main key to a long life in an aquarium.",
+    "weight": "An adult axolotl weighs about 60–225 g (2–8 oz). Weight depends heavily on length and feeding; a typical 23 cm pet sits in the middle of that range. Females are usually rounder in the body than males because they carry eggs.",
+    "size": "Adult axolotls are 15–30 cm (6–12 in) long, and about 23 cm (9 in) is most common. Individuals up to 45 cm have been reported but are very rare. They reach adult size at around 18–24 months.",
+    "speed": null,
+    "gestation": "Axolotl eggs hatch in about 10–14 days, depending on water temperature. A female lays roughly 100–1,000 eggs, attaching them singly to plants and rocks several hours after picking up the male's sperm packet. The parents provide no care and may eat the eggs.",
+    "diet": "Axolotls are carnivores that eat worms, insect larvae, small crustaceans, mollusks and small fish. They hunt mostly by smell and suck prey in whole with a rapid gulp, since their teeth are tiny. Earthworms are widely regarded as the best staple food for pets.",
+    "habitat": "Wild axolotls live only in the canals and remnant wetlands of Lake Xochimilco in Mexico City. This high-altitude freshwater system, around 2,200 m above sea level, stays cool year-round. Axolotls live on the bottom among aquatic plants and never leave the water.",
+    "conservation": "The axolotl is listed as Critically Endangered on the IUCN Red List, with an estimated 50–1,000 mature individuals left in the wild and a decreasing trend. Urban pollution, water extraction and introduced carp and tilapia are the main threats. Huge captive populations exist in laboratories and the pet trade."
+  },
+  "funFacts": [
+    "Axolotls can regrow entire limbs, the tail, and parts of the spinal cord, heart and brain without scarring.",
+    "The axolotl genome is about 32 billion base pairs long, roughly ten times the size of the human genome.",
+    "Given thyroid hormone or iodine, an axolotl can be pushed to metamorphose into a land-living salamander, though this rarely happens naturally.",
+    "The name comes from the Aztec language Nahuatl and is linked to Xolotl, a god of fire and lightning said to have turned himself into a salamander.",
+    "The axolotl appears on Mexico's 50-peso banknote issued in 2021."
+  ],
+  "relatedAnimals": ["chinese-giant-salamander", "fire-salamander", "eastern-newt", "goldfish", "betta", "american-bullfrog"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are axolotls good pets?", "answer": "Axolotls can be rewarding pets for someone willing to manage water quality. They need a cycled tank of at least about 75 liters (20 gallons), cool water around 16–18 °C, gentle filtration and no gravel they could swallow. They should be watched, not handled, because their skin is delicate."},
+    {"question": "Can axolotls live out of water?", "answer": "No. Axolotls are fully aquatic and keep their gills for life. Out of water their gills collapse and their skin dries, and they can die within a short time. They do have simple lungs and sometimes gulp air at the surface, but that cannot sustain them on land."},
+    {"question": "How many axolotls are left in the wild?", "answer": "The IUCN estimates that only 50–1,000 adult axolotls remain in the wild, all in Lake Xochimilco in Mexico City. Surveys found thousands per square kilometer in 1998 but only a few dozen by 2014. Millions live in aquariums and laboratories worldwide."},
+    {"question": "Is an axolotl a fish?", "answer": "No. The axolotl is an amphibian, specifically a mole salamander closely related to the tiger salamander. The nickname \"Mexican walking fish\" comes from its gills and aquatic life, but it has four legs, lungs and the skeleton of a salamander."},
+    {"question": "Why are axolotls illegal in some places?", "answer": "Some jurisdictions, including California, Maine, New Jersey and parts of Canada, ban or restrict axolotls. The main worry is that released pets could breed with or compete against native salamanders. Rules change, so check local regulations before buying one."}
+  ],
+  "meta": {
+    "title": "Axolotl Facts: Lifespan, Size, Diet & Wild Population",
+    "description": "Axolotls live 10–15 years, grow 15–30 cm (6–12 in) long and weigh 60–225 g. Only 50–1,000 adults remain in the wild. Diet, regeneration and pet facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Ambystoma%20mexicanum&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Ambystoma_mexicanum/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Ambystoma_mexicanum"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Axolotl"}
+    ]
+  }
+}

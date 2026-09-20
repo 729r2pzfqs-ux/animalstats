@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block main %}
+<div class="wrap">
+  <h1 class="pt-4 text-[1.7rem] font-extrabold leading-tight tracking-tight sm:text-4xl">Animal Records and Rankings</h1>
+  <p class="prose-p mt-2 sm:text-lg">Leaderboards built from the figures on every animal page: the fastest, heaviest, tallest, longest-lived and most threatened of the {{ animal_count }} animals in the database.</p>
+  <div class="mt-5 grid gap-3 sm:grid-cols-2">
+    {% for l in lists %}
+    <a href="{{ l.url }}" class="card group p-4 transition hover:border-emerald-500 hover:shadow">
+      <span class="flex items-center gap-2 font-bold text-slate-900 group-hover:text-emerald-700">{{ icon(l.icon, 'w-4 h-4 text-emerald-700') }} {{ l.title }}</span>
+      <span class="mt-1 block text-sm text-slate-600">1. {{ l.rows[0].animal.commonName }} · 2. {{ l.rows[1].animal.commonName }} · 3. {{ l.rows[2].animal.commonName }}</span>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,65 @@
+{
+  "slug": "orangutan",
+  "commonName": "Bornean Orangutan",
+  "scientificName": "Pongo pygmaeus",
+  "alternateNames": ["Orangutan", "Orang-utan"],
+  "nameSingular": "Bornean orangutan",
+  "namePlural": "Bornean orangutans",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Primates", "family": "Hominidae", "genus": "Pongo", "species": "P. pygmaeus"},
+  "facts": {
+    "lifespan": {"min": 35, "max": 45, "unit": "years", "context": "in the wild", "display": "35–45 years"},
+    "lifespanCaptivity": {"min": 50, "max": 60, "unit": "years", "context": "in human care", "display": "50–60 years"},
+    "weight": {"min": 30, "max": 100, "unit": "kg", "context": "adults; females 30–50 kg, flanged males 50–100 kg", "display": "30–100 kg (66–220 lb)"},
+    "height": {"min": 1.0, "max": 1.4, "unit": "m", "label": "Height", "display": "1.0–1.4 m (3.3–4.6 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 245, "max": 265, "unit": "days", "label": "Gestation", "display": "about 8.5 months (245–265 days)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Mainly fruit, including figs and durians, from hundreds of plant species; when fruit is scarce orangutans eat young leaves, bark, flowers and pith, along with honey, termites, ants and occasionally birds' eggs.",
+    "habitat": ["Lowland rainforest", "Peat swamp forest", "Dipterocarp forest"],
+    "range": "The island of Borneo only, in the Indonesian provinces of Kalimantan and the Malaysian states of Sabah and Sarawak.",
+    "conservationStatus": "Critically Endangered",
+    "iucnCategory": "CR",
+    "populationTrend": "Decreasing",
+    "population": "about 104,700 (2016 estimate)"
+  },
+  "description": "Orangutans are the only great apes of Asia and the largest tree-living animals in the world. This page covers the Bornean orangutan, the most numerous of the three species; the others are the Sumatran and Tapanuli orangutans of Sumatra. Bornean orangutans have shaggy reddish-brown hair, very long arms and hook-like hands and feet for life in the canopy. Fully mature males grow wide cheek pads called flanges and a throat sac used for booming long calls. Unlike other apes, orangutans are largely solitary. They raise their young more slowly than any other land mammal, with births about seven years apart.",
+  "answers": {
+    "lifespan": "Bornean orangutans live an estimated 35–45 years in the wild and 50–60 years in human care. Wild orangutans may well live longer, since long-term field studies began only in the 1970s and some animals first seen as adults are still alive. Several zoo orangutans have reached their 60s.",
+    "weight": "Adult Bornean orangutans weigh 30–100 kg (66–220 lb). Females weigh 30–50 kg, while mature flanged males weigh 50–100 kg, about twice as much. Zoo orangutans can be much heavier than wild ones, which stay lean because fruit is often scarce.",
+    "size": "A Bornean orangutan stands 1.0–1.4 m (3.3–4.6 ft) tall, with females around 1–1.2 m and males 1.2–1.4 m. The arms are far longer than the legs: a large male's arm span can reach about 2 m, well over his standing height.",
+    "speed": null,
+    "gestation": "A Bornean orangutan is pregnant for about eight and a half months, around 245–265 days. She gives birth to a single infant and will not have another for six to eight years, the longest birth interval of any land mammal. Young nurse for six years or more.",
+    "diet": "Bornean orangutans are herbivores that eat mostly fruit, which makes up around 60 percent of the diet when it is available. They feed on hundreds of plant species. During lean periods between forest fruiting events they survive on leaves, inner bark and stored body fat.",
+    "habitat": "Bornean orangutans live only on Borneo, in lowland rainforest and peat swamp forest, mostly below 500 m elevation. They spend most of their lives in the trees and build a new leafy sleeping nest nearly every night, although big males on Borneo travel on the ground more than was once thought.",
+    "conservation": "The Bornean orangutan is listed as Critically Endangered on the IUCN Red List, and its population is decreasing. About 104,700 were estimated to remain in 2016, after a decline of more than half since the mid-1900s. Forest clearance for oil palm and timber, fires and illegal killing are the main causes."
+  },
+  "funFacts": [
+    "Orangutan comes from the Malay words orang and hutan, meaning person of the forest.",
+    "Adult males come in two forms: flanged males with cheek pads and a throat sac, and smaller unflanged males that can stay that way for years yet still father young.",
+    "A flanged male's long call can be heard up to about 1 km (0.6 miles) away through the forest.",
+    "Orangutans hold large leaves over their heads as umbrellas in the rain and use sticks to extract seeds, insects and honey.",
+    "Young orangutans stay with their mothers for seven years or more, one of the longest childhoods of any animal besides humans."
+  ],
+  "relatedAnimals": ["gorilla", "chimpanzee", "bonobo", "japanese-macaque", "mandrill"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How many orangutans are left in the wild?", "answer": "About 104,700 Bornean orangutans were estimated to remain in 2016. The Sumatran orangutan numbers around 14,000, and the Tapanuli orangutan, described as a species in 2017, has fewer than 800. All three species are Critically Endangered."},
+    {"question": "How strong is an orangutan?", "answer": "Orangutans are several times stronger than a human in the arms and grip, because their bodies are built for hanging and pulling through the canopy all day. Precise figures are not available, since their strength has not been scientifically measured, but adult males easily bend and break thick branches."},
+    {"question": "Are orangutans dangerous to humans?", "answer": "Orangutans are generally gentle and avoid conflict, and attacks on people are very rare. They are still very strong wild animals with powerful jaws. Ex-captive orangutans at rehabilitation centers, which have lost their fear of people, account for most bites and grabs."},
+    {"question": "Why are orangutans endangered?", "answer": "Orangutans are losing their forest. Huge areas of Borneo and Sumatra have been logged, burned or converted to oil palm and pulp plantations. Many are also killed in conflicts with farmers or when mothers are shot so infants can be sold as pets, and their very slow breeding prevents recovery."},
+    {"question": "What is the difference between Bornean and Sumatran orangutans?", "answer": "Bornean orangutans are darker and stockier, and males have broad cheek pads that curve forward. Sumatran orangutans have longer, paler orange hair, longer faces and beards, spend more time in the trees and are somewhat more sociable, partly because Sumatra has tigers and richer fruit supplies."}
+  ],
+  "meta": {
+    "title": "Orangutan Facts: Bornean Orangutan Size, Lifespan & Diet",
+    "description": "Bornean orangutans weigh 30–100 kg, stand 1.0–1.4 m tall and live 35–45 years in the wild. Diet, habitat, 8.5-month gestation and why they are endangered.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Pongo%20pygmaeus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Pongo_pygmaeus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Pongo_pygmaeus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bornean_orangutan"}
+    ]
+  }
+}

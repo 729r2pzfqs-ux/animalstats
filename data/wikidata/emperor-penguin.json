@@ -1,0 +1,27 @@
+{
+  "slug": "emperor-penguin",
+  "commonName": "Emperor Penguin",
+  "scientificName": "Aptenodytes forsteri",
+  "classSlug": "birds",
+  "aliases": [
+    "penguin"
+  ],
+  "qid": "Q161829",
+  "iucnStatus": "Near Threatened",
+  "wikipedia": "Emperor penguin",
+  "taxonomy": {
+    "species": "Aptenodytes forsteri",
+    "genus": "Aptenodytes",
+    "family": "Spheniscidae",
+    "order": "Sphenisciformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "425",
+      "unit": "g",
+      "sex": null
+    }
+  ]
+}

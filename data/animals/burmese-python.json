@@ -1,0 +1,63 @@
+{
+  "slug": "burmese-python",
+  "commonName": "Burmese Python",
+  "scientificName": "Python bivittatus",
+  "alternateNames": ["Burmese rock python", "Python molurus bivittatus"],
+  "nameSingular": "Burmese python",
+  "namePlural": "Burmese pythons",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Squamata", "family": "Pythonidae", "genus": "Python", "species": "P. bivittatus"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 20, "unit": "years", "context": "estimated in the wild", "display": "about 15–20 years"},
+    "lifespanCaptivity": {"min": 20, "max": 25, "unit": "years", "context": "in human care; a few have lived longer", "display": "20–25 years"},
+    "weight": {"min": 30, "max": 90, "unit": "kg", "context": "large adults; females are heavier, and obese captives have exceeded 180 kg", "display": "30–90 kg (66–200 lb)"},
+    "height": {"min": 3, "max": 5, "unit": "m", "label": "Length", "display": "3–5 m (10–16 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 60, "max": 70, "unit": "days", "label": "Incubation", "display": "60–70 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mammals and birds of many sizes, from rats and rabbits to pigs, goats and small deer, plus the occasional reptile. In Florida it eats raccoons, opossums, wading birds, white-tailed deer and even alligators.",
+    "habitat": ["Tropical forest", "Swamps and marshes", "Grassland", "River valleys", "Rocky foothills"],
+    "range": "Native to Southeast Asia, from northeastern India, Nepal and Bangladesh through Myanmar, Thailand and Vietnam to southern China and parts of Indonesia; invasive in southern Florida.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The Burmese python is one of the largest snakes in the world, a heavy-bodied constrictor with a pattern of dark brown blotches on a tan background and an arrow-shaped mark on the head. It was long treated as a subspecies of the Indian python and is now recognized as a separate species. Burmese pythons are good swimmers and are usually found near water. The species has an unusual double status: in its native Southeast Asia it is declining and listed as Vulnerable, while in Florida's Everglades, escaped and released pets founded an invasive population that has devastated native mammals.",
+  "answers": {
+    "lifespan": "Burmese pythons live about 15–20 years in the wild and typically 20–25 years in captivity. A few captive animals have lived longer. In the wild, most deaths happen early in life, when hatchlings are small enough to be eaten by birds, monitor lizards, other snakes and mammals.",
+    "weight": "Large adult Burmese pythons weigh 30–90 kg (66–200 lb), and females are heavier than males. The heaviest caught in Florida, a female found in 2021, weighed 97.5 kg (215 lb). Overfed captive snakes have been far heavier, with one recorded at more than 180 kg.",
+    "size": "Adult Burmese pythons are usually 3–5 m (10–16 ft) long, with an average of roughly 3.7 m. Females grow longer and much bulkier than males. The longest captured in Florida measured 5.8 m (19 ft), and lengths beyond that are exceptional anywhere.",
+    "speed": null,
+    "gestation": "Burmese python eggs incubate for 60–70 days. The female lays a clutch of roughly 12–50 eggs, sometimes many more, and coils around them for the entire period. She warms them by twitching her muscles in a kind of shivering and does not eat until they hatch.",
+    "diet": "Burmese pythons are carnivores that eat mammals and birds, killing by constriction and swallowing prey whole. Small pythons take rodents and birds, and large adults can swallow pigs, goats and deer. After a big meal the snake's heart and gut enlarge sharply to digest it, and it may not eat again for weeks.",
+    "habitat": "Burmese pythons are native to the forests, grasslands, swamps and river valleys of Southeast Asia and are rarely far from water. Young snakes often climb trees, while heavy adults stay mostly on the ground. An invasive population lives in the Everglades and surrounding parts of southern Florida.",
+    "conservation": "The Burmese python is listed as Vulnerable on the IUCN Red List, and its native population is decreasing. It has been heavily hunted for skins, meat, traditional medicine and the pet trade, and has lost habitat. International trade is regulated under CITES Appendix II. In Florida, by contrast, it is an invasive species that the state pays hunters to remove."
+  },
+  "funFacts": [
+    "A 2012 study linked pythons in the Everglades to drops of about 99 percent in raccoon and opossum sightings and 88 percent in bobcat sightings.",
+    "A brooding female Burmese python can raise the temperature of her eggs by several degrees by rhythmically contracting her muscles.",
+    "After a large meal a Burmese python's heart can grow by about 40 percent within a few days, then shrink again.",
+    "Pythons have heat-sensing pits along their lips that detect the body warmth of prey in the dark.",
+    "Florida runs an annual Python Challenge in which members of the public compete to remove as many invasive pythons as possible."
+  ],
+  "relatedAnimals": ["reticulated-python", "ball-python", "green-anaconda", "boa-constrictor", "american-alligator", "king-cobra"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How did Burmese pythons get to Florida?", "answer": "Through the pet trade. Tens of thousands were imported into the United States, and escaped or released pets established a breeding population in the Everglades by the 1990s or earlier. Damage to a breeding facility during Hurricane Andrew in 1992 is often blamed as well, though its role is uncertain."},
+    {"question": "Are Burmese pythons dangerous to humans?", "answer": "Wild Burmese pythons very rarely attack people, and no deaths from wild pythons have been recorded in Florida. Large captive pythons, however, have killed owners and children in the United States. A python over about 2.5 m long should never be handled by one person alone."},
+    {"question": "Can a Burmese python eat an alligator?", "answer": "Yes. Burmese pythons in the Everglades have been documented swallowing alligators of up to about 1.8 m (6 ft), and alligators eat pythons in turn. In one well-known 2005 case, a python died after swallowing a large alligator and its body was found split open."},
+    {"question": "How many Burmese pythons are in Florida?", "answer": "Nobody knows precisely. Pythons are so well camouflaged that even trained searchers overlook most of them, and estimates run from tens of thousands to more than 100,000. Over 20,000 have been removed from the wild in Florida since 2000."},
+    {"question": "Do Burmese pythons make good pets?", "answer": "Only for experienced keepers. They are often docile, but they quickly grow to 3–5 m and need a room-sized enclosure, large prey and two people for safe handling. In the United States they are listed as injurious, which bans importing them and moving them across state lines, and Florida prohibits keeping them as pets."}
+  ],
+  "meta": {
+    "title": "Burmese Python Size, Weight, Lifespan & Florida Facts",
+    "description": "Burmese pythons grow 3–5 m (10–16 ft), weigh 30–90 kg (66–200 lb) and live 20–25 years in captivity. Diet, eggs, habitat and the Florida invasion.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Python%20bivittatus&searchType=species"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Burmese_python"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q2716137"}
+    ]
+  }
+}

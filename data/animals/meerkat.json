@@ -1,0 +1,64 @@
+{
+  "slug": "meerkat",
+  "commonName": "Meerkat",
+  "scientificName": "Suricata suricatta",
+  "alternateNames": ["Suricate", "Slender-tailed meerkat"],
+  "nameSingular": "meerkat",
+  "namePlural": "meerkats",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Herpestidae", "genus": "Suricata", "species": "S. suricatta"},
+  "facts": {
+    "lifespan": {"min": 5, "max": 8, "unit": "years", "context": "in the wild; dominant females can live longer", "display": "5–8 years"},
+    "lifespanCaptivity": {"min": 12, "max": 15, "unit": "years", "context": "in human care", "display": "12–15 years"},
+    "weight": {"min": 620, "max": 970, "unit": "g", "context": "adults; dominant females are often heaviest", "display": "620–970 g (1.4–2.1 lb)"},
+    "height": {"min": 24, "max": 35, "unit": "cm", "label": "Body length", "display": "24–35 cm (9.5–14 in)"},
+    "speed": {"min": 32, "max": 32, "unit": "km/h", "verb": "run", "context": "short dashes to a bolt-hole; commonly cited estimate", "display": "about 32 km/h (20 mph)"},
+    "gestationPeriod": {"min": 70, "max": 77, "unit": "days", "label": "Gestation", "display": "70–77 days"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Mostly beetles and their larvae, termites, caterpillars, spiders, scorpions and millipedes dug from the sand, plus small lizards, snakes, eggs, and roots and tubers that provide water.",
+    "habitat": ["Arid savanna", "Semi-desert", "Open grassland", "Scrubland"],
+    "range": "Southern Africa: the Kalahari and Karoo regions of Botswana, Namibia and South Africa, reaching the far southwest of Angola.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The meerkat is a small, slender mongoose from the dry open country of southern Africa, best known for standing upright on its hind legs to scan for danger. Meerkats live in cooperative groups, usually of 10–30 animals, that share a network of burrows. A dominant female and male produce most of the pups, and the rest of the group helps by babysitting, feeding and teaching the young. While the group digs for insects, one or more sentinels keep watch from a high point and give different alarm calls for aerial and ground predators. Dark eye patches reduce glare from the desert sun.",
+  "answers": {
+    "lifespan": "Meerkats live about 5–8 years in the wild and 12–15 years in human care. Predators such as martial eagles and jackals, snakebite, drought and fights with rival groups keep wild lives short, although long-serving dominant females sometimes survive past 10 years.",
+    "weight": "Adult meerkats weigh 620–970 g (1.4–2.1 lb), less than a gray squirrel in many cases. Males and females are similar in size, but dominant females are often the heaviest members of a group, and weight drops noticeably during droughts.",
+    "size": "A meerkat's head and body measure 24–35 cm (9.5–14 in), with a thin, dark-tipped tail adding 17–25 cm. Standing upright on its hind legs, propped by its tail, an adult is about 30 cm (12 in) tall.",
+    "speed": "Meerkats are usually said to run at up to about 32 km/h (20 mph) over short distances, although this is an estimate. Speed matters less than staying close to cover: a territory contains hundreds of bolt-holes, and the group sprints for the nearest one at an alarm call.",
+    "gestation": "A meerkat is pregnant for 70–77 days, about 11 weeks. Litters usually contain three or four pups, born underground with closed eyes. Pups first come above ground at around three weeks, and a dominant female can raise up to three or four litters a year in good conditions.",
+    "diet": "Meerkats are mainly insectivores, eating beetles, larvae, termites, spiders, scorpions and millipedes, along with small reptiles, eggs and water-rich roots. They spend five to eight hours a day digging for food and need no drinking water, getting moisture from their prey and from tubers.",
+    "habitat": "Meerkats live in the arid savannas, semi-deserts and open plains of southern Africa, especially the Kalahari and Karoo. They prefer hard, open ground with short grass and sparse scrub, where they dig burrow systems or take over those of ground squirrels.",
+    "conservation": "Meerkats are listed as Least Concern on the IUCN Red List with a stable population. They are widespread, occur in several large protected areas and face no major threats, although prolonged droughts and rising temperatures in the Kalahari reduce pup survival."
+  },
+  "funFacts": [
+    "Adult meerkats teach pups how to handle scorpions in stages, first offering dead ones, then live ones with the sting removed, then intact prey.",
+    "Meerkats have some resistance to the venom of certain Kalahari scorpions, and they bite off or disable the sting before eating.",
+    "Sentinels use distinct alarm calls for birds of prey and for land predators, and the calls also signal how urgent the danger is.",
+    "A meerkat can close its ears tightly to keep sand out while it digs.",
+    "The Kalahari Meerkat Project has followed the lives of wild meerkat groups continuously since 1993."
+  ],
+  "relatedAnimals": ["honey-badger", "spotted-hyena", "fennec-fox", "naked-mole-rat", "ring-tailed-lemur", "warthog"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is a group of meerkats called?", "answer": "A group of meerkats is called a mob, gang or clan. Most groups contain 10–30 animals, though some reach 40 or 50. Each is led by a dominant breeding pair, and members cooperate in guarding, babysitting and feeding pups."},
+    {"question": "Do meerkats make good pets?", "answer": "No. Meerkats are intensely social, dig constantly, scent-mark everything and can bite hard, especially strangers. A single meerkat kept without a group becomes stressed and often aggressive. Keeping them is illegal or licensed in many places, and welfare groups strongly advise against it."},
+    {"question": "Why do meerkats stand up?", "answer": "Meerkats stand on their hind legs to get a better view of predators across flat, open ground, using the tail as a prop. They also stand facing the early morning sun to warm up, since the thinly furred belly absorbs heat quickly after a cold desert night."},
+    {"question": "Are meerkats immune to venom?", "answer": "Not completely. Meerkats tolerate the stings of some Kalahari scorpions that would seriously hurt a human, and they appear to have some resistance to certain snake venoms, but they are not fully immune. They rely mainly on speed and skill to disable dangerous prey."},
+    {"question": "Is a meerkat a rodent or a cat?", "answer": "Neither. A meerkat is a small carnivore in the mongoose family, Herpestidae. The name comes from Dutch and Afrikaans, and despite meaning something like 'lake cat' it has nothing to do with cats or lakes."}
+  ],
+  "meta": {
+    "title": "Meerkat Facts: Size, Lifespan, Diet & Mob Behavior",
+    "description": "Meerkats weigh 620–970 g, stand about 30 cm tall on their hind legs and live 5–8 years in the wild. Diet, mobs, gestation, habitat and conservation status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Suricata%20suricatta&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Suricata_suricatta/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Suricata_suricatta"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Meerkat"}
+    ]
+  }
+}

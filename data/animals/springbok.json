@@ -1,0 +1,64 @@
+{
+  "slug": "springbok",
+  "commonName": "Springbok",
+  "scientificName": "Antidorcas marsupialis",
+  "alternateNames": ["Springbuck"],
+  "nameSingular": "springbok",
+  "namePlural": "springbok",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Bovidae", "genus": "Antidorcas", "species": "A. marsupialis"},
+  "facts": {
+    "lifespan": {"min": 7, "max": 10, "unit": "years", "context": "in the wild", "display": "7–10 years"},
+    "lifespanCaptivity": {"min": 15, "max": 19, "unit": "years", "context": "in human care; upper figure is near the record", "display": "up to 15–19 years"},
+    "weight": {"min": 27, "max": 42, "unit": "kg", "context": "adults; rams are slightly heavier than ewes", "display": "27–42 kg (60–93 lb)"},
+    "height": {"min": 71, "max": 86, "unit": "cm", "label": "Shoulder height", "display": "71–86 cm (28–34 in)"},
+    "speed": {"min": 88, "max": 88, "unit": "km/h", "verb": "run", "context": "top sprint", "display": "88 km/h (55 mph)"},
+    "gestationPeriod": {"min": 165, "max": 180, "unit": "days", "label": "Gestation", "display": "5–6 months (about 168 days)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "A mixed feeder that grazes fresh grass after rain and switches to shrubs, succulents, flowers and karoo bushes in dry periods; it can go without drinking if its food holds enough moisture.",
+    "habitat": ["Dry grassland", "Semi-desert", "Shrubland", "Salt pans"],
+    "range": "The arid southwest of Africa: South Africa, Namibia, Botswana and a small part of southwestern Angola, including the Kalahari, the Karoo and the edge of the Namib.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The springbok is a slender, medium-sized gazelle-like antelope of the dry plains of southwestern Africa and the only member of its genus. It has a cinnamon-brown back, a white belly and face, a dark chocolate stripe along each flank and ringed, lyre-shaped horns in both sexes. A pocket-like fold of skin on its back opens to fan out a crest of long white hair when the animal is excited. The springbok is South Africa's national animal and the emblem of its rugby team. Once famous for mass migrations of enormous herds, it is now common on reserves and private game ranches.",
+  "answers": {
+    "lifespan": "Springbok live 7–10 years in the wild and have reached about 19 years in captivity. Cheetahs, leopards, lions, spotted hyenas, wild dogs and caracals all prey on them, while jackals and eagles take lambs, so relatively few wild springbok reach old age.",
+    "weight": "Adult springbok weigh 27–42 kg (60–93 lb). Rams are only slightly heavier than ewes, and both sexes have horns, so the sexes look much alike. Springbok from the Kalahari and Namibia tend to be larger than those from the South African Karoo.",
+    "size": "A springbok stands 71–86 cm (28–34 in) tall at the shoulder, with a head-and-body length of 1.2–1.5 m. The ringed horns curve backward and then hook inward at the tips, reaching 35–50 cm in rams; ewes' horns are thinner and usually shorter.",
+    "speed": "Springbok can run at about 88 km/h (55 mph), which puts them among the fastest antelopes. They combine that speed with sharp turns and leaps, an effective defense on open plains where there is nowhere to hide from a cheetah.",
+    "gestation": "A springbok ewe is pregnant for five to six months, about 168 days on average. She gives birth to a single lamb, rarely twins, and hides it in vegetation for the first days. Breeding can happen year-round, but births peak in the rainy season when food is best.",
+    "diet": "Springbok are herbivores that switch between grazing and browsing with the seasons. They eat young grass after rain and turn to shrubs, succulents and flowers when it dries out. Water-rich plants such as wild melons and roots let them survive for long periods without drinking.",
+    "habitat": "Springbok live in dry, open country in South Africa, Namibia, Botswana and southwestern Angola. Typical habitat is short grassland, karoo shrubland, semi-desert and the fringes of salt pans. They avoid tall grass, thick bush and mountains, where predators can approach unseen.",
+    "conservation": "The springbok is listed as Least Concern on the IUCN Red List and is one of the few antelopes whose population is increasing. Much of that growth comes from private game ranches in South Africa and Namibia, where springbok are managed for hunting, venison and tourism."
+  },
+  "funFacts": [
+    "Springbok perform a stiff-legged, arched-back leap called pronking, bouncing up to about 2 m (6.5 ft) into the air several times in a row.",
+    "The species name marsupialis refers to the pouch-like skin fold on the back, which opens to flash a fan of white hair.",
+    "In the 1800s, treks of migrating springbok, known as trekbokken, were reported to take days to pass a single town in the Karoo.",
+    "Springbok can meet their water needs from food alone, feeding at night and before dawn when plants hold the most moisture.",
+    "Rare all-black and all-white springbok exist and are selectively bred on some South African game ranches."
+  ],
+  "relatedAnimals": ["thomsons-gazelle", "pronghorn", "blue-wildebeest", "cheetah", "plains-zebra"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why do springbok pronk?", "answer": "No one is certain, but pronking most likely signals to a predator that the springbok has spotted it and is fit enough to escape, so a chase would be wasted effort. It may also warn the herd. Young springbok also pronk in play."},
+    {"question": "Why is the springbok South Africa's national animal?", "answer": "The springbok is abundant, distinctive and found across the country's interior, and it has been used as a national symbol since the early 1900s. It is best known as the name and emblem of the national rugby union team, the Springboks."},
+    {"question": "Is a springbok a gazelle?", "answer": "Not quite. The springbok belongs to the same tribe of antelopes as the gazelles and looks very similar, but it is placed in its own genus, Antidorcas. The back pouch with its white crest and differences in its teeth set it apart from true gazelles."},
+    {"question": "What eats springbok?", "answer": "Cheetahs are the classic springbok predator, and leopards, lions, spotted and brown hyenas, African wild dogs and caracals also hunt them. Black-backed jackals and large eagles take newborn lambs. People hunt springbok widely, and the meat is sold commercially in southern Africa."},
+    {"question": "How high can a springbok jump?", "answer": "A springbok can leap about 2 m (6.5 ft) straight up while pronking, and some accounts give higher figures. The animal takes off with all four legs stiff, back arched and head down, and may repeat the jump many times in quick succession."}
+  ],
+  "meta": {
+    "title": "Springbok Facts: Speed, Pronking, Size & Lifespan",
+    "description": "Springbok sprint at 88 km/h (55 mph), weigh 27–42 kg and live 7–10 years in the wild. Pronking, diet, habitat and gestation of South Africa's national animal.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Antidorcas%20marsupialis&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Antidorcas_marsupialis/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Antidorcas_marsupialis"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Springbok"}
+    ]
+  }
+}

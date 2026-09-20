@@ -1,0 +1,64 @@
+{
+  "slug": "guinea-pig",
+  "commonName": "Guinea Pig",
+  "scientificName": "Cavia porcellus",
+  "alternateNames": ["Cavy", "Domestic cavy", "Cuy"],
+  "nameSingular": "guinea pig",
+  "namePlural": "guinea pigs",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Rodentia", "family": "Caviidae", "genus": "Cavia", "species": "C. porcellus"},
+  "facts": {
+    "lifespan": {"min": 4, "max": 8, "unit": "years", "context": "pets with good care; most live 5–7 years", "display": "4–8 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 700, "max": 1200, "unit": "g", "context": "adults; males (boars) are heavier than females (sows)", "display": "700–1,200 g (1.5–2.6 lb)"},
+    "height": {"min": 20, "max": 25, "unit": "cm", "label": "Body length", "display": "20–25 cm (8–10 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 59, "max": 72, "unit": "days", "label": "Gestation", "display": "59–72 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Grass hay as the staple, plus fresh leafy vegetables and fortified pellets; guinea pigs cannot make their own vitamin C and must get it from food every day.",
+    "habitat": ["Homes", "Farms", "Andean grassland (ancestral)"],
+    "range": "Domesticated in the Andes of South America and now kept worldwide; the species does not exist in the wild.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "The guinea pig is a stout, tailless domestic rodent from the Andes of South America, where people began raising it for meat at least 5,000 years ago and still do today. It is neither a pig nor from Guinea; it descends from wild cavies such as the montane guinea pig and does not occur in the wild. Spanish traders brought guinea pigs to Europe in the 1500s, and they became popular pets and later such common research animals that 'guinea pig' came to mean a test subject. They are social, vocal herd animals that do best in pairs or groups.",
+  "answers": {
+    "lifespan": "Guinea pigs live 4–8 years, with most pets reaching 5–7 years. That is considerably longer than hamsters, mice or rats. Good hay-based nutrition, enough vitamin C, companionship and prompt dental and veterinary care make the biggest difference. The oldest guinea pig on record lived 14 years and 10 months.",
+    "weight": "An adult guinea pig weighs 700–1,200 g (1.5–2.6 lb). Males, called boars, usually weigh 900–1,200 g, and females, called sows, 700–900 g. Newborn pups weigh around 60–120 g and are fully furred.",
+    "size": "A guinea pig is 20–25 cm (8–10 in) long when fully grown. It has a compact body, short legs and no visible tail. Guinea pigs reach adult size at around 12–14 months.",
+    "speed": null,
+    "gestation": "A guinea pig is pregnant for 59–72 days, which is very long for a small rodent. Litters are small, usually two to four pups, and the young are born fully furred with open eyes and can nibble solid food within a day or two. Sows should be bred before about seven months old, if at all, because the pelvis can stiffen with age.",
+    "diet": "Guinea pigs are herbivores whose diet should be mostly grass hay. They also need daily fresh vegetables and a measured amount of pellets fortified with vitamin C. Like humans, guinea pigs cannot produce vitamin C, and a shortage causes scurvy within weeks.",
+    "habitat": "Guinea pigs are fully domesticated and live only in human care, in homes and on small farms. Their wild relatives inhabit grassland, scrub and rocky slopes in the Andes of Peru, Bolivia, Ecuador and Colombia. Pets need a large, flat enclosure rather than a tall cage, because they do not climb.",
+    "conservation": "The guinea pig is a domesticated animal and has no IUCN Red List status. It is abundant worldwide as a pet, and in Peru, Bolivia and Ecuador millions are raised each year for food. Its closest wild relatives, such as the montane guinea pig, are listed as Least Concern."
+  },
+  "funFacts": [
+    "Guinea pigs make a loud whistle called a wheek, often when they hear food being prepared.",
+    "Excited guinea pigs jump straight up and twist in the air, a behavior known as popcorning.",
+    "Guinea pig pups are born with fur, teeth and open eyes and can run within hours.",
+    "In the Andes the guinea pig is called cuy and has been a traditional food for thousands of years.",
+    "Switzerland's animal welfare rules require guinea pigs to be kept with at least one companion because they are social animals."
+  ],
+  "relatedAnimals": ["capybara", "hamster", "rabbit", "brown-rat", "house-mouse"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why are they called guinea pigs?", "answer": "Nobody knows for certain. They are not pigs and come from South America, not Guinea. The 'pig' part probably refers to their squeals and stout shape, while 'guinea' may come from trade routes via Guinea, from Guiana, or from the coin, though none of these is proven."},
+    {"question": "Do guinea pigs need a friend?", "answer": "Yes. Guinea pigs are herd animals and are healthier and more active when kept with at least one other guinea pig. Same-sex pairs or a neutered male with females work well. Rabbits are not suitable companions, because they can injure or bully guinea pigs."},
+    {"question": "Do guinea pigs bite?", "answer": "Guinea pigs rarely bite. They are among the gentlest small pets and usually freeze or run rather than attack. A nip most often means the animal is frightened, in pain, being held uncomfortably, or has mistaken a finger that smells of food for a snack."},
+    {"question": "Can guinea pigs and hamsters live together?", "answer": "No. Guinea pigs and hamsters should never share a cage. Hamsters are solitary and territorial and may attack, the two species eat different diets, and guinea pigs are active by day while hamsters are active at night."},
+    {"question": "What is a baby guinea pig called?", "answer": "A baby guinea pig is called a pup. Adult males are boars and adult females are sows, borrowing the terms used for pigs. A group of guinea pigs is usually called a herd."}
+  ],
+  "meta": {
+    "title": "Guinea Pig Facts: Lifespan, Weight, Size & Diet",
+    "description": "Guinea pigs live 4–8 years, weigh 700–1,200 g, grow 20–25 cm long and are pregnant for 59–72 days. Diet, vitamin C needs and more cavy facts.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Guinea_pig"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Cavia_porcellus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Cavia_porcellus"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q79803"}
+    ]
+  }
+}

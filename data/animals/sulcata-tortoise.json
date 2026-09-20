@@ -1,0 +1,63 @@
+{
+  "slug": "sulcata-tortoise",
+  "commonName": "African Spurred Tortoise",
+  "scientificName": "Centrochelys sulcata",
+  "alternateNames": ["Sulcata tortoise", "Sulcata", "African spur-thighed tortoise", "Geochelone sulcata"],
+  "nameSingular": "African spurred tortoise",
+  "namePlural": "African spurred tortoises",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Testudines", "family": "Testudinidae", "genus": "Centrochelys", "species": "C. sulcata"},
+  "facts": {
+    "lifespan": {"min": 50, "max": 70, "unit": "years", "context": "estimated; wild lifespans are poorly documented", "display": "50–70 years (estimated)"},
+    "lifespanCaptivity": {"min": 50, "max": 70, "unit": "years", "context": "with good care; often quoted as 70 years or more", "display": "50–70 years or more"},
+    "weight": {"min": 35, "max": 90, "unit": "kg", "context": "adults; females are usually under 50 kg, and the largest males pass 100 kg", "display": "35–90 kg (77–200 lb)"},
+    "height": {"min": 50, "max": 80, "unit": "cm", "label": "Shell length", "display": "50–80 cm (20–31 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 90, "max": 120, "unit": "days", "label": "Incubation", "display": "90–120 days in incubators; longer in the wild"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Dry grasses, weeds, leaves and flowers, plus succulent plants for moisture. It needs a high-fiber, low-protein diet; in captivity that means grass, hay and leafy weeds rather than fruit or pet food.",
+    "habitat": ["Sahel", "Semi-arid grassland", "Dry savanna", "Thorn scrub", "Desert edge"],
+    "range": "The southern edge of the Sahara and the Sahel, from Senegal and Mauritania east through Mali, Niger, Chad and Sudan to Ethiopia and Eritrea.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The African spurred tortoise, widely known as the sulcata, is the largest tortoise on the African mainland and the third-largest in the world, after the giant tortoises of the Galápagos and Aldabra. It is named for the large conical spurs on its thighs, while sulcata refers to the deep furrows between its shell scutes. To escape the heat of the Sahel it digs burrows that can run many meters underground, where it spends the hottest part of the day. Sulcatas breed readily in captivity and are popular pets, even though a hatchling that fits in a palm becomes a powerful animal weighing as much as a person.",
+  "answers": {
+    "lifespan": "African spurred tortoises are estimated to live 50–70 years, and possibly longer. Most lifespan information comes from captive animals, since wild tortoises are rarely tracked for decades. Claims of 100 years or more are not verified, but a pet sulcata can easily outlive its owner.",
+    "weight": "Adult African spurred tortoises weigh 35–90 kg (77–200 lb). Males are much larger than females, which usually stay under 50 kg, and exceptionally large males have topped 100 kg. Hatchlings weigh only 25–40 g but grow quickly in their first ten years.",
+    "size": "Adult African spurred tortoises have a shell 50–80 cm (20–31 in) long, making the sulcata the largest mainland tortoise. Hatchlings are about 4–6 cm long. Growth is fast for a tortoise, and a well-fed captive animal can reach 30 cm within five or six years.",
+    "speed": null,
+    "gestation": "African spurred tortoise eggs hatch after 90–120 days in an incubator kept at about 28–30 °C. In wild nests, where temperatures swing more, incubation can take considerably longer, up to around eight months. A female lays 15–30 eggs per clutch and may lay several clutches in a season.",
+    "diet": "African spurred tortoises are herbivores that graze on grasses, weeds, leaves and flowers. Their gut is built for coarse, high-fiber food. Pets fed too much fruit, protein or rich vegetables often develop lumpy, pyramided shells and kidney problems, so grass and hay should make up most of the diet.",
+    "habitat": "African spurred tortoises live in the hot, dry grasslands, savannas and thorn scrub of the Sahel, along the southern edge of the Sahara. They survive the climate by digging deep, humid burrows, which also shelter many other animals.",
+    "conservation": "The African spurred tortoise is listed as Endangered on the IUCN Red List, and wild populations are decreasing. It has disappeared from much of its range because of overgrazing by livestock, desertification, wildfires and collection for food and the pet trade. International trade in wild-caught animals is restricted under CITES."
+  },
+  "funFacts": [
+    "Sulcata burrows can be more than 10 m (33 ft) long and several meters deep, staying far cooler and more humid than the surface.",
+    "The sulcata is the largest tortoise that does not live on an island; only the Galápagos and Aldabra giant tortoises grow bigger.",
+    "When overheated and unable to reach shade, a sulcata salivates heavily and smears the saliva on its forelegs to cool down.",
+    "Males ram each other and try to flip rivals onto their backs during the breeding season, often grunting and croaking loudly.",
+    "A sulcata is strong enough to push through drywall, wooden fencing and garden furniture, which surprises many pet owners."
+  ],
+  "relatedAnimals": ["galapagos-tortoise", "red-eared-slider", "green-sea-turtle", "leatherback-sea-turtle", "bearded-dragon", "green-iguana"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do sulcata tortoises make good pets?", "answer": "Only for people with space and a long-term plan. A sulcata grows to 35–90 kg, lives for 50 years or more, digs large burrows and needs a secure, heated outdoor yard in most climates. Rescues are full of sulcatas that outgrew their owners' homes."},
+    {"question": "How fast do sulcata tortoises grow?", "answer": "Quickly for a tortoise. A hatchling about 5 cm long can reach 15–25 cm within three to five years and may weigh 20–30 kg by the age of ten, depending on diet and temperature. Growth slows after 15–20 years but continues gradually through life."},
+    {"question": "Do sulcata tortoises hibernate?", "answer": "No. Sulcatas come from a region that is hot all year, and they do not hibernate or brumate. They must be kept warm through winter, and prolonged cold, damp conditions can cause respiratory infections. In extreme heat or drought they shelter in burrows instead."},
+    {"question": "How big of an enclosure does a sulcata tortoise need?", "answer": "An adult needs an outdoor enclosure, not a tank. Keepers and rescues commonly recommend a secure yard of at least several hundred square feet, with sturdy walls sunk into the ground to stop digging, grass to graze, shade, and a heated, insulated shelter for cool nights."},
+    {"question": "Why is it called a spurred tortoise?", "answer": "It is named for the two or three large, cone-shaped spurs on the back of each thigh. Their function is not certain. The heavy, overlapping scales on the front legs are a separate feature, used to shield the head and to help with digging."}
+  ],
+  "meta": {
+    "title": "Sulcata Tortoise (African Spurred): Size, Lifespan & Diet",
+    "description": "Sulcata tortoises reach 35–90 kg (77–200 lb) with shells 50–80 cm long and live 50–70 years or more. Diet, burrows, eggs, pet care and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Centrochelys%20sulcata&searchType=species"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/African_spurred_tortoise"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q301016"}
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "cougar",
+  "commonName": "Cougar",
+  "scientificName": "Puma concolor",
+  "alternateNames": ["Mountain lion", "Puma", "Panther", "Catamount"],
+  "nameSingular": "cougar",
+  "namePlural": "cougars",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Felidae", "genus": "Puma", "species": "P. concolor"},
+  "facts": {
+    "lifespan": {"min": 8, "max": 13, "unit": "years", "context": "in the wild", "display": "8–13 years"},
+    "lifespanCaptivity": {"min": 18, "max": 20, "unit": "years", "context": "in human care", "display": "up to about 20 years"},
+    "weight": {"min": 29, "max": 100, "unit": "kg", "context": "females 29–64 kg, males 53–100 kg; largest far from the equator", "display": "29–100 kg (64–220 lb)"},
+    "height": {"min": 60, "max": 90, "unit": "cm", "label": "Shoulder height", "display": "60–90 cm (24–35 in)"},
+    "speed": {"min": 64, "max": 80, "unit": "km/h", "verb": "run", "context": "short sprints", "display": "64–80 km/h (40–50 mph)"},
+    "gestationPeriod": {"min": 82, "max": 96, "unit": "days", "label": "Gestation", "display": "about 91 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Chiefly deer, including mule deer, white-tailed deer and elk in North America and guanacos in Patagonia, plus bighorn sheep, raccoons, porcupines, hares, rodents and occasionally livestock.",
+    "habitat": ["Mountains", "Forest", "Desert scrub", "Grassland", "Swamp"],
+    "range": "From the Canadian Yukon through the western United States, Mexico and Central America to the southern Andes of Chile and Argentina, with an isolated population in Florida.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The cougar, also called the mountain lion, puma or panther, is a large, plain tawny cat with the widest range of any wild land mammal in the Western Hemisphere, stretching from Canada's Yukon to the tip of South America. Despite its size it is more closely related to small cats and the cheetah than to lions, and it purrs rather than roars. Cougars are solitary ambush hunters with powerful hind legs that make them extraordinary jumpers. They were wiped out across eastern North America by the early 1900s, apart from the endangered Florida panther, but are slowly recolonizing parts of the Midwest.",
+  "answers": {
+    "lifespan": "Cougars live 8–13 years in the wild and up to about 20 years in zoos. Females generally outlive males. Hunting, vehicle collisions and fights with other cougars are the leading causes of death in the wild, and few animals die of old age.",
+    "weight": "Adult cougars weigh 29–100 kg (64–220 lb). Males typically weigh 53–100 kg and females 29–64 kg. Cougars are largest in the cold north and far south of their range and smallest near the equator, a pattern seen in many wide-ranging mammals.",
+    "size": "A cougar stands 60–90 cm (24–35 in) tall at the shoulder. Adults measure about 1.5–2.75 m from nose to tail tip, with the heavy, black-tipped tail making up roughly a third of that length. It is the fourth-largest cat species in the world.",
+    "speed": "Cougars can sprint at 64–80 km/h (40–50 mph) over short distances. They are built for ambush and leaping rather than long pursuit: a cougar can jump about 5.5 m (18 ft) vertically and as much as 12 m (40 ft) horizontally.",
+    "gestation": "A cougar is pregnant for about 91 days, with a range of 82–96 days. Litters usually contain two or three spotted, blue-eyed cubs, and births can occur in any month. Cubs lose their spots within a year and stay with their mother for up to two years.",
+    "diet": "Cougars are carnivores that prey mainly on deer. In North America they take mule deer, white-tailed deer, elk and bighorn sheep, and in Patagonia guanacos. An adult kills a large animal roughly every one to two weeks, covers the carcass with leaves and returns to feed for days.",
+    "habitat": "Cougars live in almost any habitat with cover and prey, from Canadian conifer forest and Rocky Mountain canyons to deserts, tropical rainforest, swamps and Patagonian steppe, from sea level to over 4,000 m in the Andes. They need large territories, often hundreds of square kilometers for a male.",
+    "conservation": "The cougar is listed as Least Concern on the IUCN Red List, but its overall population is decreasing. Habitat fragmentation, road deaths, loss of prey and persecution are the main threats. The Florida panther population, at roughly 120–230 adults, is listed as endangered under US law."
+  },
+  "funFacts": [
+    "The cougar holds the Guinness World Record for the animal with the most names, with more than 40 in English alone.",
+    "Cougars cannot roar; they purr, hiss, chirp and whistle, and females in heat give a scream that can sound like a person.",
+    "A cougar can leap about 5.5 m (18 ft) straight up from a standstill.",
+    "A male cougar known as P-22 lived for a decade in Griffith Park in the middle of Los Angeles after crossing two major freeways.",
+    "Cougar kittens are born with dark spots and blue eyes; both fade as they mature."
+  ],
+  "relatedAnimals": ["jaguar", "bobcat", "cheetah", "leopard", "gray-wolf", "white-tailed-deer"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are cougars, mountain lions and pumas the same animal?", "answer": "Yes. Cougar, mountain lion, puma, panther and catamount are all names for one species, Puma concolor. The name used depends on the region: mountain lion in the western United States, panther in Florida, and puma across most of Latin America."},
+    {"question": "Are cougars dangerous to humans?", "answer": "Attacks are rare. About 125 attacks, fewer than 30 of them fatal, have been recorded in North America over the past century. If you meet a cougar, do not run; face it, look large, speak firmly, back away slowly and fight back if attacked."},
+    {"question": "Is a cougar a big cat?", "answer": "By size, yes, since it is the fourth-largest cat in the world. By classification, no: 'big cats' usually means the roaring cats of the genus Panthera. The cougar belongs to the small-cat subfamily Felinae, and its closest relatives are the jaguarundi and the cheetah."},
+    {"question": "What is a Florida panther?", "answer": "The Florida panther is the only cougar population left in the eastern United States, living in the swamps and forests of southern Florida. It is estimated at about 120–230 adults and is protected as endangered. Road collisions are its leading cause of death."},
+    {"question": "Can a cougar kill a wolf?", "answer": "One on one, a cougar can kill a wolf, and such cases have been documented. Wolves live in packs, however, and packs regularly drive cougars off their kills and sometimes kill them, so cougars tend to avoid areas that wolves use heavily."}
+  ],
+  "meta": {
+    "title": "Cougar (Mountain Lion) Facts: Size, Speed & Lifespan",
+    "description": "Cougars, or mountain lions, weigh 29–100 kg (64–220 lb), sprint at 64–80 km/h and live 8–13 years in the wild. Jumping ability, diet, range and gestation.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Puma%20concolor&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Puma_concolor/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Puma_concolor"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Cougar"}
+    ]
+  }
+}

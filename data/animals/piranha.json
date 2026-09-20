@@ -1,0 +1,63 @@
+{
+  "slug": "piranha",
+  "commonName": "Red-Bellied Piranha",
+  "scientificName": "Pygocentrus nattereri",
+  "alternateNames": ["Red piranha", "Piranha", "Caribe"],
+  "nameSingular": "red-bellied piranha",
+  "namePlural": "red-bellied piranhas",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Characiformes", "family": "Serrasalmidae", "genus": "Pygocentrus", "species": "P. nattereri"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 10, "unit": "years", "context": "typical estimate for the wild", "display": "about 10 years"},
+    "lifespanCaptivity": {"min": 10, "max": 20, "unit": "years", "context": "in aquariums", "display": "10–20 years"},
+    "weight": {"min": 0.5, "max": 3.5, "unit": "kg", "context": "most adults are near the low end; about 3.5–3.9 kg is the recorded maximum", "display": "0.5–3.5 kg (1.1–7.7 lb)"},
+    "height": {"min": 15, "max": 33, "unit": "cm", "label": "Length", "display": "15–33 cm (6–13 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 2, "max": 3, "unit": "days", "label": "Egg development", "display": "2–3 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Mostly fish, including fins and scales nipped from live fish, along with insects, crustaceans, snails, worms, carrion and a surprising amount of plant material such as fruits and seeds.",
+    "habitat": ["Rivers", "Floodplain lakes", "Flooded forest", "Creeks"],
+    "range": "Fresh waters of South America east of the Andes, including the Amazon, Paraguay-Paraná and Essequibo basins and coastal rivers of northeastern Brazil.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The red-bellied piranha is the best-known of the several dozen piranha species, a deep-bodied, silvery fish with a red-orange belly and a blunt head packed with jaw muscle. Its single row of interlocking, triangular teeth is razor sharp and is replaced in blocks throughout life. Despite its reputation as a frenzied man-eater, it is mainly a scavenger and forager that eats fish, insects, carrion and plants, and research suggests it shoals for protection from predators such as caimans, river dolphins and large birds rather than to hunt in packs. It is common across much of lowland South America.",
+  "answers": {
+    "lifespan": "Red-bellied piranhas live about 10 years in the wild and commonly 10–20 years in aquariums. They reach breeding age at around one year. Captive piranhas are hardy when kept in groups in large tanks, which is one reason owners should be prepared for a long commitment.",
+    "weight": "Adult red-bellied piranhas weigh 0.5–3.5 kg (1.1–7.7 lb), with most at the lower end of that range. The maximum recorded weight is about 3.9 kg. Their deep, muscular bodies make them heavy for their length compared with other river fish of similar size.",
+    "size": "Red-bellied piranhas are typically 15–33 cm (6–13 in) long as adults, and the largest on record reached about 50 cm (20 in). Most wild adults measure 15–25 cm. Aquarium fish usually stay under 25 cm, and the sexes look alike.",
+    "speed": null,
+    "gestation": "Red-bellied piranha eggs hatch in 2–3 days. The pair clears a bowl-shaped nest among submerged plants, often at the start of the rainy season, and the female lays several thousand eggs. Both parents guard the nest aggressively, which is when most piranha bites on swimmers happen.",
+    "diet": "Red-bellied piranhas are omnivores that eat mainly fish, insects, crustaceans, snails and carrion, plus fruits, seeds and other plant matter. They often nip fins and scales from live fish rather than killing them. Feeding frenzies on large animals do occur, but mostly on prey that is already dead or dying, or when fish are trapped in shrinking pools.",
+    "habitat": "Red-bellied piranhas live in the warm, lowland fresh waters of South America east of the Andes, including the Amazon and Paraguay-Paraná river basins. They favor whitewater rivers, floodplain lakes, creeks and seasonally flooded forest, usually in water of 24–30 °C, and gather in shoals of around 20–30 fish.",
+    "conservation": "The red-bellied piranha has not been assessed for the IUCN Red List, and it is widespread and abundant across its range, with no major threats identified. It is fished locally for food and collected for the aquarium trade. Several US states ban keeping piranhas to prevent them from establishing in warm waters."
+  },
+  "funFacts": [
+    "Red-bellied piranhas make barking, drumming and croaking sounds with their swim bladder, mostly during confrontations with other piranhas.",
+    "Piranha teeth interlock and are replaced a whole side of the jaw at a time, so the fish is never left without a working bite.",
+    "The legend of piranhas stripping a cow in minutes owes much to Theodore Roosevelt's 1913 visit to Brazil, where locals staged the spectacle with starved fish.",
+    "Relative to body size, the black piranha, a close relative, has one of the strongest bites measured in any bony fish.",
+    "Piranhas are related to pacus, which look similar but have blunt, human-like teeth for crushing fruits and nuts."
+  ],
+  "relatedAnimals": ["electric-eel", "green-anaconda", "capybara", "jaguar", "guppy", "largemouth-bass"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are piranhas dangerous to humans?", "answer": "Rarely. Most piranha injuries are single bites to feet, hands or legs, often near nests in the breeding season or in crowded dry-season pools. Fatal attacks on healthy people are extremely unusual; many bodies found eaten by piranhas are believed to have drowned first. Locals swim in piranha waters every day."},
+    {"question": "Can piranhas really strip a cow to the bone in minutes?", "answer": "Not under normal conditions. The story comes from a display put on for Theodore Roosevelt in 1913, when fishermen penned hundreds of starved piranhas in a netted stretch of river and pushed in a cow. A large shoal can skeletonize a carcass, but it usually takes much longer."},
+    {"question": "Can you keep piranhas as pets?", "answer": "Yes, where it is legal. Red-bellied piranhas are the species most often kept and do best in groups of five or more in a tank of several hundred liters with strong filtration. Many US states, including California, Texas and Florida, prohibit owning them, so check local law first."},
+    {"question": "How strong is a piranha's bite?", "answer": "Very strong for its size. A 2012 study measured black piranhas biting with a force of up to 320 newtons, about 30 times their body weight, the strongest relative bite recorded in a bony fish at that time. Red-bellied piranhas are smaller but share the same oversized jaw muscles."},
+    {"question": "How many species of piranha are there?", "answer": "Estimates range from about 30 to 60 species, depending on how the group is defined, all native to South American fresh waters. The red-bellied piranha is the most widespread and familiar. Only a handful of species, all in the genera Pygocentrus and Serrasalmus, have the fearsome reputation."}
+  ],
+  "meta": {
+    "title": "Red-Bellied Piranha Facts: Size, Diet, Bite & Lifespan",
+    "description": "Red-bellied piranhas grow 15–33 cm (6–13 in), weigh 0.5–3.5 kg and live about 10 years, longer in aquariums. What they really eat and how dangerous they are.",
+    "sources": [
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Pygocentrus_nattereri/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Red-bellied_piranha"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q928382"}
+    ]
+  }
+}

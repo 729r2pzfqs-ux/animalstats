@@ -1,0 +1,64 @@
+{
+  "slug": "common-octopus",
+  "commonName": "Common Octopus",
+  "scientificName": "Octopus vulgaris",
+  "alternateNames": ["Octopus", "Atlantic common octopus"],
+  "nameSingular": "common octopus",
+  "namePlural": "common octopuses",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Mollusca", "class": "Cephalopoda", "classSlug": "invertebrates", "order": "Octopoda", "family": "Octopodidae", "genus": "Octopus", "species": "O. vulgaris"},
+  "facts": {
+    "lifespan": {"min": 1, "max": 2, "unit": "years", "context": "in the wild; adults die after breeding once", "display": "1–2 years"},
+    "lifespanCaptivity": {"min": 1, "max": 2, "unit": "years", "context": "in aquariums; captivity does not extend the natural life cycle", "display": "1–2 years"},
+    "weight": {"min": 3, "max": 10, "unit": "kg", "context": "adults; most weigh about 3 kg, large individuals reach about 10 kg", "display": "3–10 kg (6.6–22 lb)"},
+    "height": {"min": 0.6, "max": 1.0, "unit": "m", "label": "Length", "display": "0.6–1 m (2–3.3 ft) including arms"},
+    "speed": null,
+    "gestationPeriod": {"min": 25, "max": 125, "unit": "days", "label": "Egg development", "display": "about 1–4 months, depending on water temperature"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mainly crabs, lobsters and other crustaceans, plus clams, mussels, snails and small fish; it drills or pulls shells open and paralyzes prey with venomous saliva.",
+    "habitat": ["Rocky reef", "Seagrass bed", "Coastal seabed", "Coral reef"],
+    "range": "Eastern Atlantic and the Mediterranean Sea, from southern England to West Africa; closely related populations elsewhere in warm seas are now often treated as separate species.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The common octopus is the best-studied octopus in the world and the species most people picture when they hear the word. It has a soft, bag-shaped mantle, eight arms lined with two rows of suckers, three hearts and blue, copper-based blood. With no skeleton apart from a hard beak, it can squeeze through any gap wider than that beak. It hunts mostly at dusk and at night from a den among rocks, changes color and skin texture in a fraction of a second, and solves puzzles in laboratory tests. Its life is short: it grows fast, breeds once and dies.",
+  "answers": {
+    "lifespan": "Common octopuses live only 1–2 years, both in the wild and in aquariums. They grow extremely fast, breed once and then die. Males decline within weeks of mating, and females stop eating while they guard their eggs and die around the time the eggs hatch. This programmed decline is controlled by a gland near the eyes, so good care in captivity does not lengthen their lives much.",
+    "weight": "An adult common octopus weighs 3–10 kg (6.6–22 lb), and most are near the lower end of that range. Weight depends heavily on water temperature and food supply, and an octopus can gain several percent of its body weight per day while it is growing. Hatchlings weigh only a few milligrams.",
+    "size": "A common octopus measures 0.6–1 m (2–3.3 ft) in total length with its arms stretched out. The mantle, the bag-like body behind the eyes, is only about 25 cm (10 in) long, so the arms make up most of the length. The largest individuals reach roughly 1.3 m.",
+    "speed": null,
+    "gestation": "Common octopus eggs take roughly 25–125 days to hatch, depending on water temperature: about a month in warm water and up to four months in cold water. A female lays 100,000–500,000 tiny eggs in strings on the roof of her den, then cleans and aerates them constantly without feeding. The hatchlings drift in the plankton for several weeks before settling on the seabed.",
+    "diet": "Common octopuses are carnivores that eat mainly crabs and other crustaceans, along with clams, mussels, snails and small fish. They pounce on prey with the webbing between their arms, bite with a parrot-like beak and inject saliva that paralyzes the prey and loosens the flesh. Piles of empty shells, called middens, often mark the entrance to a den.",
+    "habitat": "Common octopuses live on rocky reefs, seagrass beds and sandy or muddy seabeds from the shoreline down to about 200 m (660 ft). They are found in the eastern Atlantic and the Mediterranean, and each one shelters in a den under rocks, in crevices or inside discarded objects, which it may change every few weeks.",
+    "conservation": "The common octopus is listed as Least Concern on the IUCN Red List, with an unknown population trend. It is one of the most heavily fished octopus species, especially off northwest Africa, Spain and Portugal, and catches in some fisheries have fallen. Its fast growth and huge egg numbers help populations recover quickly."
+  },
+  "funFacts": [
+    "A common octopus has three hearts: two pump blood through the gills and one pumps it around the rest of the body.",
+    "About two-thirds of its roughly 500 million neurons are in the arms rather than the brain, so each arm can carry out movements partly on its own.",
+    "Its blood is blue because it carries oxygen with copper-based hemocyanin instead of iron-based hemoglobin.",
+    "The only hard part of its body is the beak, so a large octopus can pass through a hole just a few centimeters wide.",
+    "It can change both the color and the texture of its skin in well under a second, even though it appears to be colorblind."
+  ],
+  "relatedAnimals": ["giant-squid", "garden-snail", "giant-clam", "american-lobster", "moon-jellyfish", "common-starfish"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is the plural octopuses, octopi or octopodes?", "answer": "Octopuses is the standard English plural. Octopi is common but is based on the mistaken idea that the word is Latin; it actually comes from Greek, which would give octopodes, a form that is correct but rarely used."},
+    {"question": "How many hearts and brains does an octopus have?", "answer": "An octopus has three hearts and one central brain. The brain wraps around the esophagus, and each of the eight arms has its own large cluster of nerve cells, which is why people sometimes say it has nine brains."},
+    {"question": "Are common octopuses dangerous to humans?", "answer": "No, common octopuses are not considered dangerous to people. They can bite, and their saliva contains venom that works on crabs, but a bite usually causes only local pain and swelling. The octopus that is truly dangerous is the small blue-ringed octopus of the Indo-Pacific."},
+    {"question": "How smart is an octopus?", "answer": "Octopuses are among the most intelligent invertebrates. In experiments common octopuses have learned mazes, opened screw-top jars, told shapes and patterns apart and remembered solutions for weeks. They also use shelters and objects as tools and are well known for escaping from aquarium tanks."},
+    {"question": "Do octopuses die after laying eggs?", "answer": "Yes. A female common octopus stops eating while she guards her eggs and dies around the time they hatch. Males also die within a few weeks or months of mating. Hormones from the optic gland trigger this decline."}
+  ],
+  "meta": {
+    "title": "Common Octopus Facts: Lifespan, Size, Diet & Intelligence",
+    "description": "Common octopuses live just 1–2 years, weigh 3–10 kg (6.6–22 lb) and reach about 1 m with arms. Diet, habitat, eggs, hearts and intelligence explained.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Octopus%20vulgaris&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Octopus_vulgaris/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Common_octopus"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q651361"}
+    ]
+  }
+}

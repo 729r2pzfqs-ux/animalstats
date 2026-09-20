@@ -1,0 +1,64 @@
+{
+  "slug": "ring-tailed-lemur",
+  "commonName": "Ring-Tailed Lemur",
+  "scientificName": "Lemur catta",
+  "alternateNames": ["Ringtail lemur", "Maky"],
+  "nameSingular": "ring-tailed lemur",
+  "namePlural": "ring-tailed lemurs",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Primates", "family": "Lemuridae", "genus": "Lemur", "species": "L. catta"},
+  "facts": {
+    "lifespan": {"min": 16, "max": 19, "unit": "years", "context": "in the wild", "display": "16–19 years"},
+    "lifespanCaptivity": {"min": 20, "max": 27, "unit": "years", "context": "in human care; a few have passed 30", "display": "20–27 years"},
+    "weight": {"min": 2.2, "max": 3.5, "unit": "kg", "context": "adults; wild animals average about 2.2 kg, zoo animals are heavier", "display": "2.2–3.5 kg (4.9–7.7 lb)"},
+    "height": {"min": 39, "max": 46, "unit": "cm", "label": "Body length", "display": "39–46 cm (15–18 in), plus a 56–63 cm tail"},
+    "speed": null,
+    "gestationPeriod": {"min": 130, "max": 144, "unit": "days", "label": "Gestation", "display": "about 135 days (4.5 months)"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Chiefly fruit and leaves, with tamarind pods and leaves as the single most important food; also flowers, bark, sap and herbs, plus occasional insects, spiders, chameleons and small birds.",
+    "habitat": ["Spiny forest", "Dry deciduous forest", "Gallery forest", "Rocky scrub"],
+    "range": "Southern and southwestern Madagascar only, from gallery forests along rivers to spiny desert scrub and the rocky Andringitra highlands.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The ring-tailed lemur is the best-known of Madagascar's roughly 100 lemur species, instantly recognizable by its long tail banded in black and white. It is a cat-sized primate with a gray back, white belly, a pointed white face and dark eye patches, and it is the only living member of the genus Lemur. Ring-tailed lemurs spend more time on the ground than any other lemur and live in female-led troops of about 6 to 30 animals. They are active by day, rely heavily on scent signals and begin cold mornings by sunbathing, sitting upright with arms spread toward the sun.",
+  "answers": {
+    "lifespan": "Ring-tailed lemurs live 16–19 years in the wild and commonly 20–27 years in zoos. A few captive animals have lived past 30. In the wild, droughts cause heavy losses, and up to half of infants die in their first year. The fossa, hawks and introduced dogs and cats are their main predators.",
+    "weight": "Adult ring-tailed lemurs weigh 2.2–3.5 kg (4.9–7.7 lb), about as much as a small house cat. Wild adults average around 2.2 kg, and well-fed zoo animals are heavier. Males and females are the same size, which is unusual among primates.",
+    "size": "A ring-tailed lemur's head and body measure 39–46 cm (15–18 in), and the tail is longer than the body at 56–63 cm. The tail has 12 or 13 white rings and 13 or 14 black rings, and always ends in a black tip. It cannot grip branches.",
+    "speed": null,
+    "gestation": "A ring-tailed lemur is pregnant for about 135 days, or four and a half months. Mating is tightly seasonal, and each female is receptive for less than a day per year. Most births are single infants born in September, though twins are common when food is plentiful.",
+    "diet": "Ring-tailed lemurs are opportunistic omnivores that mainly eat fruit and leaves. The tamarind tree is their staple, providing up to half their food in some forests. They also eat flowers, bark, sap and, now and then, insects, spiders and small vertebrates such as chameleons.",
+    "habitat": "Ring-tailed lemurs live only in southern and southwestern Madagascar. They use more habitat types than any other lemur, including riverside gallery forest, dry deciduous forest, spiny desert scrub and bare rocky mountains, and they cope with some of the island's hottest, driest and coldest conditions.",
+    "conservation": "The ring-tailed lemur is listed as Endangered on the IUCN Red List, and wild numbers are decreasing sharply. Habitat loss from slash-and-burn farming, charcoal production and overgrazing is the main cause, along with hunting for food and capture for the illegal pet trade. It is, however, the most common lemur in zoos."
+  },
+  "funFacts": [
+    "Males hold stink fights: they smear their tails with scent from glands on their wrists and chests, then wave the tails at rivals.",
+    "Females are dominant over all males in the troop and get first choice of food and resting spots.",
+    "Ring-tailed lemurs have a toothcomb, a row of narrow forward-pointing lower teeth, and a special grooming claw on each foot.",
+    "A troop on the move holds its tails straight up like flags, which helps members keep each other in sight.",
+    "Lemurs reached Madagascar from mainland Africa tens of millions of years ago, most likely by rafting on floating vegetation."
+  ],
+  "relatedAnimals": ["japanese-macaque", "mandrill", "meerkat", "chimpanzee", "sloth"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do ring-tailed lemurs make good pets?", "answer": "No. Ring-tailed lemurs are wild primates that scent-mark constantly, need a troop for company and can become aggressive as adults. Keeping one is illegal in Madagascar and in many other places, and the pet trade removes animals from an endangered wild population."},
+    {"question": "Are lemurs monkeys?", "answer": "No. Lemurs are primates but not monkeys. They belong to an older branch called the strepsirrhines, along with lorises and bushbabies, and have wet noses, a strong sense of smell and a toothcomb. Monkeys, apes and humans belong to a separate branch."},
+    {"question": "Why do ring-tailed lemurs sunbathe?", "answer": "Ring-tailed lemurs sunbathe to warm up after cold nights in southern Madagascar. They sit upright facing the sun with arms and legs spread, exposing the thinly furred belly. It saves energy they would otherwise spend producing body heat."},
+    {"question": "What is a group of lemurs called?", "answer": "A group of ring-tailed lemurs is usually called a troop, though the collective noun conspiracy is also used. Troops typically hold 6 to 30 animals of both sexes, with a core of related females. Females stay in the troop they were born in, while males move between troops."},
+    {"question": "Where do ring-tailed lemurs live in the wild?", "answer": "Only in Madagascar, in the south and southwest of the island. Well-known places to see them include Berenty Reserve, Isalo National Park, Anja Community Reserve and the Andringitra mountains. Every ring-tailed lemur outside Madagascar lives in a zoo or private collection."}
+  ],
+  "meta": {
+    "title": "Ring-Tailed Lemur Facts: Size, Lifespan, Diet & Habitat",
+    "description": "Ring-tailed lemurs weigh 2.2–3.5 kg, measure 39–46 cm plus a longer striped tail and live 16–19 years in the wild. Diet, habitat and status in Madagascar.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Lemur%20catta&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Lemur_catta/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Lemur_catta"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Ring-tailed_lemur"}
+    ]
+  }
+}

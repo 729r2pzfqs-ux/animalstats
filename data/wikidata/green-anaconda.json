@@ -1,0 +1,22 @@
+{
+  "slug": "green-anaconda",
+  "commonName": "Green Anaconda",
+  "scientificName": "Eunectes murinus",
+  "classSlug": "reptiles",
+  "aliases": [
+    "anaconda"
+  ],
+  "qid": "Q207347",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Green anaconda",
+  "taxonomy": {
+    "species": "Eunectes murinus",
+    "genus": "Eunectes",
+    "family": "Boidae",
+    "order": "Squamata",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

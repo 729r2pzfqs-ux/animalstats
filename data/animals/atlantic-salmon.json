@@ -1,0 +1,64 @@
+{
+  "slug": "atlantic-salmon",
+  "commonName": "Atlantic Salmon",
+  "scientificName": "Salmo salar",
+  "alternateNames": ["Salmon", "Sea-run salmon", "Landlocked salmon", "Ouananiche"],
+  "nameSingular": "Atlantic salmon",
+  "namePlural": "Atlantic salmon",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Salmoniformes", "family": "Salmonidae", "genus": "Salmo", "species": "S. salar"},
+  "facts": {
+    "lifespan": {"min": 5, "max": 8, "unit": "years", "context": "in the wild; the maximum recorded is about 13 years", "display": "5–8 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 3.5, "max": 9, "unit": "kg", "context": "returning adults; grilse are lighter and rare multi-sea-winter fish exceed 20 kg", "display": "3.5–9 kg (8–20 lb)"},
+    "height": {"min": 70, "max": 100, "unit": "cm", "label": "Length", "display": "70–100 cm (28–39 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 70, "max": 160, "unit": "days", "label": "Egg development", "display": "roughly 70–160 days, depending on water temperature"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Young salmon in rivers eat aquatic insect larvae such as mayflies, caddisflies and blackflies; at sea they switch to capelin, sand eels, herring, krill, amphipods and squid. Returning adults largely stop feeding in fresh water.",
+    "habitat": ["Cold rivers and streams", "Estuaries", "North Atlantic Ocean", "Lakes"],
+    "range": "North Atlantic Ocean and the rivers flowing into it, from Portugal to Russia, Iceland and Greenland, and from Quebec and Labrador south to Maine; widely farmed elsewhere.",
+    "conservationStatus": "Near Threatened",
+    "iucnCategory": "NT",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The Atlantic salmon is a sleek, silvery fish famous for its life cycle: it hatches in cold, clean rivers, migrates to the North Atlantic to grow, then returns, often to the very stream where it was born, to spawn. Young fish pass through stages called alevin, fry, parr and smolt before going to sea, where they feed off Greenland and the Faroe Islands for one to three years. Unlike Pacific salmon, many Atlantic salmon survive spawning and can return to breed again. Wild runs have declined sharply across the range, even as the species has become one of the most farmed fish in the world.",
+  "answers": {
+    "lifespan": "Atlantic salmon typically live 5–8 years, and the oldest recorded reached about 13. A usual life is two or three years in the river followed by one to three years at sea before returning to spawn. Unlike Pacific salmon, some adults, mostly females, survive spawning and come back a second or even third time.",
+    "weight": "Adult Atlantic salmon returning to rivers usually weigh 3.5–9 kg (8–20 lb). Fish that spent a single winter at sea, called grilse, weigh 1.5–3 kg, while those that stay two or more winters are far heavier. The rod-caught record is 35.9 kg (79 lb), taken from Norway's Tana River in 1928.",
+    "size": "Adult Atlantic salmon are typically 70–100 cm (28–39 in) long after two years at sea. Grilse returning after one sea-winter measure about 50–65 cm, and the very largest multi-sea-winter fish can reach 1.5 m (5 ft). Landlocked salmon that never go to sea stay much smaller.",
+    "speed": null,
+    "gestation": "Atlantic salmon eggs take roughly 70–160 days to hatch, depending on water temperature. Females bury the eggs in gravel nests called redds in late autumn, and they develop slowly through the winter and hatch in early spring. The hatchlings, called alevins, stay in the gravel for several more weeks living on their yolk sac.",
+    "diet": "Atlantic salmon are carnivores. In rivers, young salmon eat aquatic insect larvae and other small invertebrates; at sea they grow quickly on capelin, sand eels, herring, krill and squid. Once adults re-enter fresh water to spawn they more or less stop eating and live on stored fat.",
+    "habitat": "Atlantic salmon live in cold, clean, gravel-bottomed rivers as juveniles and in the open North Atlantic as growing adults, feeding mainly off Greenland, the Faroe Islands and in the Norwegian Sea. They return to their home rivers to spawn. Some populations are landlocked and spend their whole lives in lakes and their tributaries.",
+    "conservation": "The Atlantic salmon was moved from Least Concern to Near Threatened on the IUCN Red List in 2023 after the global population fell by about 23 percent between 2006 and 2020. Threats include dams, pollution, warming rivers and seas, sea lice and escaped fish from salmon farms, and poor survival at sea. US populations are federally endangered."
+  },
+  "funFacts": [
+    "Atlantic salmon can leap waterfalls more than 3 m high; the species name salar is often said to come from the Latin for leaper.",
+    "Salmon find their way back to their birth river largely by smell, having imprinted on its chemical signature as young smolts.",
+    "A spent salmon that survives spawning is called a kelt, and some kelts recover at sea and return to spawn again.",
+    "Nearly all Atlantic salmon sold in shops is farmed; commercial fishing for wild Atlantic salmon is banned or tightly restricted in most countries.",
+    "Before heading to sea, a young salmon turns from camouflaged brown with dark bars to bright silver in a transformation called smolting."
+  ],
+  "relatedAnimals": ["rainbow-trout", "largemouth-bass", "beluga-sturgeon", "bluefin-tuna", "grizzly-bear", "harbor-seal"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do Atlantic salmon die after spawning?", "answer": "Not always. Unlike Pacific salmon, which all die after spawning once, a minority of Atlantic salmon survive, return to the sea to recover and come back to spawn again. Repeat spawners are usually females and make up a small share of most runs, often under 10 percent, though it varies widely by river."},
+    {"question": "What is the difference between Atlantic and Pacific salmon?", "answer": "Atlantic salmon is a single species in the genus Salmo, closely related to brown trout, and can spawn more than once. Pacific salmon are several species in the genus Oncorhynchus, including Chinook, sockeye and coho, and they die after spawning. Most Atlantic salmon eaten today is farmed; much Pacific salmon is wild-caught."},
+    {"question": "How do salmon find their way home?", "answer": "Salmon are thought to navigate the open ocean using the Earth's magnetic field, then home in on their birth river by smell once they reach the coast. Young salmon memorize the unique chemical scent of their stream during smolting, and adults follow it upstream years later."},
+    {"question": "Is farmed Atlantic salmon the same species as wild?", "answer": "Yes. Farmed Atlantic salmon are Salmo salar, but they come from strains selectively bred for fast growth over many generations. Escaped farmed fish can interbreed with wild salmon and lower the fitness of wild populations, which is one of the main conservation concerns about salmon farming."},
+    {"question": "How high can a salmon jump?", "answer": "Atlantic salmon can clear obstacles of roughly 3 m (10 ft) or a little more under ideal conditions. They need a deep pool below the falls to build up speed, and they often use the upward surge of water at the base of the falls to boost the leap."}
+  ],
+  "meta": {
+    "title": "Atlantic Salmon Facts: Lifespan, Size, Diet & Life Cycle",
+    "description": "Atlantic salmon live 5–8 years, reach 70–100 cm and 3.5–9 kg, and return from the ocean to their home rivers to spawn. Diet, habitat and IUCN status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Salmo%20salar&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Salmo_salar/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Salmo_salar"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Atlantic_salmon"}
+    ]
+  }
+}

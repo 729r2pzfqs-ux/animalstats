@@ -1,0 +1,33 @@
+{
+  "slug": "barn-owl",
+  "commonName": "Barn Owl",
+  "scientificName": "Tyto alba",
+  "classSlug": "birds",
+  "aliases": [
+    "owl"
+  ],
+  "qid": "Q25317",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Western barn owl",
+  "taxonomy": {
+    "species": "Tyto alba",
+    "genus": "Tyto",
+    "family": "Tytonidae",
+    "order": "Strigiformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "580",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "lifeExpectancy",
+      "amount": "4",
+      "unit": "year",
+      "sex": null
+    }
+  ]
+}

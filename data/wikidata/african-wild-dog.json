@@ -1,0 +1,28 @@
+{
+  "slug": "african-wild-dog",
+  "commonName": "African Wild Dog",
+  "scientificName": "Lycaon pictus",
+  "classSlug": "mammals",
+  "aliases": [
+    "painted dog"
+  ],
+  "qid": "Q173651",
+  "iucnStatus": "Endangered",
+  "wikipedia": "African wild dog",
+  "taxonomy": {
+    "species": "Lycaon pictus",
+    "genus": "Lycaon",
+    "family": "Canidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "70",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

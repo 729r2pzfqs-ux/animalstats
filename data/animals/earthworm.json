@@ -1,0 +1,63 @@
+{
+  "slug": "earthworm",
+  "commonName": "Common Earthworm",
+  "scientificName": "Lumbricus terrestris",
+  "alternateNames": ["Nightcrawler", "Lob worm", "Dew worm", "Canadian nightcrawler"],
+  "nameSingular": "common earthworm",
+  "namePlural": "common earthworms",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Annelida", "class": "Clitellata", "classSlug": "invertebrates", "order": "Crassiclitellata", "family": "Lumbricidae", "genus": "Lumbricus", "species": "L. terrestris"},
+  "facts": {
+    "lifespan": {"min": 4, "max": 8, "unit": "years", "context": "potential lifespan in undisturbed soil; most wild worms die much younger", "display": "4–8 years"},
+    "lifespanCaptivity": {"min": 6, "max": 6, "unit": "years", "context": "in laboratory culture", "display": "about 6 years"},
+    "weight": {"min": 3, "max": 10, "unit": "g", "context": "adults", "display": "3–10 g (0.1–0.35 oz)"},
+    "height": {"min": 10, "max": 25, "unit": "cm", "label": "Length", "display": "10–25 cm (4–10 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 85, "max": 120, "unit": "days", "label": "Egg development", "display": "about 3–4 months at 15–20 °C; longer in cold soil"}
+  },
+  "ecology": {
+    "diet": "Detritivore",
+    "dietDetails": "Dead leaves and other plant litter pulled down from the soil surface into the burrow, together with the soil, fungi and microorganisms swallowed along with it.",
+    "habitat": ["Grassland", "Gardens", "Deciduous woodland", "Farmland"],
+    "range": "Native to Europe; introduced by settlers to North America, where it is invasive in northern forests, and to parts of Asia, Australia, New Zealand and South America.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The common earthworm, known in North America as the nightcrawler, is the large reddish worm seen on lawns and pavements after rain. It is a deep-burrowing species that lives in a permanent vertical burrow up to 2 m or more deep and comes to the surface at night to feed and mate. Its body is made of roughly 110–160 segments, each with tiny bristles for grip, and the pale saddle near the front, the clitellum, produces its egg cocoons. By dragging leaves underground and mixing soil it improves drainage and fertility, but in North American forests that evolved without earthworms it is a damaging invader.",
+  "answers": {
+    "lifespan": "Common earthworms can live 4–8 years in undisturbed soil, and about 6 years has been recorded in laboratory culture. Few wild worms get that far. Birds, moles, hedgehogs, badgers, ploughing, drought and frost kill most of them in their first year or two, so the average life in a garden or field is much shorter than the potential.",
+    "weight": "An adult common earthworm weighs roughly 3–10 g (0.1–0.35 oz). Weight changes a great deal with how much soil is in the gut and how moist the ground is, since an earthworm is mostly water and loses it quickly through its skin in dry conditions.",
+    "size": "Common earthworms are typically 10–25 cm (4–10 in) long and about 7–10 mm thick. The same worm can look very different in length from one moment to the next, because it stretches and contracts as it moves; extended individuals can approach 30 cm. It is the largest earthworm native to northern Europe.",
+    "speed": null,
+    "gestation": "Common earthworm cocoons take about 3–4 months to hatch at soil temperatures of 15–20 °C, and considerably longer in cold soil. After mating, the clitellum secretes a lemon-shaped cocoon about 5–6 mm long that slips off over the worm's head. Each cocoon usually releases a single young worm, which needs around a year to mature.",
+    "diet": "Common earthworms are detritivores that eat dead leaves and other decaying plant material. At night they stretch out of the burrow with the tail anchored inside, grab leaves and drag them underground, where the litter softens before being eaten. They swallow soil along with it and leave the remains as nutrient-rich casts.",
+    "habitat": "Common earthworms live in the soil of lawns, pastures, gardens, farmland and deciduous woods, wherever the ground is moist, deep and not too acidic or sandy. Each worm keeps a permanent vertical burrow that can go down 2 m (6.5 ft) or more, which lets it retreat from frost and drought.",
+    "conservation": "The common earthworm has not been evaluated for the IUCN Red List and is abundant across its range. Intensive ploughing and some pesticides reduce numbers on farmland. In the northern United States and Canada, where glaciers wiped out native earthworms, it is an invasive species that strips the leaf-litter layer of forests."
+  },
+  "funFacts": [
+    "Charles Darwin spent decades studying earthworms and devoted his last book, published in 1881, to how they create and turn over soil.",
+    "Earthworms have no lungs and breathe through their moist skin, which is why they die quickly if they dry out.",
+    "A common earthworm has five pairs of simple heart-like vessels, called aortic arches, that pump blood along its body.",
+    "Every earthworm is a hermaphrodite, but two worms still have to mate, lying head to tail and exchanging sperm.",
+    "There were no native earthworms in most of Canada and the northern United States after the last ice age; nightcrawlers arrived with European settlers."
+  ],
+  "relatedAnimals": ["garden-snail", "black-garden-ant", "hedgehog", "american-robin", "naked-mole-rat"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "If you cut an earthworm in half, do you get two worms?", "answer": "No. A common earthworm cut in half does not become two worms. The front part may survive and regrow a shorter tail if the cut is well behind the clitellum, but the rear part cannot grow a new head and dies."},
+    {"question": "Why do earthworms come out when it rains?", "answer": "Nobody knows for certain, but the leading explanation is that wet conditions let worms travel safely over the surface to find mates or new ground without drying out. The older idea that they would drown in their burrows is unlikely, since earthworms can survive submerged for days."},
+    {"question": "Do earthworms have eyes?", "answer": "No, earthworms have no eyes. They do have light-sensitive cells in the skin, concentrated at the front end, that tell them when they are exposed to light, and they are extremely sensitive to vibration and touch."},
+    {"question": "Are earthworms good for the garden?", "answer": "Yes. In gardens and farmland, common earthworms improve drainage and aeration with their deep burrows, pull organic matter into the soil and leave nutrient-rich casts. The exception is natural forest in northern North America, where introduced earthworms damage the ecosystem."},
+    {"question": "Are nightcrawlers and earthworms the same thing?", "answer": "A nightcrawler is one kind of earthworm. In North America the name usually means Lumbricus terrestris, the large, deep-burrowing common earthworm sold as fishing bait. The smaller red wigglers used in compost bins are a different species, Eisenia fetida."}
+  ],
+  "meta": {
+    "title": "Common Earthworm (Nightcrawler) Facts: Lifespan & Size",
+    "description": "Common earthworms can live 4–8 years, grow 10–25 cm (4–10 in) long and weigh 3–10 g. What nightcrawlers eat, how they breed and whether halves regrow.",
+    "sources": [
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Lumbricus_terrestris/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Lumbricus_terrestris"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q30092"}
+    ]
+  }
+}

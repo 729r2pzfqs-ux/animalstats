@@ -1,0 +1,64 @@
+{
+  "slug": "donkey",
+  "commonName": "Donkey",
+  "scientificName": "Equus asinus",
+  "alternateNames": ["Ass", "Burro", "Domestic donkey", "Equus africanus asinus"],
+  "nameSingular": "donkey",
+  "namePlural": "donkeys",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Perissodactyla", "family": "Equidae", "genus": "Equus", "species": "E. asinus"},
+  "facts": {
+    "lifespan": {"min": 25, "max": 30, "unit": "years", "context": "well-cared-for donkeys, some reaching 40 or more; hard-worked donkeys in poor countries often live only 12–15 years", "display": "25–30 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 80, "max": 480, "unit": "kg", "context": "from miniature donkeys to mammoth breeds; a standard donkey weighs about 160–250 kg", "display": "80–480 kg (180–1,060 lb)"},
+    "height": {"min": 0.9, "max": 1.5, "unit": "m", "label": "Shoulder height", "display": "0.9–1.5 m (3–5 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 330, "max": 420, "unit": "days", "label": "Gestation", "display": "about 12 months (11–14 months)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Coarse grasses, straw, hay and shrubs; donkeys evolved in semi-desert and digest fibrous, low-quality forage very efficiently, so they become overweight easily on rich pasture.",
+    "habitat": ["Farmland", "Semi-desert", "Dry scrub", "Mountains"],
+    "range": "Kept worldwide, mainly as working animals in Africa, Asia and Latin America; feral burros live in the southwestern United States and Australia.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "The donkey is a hardy domesticated member of the horse family, descended from the African wild ass and first tamed in northeastern Africa about 5,000–7,000 years ago. For millennia it has carried loads, pulled carts and plowed fields, and tens of millions still work in developing countries. Donkeys have long ears, an upright mane, a tufted tail and a loud bray that carries for kilometers. They are cautious rather than stubborn: a frightened donkey tends to freeze and assess a threat instead of bolting. Crossed with horses, donkeys produce mules and hinnies, which are almost always sterile.",
+  "answers": {
+    "lifespan": "Donkeys live 25–30 years on average with good care, and many reach their late thirties or forties. Working donkeys in poorer countries often survive only 12–15 years because of heavy labor, poor nutrition and limited veterinary care. The oldest documented donkeys have lived past 50.",
+    "weight": "Donkeys weigh 80–480 kg (180–1,060 lb) depending on type. A standard donkey weighs roughly 160–250 kg, miniature Mediterranean donkeys under 140 kg, and large breeds such as the American Mammoth Jackstock and Poitou reach 400–480 kg.",
+    "size": "Donkeys stand 0.9–1.5 m (3–5 ft) tall at the withers. Miniature donkeys measure under 0.9 m, standard donkeys about 0.9–1.2 m, and mammoth breeds 1.4–1.6 m. Their ears are much longer than a horse's, which helps with hearing and shedding heat.",
+    "speed": null,
+    "gestation": "A female donkey, called a jenny, is pregnant for about 12 months, although pregnancies range from 11 to 14 months. She normally has a single foal, and twins are rare. That is a month or so longer than a typical horse pregnancy.",
+    "diet": "Donkeys are herbivores adapted to sparse, fibrous vegetation. They do best on straw, mature hay and limited grazing, and extract more energy from poor forage than horses do. Rich grass and grain can make them obese and cause laminitis, a painful hoof disease.",
+    "habitat": "Domestic donkeys live wherever people use them, especially in dry and mountainous regions of Africa, Asia and Latin America. Their ancestor came from the deserts of northeast Africa, so they tolerate heat and thirst well but dislike prolonged rain, because their coats are not waterproof.",
+    "conservation": "The donkey is domesticated and has no IUCN Red List status; there are roughly 50 million worldwide. Its ancestor, the African wild ass, is Critically Endangered, with only a few hundred left. Demand for donkey hides to make the traditional remedy ejiao has sharply reduced donkey numbers in some countries."
+  },
+  "funFacts": [
+    "A donkey's bray can be heard up to about 3 km (2 miles) away.",
+    "A mule has a donkey father and a horse mother; a hinny has a horse father and a donkey mother.",
+    "Donkeys have 62 chromosomes and horses 64, which is why mules, with 63, are almost always sterile.",
+    "Donkeys are sometimes kept with sheep and goats as guard animals because they will confront dogs and coyotes.",
+    "The cross-shaped dark stripe on many donkeys' backs and shoulders is inherited from the African wild ass."
+  ],
+  "relatedAnimals": ["horse", "plains-zebra", "dromedary-camel", "llama", "goat"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a donkey and a mule?", "answer": "A donkey is a species in its own right, while a mule is a hybrid of a male donkey and a female horse. Mules are usually larger and stronger than donkeys, have horse-like bodies with long donkey-like ears, and are almost always unable to reproduce."},
+    {"question": "Are donkeys really stubborn?", "answer": "Not really. Donkeys have a strong sense of self-preservation and tend to stop and think when something frightens or confuses them, whereas horses run. This freezing looks like stubbornness, but with patient training donkeys are willing and dependable workers."},
+    {"question": "What is a male donkey called?", "answer": "A male donkey is called a jack and a female is a jenny or jennet. A young donkey is a foal, and a castrated male is a gelding. 'Burro' is simply the Spanish word for donkey and is used for small and feral donkeys in the American West."},
+    {"question": "Is a donkey the same as an ass?", "answer": "Yes. 'Ass' is the older English name and matches the scientific name Equus asinus. 'Donkey' came into use in the late 1700s and has largely replaced it, although 'wild ass' is still the normal term for the donkey's wild relatives."},
+    {"question": "Do donkeys protect livestock?", "answer": "They can. Donkeys have a natural dislike of dogs and similar animals and will bray, chase, kick and bite intruders, so some farmers keep a single donkey with sheep or goats to deter coyotes and stray dogs. They are less effective against wolves or bears."}
+  ],
+  "meta": {
+    "title": "Donkey Facts: Lifespan, Size, Weight & Gestation",
+    "description": "Donkeys live 25–30 years or more, weigh 80–480 kg, stand 0.9–1.5 m tall and carry a foal for about 12 months. Diet, habitat and facts about Equus asinus.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Donkey"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Equus_asinus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Equus_asinus"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q19829417"}
+    ]
+  }
+}

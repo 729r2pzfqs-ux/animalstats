@@ -1,0 +1,65 @@
+{
+  "slug": "wandering-albatross",
+  "commonName": "Wandering Albatross",
+  "scientificName": "Diomedea exulans",
+  "alternateNames": ["Snowy albatross", "White-winged albatross"],
+  "nameSingular": "wandering albatross",
+  "namePlural": "wandering albatrosses",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Procellariiformes", "family": "Diomedeidae", "genus": "Diomedea", "species": "D. exulans"},
+  "facts": {
+    "lifespan": {"min": 30, "max": 50, "unit": "years", "context": "in the wild; some banded birds have passed 50", "display": "30–50 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 6, "max": 12, "unit": "kg", "context": "adults; males are about 20% heavier than females", "display": "6–12 kg (13–26 lb)"},
+    "height": {"min": 2.5, "max": 3.5, "unit": "m", "label": "Wingspan", "display": "2.5–3.5 m (8.2–11.5 ft)"},
+    "speed": {"min": 55, "max": 55, "unit": "km/h", "verb": "fly", "context": "average ground speed of GPS-tracked birds in gliding flight; much faster with strong tailwinds", "display": "about 55 km/h (34 mph)"},
+    "gestationPeriod": {"min": 74, "max": 85, "unit": "days", "label": "Incubation", "display": "about 78 days (11 weeks)"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mainly squid and other cephalopods, plus fish, crustaceans and carrion, seized at the sea surface or on shallow plunges, often at night; also offal and discards behind fishing boats.",
+    "habitat": ["Open ocean", "Sub-Antarctic islands (breeding)"],
+    "range": "Circles the Southern Ocean between about 30° and 60° south; breeds on South Georgia, the Prince Edward, Crozet and Kerguelen Islands, and Macquarie Island.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing",
+    "population": "about 20,100 mature individuals (IUCN estimate)"
+  },
+  "description": "The wandering albatross has the largest wingspan of any living bird, up to about 3.5 m (11.5 ft), and spends most of its life gliding over the Southern Ocean. Adults are mainly white with black wingtips and trailing edges and a large pink bill; young birds start chocolate brown and whiten with age. By using wind gradients above the waves, a technique called dynamic soaring, it travels thousands of kilometers while hardly flapping. It comes ashore only to breed on remote sub-Antarctic islands, where pairs bond for life and raise one chick every two years. Longline fishing is its main threat.",
+  "answers": {
+    "lifespan": "Wandering albatrosses commonly live 30–50 years, and some banded birds have passed 50. They mature slowly, first breeding at around 10–11 years of age, and raise at most one chick every two years. With so few offspring, the accidental death of adults on fishing lines drives populations down quickly.",
+    "weight": "Adult wandering albatrosses weigh 6–12 kg (13–26 lb), with males about 20 percent heavier than females. They are among the heaviest flying seabirds. Chicks become even heavier than their parents before fledging, then slim down as they grow flight feathers and exercise their wings.",
+    "size": "The wandering albatross has a wingspan of 2.5–3.5 m (8.2–11.5 ft), the largest of any living bird, with an average of about 3.1 m. Its body is 1.1–1.35 m (3.6–4.4 ft) long. Claims of wingspans above 4 m have never been verified.",
+    "speed": "GPS-tracked wandering albatrosses average about 55 km/h (34 mph) over the ground in gliding flight, and they go much faster with a strong tailwind. They use dynamic soaring, repeatedly climbing into the wind and swooping downwind, which lets them cover up to about 1,000 km in a day while barely flapping.",
+    "gestation": "A wandering albatross egg hatches after about 78 days, or 11 weeks, among the longest incubation periods of any bird. The pair lays a single egg and swaps incubation shifts that can last a week or more. The chick takes roughly nine months to fledge, so a successful pair breeds only every second year.",
+    "diet": "Wandering albatrosses are carnivores that eat mainly squid, along with fish, crustaceans and floating carrion. They seize prey at the surface or in shallow plunges, often at night when squid rise, and they follow ships for offal. That habit leads them to swallow baited longline hooks and drown.",
+    "habitat": "Wandering albatrosses live over the open Southern Ocean, circling Antarctica in the windy latitudes between about 30° and 60° south. They come to land only to breed, on a handful of remote sub-Antarctic islands including South Georgia, Crozet, Kerguelen, Prince Edward and Macquarie, nesting on open, windswept grassy slopes.",
+    "conservation": "The wandering albatross is listed as Vulnerable on the IUCN Red List, with about 20,100 mature individuals and a decreasing trend. Drowning on longline fishing hooks is the main cause. Introduced mice attack chicks on Marion Island, and plastic ingestion is a growing concern. Bird-scaring lines, weighted hooks and night setting reduce bycatch where they are used."
+  },
+  "funFacts": [
+    "Its wingspan, up to about 3.5 m (11.5 ft), is the largest of any living bird, roughly twice the arm span of a tall adult person.",
+    "A tendon locks the wing in place at the shoulder, so the albatross can hold its wings outstretched for hours with almost no muscular effort.",
+    "Tracked birds taking a year off between breeding attempts have flown right around Antarctica, some of them two or three times in a single year.",
+    "Young wandering albatrosses spend their first five years or more entirely at sea before returning to the island where they hatched.",
+    "Pairs perform an elaborate courtship dance with outstretched wings, bill clapping and sky-pointing, and usually stay together for life."
+  ],
+  "relatedAnimals": ["emperor-penguin", "atlantic-puffin", "andean-condor", "common-swift", "bald-eagle"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Which bird has the largest wingspan?", "answer": "The wandering albatross has the largest wingspan of any living bird, typically 2.5–3.5 m (8.2–11.5 ft) and averaging about 3.1 m. The southern royal albatross comes close. The Andean condor and great white pelican have the largest wingspans among land and freshwater birds, at around 3 m."},
+    {"question": "How long can a wandering albatross fly without landing?", "answer": "Wandering albatrosses can stay at sea for years without touching land; juveniles do not return to land for five years or more. They do not fly nonstop, however. Tracking shows they regularly rest and feed on the water, especially at night and in calm weather."},
+    {"question": "Do albatrosses sleep while flying?", "answer": "Possibly, but it has not been shown directly in albatrosses. Frigatebirds have been recorded taking very short naps in flight, so albatrosses may do the same. Since albatrosses often sit on the water for hours, much of their sleep probably happens there."},
+    {"question": "Do wandering albatrosses mate for life?", "answer": "Yes, in most cases. Pairs form after several seasons of courtship dancing and normally stay together until one bird dies, reuniting at the same nest site every second year. 'Divorce' is rare, and a bird that loses its mate may take years to breed again."},
+    {"question": "Why is killing an albatross considered bad luck?", "answer": "The belief comes largely from Samuel Taylor Coleridge's 1798 poem 'The Rime of the Ancient Mariner', in which a sailor shoots an albatross and brings a curse on his ship. The phrase 'an albatross around one's neck', meaning a heavy burden, comes from the same poem."}
+  ],
+  "meta": {
+    "title": "Wandering Albatross Wingspan, Size, Lifespan & Facts",
+    "description": "The wandering albatross has the largest wingspan of any bird, 2.5–3.5 m (8.2–11.5 ft), weighs 6–12 kg and lives 30–50 years. Flight, diet and threats.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Diomedea%20exulans&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Diomedea_exulans/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Diomedea_exulans"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Wandering_albatross"}
+    ]
+  }
+}

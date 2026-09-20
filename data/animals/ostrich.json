@@ -1,0 +1,64 @@
+{
+  "slug": "ostrich",
+  "commonName": "Common Ostrich",
+  "scientificName": "Struthio camelus",
+  "alternateNames": ["Ostrich"],
+  "nameSingular": "ostrich",
+  "namePlural": "ostriches",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Struthioniformes", "family": "Struthionidae", "genus": "Struthio", "species": "S. camelus"},
+  "facts": {
+    "lifespan": {"min": 30, "max": 40, "unit": "years", "context": "in the wild", "display": "30–40 years"},
+    "lifespanCaptivity": {"min": 40, "max": 50, "unit": "years", "context": "in human care", "display": "40–50 years"},
+    "weight": {"min": 90, "max": 145, "unit": "kg", "context": "adults; females about 90–110 kg, males about 100–145 kg, with exceptional males over 150 kg", "display": "90–145 kg (200–320 lb)"},
+    "height": {"min": 1.7, "max": 2.7, "unit": "m", "label": "Height", "display": "1.7–2.7 m (5.6–8.9 ft)"},
+    "speed": {"min": 70, "max": 70, "unit": "km/h", "verb": "run", "context": "short sprints; about 50 km/h can be sustained over longer distances", "display": "70 km/h (43 mph)"},
+    "gestationPeriod": {"min": 35, "max": 45, "unit": "days", "label": "Incubation", "display": "about 42 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Mostly plants: grasses, seeds, leaves, shrubs, flowers, roots and succulents, with some insects such as locusts and the occasional lizard or other small animal.",
+    "habitat": ["Savanna", "Semi-desert", "Dry grassland", "Open scrub", "Desert plains"],
+    "range": "Open country in Africa: the Sahel belt south of the Sahara, East Africa, and southern Africa from Namibia and Botswana to South Africa; farmed worldwide.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The common ostrich is the largest and heaviest living bird, a flightless giant of Africa's savannas and semi-deserts that can stand taller than any basketball player and outrun a racehorse over a short distance. Males are black with white wing and tail plumes; females and young birds are gray-brown. Long, bare, powerful legs end in just two toes, a feature unique among birds. Ostriches live in small herds, often alongside zebras and antelopes, and lay the largest eggs of any living animal. The Somali ostrich of the Horn of Africa, once considered a subspecies, is now classed as a separate species.",
+  "answers": {
+    "lifespan": "Common ostriches live 30–40 years in the wild and 40–50 years in human care. Adults have few predators because of their size, speed and dangerous kick, but eggs and chicks are heavily preyed upon by jackals, hyenas, vultures and other animals, and only a small share of chicks reach adulthood.",
+    "weight": "Adult common ostriches weigh 90–145 kg (200–320 lb), more than any other living bird. Males are larger, at about 100–145 kg, while females weigh roughly 90–110 kg. Exceptional males exceed 150 kg. A newly hatched chick already weighs about 1 kg.",
+    "size": "Common ostriches stand 1.7–2.7 m (5.6–8.9 ft) tall, making them the tallest birds on Earth. Males typically reach 2.1–2.7 m and females 1.7–2 m. Nearly half of the height is neck, and the eye, about 5 cm across, is the largest of any land vertebrate.",
+    "speed": "An ostrich can sprint at about 70 km/h (43 mph), the fastest running speed of any bird and of any animal on two legs. It can hold around 50 km/h (31 mph) for long distances. Each stride covers 3–5 m, and the wings act as rudders for balance and sharp turns.",
+    "gestation": "Ostrich eggs hatch after about 42 days of incubation, within a range of 35–45 days. Several hens lay in one communal scrape, and the dominant female incubates by day while the male takes over at night. Chicks can run within days and grow about 30 cm a month at first.",
+    "diet": "Ostriches are omnivores that eat mainly plants, including grasses, seeds, leaves, flowers, roots and succulents, plus some locusts, other insects and small lizards. They swallow pebbles and sand to grind food in the gizzard. They can go days without drinking, getting most of their water from plants.",
+    "habitat": "Common ostriches live in the open, dry landscapes of Africa: savanna, short grassland, semi-desert and desert plains. They avoid dense woodland and tall grass, where they cannot see approaching predators or run freely. They once also lived across the Middle East, where the Arabian subspecies was hunted to extinction in the mid-twentieth century.",
+    "conservation": "The common ostrich is listed as Least Concern on the IUCN Red List, but its wild population is decreasing. It has disappeared from much of its former range in North and West Africa through hunting, egg collecting and habitat loss. The North African subspecies is now very rare. Ostriches are also farmed in many countries for meat, leather and feathers."
+  },
+  "funFacts": [
+    "An ostrich egg weighs about 1.4 kg (3 lb), the equivalent of roughly two dozen chicken eggs, yet it is the smallest egg of any bird relative to the mother's size.",
+    "Ostriches do not bury their heads in the sand. They lie flat with the neck stretched along the ground to hide, and they lower their heads to turn eggs and swallow grit.",
+    "The ostrich is the only bird with two toes on each foot; the larger toe carries a thick nail up to 10 cm long.",
+    "A forward kick from an ostrich is powerful enough to seriously injure or kill a lion or a person.",
+    "The ostrich's eye is about 5 cm across, the largest of any land animal and bigger than its brain."
+  ],
+  "relatedAnimals": ["emu", "kiwi", "emperor-penguin", "giraffe", "plains-zebra", "cheetah"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do ostriches really bury their heads in the sand?", "answer": "No. The myth probably comes from two real behaviors. A threatened ostrich may flop down and press its long neck flat on the ground, and nesting birds lower their heads into the nest scrape to turn the eggs. From a distance, both can look like a buried head."},
+    {"question": "Can an ostrich kill a human?", "answer": "Yes, though it is rare. An ostrich kicks forward and downward with great force, and the long nail on its main toe can cause deep wounds. Most serious injuries happen on farms or when people approach nests or breeding males. Wild ostriches usually run from humans."},
+    {"question": "Why can't ostriches fly?", "answer": "Ostriches are far too heavy for their small wings, and their breastbone is flat, lacking the keel that anchors flight muscles in flying birds. Their feathers are loose and fluffy rather than stiff and aerodynamic. They belong to the ratites, a group of mostly flightless birds that includes emus and kiwis."},
+    {"question": "How big is an ostrich egg?", "answer": "An ostrich egg is about 15 cm (6 in) long and weighs around 1.4 kg (3 lb), the largest egg of any living bird. The glossy cream shell is about 2 mm thick and strong enough to support an adult person's weight. Hard-boiling one takes well over an hour."},
+    {"question": "Can you ride an ostrich?", "answer": "People do ride and even race ostriches in parts of South Africa and the United States, but it is not recommended. The birds are not built to carry weight, are difficult to steer and can be dangerous, and animal welfare groups oppose the practice."}
+  ],
+  "meta": {
+    "title": "Ostrich Facts: Speed, Height, Weight, Eggs & Lifespan",
+    "description": "Ostriches sprint at 70 km/h (43 mph), stand 1.7–2.7 m tall, weigh 90–145 kg and live 30–40 years in the wild. Eggs, diet, kick and habitat explained.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Struthio%20camelus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Struthio_camelus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Struthio_camelus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Common_ostrich"}
+    ]
+  }
+}

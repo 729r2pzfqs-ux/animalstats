@@ -1,0 +1,65 @@
+{
+  "slug": "american-lobster",
+  "commonName": "American Lobster",
+  "scientificName": "Homarus americanus",
+  "alternateNames": ["Maine lobster", "Atlantic lobster", "Canadian lobster", "Northern lobster"],
+  "nameSingular": "American lobster",
+  "namePlural": "American lobsters",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Malacostraca", "classSlug": "invertebrates", "order": "Decapoda", "family": "Nephropidae", "genus": "Homarus", "species": "H. americanus"},
+  "facts": {
+    "lifespan": {"min": 30, "max": 50, "unit": "years", "context": "estimated potential lifespan; lobsters are hard to age and the largest may be considerably older", "display": "an estimated 30–50 years or more"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 0.5, "max": 4, "unit": "kg", "context": "typical adults; the record is 20.1 kg (44 lb)", "display": "0.5–4 kg (1–9 lb)"},
+    "height": {"min": 20, "max": 60, "unit": "cm", "label": "Body length", "display": "20–60 cm (8–24 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 270, "max": 365, "unit": "days", "label": "Egg development", "display": "9–12 months carried under the female's tail"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Crabs, mussels, clams, sea urchins, starfish, marine worms and fish, mostly caught alive, along with some algae and eelgrass and the bait inside lobster traps.",
+    "habitat": ["Rocky seabed", "Coastal waters", "Continental shelf"],
+    "range": "Northwest Atlantic coast of North America from Labrador to North Carolina, most abundant in the Gulf of Maine and around the Canadian Maritime provinces.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The American lobster is the heaviest crustacean in the world and the basis of the most valuable fishery in Atlantic Canada and New England. It has a hard, dark blue-green to brown shell, which turns red only when cooked, and two unequal claws: a heavy crusher for breaking shells and a slimmer, sharp-edged cutter. Lobsters shelter in rocky crevices and burrows by day and forage at night. They grow by molting and keep growing throughout life, so the oldest animals are the largest. It is a close relative of the smaller European lobster and is not closely related to clawless spiny lobsters.",
+  "answers": {
+    "lifespan": "American lobsters are estimated to live 30–50 years or more, and the very largest may be much older. Ages are uncertain because a lobster sheds every hard part of its body when it molts, leaving little to count. Most lobsters in fished areas are caught soon after reaching legal size, at roughly 5–8 years old.",
+    "weight": "A typical adult American lobster weighs 0.5–4 kg (1–9 lb), and most of those sold are 0.5–1 kg. The heaviest on record, caught off Nova Scotia in 1977, weighed 20.1 kg (44 lb), which makes this species the heaviest crustacean and the heaviest living arthropod.",
+    "size": "American lobsters are usually 20–60 cm (8–24 in) long from the tip of the head to the tail fan, not counting the claws or antennae. Fisheries measure the carapace instead: the minimum legal size in Maine is 3.25 inches (about 83 mm) of carapace length. Record animals have exceeded 1 m with the claws included.",
+    "speed": null,
+    "gestation": "A female American lobster carries her eggs under her tail for 9–12 months before they hatch. She may first store the male's sperm for many months after mating, so the whole process from mating to hatching can approach two years. A female carries from a few thousand to tens of thousands of eggs depending on her size, and the larvae drift in surface waters for several weeks.",
+    "diet": "American lobsters are omnivores that mostly eat live prey: crabs, mussels, clams, sea urchins, starfish, worms and fish. They also eat some algae and eelgrass and will scavenge, but the idea that they live mainly on dead matter is a myth. They often eat their own shed shell to recover its calcium.",
+    "habitat": "American lobsters live on rocky and cobble seabeds along the Atlantic coast of North America from Labrador to North Carolina. They are most common in cold, shallow coastal water from about 4 to 50 m (13–165 ft) deep but also occur on the outer continental shelf down to several hundred meters.",
+    "conservation": "The American lobster is listed as Least Concern on the IUCN Red List. Stocks in the Gulf of Maine and Atlantic Canada have been at or near record highs in recent decades, while the southern New England stock has collapsed as waters warm. The fishery is tightly regulated with size limits and protection for egg-bearing females."
+  },
+  "funFacts": [
+    "Live American lobsters are dark blue-green or brown; they turn red when cooked because heat releases the red pigment astaxanthin from the proteins that mask it.",
+    "About one lobster in two million is bright blue, the result of a genetic quirk that overproduces a particular shell protein.",
+    "Lobsters have a crusher claw and a cutter claw, and individuals can be 'right-handed' or 'left-handed' depending on which side carries the crusher.",
+    "In Maine, fishers cut a V-shaped notch in the tail of any egg-bearing female they catch, and notched females may never be kept.",
+    "A lobster's bladder is in its head, and lobsters signal to each other by squirting urine from openings near the base of the antennae."
+  ],
+  "relatedAnimals": ["japanese-spider-crab", "common-octopus", "emperor-scorpion", "common-starfish", "ocean-quahog", "harbor-seal"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are lobsters immortal?", "answer": "No, lobsters are not immortal. They show few typical signs of aging and keep growing and breeding when old, but molting takes more and more energy as they get bigger. Old lobsters eventually die of exhaustion during a molt, from shell disease, or from predators and fishing."},
+    {"question": "What is the biggest lobster ever caught?", "answer": "The heaviest lobster on record weighed 20.1 kg (44 lb 6 oz) and was caught off Nova Scotia, Canada, in 1977, according to Guinness World Records. It was an American lobster, and its age was never reliably determined."},
+    {"question": "Why do lobsters turn red when cooked?", "answer": "Lobster shell contains the red pigment astaxanthin, which in a living animal is bound to a protein that makes it look blue-green or brown. Cooking breaks down the protein and frees the pigment, so the shell turns bright red."},
+    {"question": "How can you tell how old a lobster is?", "answer": "There is no easy way, because a lobster sheds its whole shell each time it molts. Age is usually estimated from size, and researchers have also counted growth bands in parts of the stomach's grinding mill and eyestalk, though the method is still debated."},
+    {"question": "What is the difference between an American lobster and a spiny lobster?", "answer": "An American lobster has two large claws and lives in cold North Atlantic water. Spiny lobsters, also called rock lobsters, have no large claws, carry long thick spiny antennae, live mostly in warm seas, and belong to a separate family that is only distantly related."},
+    {"question": "Do lobsters feel pain?", "answer": "The evidence suggests they may. Lobsters and other decapod crustaceans show stress responses and avoid harmful stimuli, and a 2021 scientific review for the UK government concluded they are likely sentient. Several countries now require lobsters to be stunned before boiling."}
+  ],
+  "meta": {
+    "title": "American Lobster Facts: Lifespan, Size, Weight & Diet",
+    "description": "American lobsters may live 30–50 years or more, usually weigh 0.5–4 kg (1–9 lb), and the record is 20.1 kg. Growth, eggs, diet and habitat explained.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Homarus%20americanus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Homarus_americanus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Homarus_americanus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/American_lobster"}
+    ]
+  }
+}

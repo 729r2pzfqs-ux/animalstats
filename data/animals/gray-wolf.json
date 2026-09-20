@@ -1,0 +1,64 @@
+{
+  "slug": "gray-wolf",
+  "commonName": "Gray Wolf",
+  "scientificName": "Canis lupus",
+  "alternateNames": ["Wolf", "Grey wolf", "Timber wolf"],
+  "nameSingular": "gray wolf",
+  "namePlural": "gray wolves",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Canidae", "genus": "Canis", "species": "C. lupus"},
+  "facts": {
+    "lifespan": {"min": 6, "max": 8, "unit": "years", "context": "in the wild; a few reach 13", "display": "6–8 years"},
+    "lifespanCaptivity": {"min": 12, "max": 15, "unit": "years", "context": "in human care", "display": "12–15 years"},
+    "weight": {"min": 23, "max": 65, "unit": "kg", "context": "adults; size increases toward the north, where large males can reach 80 kg", "display": "23–65 kg (50–145 lb)"},
+    "height": {"min": 0.65, "max": 0.85, "unit": "m", "label": "Shoulder height", "display": "65–85 cm (26–33 in)"},
+    "speed": {"min": 50, "max": 60, "unit": "km/h", "verb": "run", "context": "short chases; trots at 8–10 km/h for hours", "display": "50–60 km/h (31–37 mph)"},
+    "gestationPeriod": {"min": 61, "max": 63, "unit": "days", "label": "Gestation", "display": "about 63 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mainly large hoofed mammals such as deer, elk, moose, caribou, bison and wild boar, hunted in packs; also beavers, hares, rodents, carrion and, in some areas, livestock and garbage.",
+    "habitat": ["Forest", "Tundra", "Grassland", "Mountains", "Desert"],
+    "range": "Across the Northern Hemisphere: Canada, Alaska, the northern United States, much of Europe, and Asia from Russia to the Middle East, India and China.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The gray wolf is the largest wild member of the dog family and the ancestor of the domestic dog. It once had the widest natural range of any land mammal besides humans, covering most of the Northern Hemisphere, and it still lives from Arctic tundra to Arabian desert. Wolves live in packs that are really families: a breeding pair and their offspring from the past one to three years. Packs cooperate to hunt prey many times their own size and defend territories with scent marks and howling. Centuries of persecution wiped wolves out of much of Europe and the United States, where they are now slowly returning.",
+  "answers": {
+    "lifespan": "Gray wolves live 6–8 years in the wild on average, and a few reach 13. In captivity they typically live 12–15 years. Wild wolves lead hard lives: the leading causes of death are killing by humans, fights with neighboring packs, injuries from large prey, starvation and disease such as mange and distemper.",
+    "weight": "Adult gray wolves weigh 23–65 kg (50–145 lb). Males are about 20 percent heavier than females, and wolves get bigger toward the north: those in Alaska and Canada average 40–50 kg, with large males reaching 80 kg, while Arabian and Indian wolves often weigh under 25 kg.",
+    "size": "A gray wolf stands 65–85 cm (26–33 in) tall at the shoulder. Adults measure 1–1.6 m (3.3–5.2 ft) from nose to rump, with a tail of 30–50 cm. Compared with a similar-sized dog, a wolf has longer legs, bigger feet, a narrower chest and a larger head.",
+    "speed": "Gray wolves can run at 50–60 km/h (31–37 mph) during a chase. Their real strength is endurance: wolves travel at a steady trot of 8–10 km/h and can cover 50 km or more in a day while patrolling territory or searching for prey.",
+    "gestation": "A gray wolf pregnancy lasts about 63 days, the same as a domestic dog. Usually only the pack's breeding female gives birth, once a year in spring. A typical litter is four to six pups, born blind and deaf in a den, and the whole pack helps feed and guard them.",
+    "diet": "Gray wolves are carnivores that mainly hunt large hoofed animals such as deer, elk, moose, caribou and wild boar. They also take beavers, hares and rodents and readily scavenge. A wolf can eat around 9 kg (20 lb) of meat in one sitting and then go several days without food.",
+    "habitat": "Gray wolves live in forests, tundra, grasslands, mountains and deserts across North America, Europe and Asia. They are habitat generalists that need mainly enough prey and tolerance from people. Pack territories range from under 100 to more than 2,500 square km, depending on how dense the prey is.",
+    "conservation": "The gray wolf is listed as Least Concern on the IUCN Red List, with a stable global population. Its status varies greatly by region: wolves are abundant in Canada, Alaska and Russia, recovering in western Europe and parts of the United States, and still rare or endangered in places such as Mexico and much of the Middle East."
+  },
+  "funFacts": [
+    "All domestic dogs descend from wolves, domesticated from a now-extinct wolf population at least 15,000 years ago.",
+    "The idea of an 'alpha wolf' fighting its way to the top came from studies of captive strangers; wild packs are families led by the parents.",
+    "Wolves were reintroduced to Yellowstone National Park in 1995, about 70 years after the last ones there were killed.",
+    "Each wolf's howl is distinct, and packs howl together to rally the group and warn neighboring packs away from their territory.",
+    "Wolves walk on their toes and have large feet that spread on snow, helping them travel in deep winter conditions that slow their prey."
+  ],
+  "relatedAnimals": ["dog", "coyote", "red-fox", "african-wild-dog", "arctic-fox", "spotted-hyena"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are wolves dangerous to humans?", "answer": "Wild wolves very rarely attack people. Healthy wolves are wary of humans and usually avoid them. Most documented attacks have involved rabid wolves, wolves habituated to human food, or regions with little wild prey. Fatal attacks in North America and Europe in the past century number only a handful."},
+    {"question": "What is a group of wolves called?", "answer": "A group of wolves is called a pack. A typical pack is a family of five to ten animals: a breeding male and female and their offspring from the last few years. Young wolves usually leave at one to three years old to find a mate and start their own pack."},
+    {"question": "Why do wolves howl?", "answer": "Wolves howl to communicate over long distances. Howling helps pack members find each other, strengthens social bonds, and tells neighboring packs that a territory is occupied. Wolves do not howl at the moon; they simply tend to be more active, and more vocal, at night."},
+    {"question": "What is the difference between a wolf and a coyote?", "answer": "Gray wolves are much bigger, typically 23–65 kg against 7–21 kg for a coyote. Wolves have broader snouts, shorter rounded ears and larger feet, and they hunt large prey in packs. Coyotes have narrow, pointed faces, tall ears and mostly hunt small animals alone or in pairs."},
+    {"question": "Can wolves and dogs breed?", "answer": "Yes. Dogs are domesticated descendants of wolves and the two can interbreed and produce fertile offspring, known as wolfdogs. Hybridization with feral dogs is a conservation concern for some small wolf populations. Wolfdogs are unpredictable and are restricted or banned as pets in many places."}
+  ],
+  "meta": {
+    "title": "Gray Wolf Facts: Size, Speed, Lifespan & Pack Life",
+    "description": "Gray wolves weigh 23–65 kg (50–145 lb), stand 65–85 cm at the shoulder, run 50–60 km/h and live 6–8 years in the wild. Diet, packs, habitat and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Canis%20lupus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Canis_lupus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Canis_lupus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Wolf"}
+    ]
+  }
+}

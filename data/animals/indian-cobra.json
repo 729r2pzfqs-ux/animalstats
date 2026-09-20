@@ -1,0 +1,64 @@
+{
+  "slug": "indian-cobra",
+  "commonName": "Indian Cobra",
+  "scientificName": "Naja naja",
+  "alternateNames": ["Spectacled cobra", "Asian cobra", "Binocellate cobra", "Nag"],
+  "nameSingular": "Indian cobra",
+  "namePlural": "Indian cobras",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Squamata", "family": "Elapidae", "genus": "Naja", "species": "N. naja"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 25, "unit": "years", "context": "estimated; poorly documented in the wild", "display": "about 15–25 years (estimated)"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 1, "max": 2.5, "unit": "kg", "context": "approximate adult range; few published weights exist", "display": "about 1–2.5 kg (2.2–5.5 lb)"},
+    "height": {"min": 1, "max": 1.5, "unit": "m", "label": "Length", "display": "1–1.5 m (3.3–4.9 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 48, "max": 69, "unit": "days", "label": "Incubation", "display": "48–69 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mainly rats and mice, along with frogs, toads, lizards, other snakes, birds and eggs. Its taste for rodents draws it into grain stores, farms and villages, which is why it meets people so often.",
+    "habitat": ["Farmland and rice paddies", "Open forest", "Scrubland", "Grassland", "Villages and city edges"],
+    "range": "The Indian subcontinent: India, Pakistan, Sri Lanka, Bangladesh and southern Nepal, from sea level to about 2,000 m.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The Indian cobra, or spectacled cobra, is the snake most people picture when they think of a cobra: a medium-sized, hooded snake with a marking like a pair of eyeglasses on the back of its hood. It is a true cobra of the genus Naja and is common across the Indian subcontinent, often close to people because it hunts rats in fields and villages. It is one of India's Big Four, the four snake species responsible for most serious snakebites in the region. The Indian cobra is revered in Hinduism, linked with the god Shiva and honored during the Nag Panchami festival, and it is the traditional snake of snake charmers.",
+  "answers": {
+    "lifespan": "Indian cobras are estimated to live about 15–25 years. Wild lifespans are poorly documented, and most figures come from captive snakes, which tend to live longer than wild ones because they are protected from predators, vehicles and people.",
+    "weight": "Adult Indian cobras weigh roughly 1–2.5 kg (2.2–5.5 lb). Published weights are scarce, so treat the range as approximate. They are much lighter than the king cobra, which commonly weighs 5–9 kg and belongs to a different genus.",
+    "size": "Adult Indian cobras are typically 1–1.5 m (3.3–4.9 ft) long. Exceptional individuals, particularly in Sri Lanka, reach just over 2 m. Hatchlings are 20–30 cm long and can spread a hood and deliver a venomous bite from birth.",
+    "speed": null,
+    "gestation": "Indian cobra eggs hatch after 48–69 days. Females lay 10–30 eggs between April and July in rat holes, termite mounds or hollow logs and often stay coiled nearby to guard them. The hatchlings are independent and fully venomous from the start.",
+    "diet": "Indian cobras are carnivores that eat mainly rodents, along with frogs, toads, lizards, birds, eggs and other snakes. They hunt mostly at dusk and dawn. By eating large numbers of rats they benefit farmers, even though living near people makes bites more likely.",
+    "habitat": "Indian cobras live across India, Pakistan, Sri Lanka, Bangladesh and southern Nepal in a wide range of habitats, including farmland, rice paddies, open forest, scrub and the outskirts of towns. They shelter in termite mounds, rodent burrows, tree hollows and rock piles, usually near water.",
+    "conservation": "The Indian cobra is listed as Least Concern on the IUCN Red List, as it remains widespread and adaptable. It is protected under India's Wildlife Protection Act and listed on CITES Appendix II. Local threats include killing on sight, road deaths and illegal capture for skins and snake charming."
+  },
+  "funFacts": [
+    "The eyeglass-shaped marking on the back of the hood gives the snake its other common name, spectacled cobra; some individuals lack it entirely.",
+    "A snake charmer's cobra is not dancing to the music. Snakes hear airborne sound poorly, and the cobra is following the movement of the pipe as a possible threat.",
+    "The Indian cobra's genome was sequenced in 2020, with the aim of developing better, synthetic antivenoms.",
+    "Along with the common krait, Russell's viper and saw-scaled viper, the Indian cobra is one of the Big Four snakes behind most snakebite deaths in India.",
+    "The hood is formed by long, movable ribs in the neck that swing outward and stretch the loose skin."
+  ],
+  "relatedAnimals": ["king-cobra", "black-mamba", "rattlesnake", "burmese-python", "honey-badger", "brown-rat"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How dangerous is an Indian cobra bite?", "answer": "It is a medical emergency. The venom is mainly neurotoxic, causing drooping eyelids, difficulty swallowing, paralysis and breathing failure, along with pain and tissue damage around the bite. With rapid antivenom treatment most victims recover. Many defensive bites inject little or no venom, but that can never be assumed."},
+    {"question": "Can Indian cobras spit venom?", "answer": "Not in the way true spitting cobras do. The Indian cobra's fangs are not adapted for spraying, although a few individuals have been reported to eject venom a short distance. Its close relatives the Indochinese and Javan spitting cobras are genuine spitters."},
+    {"question": "What is the difference between an Indian cobra and a king cobra?", "answer": "The Indian cobra is a true cobra of the genus Naja, about 1–1.5 m long, that eats mostly rodents and frogs. The king cobra belongs to a separate genus, grows to 3–4 m, has a narrower hood without the spectacle mark, and eats mainly other snakes."},
+    {"question": "How many people die from snakebites in India?", "answer": "A large national study estimated about 58,000 snakebite deaths a year in India between 2000 and 2019, the highest toll of any country. The Indian cobra is one of four species responsible for most of them, along with Russell's viper, the common krait and the saw-scaled viper."},
+    {"question": "Can a mongoose kill an Indian cobra?", "answer": "Yes. Mongooses are fast and agile enough to dodge strikes and kill a cobra with a bite to the head. They also have some resistance to cobra venom because of changes in their nerve receptors, though they are not fully immune and can die from a heavy bite."}
+  ],
+  "meta": {
+    "title": "Indian Cobra (Spectacled Cobra): Size, Venom & Facts",
+    "description": "Indian cobras grow 1–1.5 m (3.3–4.9 ft) long, weigh about 1–2.5 kg and lay eggs that hatch in 48–69 days. Venom, diet, habitat and Big Four status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Naja%20naja&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Naja_naja/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Indian_cobra"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q192754"}
+    ]
+  }
+}

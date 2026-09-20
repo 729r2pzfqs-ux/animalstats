@@ -1,0 +1,55 @@
+{
+  "slug": "rabbit-vs-hare",
+  "summary": "The main difference between rabbits and hares is how their young are born: baby rabbits arrive blind, hairless and helpless in a fur-lined nest, while baby hares are born fully furred with open eyes, ready to move within hours. Hares are also larger, with longer ears and hind legs, live above ground, and rely on speed rather than burrows to escape danger.",
+  "differences": [
+    {
+      "title": "Newborns",
+      "text": "Rabbit young, called kits or kittens, are altricial: naked, blind and dependent on the warmth of a nest, usually underground. Hare young, called leverets, are precocial. They are born above ground with a full coat and open eyes, and the mother leaves them hidden in the grass, returning briefly to nurse, often just once a day."
+    },
+    {
+      "title": "Build",
+      "text": "Hares are bigger and rangier than rabbits, with noticeably longer hind legs, larger feet and longer ears that usually carry black tips. The European hare looks lean and leggy next to the compact, rounded European rabbit. Those long legs make hares exceptional runners in open country, where there is nowhere to hide."
+    },
+    {
+      "title": "Homes",
+      "text": "European rabbits dig connected burrow systems called warrens and bolt underground when alarmed. Hares do not burrow. They rest in a form, a shallow depression scraped in grass or soil, and depend on camouflage and then on sheer speed. North American cottontails are rabbits that also rest above ground, but they still bear helpless young."
+    },
+    {
+      "title": "Social life",
+      "text": "European rabbits are sociable animals that live in colonies with a dominance hierarchy, which is one reason they adapted so well to life with people. Hares are mostly solitary, coming together mainly to breed. The famous spring 'boxing' of European hares is usually a female fending off an overeager male."
+    },
+    {
+      "title": "Domestication",
+      "text": "Every breed of pet and farm rabbit descends from the European rabbit, domesticated in Europe many centuries ago. Hares have never been domesticated; they are nervous, fast and do poorly in captivity. Names can mislead: the Belgian hare is a breed of domestic rabbit, and North American jackrabbits are actually hares."
+    }
+  ],
+  "similarities": "Rabbits and hares belong to the same family, Leporidae, in the order Lagomorpha. They are not rodents. Both have long ears, powerful hind legs, a short tail and a second small pair of upper incisors, called peg teeth, behind the main pair. Both are strict herbivores that re-eat special soft droppings to extract more nutrition from their food.",
+  "howToTell": [
+    "Look at the ears: hares have longer ears, usually with distinct black tips; rabbit ears are shorter.",
+    "Watch how it escapes. A rabbit dashes to a burrow or thick cover; a hare sprints across open ground.",
+    "Hares look long-legged and lean, while rabbits look compact and rounded.",
+    "A fully furred, open-eyed baby sitting alone in a field is a leveret, not a rabbit kit."
+  ],
+  "faq": [
+    {
+      "question": "Can rabbits and hares interbreed?",
+      "answer": "No. Rabbits and hares belong to different genera and have different chromosome numbers: the European rabbit has 44, while hares have 48. They cannot produce offspring together. Reported 'rabbit–hare hybrids' have turned out to be misidentified rabbit breeds, such as the Belgian hare."
+    },
+    {
+      "question": "Is a jackrabbit a rabbit or a hare?",
+      "answer": "A jackrabbit is a hare. Despite the name, all jackrabbits belong to the hare genus Lepus. They have the long ears and legs typical of hares, live above ground and give birth to furred, open-eyed young. The name comes from 'jackass rabbit,' a reference to their ears."
+    },
+    {
+      "question": "Which is faster, a rabbit or a hare?",
+      "answer": "Hares are faster. With longer legs and a bigger heart relative to body size, they are built for sustained sprints across open ground, while rabbits make short dashes to the nearest burrow. The comparison table above shows the recorded top speeds for both species."
+    },
+    {
+      "question": "Can you keep a hare as a pet?",
+      "answer": "It is not recommended, and in many places it is illegal to take one from the wild. Hares have never been domesticated. They are easily stressed, need large open spaces and can injure themselves when frightened. Domestic rabbits, by contrast, were bred for life alongside people."
+    }
+  ],
+  "meta": {
+    "title": "Rabbit vs Hare: Key Differences Explained",
+    "description": "Rabbits are born blind and hairless in burrows; hares are born furred with open eyes above ground. Hares are larger with longer ears and legs."
+  }
+}

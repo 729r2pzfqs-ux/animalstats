@@ -1,0 +1,22 @@
+{
+  "slug": "reticulated-python",
+  "commonName": "Reticulated Python",
+  "scientificName": "Malayopython reticulatus",
+  "classSlug": "reptiles",
+  "aliases": [
+    "python"
+  ],
+  "qid": "Q216136",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Reticulated python",
+  "taxonomy": {
+    "species": "Python reticulatus",
+    "genus": "Malayopython",
+    "family": "Pythonidae",
+    "order": "Squamata",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

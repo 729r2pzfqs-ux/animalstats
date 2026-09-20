@@ -1,0 +1,22 @@
+{
+  "slug": "cane-toad",
+  "commonName": "Cane Toad",
+  "scientificName": "Rhinella marina",
+  "classSlug": "amphibians",
+  "aliases": [
+    "toad"
+  ],
+  "qid": "Q321087",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Cane toad",
+  "taxonomy": {
+    "species": "Rhinella marina",
+    "genus": "Rhinella",
+    "family": "Bufonidae",
+    "order": "Anura",
+    "class": "Amphibia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "moose",
+  "commonName": "Moose",
+  "scientificName": "Alces alces",
+  "alternateNames": ["Eurasian elk", "Elk (in Europe)"],
+  "nameSingular": "moose",
+  "namePlural": "moose",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Cervidae", "genus": "Alces", "species": "A. alces"},
+  "facts": {
+    "lifespan": {"min": 8, "max": 12, "unit": "years", "context": "typical in the wild; occasionally 15–20", "display": "8–12 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 200, "max": 700, "unit": "kg", "context": "adults; cows 200–490 kg, bulls 380–700 kg; Alaskan moose are the largest", "display": "200–700 kg (440–1,540 lb)"},
+    "height": {"min": 1.4, "max": 2.1, "unit": "m", "label": "Shoulder height", "display": "1.4–2.1 m (4.6–6.9 ft)"},
+    "speed": {"min": 56, "max": 56, "unit": "km/h", "verb": "run", "context": "short bursts", "display": "56 km/h (35 mph)"},
+    "gestationPeriod": {"min": 225, "max": 245, "unit": "days", "label": "Gestation", "display": "about 230 days (8 months)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Leaves, twigs and bark of willow, birch, aspen and other woody plants, plus conifer needles in winter and sodium-rich aquatic plants such as pondweed and water lilies in summer.",
+    "habitat": ["Boreal forest", "Mixed forest", "Wetland", "Lake shore", "Subarctic tundra edge"],
+    "range": "Northern forests around the globe: Alaska, Canada and the northern United States, and from Scandinavia and the Baltic through Russia to Mongolia and northeastern China.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The moose is the largest living member of the deer family, a long-legged browser of northern forests and wetlands. It is easily recognized by its humped shoulders, overhanging muzzle, the flap of skin called a bell under its throat and, in bulls, broad palmate antlers. In Europe the same animal is called the elk, which causes confusion with the unrelated North American elk. Unlike most deer, moose are solitary rather than herd animals. They are strong swimmers that feed on aquatic plants in summer and survive winter on twigs and bark. Moose are well adapted to cold but suffer from heat stress and winter ticks in the warming southern parts of their range.",
+  "answers": {
+    "lifespan": "Moose typically live 8–12 years in the wild, and a few reach 15–20. Cows generally outlive bulls. Calves are heavily preyed on by wolves and bears, and adults die from predation, hunting, vehicle collisions, winter tick infestations and, in old age, worn teeth and arthritis. Moose rarely thrive in captivity.",
+    "weight": "Adult bull moose weigh 380–700 kg (840–1,540 lb), and cows weigh 200–490 kg (440–1,080 lb). The Alaska–Yukon moose is the largest subspecies, with exceptional bulls recorded above 700 kg, while moose in the Rockies and in Europe are somewhat smaller.",
+    "size": "A moose stands 1.4–2.1 m (4.6–6.9 ft) tall at the shoulder, making it the tallest mammal in North America and Europe. Body length is 2.4–3.1 m (7.9–10.2 ft). A large bull's antlers can spread 1.8 m (6 ft) from tip to tip and weigh around 30 kg.",
+    "speed": "Moose can run at about 56 km/h (35 mph) over short distances and can trot steadily at around 30 km/h. Their long legs carry them easily through deep snow and bogs. They are also powerful swimmers, able to cover several kilometers at roughly 10 km/h.",
+    "gestation": "A cow moose is pregnant for about 230 days, or eight months. Mating takes place during the rut in September and October, and calves are born in May or June. Cows usually have one calf, with twins common when food is plentiful. Calves can outrun a person within days of birth.",
+    "diet": "Moose are herbivores that browse on the leaves, twigs and bark of willow, birch, aspen and other woody plants. An adult eats more than 20 kg of vegetation a day in summer. They wade and dive for aquatic plants, which supply sodium, and rely on twigs and conifer needles in winter.",
+    "habitat": "Moose live in boreal and mixed forests across Alaska, Canada, the northern United States, Scandinavia, the Baltic states and Russia to northeastern China. They favor areas with lakes, bogs, streams and young regenerating forest. They need cold climates and start to suffer heat stress at summer temperatures above roughly 14–20 °C.",
+    "conservation": "The moose is listed as Least Concern on the IUCN Red List, and its global population is increasing. Trends vary by region: numbers are high in Scandinavia and much of Canada, but some southern populations, including Minnesota's and parts of New England's, have declined sharply due to winter ticks, parasites and warming."
+  },
+  "funFacts": [
+    "A bull moose grows a full set of antlers in just three to five months each summer, then sheds them in early winter after the rut.",
+    "Moose can close their nostrils and dive several meters underwater to feed on aquatic plants.",
+    "The flap of skin hanging under a moose's throat is called a bell or dewlap; its function is still not fully understood.",
+    "The word 'moose' comes from an Algonquian term meaning 'twig eater' or 'he strips off'.",
+    "In Sweden, which has one of the densest moose populations in the world, hunters harvest many tens of thousands of moose every year."
+  ],
+  "relatedAnimals": ["elk", "reindeer", "white-tailed-deer", "red-deer", "gray-wolf", "grizzly-bear"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are moose dangerous to humans?", "answer": "Yes, moose can be dangerous. They are not predatory, but they are huge and will charge, kick and stomp when they feel threatened, especially cows with calves and bulls during the fall rut. In Alaska, moose injure more people than bears do. Collisions between vehicles and moose are often fatal."},
+    {"question": "What is the difference between a moose and an elk?", "answer": "In North America, a moose (Alces alces) is much larger and darker than an elk (Cervus canadensis), with a bulbous nose, a throat bell and flat, palmate antlers; elk have branching pointed antlers and a pale rump. In Europe, confusingly, 'elk' is the common name for the moose."},
+    {"question": "How big are moose antlers?", "answer": "The antlers of a mature bull moose typically spread 1.2–1.5 m (4–5 ft), and the largest reach about 1.8 m (6 ft) or a little more and weigh around 30 kg. Only bulls grow antlers, and the biggest sets are carried by bulls in their prime, between about 5 and 10 years old."},
+    {"question": "Can moose swim?", "answer": "Yes. Moose are excellent swimmers from a young age and can swim for several kilometers at around 10 km/h. They readily cross lakes and rivers, feed while wading, and can submerge completely to reach plants on the bottom."},
+    {"question": "What is the plural of moose?", "answer": "The plural of moose is moose, not 'mooses' or 'meese'. The word was borrowed into English in the early 1600s from an Algonquian language, so it does not follow the old English pattern that turns goose into geese."}
+  ],
+  "meta": {
+    "title": "Moose Facts: Height, Weight, Antlers, Speed & Diet",
+    "description": "A moose stands 1.4–2.1 m (4.6–6.9 ft) at the shoulder; bulls weigh 380–700 kg (840–1,540 lb). Moose run 56 km/h, swim well and live 8–12 years in the wild.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Alces%20alces&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Alces_alces/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Alces_alces"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Moose"}
+    ]
+  }
+}

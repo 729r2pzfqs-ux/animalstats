@@ -1,0 +1,64 @@
+{
+  "slug": "golden-eagle",
+  "commonName": "Golden Eagle",
+  "scientificName": "Aquila chrysaetos",
+  "alternateNames": [],
+  "nameSingular": "golden eagle",
+  "namePlural": "golden eagles",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Accipitriformes", "family": "Accipitridae", "genus": "Aquila", "species": "A. chrysaetos"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 25, "unit": "years", "context": "in the wild; banded wild birds have passed 30", "display": "15–25 years"},
+    "lifespanCaptivity": {"min": 30, "max": 45, "unit": "years", "context": "in human care", "display": "30–45 years"},
+    "weight": {"min": 3, "max": 6.5, "unit": "kg", "context": "adults; males about 3–4.5 kg, females about 4–6.5 kg", "display": "3–6.5 kg (6.6–14.3 lb)"},
+    "height": {"min": 1.8, "max": 2.3, "unit": "m", "label": "Wingspan", "display": "1.8–2.3 m (5.9–7.5 ft)"},
+    "speed": {"min": 45, "max": 52, "unit": "km/h", "verb": "fly", "context": "normal level soaring flight; hunting dives are far faster, with estimates of 240–320 km/h", "display": "45–52 km/h (28–32 mph)"},
+    "gestationPeriod": {"min": 41, "max": 45, "unit": "days", "label": "Incubation", "display": "41–45 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mostly medium-sized mammals such as rabbits, hares, ground squirrels, prairie dogs and marmots, plus grouse and other birds; also carrion, and occasionally young deer, foxes or lambs.",
+    "habitat": ["Mountains", "Open moorland", "Grassland and steppe", "Desert canyons", "Tundra"],
+    "range": "Across the Northern Hemisphere: western North America, Scotland and mountainous Europe, North Africa, and Asia from Turkey to Japan, mainly in open and upland country.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The golden eagle is one of the largest and most widespread eagles, found in open and mountainous country across North America, Europe, Asia and North Africa. Adults are dark brown with a wash of golden-tawny feathers on the back of the head and neck, and their legs are feathered down to the toes. A powerful hunter of rabbits, hares, marmots and ground squirrels, it kills with long talons driven by an immensely strong grip. Pairs hold very large territories, mate for years and build cliff or tree nests called eyries. It is the national bird of several countries, including Mexico.",
+  "answers": {
+    "lifespan": "Golden eagles usually live 15–25 years in the wild and 30–45 years in human care. Banded wild birds have passed 30 years of age. Most deaths happen in the first few years, and adult losses are often caused by people: collisions with power lines, vehicles and wind turbines, poisoning and shooting.",
+    "weight": "Adult golden eagles weigh 3–6.5 kg (6.6–14.3 lb). Females are clearly larger, at about 4–6.5 kg, while males weigh about 3–4.5 kg. Size varies by region, with the largest birds in the mountains of Central Asia and the smallest in Japan and Korea.",
+    "size": "Golden eagles have a wingspan of 1.8–2.3 m (5.9–7.5 ft) and measure 66–102 cm (26–40 in) from bill to tail. That makes them about the same size as a bald eagle. Females are larger than males, as in most birds of prey.",
+    "speed": "Golden eagles cruise at about 45–52 km/h (28–32 mph) in normal soaring flight. When hunting they can glide at up to around 190 km/h (120 mph), and full vertical dives have been estimated at 240–320 km/h (150–200 mph). Those top figures are estimates rather than precise measurements.",
+    "gestation": "Golden eagle eggs hatch after 41–45 days of incubation. The female lays one to three eggs, usually two, and does most of the sitting while the male brings food. The older chick often outcompetes or kills its smaller sibling. Young birds fledge at about 10–11 weeks.",
+    "diet": "Golden eagles are carnivores that mostly hunt rabbits, hares, ground squirrels, prairie dogs and marmots. They also take grouse, pheasants and other birds, eat carrion in winter, and can kill animals as large as foxes, young deer and cranes. Pairs sometimes hunt together, one bird flushing prey toward the other.",
+    "habitat": "Golden eagles live in open and semi-open country across the Northern Hemisphere, especially mountains, moorland, steppe, canyons and tundra. They avoid dense forest and heavily built-up areas. Nests are usually on cliff ledges, or in large trees where cliffs are scarce, with wide views over hunting grounds.",
+    "conservation": "The golden eagle is listed as Least Concern on the IUCN Red List, with a population that is considered stable overall. It has disappeared from parts of its former range in Europe and eastern North America. Current threats include illegal persecution, lead poisoning from carcasses, electrocution on power poles and wind-turbine collisions."
+  },
+  "funFacts": [
+    "In Mongolia and Kazakhstan, hunters known as berkutchi have trained golden eagles to catch foxes and hares from horseback for many centuries.",
+    "A golden eagle's legs are feathered all the way down to the toes, a trait it shares with other 'booted' eagles.",
+    "The golden eagle is widely regarded as the eagle on Mexico's coat of arms, shown perched on a cactus with a snake.",
+    "A pair's home range can exceed 150 square km, and the birds may maintain several alternative nests within it.",
+    "Golden eagles have been filmed dragging mountain goats and ibex kids off cliffs so that the fall kills them."
+  ],
+  "relatedAnimals": ["bald-eagle", "red-tailed-hawk", "peregrine-falcon", "andean-condor", "great-horned-owl"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is a golden eagle bigger than a bald eagle?", "answer": "They are almost the same size. Both species have wingspans of roughly 1.8–2.3 m and weigh 3–6.5 kg, and in each the females are larger. Bald eagles average slightly heavier in the north of their range, while golden eagles are generally the more powerful hunters."},
+    {"question": "Can a golden eagle kill a wolf or a deer?", "answer": "Golden eagles occasionally kill young or small deer, and trained eagles in Central Asia have been flown at foxes and even wolves. Such large prey is exceptional. A wild eagle's normal prey weighs 0.5–4 kg, and it cannot carry off anything much heavier than that."},
+    {"question": "How strong is a golden eagle's grip?", "answer": "Very strong. A golden eagle's grip is often estimated at several hundred pounds per square inch, many times stronger than a human hand, although precise measurements are scarce. The rear talon can be about 5 cm (2 in) long and does most of the killing."},
+    {"question": "Do golden eagles attack humans?", "answer": "Attacks are extremely rare. Golden eagles are wary of people and normally flee long before anyone gets close. Most incidents involve birds defending a nest from climbers. They do not see adult humans as prey and cannot lift a child."},
+    {"question": "Where can you see golden eagles in the United States?", "answer": "Golden eagles are mainly birds of the western United States, from Alaska and the Rocky Mountains to the deserts of the Southwest. Smaller numbers winter in the Appalachians and the East. Look for them soaring over open hills, canyons and rangeland."}
+  ],
+  "meta": {
+    "title": "Golden Eagle: Size, Wingspan, Speed, Lifespan & Diet",
+    "description": "Golden eagles have a 1.8–2.3 m wingspan, weigh 3–6.5 kg (6.6–14.3 lb) and live 15–25 years in the wild. How fast they fly and dive, diet and range.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Aquila%20chrysaetos&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Aquila_chrysaetos/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Aquila_chrysaetos"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Golden_eagle"}
+    ]
+  }
+}

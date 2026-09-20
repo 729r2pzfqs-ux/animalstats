@@ -1,0 +1,22 @@
+{
+  "slug": "brown-rat",
+  "commonName": "Brown Rat",
+  "scientificName": "Rattus norvegicus",
+  "classSlug": "mammals",
+  "aliases": [
+    "rat",
+    "norway rat"
+  ],
+  "qid": "Q184224",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Brown rat",
+  "taxonomy": {
+    "species": "Rattus norvegicus",
+    "genus": "Rattus",
+    "family": "Muridae",
+    "order": "Rodentia",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": []
+}

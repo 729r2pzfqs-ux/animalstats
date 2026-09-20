@@ -1,0 +1,64 @@
+{
+  "slug": "japanese-macaque",
+  "commonName": "Japanese Macaque",
+  "scientificName": "Macaca fuscata",
+  "alternateNames": ["Snow monkey", "Nihonzaru"],
+  "nameSingular": "Japanese macaque",
+  "namePlural": "Japanese macaques",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Primates", "family": "Cercopithecidae", "genus": "Macaca", "species": "M. fuscata"},
+  "facts": {
+    "lifespan": {"min": 22, "max": 27, "unit": "years", "context": "free-ranging troops; maximum about 28 for males and 32 for females", "display": "22–27 years"},
+    "lifespanCaptivity": {"min": 25, "max": 32, "unit": "years", "context": "in human care; approximate", "display": "25–32 years"},
+    "weight": {"min": 8, "max": 11, "unit": "kg", "context": "adult averages: females about 8.4 kg, males about 11.3 kg; northern animals are heavier", "display": "8–11 kg (18–24 lb)"},
+    "height": {"min": 50, "max": 60, "unit": "cm", "label": "Body length", "display": "50–60 cm (20–24 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 170, "max": 180, "unit": "days", "label": "Gestation", "display": "about 173 days (5.5–6 months)"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Fruit, seeds, young leaves, flowers and fungi for most of the year, with bark and winter buds in the snowy months; also insects, soil, and in some coastal troops fish and shellfish.",
+    "habitat": ["Deciduous forest", "Evergreen broadleaf forest", "Subalpine forest", "Mountains"],
+    "range": "Japan only, on the islands of Honshu, Shikoku and Kyushu and several smaller islands, south to Yakushima; absent from Hokkaido.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The Japanese macaque, or snow monkey, is a stocky, short-tailed monkey found only in Japan. It lives farther north than any other non-human primate, surviving winters in the mountains of Honshu where snow lies for months and temperatures drop to around minus 15 degrees Celsius. It has thick gray-brown fur, a bare pinkish-red face and rump, and a stumpy tail. Troops are organized around lines of related females, with strict dominance ranks that daughters inherit from their mothers. The species is famous for bathing in hot springs and for learned habits, such as washing food, that spread through troops.",
+  "answers": {
+    "lifespan": "Japanese macaques typically live 22–27 years, with recorded maximums of about 28 years for males and 32 for females. Those figures come largely from long-studied free-ranging troops, many of them fed by people. Females generally outlive males, and harsh winters are the main natural cause of death.",
+    "weight": "Adult Japanese macaques weigh 8–11 kg (18–24 lb) on average, with males at about 11.3 kg and females about 8.4 kg. Monkeys from cold northern areas are heavier than those from the south, and large males can reach 14 kg or more. The Yakushima subspecies is the smallest.",
+    "size": "A Japanese macaque's head and body measure 50–60 cm (20–24 in), averaging about 57 cm in males and 52 cm in females. The tail is a stub of only 7–10 cm. The winter coat is dense enough to make the animals look considerably bulkier than they are.",
+    "speed": null,
+    "gestation": "A Japanese macaque is pregnant for about 173 days, a little under six months. Mating takes place in fall and winter, and single infants are born between April and July. Females first give birth at about five or six years old and then usually breed every other year.",
+    "diet": "Japanese macaques are omnivores that eat more than 200 kinds of plants along with insects, fungi and soil. They feed on fruit, seeds and leaves in the warm months and build up fat for winter, when they survive largely on tree bark and buds. Some island troops eat shellfish and fish.",
+    "habitat": "Japanese macaques live in forests on three of Japan's four main islands, from subtropical evergreen forest on Yakushima to snowy subalpine forest in the Japanese Alps and northern Honshu. They range from sea level to above 3,000 m and spend time both in trees and on the ground.",
+    "conservation": "The Japanese macaque is listed as Least Concern on the IUCN Red List, with a stable population. It is widespread and has expanded in recent decades. The main conflict is crop raiding: thousands of macaques are culled every year in Japan to limit damage to farms and orchards."
+  },
+  "funFacts": [
+    "No other wild primate apart from humans lives as far north or in as cold a climate as the Japanese macaque.",
+    "The hot spring habit at Jigokudani in Nagano began in the early 1960s, when young monkeys started copying each other and entering an inn's outdoor bath.",
+    "In 1953 a young female named Imo on Koshima island began washing sweet potatoes in water, and the habit spread through her troop over the following years.",
+    "Studies at Jigokudani found that bathing in hot springs lowers the monkeys' stress hormone levels in winter.",
+    "Young Japanese macaques have been seen rolling and carrying snowballs, apparently just for play."
+  ],
+  "relatedAnimals": ["mandrill", "chimpanzee", "gorilla", "orangutan", "ring-tailed-lemur"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why do snow monkeys sit in hot springs?", "answer": "They bathe to keep warm in winter, and it also appears to reduce stress. The behavior is local and learned: it is best known from one troop at Jigokudani Monkey Park in Nagano, where bathing is most common among females and their young during the coldest months."},
+    {"question": "Where can you see snow monkeys in Japan?", "answer": "The most famous place is Jigokudani Monkey Park near Yamanouchi in Nagano Prefecture, where wild macaques bathe in a hot spring pool, mainly from December to March. Other well-known sites include Arashiyama in Kyoto, Takasakiyama in Oita, Koshima island and Yakushima."},
+    {"question": "Are Japanese macaques dangerous?", "answer": "Japanese macaques are not normally dangerous, but they are wild animals that can bite and scratch, especially if fed, stared at or approached closely. Monkeys that lose their fear of people sometimes raid homes, and occasional spates of bites have been reported in Japanese towns."},
+    {"question": "How do Japanese macaques survive the cold?", "answer": "They grow a thick winter coat, with denser fur in colder regions, and put on fat in fall. In winter they huddle together in trees at night, move less, and switch to bark and buds. Some troops also warm up in hot springs."},
+    {"question": "What is the red face of a Japanese macaque for?", "answer": "The bare face and rump are pinkish all year and turn a deeper red in adults during the fall and winter mating season. The brighter color is driven by sex hormones and signals that an animal is mature and ready to breed."}
+  ],
+  "meta": {
+    "title": "Japanese Macaque (Snow Monkey) Facts: Size & Lifespan",
+    "description": "Japanese macaques weigh 8–11 kg, measure 50–60 cm and typically live 22–27 years. Snow monkey diet, habitat, hot spring bathing and gestation facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Macaca%20fuscata&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Macaca_fuscata/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Macaca_fuscata"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Japanese_macaque"}
+    ]
+  }
+}

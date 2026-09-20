@@ -1,0 +1,41 @@
+{
+  "slug": "giant-panda",
+  "commonName": "Giant Panda",
+  "scientificName": "Ailuropoda melanoleuca",
+  "classSlug": "mammals",
+  "aliases": [
+    "panda",
+    "panda bear"
+  ],
+  "qid": "Q33602",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Giant panda",
+  "taxonomy": {
+    "species": "Ailuropoda melanoleuca",
+    "genus": "Ailuropoda",
+    "family": "Ursidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "104",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "117.5",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "130",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

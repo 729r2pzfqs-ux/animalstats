@@ -1,0 +1,130 @@
+{
+  "slug": "moon-jellyfish",
+  "commonName": "Moon Jellyfish",
+  "scientificName": "Aurelia aurita",
+  "alternateNames": [
+    "Moon jelly",
+    "Common jellyfish",
+    "Saucer jelly"
+  ],
+  "nameSingular": "moon jellyfish",
+  "namePlural": "moon jellyfish",
+  "article": "a",
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Scyphozoa",
+    "classSlug": "invertebrates",
+    "order": "Semaeostomeae",
+    "family": "Ulmaridae",
+    "genus": "Aurelia",
+    "species": "A. aurita"
+  },
+  "facts": {
+    "lifespan": {
+      "min": 6,
+      "max": 12,
+      "unit": "months",
+      "context": "free-swimming medusa stage in the wild; the polyp stage can persist for years",
+      "display": "6–12 months as an adult medusa"
+    },
+    "lifespanCaptivity": {
+      "min": 12,
+      "max": 24,
+      "unit": "months",
+      "context": "medusae in aquariums",
+      "display": "1–2 years"
+    },
+    "weight": null,
+    "height": {
+      "min": 25,
+      "max": 40,
+      "unit": "cm",
+      "label": "Body length",
+      "display": "25–40 cm (10–16 in) bell diameter"
+    },
+    "speed": null,
+    "gestationPeriod": null
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Small zooplankton such as copepods, mollusk and crustacean larvae, fish eggs, rotifers and tiny jellies, trapped in mucus on the bell and tentacles and carried to the mouth.",
+    "habitat": [
+      "Coastal waters",
+      "Estuaries",
+      "Harbors",
+      "Open sea surface"
+    ],
+    "range": "Coastal waters of the North Atlantic, including the North Sea, Baltic and Black Sea; nearly identical Aurelia species, long treated as the same animal, occur in temperate and tropical seas worldwide.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The moon jellyfish is the translucent, saucer-shaped jellyfish most often seen from beaches, piers and boats, and the one most commonly kept in aquariums. It is easy to recognize by the four horseshoe-shaped rings visible through the top of the bell, which are its reproductive organs. A fringe of hundreds of short, fine tentacles lines the rim, and four frilly oral arms hang beneath. It swims by gently pulsing but mostly drifts with currents, sometimes gathering in swarms of many thousands. Its sting is so weak that most people feel little or nothing.",
+  "answers": {
+    "lifespan": "An adult moon jellyfish usually lives about 6–12 months in the wild, and 1–2 years in an aquarium. Medusae typically appear in spring, breed in summer and die off by autumn or winter. The tiny polyps they leave attached to rocks and docks can survive for years, however, budding off new generations of jellyfish each season.",
+    "weight": null,
+    "size": "A moon jellyfish's bell is typically 25–40 cm (10–16 in) across when fully grown, about the size of a dinner plate. Many populations stay smaller, at 10–25 cm, depending on food and temperature. The marginal tentacles are only a few centimeters long, far shorter than those of most stinging jellyfish.",
+    "speed": null,
+    "gestation": null,
+    "diet": "Moon jellyfish are carnivores that feed on small zooplankton: copepods, larvae of mollusks and crustaceans, fish eggs and other tiny drifting animals. Prey sticks to mucus on the bell and tentacles, then tiny hairs sweep it along to the rim and the oral arms carry it to the mouth.",
+    "habitat": "Moon jellyfish live near the surface of coastal seas, bays, estuaries and harbors, and tolerate a wide range of temperatures and salinities, including brackish water. They thrive in sheltered, nutrient-rich water and can survive where oxygen is low, which gives them an edge over fish in polluted bays.",
+    "conservation": "The moon jellyfish has not been evaluated for the IUCN Red List and is not considered at risk. It is abundant, and blooms appear to be favored in some areas by overfishing of competitors, nutrient pollution and the spread of docks and other hard structures where its polyps can settle."
+  },
+  "funFacts": [
+    "The four pale rings seen through a moon jelly's bell are its gonads; there are occasionally five or six instead of four.",
+    "Moon jellyfish have no brain, heart, blood or bones; a simple nerve net coordinates the pulsing of the bell.",
+    "Each polyp can split into a stack of tiny discs that break away one by one as baby jellyfish, a process called strobilation.",
+    "Leatherback sea turtles and ocean sunfish are among the animals that eat moon jellyfish, despite their low food value.",
+    "Moon jellyfish flew aboard the Space Shuttle Columbia in 1991, and the jellies that developed in orbit had trouble orienting themselves once back on Earth."
+  ],
+  "relatedAnimals": [
+    "immortal-jellyfish",
+    "leatherback-sea-turtle",
+    "ocean-sunfish",
+    "common-octopus",
+    "common-starfish",
+    "giant-clam"
+  ],
+  "appearsInLists": [],
+  "faq": [
+    {
+      "question": "Do moon jellyfish sting?",
+      "answer": "Yes, but very mildly. Moon jellyfish have stinging cells, but they usually cannot penetrate human skin well, so most people feel nothing or a slight, short-lived itch or tingling. It is still sensible to avoid touching your eyes or mouth after handling one."
+    },
+    {
+      "question": "Can you keep moon jellyfish as pets?",
+      "answer": "Yes. Moon jellyfish are the species most commonly kept at home, but they need a special round tank with gentle circular flow and no corners or exposed pump intakes that could trap them. They are fed baby brine shrimp or prepared jellyfish food daily."
+    },
+    {
+      "question": "Do moon jellyfish have brains?",
+      "answer": "No. Moon jellyfish have no brain or central nervous system. A loose net of nerve cells and eight small sensory structures around the bell rim, which detect light and balance, control the swimming rhythm and keep the animal the right way up."
+    },
+    {
+      "question": "Do moon jellyfish glow in the dark?",
+      "answer": "Not really. Moon jellyfish are not known for producing their own light, unlike the crystal jelly and some deep-sea species. They look luminous in aquariums because their translucent bodies scatter the colored lighting used in the tanks."
+    },
+    {
+      "question": "What is a group of jellyfish called?",
+      "answer": "A group of jellyfish is usually called a bloom, a swarm or a smack. Scientists use bloom for a sudden large increase in numbers, which in moon jellyfish can involve many thousands of animals packed into one bay."
+    }
+  ],
+  "meta": {
+    "title": "Moon Jellyfish Facts: Lifespan, Size, Sting & Diet",
+    "description": "Moon jellyfish live 6–12 months as adults, grow 25–40 cm (10–16 in) across and have a sting too weak to hurt most people. Diet, life cycle and pet care.",
+    "sources": [
+      {
+        "name": "Animal Diversity Web",
+        "url": "https://animaldiversity.org/accounts/Aurelia_aurita/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aurelia_aurita"
+      },
+      {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q26864"
+      }
+    ]
+  }
+}

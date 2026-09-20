@@ -1,0 +1,65 @@
+{
+  "slug": "lion",
+  "commonName": "Lion",
+  "scientificName": "Panthera leo",
+  "alternateNames": ["African lion", "Asiatic lion"],
+  "nameSingular": "lion",
+  "namePlural": "lions",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Felidae", "genus": "Panthera", "species": "P. leo"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 14, "unit": "years", "context": "in the wild", "display": "10–14 years"},
+    "lifespanCaptivity": {"min": 20, "max": 25, "unit": "years", "context": "in human care", "display": "20–25 years"},
+    "weight": {"min": 120, "max": 190, "unit": "kg", "context": "adults; females 120–150 kg, males 150–190 kg", "display": "120–190 kg (265–420 lb)"},
+    "height": {"min": 0.9, "max": 1.2, "unit": "m", "label": "Shoulder height", "display": "0.9–1.2 m (3–4 ft)"},
+    "speed": {"min": 80, "max": 80, "unit": "km/h", "verb": "run", "context": "short bursts of 100–200 m", "display": "80 km/h (50 mph)"},
+    "gestationPeriod": {"min": 105, "max": 115, "unit": "days", "label": "Gestation", "display": "about 110 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mostly medium and large hoofed mammals such as wildebeest, zebra, buffalo and antelope; lions also scavenge and steal kills from hyenas and other predators.",
+    "habitat": ["Savanna", "Grassland", "Open woodland", "Scrub"],
+    "range": "Sub-Saharan Africa, in fragmented populations, plus a single small population of Asiatic lions in and around Gir National Park in western India.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing",
+    "population": "roughly 20,000–25,000 in the wild"
+  },
+  "description": "The lion is the second-largest living cat after the tiger and the only one that lives in social groups, called prides. A pride is built around related females who hunt together and raise cubs communally, while one or a few males defend the territory. Males are easily told apart by their manes, which darken with age. Lions once ranged across Africa, southern Europe and much of Asia; today they survive in scattered parts of sub-Saharan Africa and in one forest in India, having lost more than 90 percent of their historic range.",
+  "answers": {
+    "lifespan": "Lions live 10–14 years in the wild and 20–25 years in zoos. Females usually outlive males: wild males rarely pass 10–12 years because they are injured or killed in fights over prides, while lionesses can reach 15–16. Cub mortality is high, and in many areas more than half die before the age of two.",
+    "weight": "Adult lions weigh 120–190 kg (265–420 lb). Males typically weigh 150–190 kg and females 120–150 kg, making lions one of the most sexually dimorphic cats. Exceptionally large wild males have exceeded 250 kg, but those are records rather than typical weights.",
+    "size": "A lion stands 0.9–1.2 m (3–4 ft) tall at the shoulder. Head-and-body length is 1.4–2.5 m, with the tail adding another 70–105 cm. Males are larger than females in every dimension, and the mane makes them look bigger still.",
+    "speed": "Lions can run at about 80 km/h (50 mph), but only in short bursts of 100–200 meters. They have little stamina, so they stalk to within about 30 meters before charging and rely on teamwork and ambush rather than long chases.",
+    "gestation": "A lioness is pregnant for about 110 days, a little over three and a half months. She gives birth to a litter of one to four cubs in a hidden den away from the pride and rejoins the group when the cubs are six to eight weeks old.",
+    "diet": "Lions are carnivores that mainly eat large hoofed mammals such as wildebeest, zebra, buffalo and antelope. An adult needs roughly 5–7 kg of meat a day on average but can eat far more in one sitting after a kill. Lionesses do most of the hunting, and lions readily scavenge.",
+    "habitat": "Lions live in the savannas, grasslands and open woodlands of sub-Saharan Africa, with one small population in India's Gir Forest. They avoid dense rainforest and true desert interiors, though some populations survive in arid regions such as the Kalahari and Namib.",
+    "conservation": "Lions are listed as Vulnerable on the IUCN Red List, and the population is decreasing. The main threats are habitat loss, a shrinking prey base, and killing in retaliation for livestock losses. The West African population is assessed separately as Critically Endangered."
+  },
+  "funFacts": [
+    "A lion's roar can be heard from up to 8 km (5 miles) away, and lions roar mostly at night to advertise territory.",
+    "Lions are the only truly social cats; a pride may hold anywhere from a handful to around 30 animals.",
+    "Lions rest or sleep for up to 20 hours a day, doing most of their hunting at night or around dawn and dusk.",
+    "Darker, fuller manes signal a healthier, better-fed male, and lionesses tend to prefer them.",
+    "Cubs are born with spots that usually fade as they grow, though faint spots can remain on the legs and belly of adults."
+  ],
+  "relatedAnimals": ["tiger", "leopard", "cheetah", "jaguar", "spotted-hyena", "cougar"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is a group of lions called?", "answer": "A group of lions is called a pride. A typical pride has several related adult females, their cubs, and one to four adult males. Males without a pride often form small groups called coalitions, which work together to take over a pride."},
+    {"question": "Who would win, a lion or a tiger?", "answer": "There is no definitive answer. Tigers are on average slightly heavier and hunt alone, while lions are used to fighting rivals. Historical accounts of staged fights went both ways. In the wild the question never arises, because the two species' ranges no longer overlap."},
+    {"question": "Are lions dangerous to humans?", "answer": "Yes. Lions are large predators and do kill people, mostly in rural parts of East and southern Africa where people and livestock live alongside them. Attacks are rare compared with the number of people living near lions, and most lions avoid humans."},
+    {"question": "How many lions are left in the wild?", "answer": "Roughly 20,000–25,000 lions remain in the wild, almost all in Africa, and numbers have fallen sharply over the past few decades. India's Asiatic lion population is the exception: it has grown to several hundred animals under strict protection."},
+    {"question": "Do male lions hunt?", "answer": "Yes, although lionesses do most of the pride's hunting. Males hunt regularly when they are nomadic, and pride males often join in when the prey is very large, such as buffalo or giraffe, where their extra weight helps bring the animal down."}
+  ],
+  "meta": {
+    "title": "Lion Facts: Lifespan, Weight, Speed, Diet & Habitat",
+    "description": "Lions live 10–14 years in the wild, weigh 120–190 kg (265–420 lb) and sprint at 80 km/h. Diet, habitat, gestation and conservation status of Panthera leo.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Panthera%20leo&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Panthera_leo/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Panthera_leo"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Lion"}
+    ]
+  }
+}

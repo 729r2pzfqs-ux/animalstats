@@ -1,0 +1,20 @@
+{
+  "slug": "toco-toucan",
+  "commonName": "Toco Toucan",
+  "scientificName": "Ramphastos toco",
+  "classSlug": "birds",
+  "aliases": [
+    "toucan"
+  ],
+  "qid": "Q376038",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Toco toucan",
+  "taxonomy": {
+    "species": "Ramphastos toco",
+    "genus": "Ramphastos",
+    "family": "Ramphastidae",
+    "order": "Piciformes",
+    "class": "Aves"
+  },
+  "quantities": []
+}

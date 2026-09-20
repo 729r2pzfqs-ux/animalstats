@@ -1,0 +1,38 @@
+{
+  "slug": "bonobo",
+  "commonName": "Bonobo",
+  "scientificName": "Pan paniscus",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q19537",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Bonobo",
+  "taxonomy": {
+    "species": "Pan paniscus",
+    "genus": "Pan",
+    "family": "Hominidae",
+    "order": "Primates",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "43",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "33",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "8",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

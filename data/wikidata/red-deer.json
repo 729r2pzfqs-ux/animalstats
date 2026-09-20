@@ -1,0 +1,29 @@
+{
+  "slug": "red-deer",
+  "commonName": "Red Deer",
+  "scientificName": "Cervus elaphus",
+  "classSlug": "mammals",
+  "aliases": [
+    "deer",
+    "stag"
+  ],
+  "qid": "Q79794",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Red deer",
+  "taxonomy": {
+    "species": "Cervus elaphus",
+    "genus": "Cervus",
+    "family": "Cervidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "33.5",
+      "unit": "week",
+      "sex": null
+    }
+  ]
+}

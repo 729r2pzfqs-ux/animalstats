@@ -1,0 +1,22 @@
+{
+  "slug": "dragonfly",
+  "commonName": "Emperor Dragonfly",
+  "scientificName": "Anax imperator",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "dragonfly"
+  ],
+  "qid": "Q527496",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Emperor dragonfly",
+  "taxonomy": {
+    "species": "Anax imperator",
+    "genus": "Anax",
+    "family": "Aeshnidae",
+    "order": "Odonata",
+    "class": "Insecta",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "kiwi",
+  "commonName": "North Island Brown Kiwi",
+  "scientificName": "Apteryx mantelli",
+  "alternateNames": ["Kiwi", "Brown kiwi", "Northern brown kiwi"],
+  "nameSingular": "North Island brown kiwi",
+  "namePlural": "North Island brown kiwi",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Apterygiformes", "family": "Apterygidae", "genus": "Apteryx", "species": "A. mantelli"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 40, "unit": "years", "context": "in the wild where predators are controlled; estimates vary", "display": "20–40 years"},
+    "lifespanCaptivity": {"min": 30, "max": 40, "unit": "years", "context": "in human care", "display": "30–40 years"},
+    "weight": {"min": 2, "max": 3, "unit": "kg", "context": "adults; females average about 2.8 kg, males about 2.2 kg", "display": "2–3 kg (4.4–6.6 lb)"},
+    "height": {"min": 40, "max": 40, "unit": "cm", "label": "Height", "display": "about 40 cm (16 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 75, "max": 90, "unit": "days", "label": "Incubation", "display": "75–90 days"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Earthworms, beetle larvae, cicada nymphs, crickets, weta, spiders, centipedes and other soil invertebrates, found by smell and touch with the long bill, plus some fallen fruit, seeds and leaves.",
+    "habitat": ["Native forest", "Scrubland", "Pine plantations", "Rough farmland"],
+    "range": "The North Island of New Zealand, mainly Northland, the Coromandel Peninsula, the eastern ranges and Taranaki–Whanganui, plus several offshore islands and fenced sanctuaries.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Stable",
+    "population": "roughly 25,000 birds"
+  },
+  "description": "The North Island brown kiwi is the most common of New Zealand's five kiwi species and the one most often seen in zoos. Kiwi are flightless, nocturnal birds about the size of a chicken, with shaggy hair-like brown feathers, tiny hidden wings, no tail and strong legs. The long bill has nostrils at its tip, which is unique among birds, and the kiwi uses smell and touch to find food underground. Females are larger than males and lay one of the biggest eggs relative to body size of any bird. Introduced stoats, dogs, cats and ferrets are the main reason kiwi are threatened.",
+  "answers": {
+    "lifespan": "North Island brown kiwi can live 20–40 years in the wild where predators are controlled, and 30–40 years in captivity. In unmanaged areas the average is far lower, because stoats and cats kill about 95 percent of chicks before adulthood and dogs kill many adults.",
+    "weight": "An adult North Island brown kiwi weighs 2–3 kg (4.4–6.6 lb). Females are the larger sex, averaging about 2.8 kg, while males average about 2.2 kg. Unlike flying birds, kiwi have heavy, marrow-filled bones, so they weigh more than their size suggests.",
+    "size": "A North Island brown kiwi stands about 40 cm (16 in) tall, roughly the size of a domestic chicken. Body length is around 50–65 cm including the bill, which is longer in females at up to about 15 cm. The wings are only a few centimeters long and hidden under the feathers.",
+    "speed": null,
+    "gestation": "North Island brown kiwi eggs hatch after about 75–90 days of incubation, one of the longest incubation periods of any bird. The female usually lays two eggs a few weeks apart in a burrow, and in this species the male does nearly all the incubating. Chicks hatch fully feathered and are never fed by their parents.",
+    "diet": "North Island brown kiwi eat mainly earthworms, insect larvae, crickets, spiders and other soil invertebrates, along with some fallen fruit and seeds. They feed at night, tapping and probing the ground with the bill, and detect prey by smell and by vibration sensors in the bill tip.",
+    "habitat": "North Island brown kiwi live in native forest, scrub, regenerating bush, pine plantations and rough farmland on New Zealand's North Island, from sea level into the hills. They spend the day in burrows, hollow logs or dense vegetation. The main strongholds are Northland, Coromandel, the eastern North Island and Taranaki.",
+    "conservation": "The North Island brown kiwi is listed as Vulnerable on the IUCN Red List; it was moved down from Endangered in 2017 as managed populations grew. Around 25,000 birds remain. Introduced stoats, ferrets, cats and dogs are the main threat, and predator trapping plus hatching eggs in captivity have stabilized numbers."
+  },
+  "funFacts": [
+    "A kiwi egg is about 15–20 percent of the female's body weight, among the largest egg-to-body ratios of any bird. In her last days before laying, she has little room left to eat.",
+    "Kiwi are the only birds with nostrils at the tip of the bill, and they can smell worms several centimeters underground.",
+    "Kiwi body temperature is about 38°C, lower than most birds and closer to that of mammals.",
+    "New Zealanders have been nicknamed Kiwis since the early 1900s, and the kiwifruit was named after the bird in 1959, not the other way around.",
+    "Genetic studies show the kiwi's closest relatives were the extinct elephant birds of Madagascar, not New Zealand's extinct moa."
+  ],
+  "relatedAnimals": ["emu", "ostrich", "chicken", "emperor-penguin", "tuatara", "platypus"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why can't kiwi fly?", "answer": "Kiwi have tiny wings only a few centimeters long, no keel on the breastbone to anchor flight muscles, and heavy marrow-filled bones. Their ancestors are thought to have flown to New Zealand and then lost flight there, because the islands had no land mammals preying on ground birds."},
+    {"question": "How many kiwi are left in New Zealand?", "answer": "About 68,000–70,000 kiwi of all five species remain, according to New Zealand's Department of Conservation, of which roughly 25,000 are North Island brown kiwi. Unmanaged populations decline by around 2 percent a year, while those protected by predator control are growing."},
+    {"question": "How big is a kiwi egg?", "answer": "A brown kiwi egg is about 12–13 cm long and weighs around 400–450 g, roughly six times the size of a chicken egg from a similar-sized bird. It fills so much of the female's body that it makes up 15–20 percent of her weight."},
+    {"question": "Are kiwi birds nocturnal?", "answer": "Yes. Kiwi are active at night and spend the day asleep in burrows, hollow logs or thick vegetation. They have small eyes and poor vision and rely instead on an excellent sense of smell, sensitive whisker-like feathers around the bill and good hearing."},
+    {"question": "Which came first, the kiwi bird or the kiwifruit?", "answer": "The bird. Kiwi is the Māori name for the bird, probably imitating its call. The fruit, originally called the Chinese gooseberry, was renamed kiwifruit by New Zealand exporters in 1959 because its small, brown, fuzzy appearance resembled the national bird."}
+  ],
+  "meta": {
+    "title": "Kiwi Bird Facts: Size, Lifespan, Egg & Diet (Brown Kiwi)",
+    "description": "The North Island brown kiwi stands about 40 cm tall, weighs 2–3 kg and can live 20–40 years. Why kiwi can't fly, their huge egg, diet and threats.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Apteryx%20mantelli&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Apteryx_mantelli/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/North_Island_brown_kiwi"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q734829"}
+    ]
+  }
+}

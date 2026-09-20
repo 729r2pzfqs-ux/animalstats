@@ -1,0 +1,33 @@
+{
+  "slug": "axolotl",
+  "commonName": "Axolotl",
+  "scientificName": "Ambystoma mexicanum",
+  "classSlug": "amphibians",
+  "aliases": [],
+  "qid": "Q22718",
+  "iucnStatus": "Critically Endangered",
+  "wikipedia": "Axolotl",
+  "taxonomy": {
+    "species": "Ambystoma mexicanum",
+    "genus": "Ambystoma",
+    "family": "Ambystomatidae",
+    "order": "Caudata",
+    "class": "Amphibia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "8",
+      "unit": "Q48013",
+      "sex": null
+    },
+    {
+      "property": "length",
+      "amount": "18",
+      "unit": "in",
+      "sex": null
+    }
+  ]
+}

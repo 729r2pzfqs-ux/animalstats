@@ -1,0 +1,64 @@
+{
+  "slug": "raccoon",
+  "commonName": "Raccoon",
+  "scientificName": "Procyon lotor",
+  "alternateNames": ["Common raccoon", "Northern raccoon", "Coon"],
+  "nameSingular": "raccoon",
+  "namePlural": "raccoons",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Procyonidae", "genus": "Procyon", "species": "P. lotor"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 3, "unit": "years", "context": "average in the wild; some reach 5 or more", "display": "2–3 years"},
+    "lifespanCaptivity": {"min": 15, "max": 20, "unit": "years", "context": "in human care", "display": "15–20 years"},
+    "weight": {"min": 4, "max": 9, "unit": "kg", "context": "adults; northern animals and males are heavier, and weight peaks in fall", "display": "4–9 kg (9–20 lb)"},
+    "height": {"min": 23, "max": 30, "unit": "cm", "label": "Shoulder height", "display": "23–30 cm (9–12 in)"},
+    "speed": {"min": 24, "max": 24, "unit": "km/h", "verb": "run", "context": "short distances", "display": "24 km/h (15 mph)"},
+    "gestationPeriod": {"min": 63, "max": 65, "unit": "days", "label": "Gestation", "display": "63–65 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Crayfish, frogs, fish, insects, worms, bird and turtle eggs, small mammals, fruit, nuts, acorns and corn, plus garbage, pet food and birdseed in towns and cities.",
+    "habitat": ["Deciduous forest", "Wetlands", "Farmland", "Suburbs", "Cities"],
+    "range": "Native from southern Canada through the United States and Mexico to Panama; introduced to Germany and much of Europe, the Caucasus and Japan.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The raccoon is a medium-sized North American mammal known for its black face mask, bushy ringed tail and nimble front paws. It is the largest member of the family Procyonidae, which also includes coatis and kinkajous. Raccoons are mostly nocturnal, climb and swim well, and eat almost anything, which has made them one of the most successful wild mammals in farmland, suburbs and cities. Their front paws are extremely sensitive, and much of their foraging is done by touch. In cold regions raccoons fatten up in fall and sleep through the worst winter weather in dens, but they do not truly hibernate.",
+  "answers": {
+    "lifespan": "Raccoons live only 2–3 years on average in the wild, but 15–20 years in human care. Wild raccoons are capable of living much longer, yet most die young from traffic, hunting and trapping, canine distemper and starvation in harsh winters. Many do not survive their first year.",
+    "weight": "Adult raccoons typically weigh 4–9 kg (9–20 lb). Males are 10–20 percent heavier than females, northern raccoons are bigger than southern ones, and individuals can weigh twice as much in late fall as in spring. Exceptionally fat animals have been recorded at more than 20 kg.",
+    "size": "A raccoon stands 23–30 cm (9–12 in) at the shoulder. Head-and-body length is 40–70 cm, and the bushy tail, marked with 4–10 dark rings, adds another 20–40 cm. The hind legs are longer than the front legs, giving the animal a hunched look when it walks.",
+    "speed": "Raccoons can run at up to about 24 km/h (15 mph) over short distances. They are better climbers than sprinters: they can come down a tree head-first by rotating their hind feet, and they swim well enough to cross rivers and lakes.",
+    "gestation": "A raccoon is pregnant for 63–65 days. Mating takes place in late winter, and a litter of two to five kits is born in spring, usually in a tree hollow, burrow or attic. The kits open their eyes at about three weeks and stay with their mother until fall or the following spring.",
+    "diet": "Raccoons are omnivores that eat crayfish, frogs, insects, worms, eggs, fruit, nuts and corn, and in towns they raid garbage cans and pet bowls. Their diet shifts with the seasons, with more animal food in spring and more fruit, acorns and grain in late summer and fall.",
+    "habitat": "Raccoons live in forests, wetlands, farmland, suburbs and cities from southern Canada to Panama. They prefer wooded areas near water with hollow trees for dens, but they adapt readily to buildings, storm drains and chimneys, and urban densities can far exceed those in the wild.",
+    "conservation": "Raccoons are listed as Least Concern on the IUCN Red List, and the population is increasing. They have expanded their range northward and thrive around people. In Europe and Japan, where they were introduced, raccoons are treated as an invasive species that threatens native wildlife."
+  },
+  "funFacts": [
+    "The species name lotor means 'washer', after the raccoon's habit of dunking and rubbing food in water, which may heighten the sense of touch in its paws.",
+    "A raccoon's front paws have about four to five times more touch receptors than its hind paws.",
+    "Raccoons can rotate their hind feet 180 degrees, allowing them to climb down trees head-first.",
+    "In lock-solving experiments in the early 1900s, raccoons opened most of the complex latches they were given and remembered the solutions for up to three years.",
+    "Europe's raccoons descend largely from animals released or escaped in Germany in the 1930s and 1940s."
+  ],
+  "relatedAnimals": ["red-panda", "striped-skunk", "coyote", "red-fox", "black-bear", "gray-squirrel"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are raccoons dangerous?", "answer": "Raccoons rarely attack people, but they will bite and scratch if cornered, and they can carry rabies, raccoon roundworm and leptospirosis. In the eastern United States the raccoon is the most frequently reported rabid wild animal. Never feed or handle wild raccoons."},
+    {"question": "Do raccoons make good pets?", "answer": "No. Raccoons are intelligent but destructive, unpredictable and prone to biting once mature, and they cannot be house-trained reliably. Keeping one is illegal or requires a permit in many US states, and few veterinarians will treat them."},
+    {"question": "Why do raccoons wash their food?", "answer": "Raccoons are not really cleaning their food. Wetting the skin of the front paws makes the nerve endings more responsive, so dunking and rolling an item in water helps the raccoon feel exactly what it is holding. Captive raccoons do it far more than wild ones."},
+    {"question": "Do raccoons hibernate?", "answer": "No, raccoons do not hibernate. In cold climates they build up fat in fall and sleep in a den for days or weeks during severe weather, but their body temperature stays near normal and they come out to forage in mild spells."},
+    {"question": "What is a group of raccoons called?", "answer": "A group of raccoons is called a gaze, and sometimes a nursery when it is a mother with kits. Raccoons were long thought to be solitary, but related females often share a home range and unrelated males may form small groups."}
+  ],
+  "meta": {
+    "title": "Raccoon Facts: Lifespan, Size, Diet & Behavior",
+    "description": "Raccoons weigh 4–9 kg (9–20 lb), live 2–3 years in the wild but up to 20 in captivity, and are pregnant for 63–65 days. Diet, habitat, speed and behavior.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Procyon%20lotor&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Procyon_lotor/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Procyon_lotor"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Raccoon"}
+    ]
+  }
+}

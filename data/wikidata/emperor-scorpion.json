@@ -1,0 +1,22 @@
+{
+  "slug": "emperor-scorpion",
+  "commonName": "Emperor Scorpion",
+  "scientificName": "Pandinus imperator",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "scorpion"
+  ],
+  "qid": "Q1142349",
+  "iucnStatus": null,
+  "wikipedia": "Emperor scorpion",
+  "taxonomy": {
+    "species": "Pandinus imperator",
+    "genus": "Pandinus",
+    "family": "Scorpionidae",
+    "order": "Scorpiones",
+    "class": "Arachnida",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

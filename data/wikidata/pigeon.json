@@ -1,0 +1,34 @@
+{
+  "slug": "pigeon",
+  "commonName": "Rock Pigeon",
+  "scientificName": "Columba livia",
+  "classSlug": "birds",
+  "aliases": [
+    "pigeon",
+    "rock dove"
+  ],
+  "qid": "Q42326",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Rock dove",
+  "taxonomy": {
+    "species": "Columba livia",
+    "genus": "Columba",
+    "family": "Columbidae",
+    "order": "Columbiformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "294",
+      "unit": "g",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "267",
+      "unit": "g",
+      "sex": "female"
+    }
+  ]
+}

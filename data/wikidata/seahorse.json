@@ -1,0 +1,22 @@
+{
+  "slug": "seahorse",
+  "commonName": "Lined Seahorse",
+  "scientificName": "Hippocampus erectus",
+  "classSlug": "fish",
+  "aliases": [
+    "seahorse"
+  ],
+  "qid": "Q2578911",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Lined seahorse",
+  "taxonomy": {
+    "species": "Hippocampus erectus",
+    "genus": "Hippocampus",
+    "family": "Syngnathidae",
+    "order": "Syngnathiformes",
+    "class": "Actinopteri",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

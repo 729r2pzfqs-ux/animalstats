@@ -1,0 +1,64 @@
+{
+  "slug": "vampire-bat",
+  "commonName": "Common Vampire Bat",
+  "scientificName": "Desmodus rotundus",
+  "alternateNames": ["Vampire bat"],
+  "nameSingular": "common vampire bat",
+  "namePlural": "common vampire bats",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Chiroptera", "family": "Phyllostomidae", "genus": "Desmodus", "species": "D. rotundus"},
+  "facts": {
+    "lifespan": {"min": 9, "max": 12, "unit": "years", "context": "in the wild; some females have reached about 18", "display": "9–12 years"},
+    "lifespanCaptivity": {"min": 15, "max": 20, "unit": "years", "context": "in human care; record about 29 years", "display": "up to about 20 years"},
+    "weight": {"min": 25, "max": 40, "unit": "g", "context": "adults before feeding; a full meal can add half as much again", "display": "25–40 g (0.9–1.4 oz)"},
+    "height": {"min": 35, "max": 40, "unit": "cm", "label": "Wingspan", "display": "35–40 cm (14–16 in)"},
+    "speed": {"min": 4, "max": 4, "unit": "km/h", "verb": "run", "context": "bounding run on the ground, measured at about 1.1 m/s; flight speed is not well documented", "display": "about 4 km/h (2.5 mph) on the ground"},
+    "gestationPeriod": {"min": 205, "max": 215, "unit": "days", "label": "Gestation", "display": "about 7 months (205–215 days)"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Exclusively blood, mostly from sleeping mammals: today chiefly cattle, horses and pigs, and in the wild tapirs, deer and peccaries. One meal is roughly a tablespoon, taken every night or two.",
+    "habitat": ["Tropical forest", "Dry forest", "Grassland", "Ranchland", "Caves"],
+    "range": "From northern Mexico through Central America and most of South America to northern Argentina, Uruguay and central Chile, plus Trinidad.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The common vampire bat is a small leaf-nosed bat of Latin America and the most abundant of the world's three vampire bat species, the only mammals that feed entirely on blood. It feeds mainly on mammals, while the other two species prefer birds. Rather than sucking, it makes a small cut with razor-sharp incisors and laps the blood that flows, helped by an anticoagulant in its saliva. Unusually for a bat, it walks, runs and hops nimbly on the ground to approach its sleeping hosts. Vampire bats roost in colonies in caves, hollow trees, mines and old buildings, and have a rich social life.",
+  "answers": {
+    "lifespan": "Common vampire bats live about 9–12 years in the wild, and some wild females have reached around 18. In human care they regularly live up to about 20 years, and the record is about 29, a remarkably long life for an animal that weighs little more than a house mouse.",
+    "weight": "Adult common vampire bats weigh 25–40 g (0.9–1.4 oz), and females are slightly larger than males. A bat can drink close to half its own body weight in blood in one meal, and it begins urinating within minutes of feeding to shed the water and lighten the load for takeoff.",
+    "size": "A common vampire bat has a wingspan of 35–40 cm (14–16 in) and a body only 7–9 cm (about 3 in) long, with no tail. The thumbs are unusually long and strong, acting as extra feet for walking and for launching into flight.",
+    "speed": "Common vampire bats can run across the ground at about 4 km/h (2.5 mph); researchers using a treadmill measured a top speed of roughly 1.1 m per second. They use a unique bounding gait powered by the wings. Their speed in flight has not been well documented.",
+    "gestation": "A common vampire bat is pregnant for about seven months, or 205–215 days, which is very long for so small a mammal. The female gives birth to a single pup, nurses it for up to nine months and gradually introduces it to regurgitated blood.",
+    "diet": "Common vampire bats feed only on blood, a diet called hematophagy, taking about a tablespoon (15–25 ml) per meal from sleeping cattle, horses, pigs and wild mammals. Heat sensors on the nose locate warm blood near the skin, and a salivary anticoagulant keeps the wound flowing.",
+    "habitat": "Common vampire bats live in warm regions from northern Mexico to northern Argentina and central Chile, in rainforest, dry forest, grassland and ranch country from sea level to above 2,000 m. They roost in caves, hollow trees, wells, mines and abandoned buildings in colonies of 20–100 or more.",
+    "conservation": "Common vampire bats are listed as Least Concern on the IUCN Red List with a stable population. Livestock ranching has given them a vast new food supply, and numbers have likely grown. Because they spread rabies to cattle they are culled in many countries, which often kills harmless bat species too."
+  },
+  "funFacts": [
+    "A vampire bat that fails to feed for two or three nights can starve, so roost-mates share meals by regurgitating blood, mainly with relatives and with partners that have helped them before.",
+    "The anticoagulant in vampire bat saliva was named draculin, and a related clot-dissolving protein has been tested as a treatment for stroke.",
+    "Vampire bats are the only mammals known to detect infrared radiation, using heat-sensitive pits around the nose.",
+    "They can take off from the ground by catapulting themselves upward with their long thumbs, even with a belly full of blood.",
+    "The bite is so gentle and precise that the sleeping animal usually does not wake."
+  ],
+  "relatedAnimals": ["mosquito", "barn-owl", "common-swift", "house-mouse", "naked-mole-rat"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do vampire bats bite humans?", "answer": "Occasionally. Common vampire bats strongly prefer livestock, but they do bite sleeping people, usually on the toes, fingers or face, in parts of Latin America where wild prey or cattle are scarce. The wound is minor; the real danger is rabies transmission, which has caused outbreaks in the Amazon."},
+    {"question": "Do vampire bats suck blood?", "answer": "No. Vampire bats do not suck. They shave away any hair, make a shallow cut about 5 mm across with their sharp upper incisors, and lap up the flowing blood with a grooved tongue, feeding for 20–30 minutes."},
+    {"question": "How much blood does a vampire bat drink?", "answer": "A common vampire bat drinks about 15–25 ml of blood per meal, roughly a tablespoon and up to half its own body weight. That amount is trivial for a cow or horse; the harm to livestock comes from infections and rabies rather than blood loss."},
+    {"question": "Where do vampire bats live?", "answer": "Vampire bats live only in the Americas, from northern Mexico to Argentina and Chile. There are no wild vampire bats in Europe, Africa, Asia or Australia, and they are not currently established in the United States, although fossils show they once lived there."},
+    {"question": "Do vampire bats carry rabies?", "answer": "Yes. Common vampire bats are the main source of rabies in Latin American livestock, causing significant losses of cattle each year, and they occasionally infect people. Only a small percentage of bats in a colony carry the virus at any one time."}
+  ],
+  "meta": {
+    "title": "Common Vampire Bat Facts: Size, Diet, Lifespan & Range",
+    "description": "Common vampire bats weigh 25–40 g, have a 35–40 cm wingspan, live 9–12 years wild and drink about a tablespoon of blood a night. Diet, range and rabies.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Desmodus%20rotundus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Desmodus_rotundus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Desmodus_rotundus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Common_vampire_bat"}
+    ]
+  }
+}

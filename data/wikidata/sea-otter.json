@@ -1,0 +1,52 @@
+{
+  "slug": "sea-otter",
+  "commonName": "Sea Otter",
+  "scientificName": "Enhydra lutris",
+  "classSlug": "mammals",
+  "aliases": [
+    "otter"
+  ],
+  "qid": "Q41407",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Sea otter",
+  "taxonomy": {
+    "species": "Enhydra lutris",
+    "genus": "Enhydra",
+    "family": "Mustelidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "1.868",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "45",
+      "unit": "kg",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "32.5",
+      "unit": "kg",
+      "sex": "female"
+    },
+    {
+      "property": "length",
+      "amount": "148",
+      "unit": "cm",
+      "sex": "male"
+    },
+    {
+      "property": "length",
+      "amount": "140",
+      "unit": "cm",
+      "sex": "female"
+    }
+  ]
+}

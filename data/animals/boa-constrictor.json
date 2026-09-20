@@ -1,0 +1,64 @@
+{
+  "slug": "boa-constrictor",
+  "commonName": "Boa Constrictor",
+  "scientificName": "Boa constrictor",
+  "alternateNames": ["Red-tailed boa", "Common boa"],
+  "nameSingular": "boa constrictor",
+  "namePlural": "boa constrictors",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Squamata", "family": "Boidae", "genus": "Boa", "species": "B. constrictor"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 30, "unit": "years", "context": "in the wild", "display": "20–30 years"},
+    "lifespanCaptivity": {"min": 25, "max": 35, "unit": "years", "context": "in human care; a few have passed 40", "display": "25–35 years"},
+    "weight": {"min": 10, "max": 27, "unit": "kg", "context": "adults; females are larger, and exceptional females exceed 40 kg", "display": "10–27 kg (22–60 lb)"},
+    "height": {"min": 2, "max": 3, "unit": "m", "label": "Length", "display": "2–3 m (6.5–10 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 100, "max": 120, "unit": "days", "label": "Gestation", "display": "100–120 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Small and medium mammals such as rats, opossums, squirrels, agoutis and bats, plus birds and large lizards. Young boas take mice, small birds and lizards. Prey is ambushed, constricted and swallowed whole.",
+    "habitat": ["Rainforest", "Dry forest", "Savanna", "Scrub", "Farmland"],
+    "range": "South America from Colombia and Venezuela south to northern Argentina, plus Trinidad and Tobago; the similar boas of Central America and Mexico are now usually treated as a separate species, Boa imperator.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The boa constrictor is a large, heavy-bodied, non-venomous snake from South America and one of the few animals whose common name is identical to its scientific name. It is patterned with tan and brown saddles that turn reddish toward the tail, giving pet-trade animals the name red-tailed boa. Boas are ambush hunters that are active mostly at night; young snakes climb well, while heavy adults stay mostly on the ground. Like anacondas, and unlike pythons, boa constrictors give birth to live young. They adapt to many habitats, from rainforest to dry scrub and farmland.",
+  "answers": {
+    "lifespan": "Boa constrictors live 20–30 years in the wild and commonly 25–35 years in captivity. They are among the longest-lived snakes, and a few captive boas have been documented past 40 years. Anyone buying one as a pet should expect a commitment of several decades.",
+    "weight": "Adult boa constrictors typically weigh 10–27 kg (22–60 lb). Females are longer and noticeably heavier than males. Exceptionally large females can exceed 40 kg, but that is unusual; most pet boas stay at the lower end of the range.",
+    "size": "Boa constrictors usually grow 2–3 m (6.5–10 ft) long. Females commonly reach 2.1–3 m, while males average 1.8–2.4 m. Individuals close to 4 m have been reported, but they are rare. Newborns are already about 40–60 cm long.",
+    "speed": null,
+    "gestation": "Boa constrictors are pregnant for about 100–120 days and give birth to live young. Litters range from about 10 to more than 60 babies, with around 25 being typical. Gestation varies with temperature, and some sources describe longer pregnancies of five months or more in cooler conditions.",
+    "diet": "Boa constrictors are carnivores that eat mainly small and medium mammals and birds, including rats, opossums, squirrels and bats. They wait in ambush, strike, and wrap the prey in their coils. After a good meal a boa may go a week or more before hunting again.",
+    "habitat": "Boa constrictors live in rainforests, dry forests, savannas and scrub across much of South America. They prefer humid forest but tolerate semi-arid country and farmland, often sheltering in mammal burrows or hollow logs. They are frequently found near villages, where rodents are plentiful.",
+    "conservation": "The boa constrictor is listed as Least Concern on the IUCN Red List. It remains widespread and adaptable, but local populations are reduced by collection for the pet and skin trades, habitat loss and killing by people. International trade is regulated under CITES."
+  },
+  "funFacts": [
+    "Boa constrictors do not suffocate their prey; research shows constriction cuts off blood flow, so the animal loses consciousness within seconds.",
+    "A boa can sense its prey's heartbeat through its coils and stops squeezing once the heart has stopped.",
+    "Boas have two small claw-like spurs near the tail, remnants of hind legs; males use them to stimulate females during courtship.",
+    "Female boa constrictors have been documented producing young without mating, a form of virgin birth called parthenogenesis.",
+    "Boa constrictor is one of the very few animals known to the public by its exact scientific name."
+  ],
+  "relatedAnimals": ["green-anaconda", "ball-python", "burmese-python", "reticulated-python", "rattlesnake"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are boa constrictors dangerous to humans?", "answer": "Boa constrictors are not considered dangerous to adult humans. They are non-venomous and too small to treat a person as prey. They can deliver a painful defensive bite, and very large boas should be handled with a second person present, but serious injuries are rare."},
+    {"question": "Do boa constrictors make good pets?", "answer": "They can, for committed keepers. Boas are generally calm and hardy, but they reach 2–3 m, need a large secure enclosure with controlled heat and humidity, eat whole rodents, and live 25–35 years. They suit experienced owners better than first-time snake keepers."},
+    {"question": "What is the difference between a boa and a python?", "answer": "Boas give birth to live young, while pythons lay eggs. Pythons live in Africa, Asia and Australia, whereas boa constrictors are from the Americas. Pythons also have an extra bone in the skull and more teeth. Both kill by constriction and neither is venomous."},
+    {"question": "How do boa constrictors kill their prey?", "answer": "A boa strikes, grips with its teeth and throws coils around the animal. Each time the prey exhales or moves, the coils tighten. The pressure stops blood circulation, causing unconsciousness in seconds. The boa then swallows the prey whole, head first."},
+    {"question": "How often do boa constrictors eat?", "answer": "Adult boa constrictors eat roughly every one to three weeks, depending on the size of the meal. Wild boas may go much longer between meals. Young boas grow quickly and feed more often, usually about once a week in captivity."}
+  ],
+  "meta": {
+    "title": "Boa Constrictor Facts: Length, Lifespan, Weight & Diet",
+    "description": "Boa constrictors grow 2–3 m (6.5–10 ft), weigh 10–27 kg and live 20–30 years. They bear live young after 100–120 days. Diet, habitat and pet facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Boa%20constrictor&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Boa_constrictor/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Boa_constrictor"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Boa_constrictor"}
+    ]
+  }
+}

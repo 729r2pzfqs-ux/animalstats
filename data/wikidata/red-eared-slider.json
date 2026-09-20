@@ -1,0 +1,24 @@
+{
+  "slug": "red-eared-slider",
+  "commonName": "Red-Eared Slider",
+  "scientificName": "Trachemys scripta",
+  "classSlug": "reptiles",
+  "aliases": [
+    "pet turtle",
+    "turtle",
+    "slider"
+  ],
+  "qid": "Q142985",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Pond slider",
+  "taxonomy": {
+    "species": "Trachemys scripta",
+    "genus": "Trachemys",
+    "family": "Emydidae",
+    "order": "Testudines",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

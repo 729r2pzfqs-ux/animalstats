@@ -1,0 +1,64 @@
+{
+  "slug": "white-tailed-deer",
+  "commonName": "White-Tailed Deer",
+  "scientificName": "Odocoileus virginianus",
+  "alternateNames": ["Whitetail", "Virginia deer", "Key deer"],
+  "nameSingular": "white-tailed deer",
+  "namePlural": "white-tailed deer",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Cervidae", "genus": "Odocoileus", "species": "O. virginianus"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 5, "unit": "years", "context": "typical in the wild; few live past 10", "display": "2–5 years"},
+    "lifespanCaptivity": {"min": 15, "max": 20, "unit": "years", "context": "in human care", "display": "15–20 years"},
+    "weight": {"min": 40, "max": 135, "unit": "kg", "context": "adults; does 40–90 kg, bucks 70–135 kg; northern deer are largest", "display": "40–135 kg (90–300 lb)"},
+    "height": {"min": 0.8, "max": 1.0, "unit": "m", "label": "Shoulder height", "display": "0.8–1.0 m (2.6–3.3 ft)"},
+    "speed": {"min": 48, "max": 48, "unit": "km/h", "verb": "run", "context": "short sprints", "display": "48 km/h (30 mph)"},
+    "gestationPeriod": {"min": 193, "max": 205, "unit": "days", "label": "Gestation", "display": "about 200 days (6.5 months)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "A browser that eats leaves, twigs, buds and shoots of woody plants, along with forbs, grasses, acorns and other nuts, fruit, mushrooms and farm crops such as corn, soybeans and alfalfa.",
+    "habitat": ["Deciduous forest", "Forest edge", "Farmland", "Swamp", "Suburbs"],
+    "range": "Southern Canada and most of the United States except parts of the far West, through Mexico and Central America to Peru and Bolivia; introduced to Finland and New Zealand.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The white-tailed deer is the most widespread and abundant deer in the Americas, found from southern Canada to South America. It is named for the white underside of its tail, which it raises like a flag when alarmed. Coats are reddish-brown in summer and gray-brown in winter, and only males (bucks) grow antlers, which are shed and regrown every year. Whitetails thrive in a mix of woods and open ground, which is why they do so well in farmland and suburbs. Body size varies enormously, from large northern deer to the tiny Key deer of Florida. It is North America's most popular big-game animal.",
+  "answers": {
+    "lifespan": "Most wild white-tailed deer live only 2–5 years, although does occasionally pass 10. In captivity they can live 15–20 years. Hunting is the leading cause of death for adults in most of North America, followed by vehicle collisions, harsh winters, disease, and predators such as coyotes, wolves, bears and bobcats, which mainly take fawns.",
+    "weight": "Adult white-tailed deer weigh 40–135 kg (90–300 lb). Bucks typically weigh 70–135 kg and does 40–90 kg. Deer are largest in the north, where big bucks can exceed 180 kg, and smallest in the tropics and on the Florida Keys, where adult Key deer weigh only 25–35 kg.",
+    "size": "A white-tailed deer stands 0.8–1.0 m (2.6–3.3 ft) tall at the shoulder. Body length is 1.5–2.1 m (5–7 ft) including a tail of 15–30 cm. Bucks are about 20 percent larger than does, and deer in the northern United States and Canada are far bigger than those in Central and South America.",
+    "speed": "White-tailed deer can run at about 48 km/h (30 mph) in short bursts. They are also outstanding jumpers, able to clear obstacles around 2.4 m (8 ft) high and leap about 9 m (30 ft) in a single bound, and they swim well enough to cross lakes and rivers.",
+    "gestation": "White-tailed deer are pregnant for about 200 days, or six and a half months. Breeding (the rut) peaks in November in most of North America, and fawns are born in May or June. First-time mothers usually have one fawn; older does commonly have twins and sometimes triplets.",
+    "diet": "White-tailed deer are herbivores that browse on leaves, twigs, buds, forbs, acorns, fruit and crops. They are selective feeders with a four-chambered stomach and eat roughly 2–4 kg of plant material a day. Acorns are a key fall food, and in winter northern deer survive largely on woody twigs and stored fat.",
+    "habitat": "White-tailed deer live in forests, forest edges, farmland, swamps, grasslands and suburbs from southern Canada to Peru and Bolivia. They do best where woodland cover is mixed with open feeding areas. In snowy northern regions they gather in sheltered conifer stands called deer yards during winter.",
+    "conservation": "The white-tailed deer is listed as Least Concern on the IUCN Red List, with a stable population. After overhunting reduced numbers drastically by about 1900, protection and regulated hunting allowed a recovery to an estimated 30 million in the United States. Two subspecies, the Key deer and Columbian white-tailed deer, have required federal protection."
+  },
+  "funFacts": [
+    "When alarmed, a whitetail raises its tail to flash the white underside, a warning signal to other deer that is called flagging.",
+    "Bucks shed their antlers every winter and regrow them in spring; growing antler is among the fastest-growing tissue in any mammal.",
+    "Fawns are born with about 300 white spots and almost no scent, and they lie motionless for hours while the mother feeds elsewhere.",
+    "The Key deer of the Florida Keys is the smallest subspecies, standing only about 60–75 cm at the shoulder.",
+    "White-tailed deer introduced to Finland from Minnesota in 1934 have grown from a handful of animals into a population of over 100,000."
+  ],
+  "relatedAnimals": ["red-deer", "elk", "moose", "reindeer", "pronghorn", "coyote"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How high can a white-tailed deer jump?", "answer": "A white-tailed deer can clear a fence about 2.4 m (8 ft) high from a standing or running start, and can cover around 9 m (30 ft) in a horizontal leap. This is why deer-proof garden fences are usually built at least 2.4 m tall."},
+    {"question": "What is the difference between a white-tailed deer and a mule deer?", "answer": "White-tailed deer have a broad, brown tail with a white underside, smaller ears, and antlers with tines rising from a single main beam. Mule deer have large mule-like ears, a thin black-tipped tail, antlers that fork repeatedly, and a stiff-legged bounding gait. Mule deer live mainly in western North America."},
+    {"question": "Do female white-tailed deer have antlers?", "answer": "Normally no. Only bucks grow antlers, which they use to compete for does during the rut. Rarely, perhaps one doe in several thousand, a female with unusually high testosterone grows small antlers that usually stay covered in velvet."},
+    {"question": "Are white-tailed deer dangerous?", "answer": "White-tailed deer rarely attack people, though bucks in the rut and does guarding fawns occasionally do. The real danger is on the road: deer are involved in more than a million vehicle collisions a year in the United States. They also host the ticks that spread Lyme disease."},
+    {"question": "When do white-tailed deer shed their antlers?", "answer": "Bucks shed their antlers each winter, typically between late December and March, after the breeding season when testosterone levels fall. New antlers begin growing within weeks, covered in blood-rich velvet, and are fully hardened by late summer or early fall."}
+  ],
+  "meta": {
+    "title": "White-Tailed Deer Facts: Weight, Speed, Lifespan & Diet",
+    "description": "White-tailed deer weigh 40–135 kg (90–300 lb), stand up to 1 m at the shoulder, run 48 km/h (30 mph) and jump 2.4 m. Most wild deer live just 2–5 years.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Odocoileus%20virginianus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Odocoileus_virginianus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Odocoileus_virginianus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/White-tailed_deer"}
+    ]
+  }
+}

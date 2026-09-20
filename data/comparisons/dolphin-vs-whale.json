@@ -1,0 +1,59 @@
+{
+  "slug": "dolphin-vs-whale",
+  "summary": "The main difference between dolphins and whales is mostly one of size and naming, because dolphins are in fact small toothed whales. The real biological divide is between toothed whales, including dolphins, porpoises, orcas and sperm whales, and baleen whales, such as the humpback, which filter food through plates of baleen. This page compares a bottlenose dolphin with a humpback whale.",
+  "differences": [
+    {
+      "title": "Teeth or baleen",
+      "text": "A bottlenose dolphin has rows of simple, cone-shaped teeth for gripping fish and squid, which it swallows whole. A humpback whale has no teeth. Hundreds of baleen plates, made of keratin like fingernails, hang from its upper jaw and strain krill and small schooling fish from enormous mouthfuls of seawater."
+    },
+    {
+      "title": "Blowholes",
+      "text": "Toothed whales, including all dolphins, have a single blowhole. Baleen whales have two, side by side, like nostrils. The spout helps identify whales at sea: a humpback's blow is a low, bushy cloud, while a dolphin's breath is a quick puff that is rarely visible from a distance."
+    },
+    {
+      "title": "Echolocation and song",
+      "text": "Dolphins and other toothed whales echolocate. They produce rapid clicks, focus them through the fatty 'melon' in the forehead, and read the echoes to find prey. Baleen whales do not echolocate in this way. Male humpbacks instead sing long, complex songs on the breeding grounds, and all the males in a population sing the same evolving tune."
+    },
+    {
+      "title": "Size",
+      "text": "Most dolphins are small to medium cetaceans, while baleen whales include the largest animals that have ever lived. A humpback is many times longer and hundreds of times heavier than a bottlenose dolphin. Size is not a perfect rule: the orca, the largest dolphin, is bigger than some whales, such as the dwarf sperm whale."
+    },
+    {
+      "title": "Feeding and migration",
+      "text": "Bottlenose dolphins hunt year-round, often cooperatively, in coastal and offshore waters, and many stay in a home range. Humpbacks feed heavily in cold polar waters in summer, sometimes trapping fish inside rings of bubbles, then migrate thousands of miles to tropical breeding grounds, where they eat little or nothing for months."
+    },
+    {
+      "title": "Social life",
+      "text": "Dolphins are highly social and live in pods with long-lasting alliances, especially among males; individuals identify themselves with unique signature whistles. Humpbacks are more loosely social. They gather at feeding and breeding areas, and they cooperate in bubble-net feeding, but the only lasting bond is between a mother and her calf."
+    }
+  ],
+  "similarities": "Dolphins and whales are all cetaceans: warm-blooded, air-breathing mammals that give birth to live young and nurse them with milk. They share a streamlined, nearly hairless body, a layer of insulating blubber, front flippers, and a horizontal tail fluke that beats up and down. All cetaceans descend from land mammals, and their closest living relatives are hippos.",
+  "howToTell": [
+    "At sea, very large size plus a tall or bushy spout means a whale, not a dolphin.",
+    "A humpback has extremely long, knobbly white-edged flippers and shows its tail flukes when diving.",
+    "A bottlenose dolphin is sleek and gray with a curved dorsal fin, a short beak and a permanent 'smile.'",
+    "A group of small, fast cetaceans leaping or riding a boat's bow wave is a pod of dolphins."
+  ],
+  "faq": [
+    {
+      "question": "Is a dolphin a whale?",
+      "answer": "Yes, scientifically. Dolphins belong to the toothed whale group, Odontoceti, within the order Cetacea, so every dolphin is a small whale. In everyday speech, 'whale' simply refers to the larger cetaceans. The killer whale, or orca, is actually the largest member of the dolphin family."
+    },
+    {
+      "question": "Are dolphins smarter than whales?",
+      "answer": "There is no clear answer. Dolphins have very large brains for their body size and show self-recognition, tool use and complex communication, but they are also much easier to study. Large whales display sophisticated behavior too, including learned songs and cooperative feeding. Intelligence across such different animals is hard to compare fairly."
+    },
+    {
+      "question": "Can dolphins and whales interbreed?",
+      "answer": "Only closely related species can. Hybrids are known within the dolphin family; the best known is the 'wholphin,' a cross between a bottlenose dolphin and a false killer whale, which is itself a dolphin. A dolphin could not breed with a baleen whale such as a humpback."
+    },
+    {
+      "question": "Do whales eat dolphins?",
+      "answer": "Most do not. Baleen whales such as the humpback eat krill and small fish and have throats too narrow to swallow a dolphin. The exception is the orca: some orca populations hunt dolphins and porpoises, and even the calves of large whales."
+    }
+  ],
+  "meta": {
+    "title": "Dolphin vs Whale: What Is the Difference?",
+    "description": "Dolphins are small toothed whales with teeth, one blowhole and echolocation; baleen whales like the humpback filter-feed and have two blowholes."
+  }
+}

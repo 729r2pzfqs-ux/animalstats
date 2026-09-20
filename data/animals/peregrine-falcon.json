@@ -1,0 +1,64 @@
+{
+  "slug": "peregrine-falcon",
+  "commonName": "Peregrine Falcon",
+  "scientificName": "Falco peregrinus",
+  "alternateNames": ["Peregrine", "Duck hawk"],
+  "nameSingular": "peregrine falcon",
+  "namePlural": "peregrine falcons",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Falconiformes", "family": "Falconidae", "genus": "Falco", "species": "F. peregrinus"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 15, "unit": "years", "context": "wild birds that reach adulthood; the oldest banded wild birds were close to 20", "display": "10–15 years"},
+    "lifespanCaptivity": {"min": 20, "max": 25, "unit": "years", "context": "in human care", "display": "20–25 years"},
+    "weight": {"min": 0.33, "max": 1.5, "unit": "kg", "context": "adults across all subspecies; males 0.33–1 kg, females 0.7–1.5 kg", "display": "0.33–1.5 kg (0.7–3.3 lb)"},
+    "height": {"min": 74, "max": 120, "unit": "cm", "label": "Wingspan", "display": "74–120 cm (29–47 in)"},
+    "speed": {"min": 320, "max": 320, "unit": "km/h", "verb": "fly", "context": "hunting dive (stoop), not level flight; level flight is about 65–90 km/h and the highest measured dive was 389 km/h", "display": "about 320 km/h (200 mph) in a dive"},
+    "gestationPeriod": {"min": 29, "max": 33, "unit": "days", "label": "Incubation", "display": "29–33 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Almost entirely birds caught in flight, especially pigeons and doves, ducks, shorebirds, starlings and other songbirds; occasionally bats, and rarely small mammals or insects.",
+    "habitat": ["Cliffs and mountains", "Coasts", "River valleys", "Tundra", "Cities"],
+    "range": "Every continent except Antarctica, from Arctic tundra to the tropics, making it one of the most widely distributed birds in the world; absent from New Zealand.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The peregrine falcon is a crow-sized bird of prey famous as the fastest animal on Earth, reaching about 320 km/h (200 mph) when it dives on other birds. Adults are blue-gray above and barred below, with a dark hood and a bold 'moustache' stripe under each eye. Peregrines live on every continent except Antarctica and nest on cliff ledges or, increasingly, on skyscrapers, bridges and cathedrals, where city pigeons supply plenty of food. The species was nearly wiped out in North America and much of Europe by the pesticide DDT in the mid-twentieth century, then recovered through bans and captive breeding.",
+  "answers": {
+    "lifespan": "Peregrine falcons that reach adulthood typically live 10–15 years in the wild and 20–25 years in human care. The oldest banded wild birds were close to 20 years old. Most deaths come early: well over half of young peregrines die in their first year, often from collisions or starvation while learning to hunt.",
+    "weight": "Peregrine falcons weigh 0.33–1.5 kg (0.7–3.3 lb), depending on sex and subspecies. Females, at 0.7–1.5 kg, can be up to 30 percent larger than males, which weigh 0.33–1 kg. Falconers call the smaller male a tiercel, from an old word meaning 'a third'.",
+    "size": "A peregrine falcon's wingspan is 74–120 cm (29–47 in), and its body is 34–58 cm (13–23 in) long. That is roughly the size of a crow, but with long, pointed wings and a relatively short tail. Females are noticeably larger than males.",
+    "speed": "A peregrine falcon reaches about 320 km/h (200 mph) in a hunting dive, which makes it the fastest animal known. That figure applies only to the dive, called a stoop. The highest speed measured, 389 km/h (242 mph), came from a trained bird released from an aircraft. In level flight peregrines cruise at roughly 65–90 km/h (40–56 mph).",
+    "gestation": "Peregrine falcon eggs hatch after 29–33 days of incubation. The female lays three or four eggs in a bare scrape on a ledge, without building a nest, and both parents share the sitting. Chicks fledge at around six weeks and rely on their parents for up to two months more.",
+    "diet": "Peregrine falcons are carnivores that feed almost entirely on other birds, caught in mid-air. Pigeons, doves, ducks, shorebirds, starlings and other songbirds make up most of the diet, and well over a thousand prey species have been recorded worldwide. They strike prey with a clenched foot, then bite through the neck.",
+    "habitat": "Peregrine falcons live on every continent except Antarctica, in habitats from Arctic tundra and sea cliffs to deserts and city centers. The main requirements are open airspace for hunting and a high ledge for nesting. Tall buildings, bridges and quarries serve as well as natural cliffs, so many large cities now have resident pairs.",
+    "conservation": "The peregrine falcon is listed as Least Concern, with a stable global population. It crashed in the 1950s and 1960s because DDT thinned its eggshells, and it vanished as a breeding bird from the eastern United States. After DDT bans and large-scale releases of captive-bred birds, it recovered and was removed from the US endangered species list in 1999."
+  },
+  "funFacts": [
+    "Small bony cones inside a peregrine's nostrils are thought to act as baffles, letting the bird breathe while air rushes past at extreme dive speeds.",
+    "The name peregrine comes from the Latin for 'wanderer'; tundra-nesting birds may migrate about 25,000 km a year to South America and back.",
+    "Peregrines do not build nests. The eggs are laid in a shallow scrape on a cliff ledge, a gravel tray on a skyscraper, or another bird's old nest.",
+    "A third eyelid, the nictitating membrane, sweeps across the eye to clear dust and keep it moist during a high-speed stoop.",
+    "Falconers have flown peregrines for well over a thousand years, and their captive-breeding skills were crucial to the species' recovery."
+  ],
+  "relatedAnimals": ["golden-eagle", "bald-eagle", "red-tailed-hawk", "common-swift", "pigeon", "cheetah"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is the peregrine falcon the fastest animal in the world?", "answer": "Yes, in a dive. A stooping peregrine reaches about 320 km/h (200 mph), faster than any other animal. In level flight it is not the fastest bird: swifts and some ducks match or beat its cruising speed. The cheetah is the fastest animal on land."},
+    {"question": "How does a peregrine falcon kill its prey?", "answer": "A peregrine climbs above its target, folds its wings and dives, then strikes the bird with a clenched foot, which stuns or kills it outright. It catches the falling prey in the air or follows it to the ground, and finishes it with a bite that severs the neck."},
+    {"question": "Do peregrine falcons live in cities?", "answer": "Yes. Peregrines nest on skyscrapers, bridges, church towers and power stations in cities around the world, including New York, London and Chicago. Tall buildings mimic cliffs, and urban pigeons and starlings provide a reliable food supply all year."},
+    {"question": "Why did peregrine falcons almost go extinct?", "answer": "The pesticide DDT built up in the birds that peregrines ate. It caused the falcons to lay thin-shelled eggs that broke during incubation, so populations collapsed across North America and Europe from the 1950s. Numbers recovered after DDT was banned in the 1970s and thousands of captive-bred birds were released."},
+    {"question": "What is the difference between a falcon and a hawk?", "answer": "Falcons such as the peregrine have long, pointed wings, dark eyes and a notch in the bill used to kill prey with a bite to the neck. Hawks have broader, rounded wings and kill with their talons. Genetically, falcons are closer to parrots than to hawks and eagles."}
+  ],
+  "meta": {
+    "title": "How Fast Is a Peregrine Falcon? Speed, Size & Facts",
+    "description": "Peregrine falcons dive at about 320 km/h (200 mph), the fastest of any animal, but cruise at 65–90 km/h. Weight 0.33–1.5 kg, lifespan, diet and range.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Falco%20peregrinus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Falco_peregrinus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Falco_peregrinus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Peregrine_falcon"}
+    ]
+  }
+}

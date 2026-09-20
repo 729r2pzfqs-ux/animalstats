@@ -1,0 +1,23 @@
+{
+  "slug": "saltwater-crocodile",
+  "commonName": "Saltwater Crocodile",
+  "scientificName": "Crocodylus porosus",
+  "classSlug": "reptiles",
+  "aliases": [
+    "crocodile",
+    "saltie"
+  ],
+  "qid": "Q182599",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Saltwater crocodile",
+  "taxonomy": {
+    "species": "Crocodylus porosus",
+    "genus": "Crocodylus",
+    "family": "Crocodylidae",
+    "order": "Crocodilia",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

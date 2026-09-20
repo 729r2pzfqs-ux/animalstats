@@ -1,0 +1,37 @@
+{
+  "slug": "emu",
+  "commonName": "Emu",
+  "scientificName": "Dromaius novaehollandiae",
+  "classSlug": "birds",
+  "aliases": [],
+  "qid": "Q93208",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Emu",
+  "taxonomy": {
+    "species": "Dromaius novaehollandiae",
+    "genus": "Dromaius",
+    "family": "Casuariidae",
+    "order": "Casuariiformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "581.2",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "32.7",
+      "unit": "kg",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "38.3",
+      "unit": "kg",
+      "sex": "female"
+    }
+  ]
+}

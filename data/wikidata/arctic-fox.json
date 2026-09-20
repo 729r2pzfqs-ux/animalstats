@@ -1,0 +1,26 @@
+{
+  "slug": "arctic-fox",
+  "commonName": "Arctic Fox",
+  "scientificName": "Vulpes lagopus",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q82738",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Arctic fox",
+  "taxonomy": {
+    "species": "Vulpes lagopus",
+    "genus": "Vulpes",
+    "family": "Canidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "52",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

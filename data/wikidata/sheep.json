@@ -1,0 +1,22 @@
+{
+  "slug": "sheep",
+  "commonName": "Sheep",
+  "scientificName": "Ovis aries",
+  "classSlug": "mammals",
+  "aliases": [
+    "domestic sheep",
+    "lamb"
+  ],
+  "qid": "Q29350771",
+  "iucnStatus": null,
+  "wikipedia": null,
+  "taxonomy": {
+    "species": "Ovis aries",
+    "genus": "Ovis",
+    "family": "Bovidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": []
+}

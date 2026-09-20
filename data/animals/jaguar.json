@@ -1,0 +1,64 @@
+{
+  "slug": "jaguar",
+  "commonName": "Jaguar",
+  "scientificName": "Panthera onca",
+  "alternateNames": ["Onça-pintada", "El tigre", "Black panther"],
+  "nameSingular": "jaguar",
+  "namePlural": "jaguars",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Felidae", "genus": "Panthera", "species": "P. onca"},
+  "facts": {
+    "lifespan": {"min": 12, "max": 15, "unit": "years", "context": "in the wild", "display": "12–15 years"},
+    "lifespanCaptivity": {"min": 20, "max": 22, "unit": "years", "context": "in human care", "display": "about 20–22 years"},
+    "weight": {"min": 56, "max": 96, "unit": "kg", "context": "typical adults; Pantanal males can exceed 130 kg, Central American females may weigh under 45 kg", "display": "56–96 kg (123–212 lb)"},
+    "height": {"min": 68, "max": 76, "unit": "cm", "label": "Shoulder height", "display": "68–76 cm (27–30 in)"},
+    "speed": {"min": 80, "max": 80, "unit": "km/h", "verb": "run", "context": "commonly cited top speed for a very short dash; it has not been precisely measured", "display": "up to about 80 km/h (50 mph)"},
+    "gestationPeriod": {"min": 91, "max": 111, "unit": "days", "label": "Gestation", "display": "about 100 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "More than 85 recorded prey species, chiefly capybaras, peccaries, caimans, deer, tapirs, armadillos, turtles and fish; in ranching country jaguars also take cattle.",
+    "habitat": ["Tropical rainforest", "Wetlands", "Swamp forest", "Dry forest", "Scrub"],
+    "range": "From northern Mexico through Central America to northern Argentina, with strongholds in the Amazon basin and the Pantanal; very rare visitors reach the US–Mexico border.",
+    "conservationStatus": "Near Threatened",
+    "iucnCategory": "NT",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The jaguar is the largest cat in the Americas and the third largest in the world after the tiger and lion. It resembles a leopard but is stockier, with a broader head, shorter legs and tail, and larger rosettes that usually enclose one or more small spots. Relative to its size the jaguar has the strongest bite of any big cat, and it often kills by piercing the skull of its prey rather than by suffocation. Jaguars are solitary, strongly tied to water and excellent swimmers. They once ranged from the southwestern United States to Patagonia and have lost roughly half of that range.",
+  "answers": {
+    "lifespan": "Jaguars live 12–15 years in the wild and about 20–22 years in zoos. Wild lifespans are cut short by conflict with ranchers, habitat loss and injuries. Females first breed at around two to three years old and raise a litter only every two years or so.",
+    "weight": "Adult jaguars typically weigh 56–96 kg (123–212 lb). Size varies strongly with region: males in Brazil's Pantanal and the Venezuelan Llanos often exceed 100 kg, with records above 130 kg, while Central American jaguars are much smaller and females there can weigh under 45 kg.",
+    "size": "A jaguar stands 68–76 cm (27–30 in) tall at the shoulder. Head-and-body length is 1.1–1.85 m, plus a relatively short tail of 45–75 cm. The build is compact and heavily muscled, with a noticeably large head and powerful jaws.",
+    "speed": "Jaguars are often credited with a top speed of about 80 km/h (50 mph), but the figure has not been precisely measured and applies only to a very short dash. They are stalk-and-ambush hunters that depend on cover, surprise and a powerful bite rather than on chasing prey.",
+    "gestation": "A jaguar is pregnant for about 100 days, with a range of 91–111 days. Litters usually contain one to four cubs, most often two. Cubs are born blind, begin following their mother at around two months and stay with her for up to two years.",
+    "diet": "Jaguars are carnivores that eat more than 85 species, including capybaras, peccaries, deer, tapirs and armadillos. They are unusual among cats in regularly hunting reptiles, killing caimans and cracking open turtle shells with their jaws. They also catch fish and sometimes prey on cattle.",
+    "habitat": "Jaguars live mainly in tropical rainforest, seasonally flooded wetlands and swamp forest from Mexico to northern Argentina, and also use dry forest and scrub. They are rarely found far from rivers or lakes. The Amazon basin holds the large majority of the population, and the Pantanal has some of the highest densities.",
+    "conservation": "The jaguar is listed as Near Threatened on the IUCN Red List, and its population is decreasing. Deforestation, fragmentation of habitat, killing by ranchers protecting cattle and a growing illegal trade in teeth and bones are the main threats. It is already extinct in El Salvador and Uruguay."
+  },
+  "funFacts": [
+    "The jaguar has the most powerful bite of any big cat relative to its size, strong enough to pierce turtle shells and caiman skulls.",
+    "Unlike most cats, jaguars often kill by biting straight through the skull between the ears.",
+    "The name jaguar comes from the Indigenous Tupi–Guarani word 'yaguara', often translated as 'beast that kills with one leap'.",
+    "Around 6–10 percent of jaguars are melanistic 'black panthers', and their rosettes remain faintly visible.",
+    "Jaguars are strong swimmers and have been recorded crossing wide rivers and hunting caimans in the water."
+  ],
+  "relatedAnimals": ["leopard", "cougar", "tiger", "lion", "capybara", "green-anaconda"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a jaguar and a leopard?", "answer": "Jaguars live in the Americas and leopards in Africa and Asia. Jaguars are heavier and stockier, with a bigger head, a shorter tail, and large rosettes that contain small spots. Leopards are slimmer, and their smaller rosettes have no central spots."},
+    {"question": "How strong is a jaguar's bite?", "answer": "The jaguar has the strongest bite of any big cat for its body size. Studies estimate a bite force around 1,500 psi, though measurements and methods vary. It is powerful enough to puncture turtle shells, caiman hides and the skulls of large mammals."},
+    {"question": "Are there jaguars in the United States?", "answer": "Only a handful. Jaguars once lived across the Southwest, but no breeding population remains. Lone males from northern Mexico are occasionally photographed by trail cameras in the mountains of southern Arizona and, rarely, New Mexico."},
+    {"question": "Are jaguars dangerous to humans?", "answer": "Jaguar attacks on people are very rare, much rarer than attacks by lions, tigers or leopards. Jaguars generally avoid humans, and most recorded incidents involve cornered, wounded or habituated animals, or people approaching a kill or cubs."},
+    {"question": "How many jaguars are left in the wild?", "answer": "There is no exact count. A 2018 scientific study estimated roughly 170,000 jaguars across the species' range, the great majority in the Amazon basin. Many populations outside Amazonia are small, isolated and declining."}
+  ],
+  "meta": {
+    "title": "Jaguar Facts: Size, Bite, Weight, Lifespan & Habitat",
+    "description": "Jaguars weigh 56–96 kg (123–212 lb), stand 68–76 cm at the shoulder and live 12–15 years in the wild. Bite force, diet, gestation and Near Threatened status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Panthera%20onca&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Panthera_onca/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Panthera_onca"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Jaguar"}
+    ]
+  }
+}

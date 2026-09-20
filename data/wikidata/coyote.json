@@ -1,0 +1,31 @@
+{
+  "slug": "coyote",
+  "commonName": "Coyote",
+  "scientificName": "Canis latrans",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q44299",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Coyote",
+  "taxonomy": {
+    "species": "Canis latrans",
+    "genus": "Canis",
+    "family": "Canidae",
+    "order": "Carnivora",
+    "class": "Mammalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "262.5",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "62",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

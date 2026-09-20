@@ -1,0 +1,33 @@
+{
+  "slug": "whale-shark",
+  "commonName": "Whale Shark",
+  "scientificName": "Rhincodon typus",
+  "classSlug": "fish",
+  "aliases": [],
+  "qid": "Q80378",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Whale shark",
+  "taxonomy": {
+    "species": "Rhincodon typus",
+    "genus": "Rhincodon",
+    "family": "Rhincodontidae",
+    "order": "Orectolobiformes",
+    "class": "Chondrichthyes",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "12",
+      "unit": "t",
+      "sex": null
+    },
+    {
+      "property": "length",
+      "amount": "46",
+      "unit": "ft",
+      "sex": null
+    }
+  ]
+}

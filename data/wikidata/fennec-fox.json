@@ -1,0 +1,26 @@
+{
+  "slug": "fennec-fox",
+  "commonName": "Fennec Fox",
+  "scientificName": "Vulpes zerda",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q131564",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Fennec fox",
+  "taxonomy": {
+    "species": "Vulpes zerda",
+    "genus": "Vulpes",
+    "family": "Canidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "50",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

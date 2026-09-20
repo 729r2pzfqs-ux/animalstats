@@ -1,0 +1,64 @@
+{
+  "slug": "swordfish",
+  "commonName": "Swordfish",
+  "scientificName": "Xiphias gladius",
+  "alternateNames": ["Broadbill", "Broadbill swordfish"],
+  "nameSingular": "swordfish",
+  "namePlural": "swordfish",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Istiophoriformes", "family": "Xiphiidae", "genus": "Xiphias", "species": "X. gladius"},
+  "facts": {
+    "lifespan": {"min": 9, "max": 15, "unit": "years", "context": "in the wild; females live longer than males", "display": "9–15 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 70, "max": 300, "unit": "kg", "context": "adults; females are much larger, and the maximum is about 650 kg", "display": "70–300 kg (150–660 lb)"},
+    "height": {"min": 1.8, "max": 3, "unit": "m", "label": "Length", "display": "1.8–3 m (6–10 ft)"},
+    "speed": {"min": 36, "max": 54, "unit": "km/h", "verb": "swim", "context": "estimated physical ceiling for short bursts from hydrodynamic studies; never measured directly, and the popular 97 km/h figure is unsupported", "display": "roughly 36–54 km/h (22–34 mph)"},
+    "gestationPeriod": {"min": 2.5, "max": 2.5, "unit": "days", "label": "Egg development", "display": "about 2.5 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Squid and other cephalopods plus a wide range of fish, including mackerel, hake, herring, lanternfish, barracudinas and rockfish, caught anywhere from the surface to several hundred meters down.",
+    "habitat": ["Open ocean", "Deep midwater", "Continental slopes"],
+    "range": "Tropical, temperate and sometimes cold waters of the Atlantic, Pacific and Indian Oceans and the Mediterranean Sea, roughly between 60°N and 45°S.",
+    "conservationStatus": "Near Threatened",
+    "iucnCategory": "NT",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The swordfish is a large, solitary ocean predator and the only living member of its family, distinguished by a long, flat, sharp-edged bill that makes up about a third of its length. Adults have no teeth, no scales and no pelvic fins. Swordfish follow their prey on a daily vertical migration, spending the day hundreds of meters deep in cold, dark water and rising toward the surface at night. A special heat-producing organ beside the eyes warms the eyes and brain, sharpening vision in the cold. The sword is used to slash and stun prey, not to spear it.",
+  "answers": {
+    "lifespan": "Swordfish live about 9 years on average, and females can reach 15 or more. They grow fast, and females, which get much bigger than males, mature at around 4–5 years old. Ages are estimated from growth rings in the fin rays, since adult swordfish have no scales to read.",
+    "weight": "Adult swordfish typically weigh 70–300 kg (150–660 lb), with the largest reaching about 650 kg (1,430 lb). Nearly all fish over 140 kg are females. The angling record is 536 kg (1,182 lb), caught off Chile in 1953, while most commercially caught swordfish today weigh well under 100 kg.",
+    "size": "Swordfish are usually 1.8–3 m (6–10 ft) long including the sword, and the largest reach about 4.5 m (nearly 15 ft). The flat bill accounts for roughly a third of the total length. Pacific swordfish grow largest, and Mediterranean fish are the smallest.",
+    "speed": "Swordfish probably reach no more than about 36–54 km/h (22–34 mph) in short bursts. The widely repeated 97 km/h (60 mph) figure is based on old, unverifiable calculations, and no swordfish has ever been directly clocked. Hydrodynamic studies suggest cavitation would damage the fins of any fish above about 10–15 m per second.",
+    "gestation": "Swordfish eggs hatch about two and a half days after fertilization. Swordfish do not get pregnant: females release from one million to nearly 30 million buoyant eggs into warm water, and fertilization is external. Newly hatched larvae are about 4 mm long and already have a short bill by 1 cm.",
+    "diet": "Swordfish are carnivores that eat mainly squid along with fish such as mackerel, hake, herring and lanternfish. They slash the bill from side to side through schools to stun or cut prey, then swallow it whole or in pieces. Stomach contents often show the clean slash marks.",
+    "habitat": "Swordfish live in the open waters of the Atlantic, Pacific and Indian Oceans and the Mediterranean, tolerating temperatures from about 5 to 27 °C, the widest range of any billfish. They typically spend the day at depths of 300–600 m or more and come up into the top 100 m at night.",
+    "conservation": "The swordfish is listed as Near Threatened on the IUCN Red List, and the global population is decreasing. It is fished commercially worldwide with longlines. The North Atlantic stock was rebuilt after a recovery plan that began in 1999, but the Mediterranean stock is still overfished."
+  },
+  "funFacts": [
+    "A modified eye muscle acts as a heater, keeping a swordfish's eyes and brain 10–15 °C warmer than the surrounding water for sharper vision in the cold deep.",
+    "Adult swordfish have no teeth and no scales; they lose both as juveniles, by the time they are about 1 m long.",
+    "In 2016 researchers found an oil-producing gland at the base of the sword that may coat the head with a drag-reducing film.",
+    "Swordfish have speared boats, whales and even the research submersible Alvin, which came back from a 1967 dive with a swordfish wedged in its hull.",
+    "Swordfish often bask at the surface with the dorsal fin showing, which historically made them targets for harpoon fishing."
+  ],
+  "relatedAnimals": ["sailfish", "bluefin-tuna", "great-white-shark", "ocean-sunfish", "giant-squid", "narwhal"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What do swordfish use their sword for?", "answer": "Swordfish use the sword mainly to slash at prey, swinging it sideways through schools of fish or squid to stun and injure them. It is not normally used to spear food. The sword also serves for defense against sharks, and mako sharks have been found with broken swordfish bills embedded in them."},
+    {"question": "Are swordfish dangerous to humans?", "answer": "Swordfish do not attack people unprovoked, but they are powerful and dangerous when hooked or harpooned. There are documented cases of fishermen being seriously injured or killed by a thrashing or charging swordfish, and of swords being driven through the planks of wooden boats."},
+    {"question": "How fast can a swordfish swim?", "answer": "No one has measured a swordfish's top speed. The popular 97 km/h (60 mph) claim is unsupported, and physical limits on fish swimming suggest a realistic maximum burst of perhaps 36–54 km/h. Tagged swordfish cruise far more slowly, at only a few kilometers per hour."},
+    {"question": "Is swordfish high in mercury?", "answer": "Yes. As a large, long-lived predator, swordfish accumulates high levels of methylmercury. The US Food and Drug Administration lists it among the fish that pregnant or breastfeeding women and young children should avoid, and other adults are generally advised to eat it only occasionally."},
+    {"question": "Is a swordfish a type of marlin?", "answer": "No. Swordfish and marlins are both billfish, but the swordfish is the sole member of its own family, Xiphiidae. It has a flat, blade-like bill, no pelvic fins and no scales as an adult, whereas marlins and sailfish have a round bill, pelvic fins and scales."}
+  ],
+  "meta": {
+    "title": "Swordfish Facts: Size, Weight, Speed, Diet & Lifespan",
+    "description": "Swordfish grow 1.8–3 m (6–10 ft) long, weigh 70–300 kg and live 9–15 years. Their real top speed is likely 36–54 km/h, not 97. Diet, habitat and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Xiphias%20gladius&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Xiphias_gladius/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Xiphias_gladius"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Swordfish"}
+    ]
+  }
+}

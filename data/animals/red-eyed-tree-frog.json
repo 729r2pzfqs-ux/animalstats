@@ -1,0 +1,64 @@
+{
+  "slug": "red-eyed-tree-frog",
+  "commonName": "Red-Eyed Tree Frog",
+  "scientificName": "Agalychnis callidryas",
+  "alternateNames": ["Red-eyed leaf frog", "Red-eyed treefrog"],
+  "nameSingular": "red-eyed tree frog",
+  "namePlural": "red-eyed tree frogs",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Amphibia", "classSlug": "amphibians", "order": "Anura", "family": "Hylidae", "genus": "Agalychnis", "species": "A. callidryas"},
+  "facts": {
+    "lifespan": {"min": 5, "max": 5, "unit": "years", "context": "estimated in the wild", "display": "about 5 years"},
+    "lifespanCaptivity": {"min": 5, "max": 10, "unit": "years", "context": "in human care", "display": "5–10 years"},
+    "weight": {"min": 6, "max": 15, "unit": "g", "context": "adults; females are larger and heavier than males", "display": "6–15 g (0.2–0.5 oz)"},
+    "height": {"min": 5, "max": 7.5, "unit": "cm", "label": "Body length", "display": "5–7.5 cm (2–3 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 6, "max": 8, "unit": "days", "label": "Egg development", "display": "6–8 days to hatch"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Crickets, moths, flies, grasshoppers and other insects caught at night with a sticky tongue; large adults occasionally eat smaller frogs. Tadpoles filter and graze on algae and other small particles in the water.",
+    "habitat": ["Lowland rainforest", "Humid forest near ponds", "Riverside forest"],
+    "range": "Southern Mexico through Central America, including Belize, Guatemala, Honduras, Nicaragua, Costa Rica and Panama, to northwestern Colombia.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The red-eyed tree frog is the poster animal of the Central American rainforest: a slim, bright green frog with bulging red eyes, blue-and-yellow striped flanks and orange toes. By day it sleeps glued to the underside of a leaf with its eyes shut and its colorful sides tucked away, so it looks like part of the foliage. If disturbed, it snaps its eyes open and flashes its colors, startling a predator for the instant it needs to jump. It is nocturnal, lives in trees near ponds, and is not poisonous despite its vivid colors.",
+  "answers": {
+    "lifespan": "Red-eyed tree frogs live about 5 years in the wild and 5–10 years in captivity. Wild frogs are eaten by snakes, bats, birds and large spiders, and most eggs and tadpoles never reach adulthood. In captivity, stable humidity, clean conditions and a varied insect diet help them live longer.",
+    "weight": "Adult red-eyed tree frogs weigh about 6–15 g (0.2–0.5 oz). Females are clearly the larger sex and sit at the top of that range, while males usually weigh well under 10 g. Their light build lets them cling to thin leaves and stems.",
+    "size": "Red-eyed tree frogs are 5–7.5 cm (2–3 in) long from snout to vent. Males reach about 5–6 cm and females about 6–7.5 cm. Long, thin legs with large suction-pad toes make them better climbers than jumpers or swimmers.",
+    "speed": null,
+    "gestation": "Red-eyed tree frog eggs hatch in about 6–8 days. The female lays a clutch of around 40 eggs on a leaf hanging over a pond, and hatching tadpoles drop into the water below. They become froglets after several weeks to a few months.",
+    "diet": "Red-eyed tree frogs are insectivores that eat crickets, moths, flies and other insects, hunting at night in the trees. They ambush prey and catch it with a long, sticky tongue. Pet frogs are fed gut-loaded crickets and other feeder insects dusted with calcium.",
+    "habitat": "Red-eyed tree frogs live in humid lowland rainforests from southern Mexico to northwestern Colombia, usually below about 1,250 m. They need trees close to ponds or slow streams for breeding. They spend the day hidden on the undersides of broad leaves and climb at night.",
+    "conservation": "The red-eyed tree frog is listed as Least Concern on the IUCN Red List, but its population is decreasing. Deforestation is the main threat, along with chytrid fungus and some collection for the pet trade. The species remains common in protected forests such as those of Costa Rica."
+  },
+  "funFacts": [
+    "Embryos can hatch up to two days early if they feel the vibrations of an attacking snake or wasp, dropping into the water to escape.",
+    "The sudden flash of red eyes and blue flanks is called startle coloration; it may confuse a predator just long enough for the frog to leap away.",
+    "A see-through third eyelid with a gold net pattern lets the frog rest while hiding its bright eyes and still sensing movement.",
+    "Males compete for calling perches by shaking the branch they sit on, sending vibrations that rivals can feel.",
+    "The species name callidryas comes from Greek words meaning \"beautiful tree nymph.\""
+  ],
+  "relatedAnimals": ["golden-poison-frog", "american-bullfrog", "goliath-frog", "american-toad", "cane-toad", "veiled-chameleon"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are red-eyed tree frogs poisonous?", "answer": "No. Despite their bright colors, red-eyed tree frogs are not poisonous and rely on camouflage and surprise instead. Their skin has mild secretions like most frogs, so you should wash your hands after contact, but they pose no danger to people."},
+    {"question": "Why do red-eyed tree frogs have red eyes?", "answer": "The red eyes are thought to be a defense. When a sleeping frog is disturbed, it suddenly opens its eyes and reveals its blue flanks and orange feet. The burst of color can make a bird or snake hesitate for a moment, giving the frog time to jump."},
+    {"question": "Do red-eyed tree frogs make good pets?", "answer": "They can be good display pets for keepers with some experience. They need a tall, humid, planted terrarium, temperatures around 24–28 °C, clean water and live insects. They are nocturnal, easily stressed and have delicate skin, so they should be watched rather than handled."},
+    {"question": "Where do red-eyed tree frogs sleep?", "answer": "Red-eyed tree frogs sleep during the day stuck to the underside of a large leaf. They tuck their legs against the body, cover the blue sides and close their eyes, leaving only plain green showing. This makes them very hard for predators to spot."},
+    {"question": "Can red-eyed tree frogs swim?", "answer": "Adults can swim but rarely do, since they are built for climbing and live in trees. They come down to ponds mainly in the rainy season to breed. The tadpoles are fully aquatic and live in the water until they grow legs and climb out."}
+  ],
+  "meta": {
+    "title": "Red-Eyed Tree Frog Facts: Size, Lifespan, Diet & Habitat",
+    "description": "Red-eyed tree frogs are 5–7.5 cm (2–3 in) long, weigh 6–15 g and live about 5 years in the wild. Eggs hatch in 6–8 days. Not poisonous. Diet and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Agalychnis%20callidryas&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Agalychnis_callidryas/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Agalychnis_callidryas"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q337616"}
+    ]
+  }
+}

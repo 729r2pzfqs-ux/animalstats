@@ -1,0 +1,20 @@
+{
+  "slug": "electric-eel",
+  "commonName": "Electric Eel",
+  "scientificName": "Electrophorus electricus",
+  "classSlug": "fish",
+  "aliases": [],
+  "qid": "Q201235",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Electrophorus electricus",
+  "taxonomy": {
+    "species": "Electrophorus electricus",
+    "genus": "Electrophorus",
+    "family": "Gymnotidae",
+    "order": "Gymnotiformes",
+    "class": "Actinopteri",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

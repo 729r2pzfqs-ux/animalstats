@@ -1,0 +1,65 @@
+{
+  "slug": "chimpanzee",
+  "commonName": "Chimpanzee",
+  "scientificName": "Pan troglodytes",
+  "alternateNames": ["Chimp", "Common chimpanzee", "Robust chimpanzee"],
+  "nameSingular": "chimpanzee",
+  "namePlural": "chimpanzees",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Primates", "family": "Hominidae", "genus": "Pan", "species": "P. troglodytes"},
+  "facts": {
+    "lifespan": {"min": 30, "max": 40, "unit": "years", "context": "in the wild, for animals that reach adulthood", "display": "30–40 years"},
+    "lifespanCaptivity": {"min": 50, "max": 60, "unit": "years", "context": "in human care", "display": "50–60 years"},
+    "weight": {"min": 27, "max": 70, "unit": "kg", "context": "adults; females 27–50 kg, males 40–70 kg", "display": "27–70 kg (60–155 lb)"},
+    "height": {"min": 1.2, "max": 1.5, "unit": "m", "label": "Height", "display": "1.2–1.5 m (4–5 ft)"},
+    "speed": {"min": 40, "max": 40, "unit": "km/h", "verb": "run", "context": "short bursts on all fours; approximate", "display": "about 40 km/h (25 mph)"},
+    "gestationPeriod": {"min": 225, "max": 240, "unit": "days", "label": "Gestation", "display": "about 230 days (7.5–8 months)"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Mostly ripe fruit, especially figs, along with leaves, seeds, flowers, pith and honey; chimpanzees also eat termites and ants and hunt monkeys, bushpigs and small antelopes for meat.",
+    "habitat": ["Tropical rainforest", "Montane forest", "Woodland", "Savanna-forest mosaic"],
+    "range": "A broad belt across equatorial Africa, from Senegal and Guinea in the west through the Congo Basin north of the Congo River to western Uganda and Tanzania.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing",
+    "population": "an estimated 170,000–300,000"
+  },
+  "description": "The chimpanzee is a great ape of the forests and woodlands of equatorial Africa and, together with the bonobo, the closest living relative of humans, sharing roughly 98–99 percent of our DNA. Chimpanzees have black hair, bare faces, hands and feet, and arms longer than their legs; they walk on their knuckles and climb well. They live in communities of about 20 to 150 animals that split into smaller parties during the day. Chimpanzees make and use tools, hunt cooperatively, pass on local traditions and defend territories, sometimes violently. Four subspecies are recognized, and all are endangered.",
+  "answers": {
+    "lifespan": "Chimpanzees that reach adulthood typically live 30–40 years in the wild and 50–60 years in human care. Average life expectancy at birth is much lower in the wild, because many infants die. A handful of captive chimpanzees have lived into their late 60s or beyond.",
+    "weight": "Adult chimpanzees weigh 27–70 kg (60–155 lb). Males weigh 40–70 kg and females 27–50 kg. Captive chimpanzees are often heavier than wild ones, and the eastern subspecies tends to be the smallest of the four.",
+    "size": "A chimpanzee stands about 1.2–1.5 m (4–5 ft) tall when upright, and head-and-body length is 63–94 cm. The arms are longer than the legs, giving an arm span about one and a half times the animal's height, which suits climbing and knuckle-walking.",
+    "speed": "Chimpanzees can run at about 40 km/h (25 mph) over short distances, moving on all fours. The figure is an estimate rather than a carefully measured record. They are faster than most people over a sprint but tire quickly and spend most of their day walking and climbing.",
+    "gestation": "A chimpanzee pregnancy lasts about 230 days, or roughly seven and a half to eight months. Females usually give birth to a single infant once every five to six years. The infant nurses for four to five years and stays close to its mother until about age ten.",
+    "diet": "Chimpanzees are omnivores whose diet is dominated by fruit, which often makes up more than half of what they eat. They add leaves, seeds, flowers, bark, honey and insects, and they hunt mammals. Red colobus monkeys are the most common prey, and meat is shared.",
+    "habitat": "Chimpanzees live in tropical rainforest, montane forest, woodland and dry savanna-forest mosaics across 21 African countries. They are the most adaptable of the great apes, living from sea level up to about 2,800 m. Every night each chimpanzee builds a sleeping nest in a tree.",
+    "conservation": "The chimpanzee is listed as Endangered on the IUCN Red List, with a decreasing population estimated at 170,000–300,000. The main threats are poaching for bushmeat and the pet trade, habitat loss to farming, logging and mining, and diseases, including Ebola and human respiratory infections. The western subspecies is Critically Endangered."
+  },
+  "funFacts": [
+    "In 1960 Jane Goodall watched a chimpanzee at Gombe strip leaves from a twig to fish for termites, the first recorded case of a wild animal making a tool.",
+    "West African chimpanzees crack nuts with stone and wooden hammers and anvils, a skill young chimps take years to master.",
+    "Different chimpanzee communities have different customs, such as grooming styles and tool techniques, that are learned rather than inherited.",
+    "Chimpanzees at Fongoli in Senegal sharpen sticks with their teeth and use them to jab bushbabies hiding in tree holes.",
+    "Young chimpanzees have outperformed adult humans in tests of short-term memory for numbers flashed briefly on a screen."
+  ],
+  "relatedAnimals": ["bonobo", "gorilla", "orangutan", "mandrill", "japanese-macaque"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How strong is a chimpanzee compared with a human?", "answer": "Studies suggest a chimpanzee is roughly 1.5 times as strong as a human of similar size in pulling and jumping tasks, not the five to seven times often claimed. The difference comes mainly from a higher share of fast-twitch muscle fibers."},
+    {"question": "Are chimpanzees dangerous?", "answer": "Yes. Adult chimpanzees are powerful, have large canine teeth and can be aggressive. Captive and pet chimpanzees have caused severe, disfiguring injuries to people, and wild chimpanzees have occasionally attacked children near villages. They should never be treated as tame."},
+    {"question": "Are chimpanzees monkeys?", "answer": "No. Chimpanzees are great apes, in the same family as gorillas, orangutans, bonobos and humans. Apes have no tails, have larger brains and broader chests than monkeys, and can swing by their arms. Monkeys are more distantly related and usually have tails."},
+    {"question": "What is the difference between a chimpanzee and a bonobo?", "answer": "Bonobos are slimmer, with longer legs, black faces, pink lips and a center hair parting, and they live only south of the Congo River. Chimpanzee societies are male-dominated and can be violent, while bonobo groups are led by females and are much more peaceful."},
+    {"question": "Do chimpanzees make good pets?", "answer": "No. Infant chimpanzees are appealing, but by adolescence they become too strong and unpredictable to handle safely, and they can live for 50 years or more. The pet trade also drives poaching. Keeping a chimpanzee is illegal or tightly restricted in most places."}
+  ],
+  "meta": {
+    "title": "Chimpanzee Facts: Lifespan, Strength, Size & Diet",
+    "description": "Chimpanzees live 30–40 years in the wild and 50–60 in human care, weigh 27–70 kg and stand 1.2–1.5 m tall. Diet, habitat, tool use and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Pan%20troglodytes&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Pan_troglodytes/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Pan_troglodytes"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Chimpanzee"}
+    ]
+  }
+}

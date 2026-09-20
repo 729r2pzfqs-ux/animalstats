@@ -1,0 +1,27 @@
+{
+  "slug": "tasmanian-devil",
+  "commonName": "Tasmanian Devil",
+  "scientificName": "Sarcophilus harrisii",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q134964",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Tasmanian devil",
+  "taxonomy": {
+    "species": "Sarcophilus harrisii",
+    "genus": "Sarcophilus",
+    "family": "Dasyuridae",
+    "order": "Dasyuromorphia",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "21",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "black-garden-ant",
+  "commonName": "Black Garden Ant",
+  "scientificName": "Lasius niger",
+  "alternateNames": ["Common black ant", "Garden ant"],
+  "nameSingular": "black garden ant",
+  "namePlural": "black garden ants",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Insecta", "classSlug": "invertebrates", "order": "Hymenoptera", "family": "Formicidae", "genus": "Lasius", "species": "L. niger"},
+  "facts": {
+    "lifespan": {"min": 1, "max": 2, "unit": "years", "context": "workers; queens commonly live 15 years or more, and males only a few weeks as adults", "display": "1–2 years (workers); queens 15+ years"},
+    "lifespanCaptivity": {"min": 15, "max": 28, "unit": "years", "context": "queens in laboratory colonies; about 28 years is the record", "display": "queens 15–28 years (28 is the record)"},
+    "weight": {"min": 1, "max": 2, "unit": "mg", "context": "workers, approximate; queens are many times heavier", "display": "about 1–2 mg (0.00004–0.00007 oz)"},
+    "height": {"min": 3, "max": 9, "unit": "mm", "label": "Body length", "display": "3–9 mm (0.12–0.35 in)"},
+    "speed": null,
+    "gestationPeriod": null
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Mostly sugary honeydew collected from aphids and scale insects, which the ants protect in return, plus flower nectar, ripe fruit, seeds, and small insects and other invertebrates taken alive or scavenged.",
+    "habitat": ["Gardens", "Grassland", "Woodland edges", "Pavements and buildings", "Farmland"],
+    "range": "Throughout Europe and across temperate Asia; one of the most common ants in gardens, parks and towns.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The black garden ant is the small dark ant that nests under paving stones, lawns and garden walls across Europe, and the species most likely to wander into kitchens there. A colony has a single queen and typically several thousand workers, all of them her daughters. Workers farm aphids for honeydew, hunt small insects and follow scent trails to any sugary food they find. On warm, still days in summer, winged males and new queens pour out of nests over a wide area at the same time, an event often called flying ant day.",
+  "answers": {
+    "lifespan": "Black garden ant workers live about 1–2 years, but queens commonly live 15 years or more. One queen kept in a laboratory colony lived for about 28 years, the longest lifespan recorded for any ant and among the longest for any adult insect. Males live only a few weeks, dying soon after the mating flight.",
+    "weight": "A black garden ant worker weighs only about 1–2 mg, so it would take several hundred to weigh a single gram. Queens are many times heavier, particularly newly mated queens, which carry the fat and flight-muscle reserves they need to raise their first workers without feeding.",
+    "size": "Black garden ant workers are 3–5 mm (0.12–0.2 in) long, and queens reach 8–9 mm (about 0.35 in). Winged males are similar in size to workers but slimmer. Workers are dark brown to black with a slightly glossy look, and the queen is noticeably bulkier, with a large thorax.",
+    "speed": null,
+    "gestation": null,
+    "diet": "Black garden ants are omnivores with a strong preference for sugar. Their main food is honeydew, which they milk from aphids that they guard against ladybugs and other predators. They also take nectar, fruit, seeds, and small live or dead insects, which provide the protein needed by the larvae.",
+    "habitat": "Black garden ants live in open, sunny places with dry soil: gardens, lawns, meadows, woodland edges and road verges across Europe and temperate Asia. They thrive in towns, nesting under paving slabs, in wall cavities and beneath stones, where the sun-warmed surface helps incubate the brood.",
+    "conservation": "The black garden ant has not been evaluated for the IUCN Red List. It is among the most abundant and adaptable ants in Europe, does well in man-made habitats and faces no known large-scale threats. It is sometimes treated as a household nuisance but causes no structural damage."
+  },
+  "funFacts": [
+    "A black garden ant queen holds the longevity record for ants at about 28 years in a laboratory colony.",
+    "Queens mate only during their single nuptial flight and store enough sperm from it to lay eggs for the rest of their lives.",
+    "After mating, a new queen bites or rubs off her own wings and seals herself in a small chamber, raising her first workers without eating.",
+    "Black garden ants tend aphids like livestock, stroking them with their antennae to collect honeydew and driving off ladybugs.",
+    "Flying ant day is not really one day: swarms are triggered locally by warm, humid, calm weather, usually in July or August."
+  ],
+  "relatedAnimals": ["honey-bee", "common-wasp", "bumblebee", "ladybug", "giant-anteater", "asian-giant-hornet"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do black garden ants bite or sting?", "answer": "Black garden ants have no stinger and are harmless to people. They can nip with their jaws and spray a little formic acid when defending the nest, but the bite is too weak to be felt by most people and causes no injury."},
+    {"question": "What is flying ant day?", "answer": "Flying ant day is the mating flight of the black garden ant. On warm, still summer afternoons, often after rain, winged males and young queens leave many nests at once. Mating happens in the air, after which the males die and the queens look for nest sites."},
+    {"question": "How many ants live in a black garden ant colony?", "answer": "A mature colony usually contains around 4,000–7,000 workers, and large ones can reach 15,000 or more. Each colony has just one queen, so when she dies no new workers are produced and the colony fades out over the following year or two."},
+    {"question": "How do I get rid of black garden ants in the house?", "answer": "Remove what attracts them first: wipe up sugary spills, store food in sealed containers and clear away the scent trail with soapy water. Sealing entry gaps helps, and bait stations work better than sprays because workers carry the bait back to the nest."},
+    {"question": "Why do ants walk in a line?", "answer": "Foraging workers lay a trail of pheromones from a food source back to the nest, and other workers follow and reinforce it. The more ants that use a route, the stronger the scent becomes, which is why a trail to spilled sugar builds up so quickly."}
+  ],
+  "meta": {
+    "title": "Black Garden Ant Facts: Lifespan, Size, Diet & Colonies",
+    "description": "Black garden ant workers live 1–2 years, but queens can reach 15–28 years. Workers are 3–5 mm long and queens 8–9 mm. Diet, colonies and flying ant day.",
+    "sources": [
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Lasius_niger"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Black_garden_ant"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q839823"}
+    ]
+  }
+}

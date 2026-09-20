@@ -1,0 +1,37 @@
+{
+  "slug": "giraffe",
+  "commonName": "Giraffe",
+  "scientificName": "Giraffa camelopardalis",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q15083",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Northern giraffe",
+  "taxonomy": {
+    "species": "Giraffa camelopardalis",
+    "genus": "Giraffa",
+    "family": "Giraffidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "54.5",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "457",
+      "unit": "day",
+      "sex": null
+    },
+    {
+      "property": "height",
+      "amount": "5.5",
+      "unit": "m",
+      "sex": null
+    }
+  ]
+}

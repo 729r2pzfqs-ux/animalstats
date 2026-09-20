@@ -1,0 +1,64 @@
+{
+  "slug": "green-iguana",
+  "commonName": "Green Iguana",
+  "scientificName": "Iguana iguana",
+  "alternateNames": ["Common iguana", "American iguana"],
+  "nameSingular": "green iguana",
+  "namePlural": "green iguanas",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Squamata", "family": "Iguanidae", "genus": "Iguana", "species": "I. iguana"},
+  "facts": {
+    "lifespan": {"min": 8, "max": 10, "unit": "years", "context": "in the wild", "display": "8–10 years"},
+    "lifespanCaptivity": {"min": 15, "max": 20, "unit": "years", "context": "with good care", "display": "15–20 years"},
+    "weight": {"min": 4, "max": 8, "unit": "kg", "context": "adults; large males are heaviest", "display": "4–8 kg (9–18 lb)"},
+    "height": {"min": 1.2, "max": 1.7, "unit": "m", "label": "Length", "display": "1.2–1.7 m (4–5.5 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 90, "max": 120, "unit": "days", "label": "Incubation", "display": "90–120 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Leaves, flowers, fruit and growing shoots from a wide range of trees and vines. Juveniles occasionally eat insects, but adults are almost entirely plant eaters and rely on gut microbes to digest fiber.",
+    "habitat": ["Rainforest canopy", "Riverside forest", "Mangrove", "Urban parks and canals"],
+    "range": "Southern Mexico through Central America to Brazil and Paraguay, plus some Caribbean islands; introduced and invasive in Florida, Hawaii, Puerto Rico, Texas and parts of Asia.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The green iguana is a large, tree-dwelling, plant-eating lizard from Central and South America and one of the most widely kept pet reptiles. Despite the name it can be green, gray, orange or nearly black, and males develop a big dewlap and tall spines along the back. Iguanas spend most of their lives high in trees near water; when threatened they drop into a river and swim away with the tail. They use that same long tail as a whip in defense. Escaped and released pets have made the species a serious invasive pest in Florida and elsewhere.",
+  "answers": {
+    "lifespan": "Green iguanas live about 8–10 years in the wild and 15–20 years in captivity with good care. Many pet iguanas die far younger because of poor diet, lack of UVB lighting and enclosures that are too small. A few well-kept animals have passed 20 years.",
+    "weight": "Adult green iguanas typically weigh 4–8 kg (9–18 lb). Mature males are the heaviest and develop large jowls and a thick neck, while females usually stay under 5 kg. Exceptional males have been reported above 9 kg, but that is uncommon.",
+    "size": "Green iguanas grow 1.2–1.7 m (4–5.5 ft) long, including the tail. The tail makes up more than half of the total length. Large males occasionally reach about 2 m. Hatchlings are only around 20–25 cm long and reach adult size in roughly three years.",
+    "speed": null,
+    "gestation": "Green iguana eggs hatch after about 90–120 days of incubation. About two months after mating, the female digs a burrow in sunny, sandy soil and lays 20–70 eggs, then leaves them. Hatchlings dig out together and often stay in small groups at first.",
+    "diet": "Green iguanas are herbivores that eat leaves, flowers, fruit and tender shoots. Bacteria in the hindgut ferment the tough plant material for them, and hatchlings pick up these microbes by eating adult droppings. Animal protein is not needed and causes kidney problems in pets.",
+    "habitat": "Green iguanas live in the canopy of tropical forests from southern Mexico to Brazil and Paraguay, nearly always near rivers, lakes or mangroves. They bask on branches above the water. In Florida and other introduced areas they thrive along canals, seawalls and suburban gardens.",
+    "conservation": "The green iguana is listed as Least Concern on the IUCN Red List. It is common across a huge range, though it is hunted for meat and eggs in parts of Latin America and collected for the pet trade. Outside its native range it is treated as an invasive species."
+  },
+  "funFacts": [
+    "Green iguanas have a \"third eye\" on top of the head, a light-sensitive parietal eye that helps detect the shadows of birds of prey overhead.",
+    "During Florida cold snaps below about 7 °C (45 °F), iguanas become immobile and can fall out of trees; most recover once they warm up.",
+    "An iguana can drop from a branch 12 m (40 ft) up, land unharmed and run or swim away.",
+    "They are strong swimmers and can stay underwater for up to 30 minutes to escape predators.",
+    "An iguana can shed part of its tail to escape a predator and later regrow it."
+  ],
+  "relatedAnimals": ["bearded-dragon", "komodo-dragon", "veiled-chameleon", "leopard-gecko", "gila-monster", "tuatara"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do green iguanas make good pets?", "answer": "Green iguanas are demanding pets and are not recommended for beginners. They grow over 1.5 m long, need a room-sized enclosure with strong UVB light, heat and high humidity, eat a carefully balanced plant diet, and mature males can become aggressive. Many are surrendered once they outgrow their cages."},
+    {"question": "Do green iguanas bite?", "answer": "Yes, they can. Iguanas have small, serrated teeth designed for shredding leaves, and a bite from an adult can cause deep cuts that need stitches. They usually give warnings first, such as head bobbing, standing tall and whipping the tail, which can also leave welts."},
+    {"question": "Why are green iguanas a problem in Florida?", "answer": "Green iguanas are invasive in Florida, where escaped pets have built large breeding populations. They eat garden and native plants, and their burrows undermine seawalls, sidewalks and canal banks. Florida allows landowners to remove them humanely year-round without a permit."},
+    {"question": "Why do iguanas bob their heads?", "answer": "Head bobbing is a form of communication. Slow bobs are generally a greeting or a statement of territory, while fast, jerky bobs signal agitation and a possible attack. Males bob most often, especially in the breeding season, and usually extend the dewlap at the same time."},
+    {"question": "Can green iguanas change color?", "answer": "Only to a limited degree. Green iguanas darken when cold to absorb more heat and lighten when hot. Breeding males often turn orange. Young iguanas are typically bright green and become duller or grayer with age, but they cannot change color rapidly the way chameleons do."}
+  ],
+  "meta": {
+    "title": "Green Iguana Facts: Size, Lifespan, Diet & Pet Care Stats",
+    "description": "Green iguanas grow 1.2–1.7 m (4–5.5 ft), weigh 4–8 kg and live 8–10 years in the wild or 15–20 as pets. Diet, eggs, habitat and invasive status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Iguana%20iguana&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Iguana_iguana/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Iguana_iguana"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Green_iguana"}
+    ]
+  }
+}

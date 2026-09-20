@@ -1,0 +1,22 @@
+{
+  "slug": "fire-salamander",
+  "commonName": "Fire Salamander",
+  "scientificName": "Salamandra salamandra",
+  "classSlug": "amphibians",
+  "aliases": [
+    "salamander"
+  ],
+  "qid": "Q26395",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Fire salamander",
+  "taxonomy": {
+    "species": "Salamandra salamandra",
+    "genus": "Salamandra",
+    "family": "Salamandridae",
+    "order": "Caudata",
+    "class": "Amphibia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

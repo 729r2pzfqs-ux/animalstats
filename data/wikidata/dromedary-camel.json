@@ -1,0 +1,47 @@
+{
+  "slug": "dromedary-camel",
+  "commonName": "Dromedary Camel",
+  "scientificName": "Camelus dromedarius",
+  "classSlug": "mammals",
+  "aliases": [
+    "camel",
+    "arabian camel"
+  ],
+  "qid": "Q71516",
+  "iucnStatus": null,
+  "wikipedia": "Dromedary",
+  "taxonomy": {
+    "species": "Camelus dromedarius",
+    "genus": "Camelus",
+    "family": "Camelidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "37",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "500",
+      "unit": "kg",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "450",
+      "unit": "kg",
+      "sex": "female"
+    },
+    {
+      "property": "gestation",
+      "amount": "12.5",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

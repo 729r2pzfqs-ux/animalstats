@@ -1,0 +1,81 @@
+{
+  "slug": "common-raven",
+  "commonName": "Common Raven",
+  "scientificName": "Corvus corax",
+  "classSlug": "birds",
+  "aliases": [
+    "raven"
+  ],
+  "qid": "Q25357",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Common raven",
+  "taxonomy": {
+    "species": "Corvus corax",
+    "genus": "Corvus",
+    "family": "Corvidae",
+    "order": "Passeriformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "800",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "1.5",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "689",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "1625",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "1041",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "25",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "lifeExpectancy",
+      "amount": "17.1667",
+      "unit": "year",
+      "sex": null
+    },
+    {
+      "property": "length",
+      "amount": "60",
+      "unit": "cm",
+      "sex": null
+    },
+    {
+      "property": "length",
+      "amount": "68",
+      "unit": "cm",
+      "sex": null
+    },
+    {
+      "property": "length",
+      "amount": "69",
+      "unit": "cm",
+      "sex": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "largemouth-bass",
+  "commonName": "Largemouth Bass",
+  "scientificName": "Micropterus salmoides",
+  "classSlug": "fish",
+  "aliases": [
+    "bass"
+  ],
+  "qid": "Q755105",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Largemouth bass",
+  "taxonomy": {
+    "species": "Micropterus salmoides",
+    "genus": "Micropterus",
+    "family": "Centrarchidae",
+    "order": "Centrarchiformes",
+    "class": "Actinopteri",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

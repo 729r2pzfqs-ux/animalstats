@@ -1,0 +1,33 @@
+{
+  "slug": "kiwi",
+  "commonName": "North Island Brown Kiwi",
+  "scientificName": "Apteryx mantelli",
+  "classSlug": "birds",
+  "aliases": [
+    "kiwi"
+  ],
+  "qid": "Q734829",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "North Island brown kiwi",
+  "taxonomy": {
+    "species": "Apteryx mantelli",
+    "genus": "Apteryx",
+    "family": "Apterygidae",
+    "order": "Apterygiformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "2.25",
+      "unit": "kg",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "2.955",
+      "unit": "kg",
+      "sex": "female"
+    }
+  ]
+}

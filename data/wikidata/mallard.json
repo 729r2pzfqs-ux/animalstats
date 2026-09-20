@@ -1,0 +1,20 @@
+{
+  "slug": "mallard",
+  "commonName": "Mallard",
+  "scientificName": "Anas platyrhynchos",
+  "classSlug": "birds",
+  "aliases": [
+    "duck"
+  ],
+  "qid": "Q25348",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Mallard",
+  "taxonomy": {
+    "species": "Anas platyrhynchos",
+    "genus": "Anas",
+    "family": "Anatidae",
+    "order": "Anseriformes",
+    "class": "Aves"
+  },
+  "quantities": []
+}

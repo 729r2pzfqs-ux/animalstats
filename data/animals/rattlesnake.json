@@ -1,0 +1,64 @@
+{
+  "slug": "rattlesnake",
+  "commonName": "Western Diamondback Rattlesnake",
+  "scientificName": "Crotalus atrox",
+  "alternateNames": ["Western diamondback", "Texas diamondback", "Coon-tail rattler"],
+  "nameSingular": "western diamondback rattlesnake",
+  "namePlural": "western diamondback rattlesnakes",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Squamata", "family": "Viperidae", "genus": "Crotalus", "species": "C. atrox"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 20, "unit": "years", "context": "in the wild", "display": "15–20 years"},
+    "lifespanCaptivity": {"min": 20, "max": 25, "unit": "years", "context": "in human care; the record is about 27 years", "display": "20–25 years"},
+    "weight": {"min": 1.8, "max": 2.7, "unit": "kg", "context": "average-sized adults; very large specimens can reach about 6.7 kg", "display": "1.8–2.7 kg (4–6 lb)"},
+    "height": {"min": 0.9, "max": 1.5, "unit": "m", "label": "Length", "display": "0.9–1.5 m (3–5 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 165, "max": 200, "unit": "days", "label": "Gestation", "display": "6–7 months"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mostly small mammals, including mice, rats, kangaroo rats, ground squirrels, prairie dogs and young rabbits, along with some birds and lizards. Prey is struck, released, then tracked by scent once the venom has worked.",
+    "habitat": ["Desert", "Grassland", "Scrub", "Rocky hillsides", "Open woodland"],
+    "range": "Southwestern United States from southeastern California through Arizona, New Mexico and Texas to Oklahoma and western Arkansas, and south through much of northern and central Mexico.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The western diamondback is the classic rattlesnake of the American Southwest and one of more than 30 rattlesnake species. It is a heavy-bodied pit viper marked with dark diamond shapes down the back and bold black-and-white bands on the tail just before the rattle. Heat-sensing pits between the eyes and nostrils let it strike warm-blooded prey accurately in the dark. It stands its ground when threatened, coiling and rattling loudly, and it is responsible for more serious snakebites in the United States and northern Mexico than most other species. Females give birth to live young.",
+  "answers": {
+    "lifespan": "Western diamondback rattlesnakes live 15–20 years in the wild and 20–25 years in captivity. The captive record is about 27 years. In the wild many die young, killed by hawks, roadrunners, kingsnakes, coyotes, vehicles and people, so old individuals are uncommon.",
+    "weight": "An average adult western diamondback weighs 1.8–2.7 kg (4–6 lb). Males grow larger than females. Exceptionally big specimens have been recorded at around 6.7 kg, which makes this one of the heaviest rattlesnakes, second only to the eastern diamondback.",
+    "size": "Western diamondbacks are usually 0.9–1.5 m (3–5 ft) long. Most adults are around 1.2 m, and individuals over 1.8 m are rare; the accepted maximum is about 2.1 m. It is the second-largest rattlesnake species after the eastern diamondback.",
+    "speed": null,
+    "gestation": "Western diamondbacks are pregnant for about 6–7 months and give birth to live young in late summer. Litters usually contain 4–25 babies, averaging around a dozen. The newborns are about 25–30 cm long, fully venomous, and leave their mother within hours or days.",
+    "diet": "Western diamondbacks are carnivores that eat mainly rodents, rabbits and other small mammals, plus some birds and lizards. They ambush prey, inject venom with a fast strike, and follow the scent trail to the dead animal. Adults may eat only once every two to three weeks.",
+    "habitat": "Western diamondbacks live in deserts, dry grasslands, scrub and rocky hillsides from the southwestern United States to central Mexico, from sea level to about 2,000 m. In colder parts of the range they spend winter in communal dens in rock crevices or burrows.",
+    "conservation": "The western diamondback rattlesnake is listed as Least Concern on the IUCN Red List, with a stable population. It is common across a large range. Locally it is affected by road deaths, habitat loss and organized rattlesnake roundups, in which large numbers are collected and killed."
+  },
+  "funFacts": [
+    "A rattlesnake adds a new rattle segment each time it sheds its skin, several times a year, so you cannot tell its age by counting segments.",
+    "The rattle is made of keratin, the same protein as fingernails, and the tail muscles can shake it 50 or more times per second.",
+    "The black-and-white banded tail gives the species its nickname \"coon-tail rattler.\"",
+    "Heat-sensing facial pits let a rattlesnake detect temperature differences of a fraction of a degree, enough to target a mouse in total darkness.",
+    "Rattlesnake fangs fold flat against the roof of the mouth and are replaced several times a year."
+  ],
+  "relatedAnimals": ["king-cobra", "black-mamba", "indian-cobra", "gila-monster", "boa-constrictor", "coyote"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How dangerous is a western diamondback rattlesnake bite?", "answer": "A bite is a medical emergency. The venom destroys tissue and blood cells, causing severe pain, swelling and bleeding. With prompt hospital treatment and antivenom, deaths are rare, but untreated bites can be fatal and may cause lasting damage to the bitten limb."},
+    {"question": "What should you do if you hear a rattlesnake rattle?", "answer": "Stop, locate the snake, and back away slowly. The rattle is a warning, not an attack. Rattlesnakes can strike roughly one-third to one-half of their body length, so giving the snake a few meters of space is enough. Never try to move or kill it."},
+    {"question": "Can you tell a rattlesnake's age by its rattle?", "answer": "No. A new segment is added with every shed, and rattlesnakes shed two to four times a year depending on how much they eat. Older segments also break off. A long rattle means a snake has shed many times without damage, not a specific age."},
+    {"question": "Do rattlesnakes lay eggs?", "answer": "No. Rattlesnakes give birth to live young. The eggs are retained and hatch inside the female, and she delivers fully formed babies after about six to seven months. Western diamondbacks usually produce around a dozen young in late summer."},
+    {"question": "Do baby rattlesnakes have more dangerous venom than adults?", "answer": "This is a common myth. Baby rattlesnakes are venomous from birth, but adults have much larger venom glands and can deliver far more venom in a bite. Bites from adult snakes are generally the more serious ones."}
+  ],
+  "meta": {
+    "title": "Western Diamondback Rattlesnake: Size, Lifespan & Venom",
+    "description": "Western diamondback rattlesnakes reach 0.9–1.5 m (3–5 ft), weigh 1.8–2.7 kg and live 15–20 years. Diet, habitat, live birth, bites and rattle facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Crotalus%20atrox&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Crotalus_atrox/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Crotalus_atrox"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Western_diamondback_rattlesnake"}
+    ]
+  }
+}

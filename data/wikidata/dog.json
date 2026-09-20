@@ -1,0 +1,21 @@
+{
+  "slug": "dog",
+  "commonName": "Dog",
+  "scientificName": "Canis familiaris",
+  "classSlug": "mammals",
+  "aliases": [
+    "domestic dog",
+    "puppy"
+  ],
+  "qid": "Q20717272",
+  "iucnStatus": null,
+  "wikipedia": "Canis familiaris",
+  "taxonomy": {
+    "species": "Canis familiaris",
+    "genus": "Canis",
+    "family": "Canidae",
+    "order": "Carnivora",
+    "class": "Mammalia"
+  },
+  "quantities": []
+}

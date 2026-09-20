@@ -1,0 +1,33 @@
+{
+  "slug": "blue-whale",
+  "commonName": "Blue Whale",
+  "scientificName": "Balaenoptera musculus",
+  "classSlug": "mammals",
+  "aliases": [
+    "whale"
+  ],
+  "qid": "Q42196",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Blue whale",
+  "taxonomy": {
+    "species": "Balaenoptera musculus",
+    "genus": "Balaenoptera",
+    "family": "Balaenopteridae",
+    "order": "Artiodactyla",
+    "class": "Mammalia"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "11.5",
+      "unit": "month",
+      "sex": null
+    },
+    {
+      "property": "length",
+      "amount": "27.1",
+      "unit": "m",
+      "sex": "female"
+    }
+  ]
+}

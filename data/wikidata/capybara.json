@@ -1,0 +1,39 @@
+{
+  "slug": "capybara",
+  "commonName": "Capybara",
+  "scientificName": "Hydrochoerus hydrochaeris",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q131538",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Capybara",
+  "taxonomy": {
+    "species": "Hydrochoerus hydrochaeris",
+    "genus": "Hydrochoerus",
+    "family": "Caviidae",
+    "order": "Rodentia",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "1.5",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "48.9",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "150",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

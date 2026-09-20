@@ -1,0 +1,41 @@
+{
+  "slug": "vampire-bat",
+  "commonName": "Common Vampire Bat",
+  "scientificName": "Desmodus rotundus",
+  "classSlug": "mammals",
+  "aliases": [
+    "bat"
+  ],
+  "qid": "Q300981",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Common vampire bat",
+  "taxonomy": {
+    "species": "Desmodus rotundus",
+    "genus": "Desmodus",
+    "family": "Phyllostomidae",
+    "order": "Chiroptera",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "6",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "32.5",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "7",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

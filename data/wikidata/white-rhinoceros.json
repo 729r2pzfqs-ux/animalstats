@@ -1,0 +1,29 @@
+{
+  "slug": "white-rhinoceros",
+  "commonName": "White Rhinoceros",
+  "scientificName": "Ceratotherium simum",
+  "classSlug": "mammals",
+  "aliases": [
+    "rhino",
+    "white rhino"
+  ],
+  "qid": "Q159918",
+  "iucnStatus": "Near Threatened",
+  "wikipedia": "White rhinoceros",
+  "taxonomy": {
+    "species": "Ceratotherium simum",
+    "genus": "Ceratotherium",
+    "family": "Rhinocerotidae",
+    "order": "Perissodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "490",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

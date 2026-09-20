@@ -1,0 +1,64 @@
+{
+  "slug": "african-grey-parrot",
+  "commonName": "African Grey Parrot",
+  "scientificName": "Psittacus erithacus",
+  "alternateNames": ["Grey parrot", "Congo African grey", "Congo grey parrot", "African gray parrot"],
+  "nameSingular": "African grey parrot",
+  "namePlural": "African grey parrots",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Psittaciformes", "family": "Psittacidae", "genus": "Psittacus", "species": "P. erithacus"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 25, "unit": "years", "context": "estimated average in the wild; wild lifespans are poorly studied", "display": "about 20–25 years"},
+    "lifespanCaptivity": {"min": 40, "max": 60, "unit": "years", "context": "well-cared-for pets and zoo birds", "display": "40–60 years"},
+    "weight": {"min": 400, "max": 490, "unit": "g", "context": "adults", "display": "400–490 g (14–17 oz)"},
+    "height": {"min": 33, "max": 33, "unit": "cm", "label": "Length", "display": "about 33 cm (13 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 28, "max": 30, "unit": "days", "label": "Incubation", "display": "28–30 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Fruits, nuts and seeds, with a strong liking for the oily fruit of the African oil palm; also flowers, tree bark and buds, and occasionally snails or insects.",
+    "habitat": ["Lowland rainforest", "Forest edge and clearings", "Gallery forest", "Mangroves", "Wooded savanna"],
+    "range": "Equatorial Africa, from southeastern Ivory Coast and Ghana east through Nigeria, Cameroon and the Congo Basin to Uganda, western Kenya and northwestern Tanzania.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The African grey parrot is a medium-sized, short-tailed parrot from the rainforests of West and Central Africa, gray all over except for a white face patch and a bright red tail. It is widely regarded as one of the most intelligent birds and the most accomplished mimic of human speech, which has made it one of the most popular pet parrots in the world. That popularity has been its downfall: heavy trapping for the pet trade, combined with forest loss, has emptied large parts of its range. The smaller, darker Timneh parrot of far western Africa was once treated as a subspecies and is now a separate species.",
+  "answers": {
+    "lifespan": "African grey parrots commonly live 40–60 years in captivity, while wild birds are estimated to average about 20–25 years. Reliable data from the wild are scarce. In homes, lifespan depends heavily on diet and care; seed-only diets, which lead to calcium and vitamin A deficiencies, shorten many pet greys' lives.",
+    "weight": "An adult African grey parrot weighs 400–490 g (14–17 oz), about the same as a can of soup. Males and females are similar in size and cannot be reliably told apart by appearance. The related Timneh parrot is smaller, at roughly 275–375 g.",
+    "size": "African grey parrots are about 33 cm (13 in) long from head to tail, with a wingspan of 46–52 cm (18–20 in). They are stocky, medium-sized parrots with a short, square tail, which makes them look smaller than long-tailed macaws of similar body weight.",
+    "speed": null,
+    "gestation": "African grey parrot eggs hatch after 28–30 days of incubation. The female lays three to five eggs in a tree cavity high above the ground and incubates them while the male feeds her. Chicks stay in the nest for about 12 weeks, and both parents care for them after they fledge.",
+    "diet": "African grey parrots are herbivores that eat mainly fruits, nuts and seeds, and they are especially fond of oil-palm fruit. They also eat flowers, bark and buds, and occasionally snails or insects. Flocks climb through the canopy rather than flying between branches, and sometimes raid maize fields.",
+    "habitat": "African grey parrots live in the lowland rainforests of West and Central Africa, along with forest edges, clearings, gallery forest, mangroves and wooded savanna. They roost communally in tall trees or palms, often over water, and fly out each morning in small groups to feeding areas.",
+    "conservation": "The African grey parrot is listed as Endangered on the IUCN Red List, and its numbers are decreasing. Trapping for the international pet trade and loss of large nesting trees are the main causes; in Ghana, populations fell by 90–99 percent within about two decades. In 2016 the species was moved to CITES Appendix I, which bans international commercial trade in wild-caught birds."
+  },
+  "funFacts": [
+    "Alex, a grey parrot studied for 30 years by psychologist Irene Pepperberg, could name over 50 objects, identify colors and shapes, and count up to about six.",
+    "Wild greys have been recorded imitating other bird species, but their talent for human speech only shows up in captivity.",
+    "Several scientific studies rate grey parrots' reasoning on certain tasks as comparable to that of a young child.",
+    "Young African greys have dark gray or black eyes; the iris turns pale yellow as the bird matures over its first few years.",
+    "Bored or stressed pet greys often pluck out their own feathers, a behavior not seen in wild birds."
+  ],
+  "relatedAnimals": ["scarlet-macaw", "cockatiel", "budgerigar", "common-raven", "american-crow", "toco-toucan"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do African grey parrots make good pets?", "answer": "Only for committed owners. African greys are intelligent, sensitive birds that need hours of daily interaction, a large cage, a varied diet and mental stimulation, and they can live 40–60 years. Neglected greys often develop feather plucking and screaming. Buy only captive-bred birds."},
+    {"question": "How many words can an African grey parrot learn?", "answer": "Many pet greys learn a few hundred words and phrases, and exceptional birds learn more. Ability varies a lot between individuals, and some never talk at all. Research with Alex the parrot showed that greys can use words meaningfully, not just repeat them."},
+    {"question": "At what age do African grey parrots start talking?", "answer": "Most African greys start to say recognizable words at around 12–18 months of age, although some begin as early as six months and others take two years. They usually mumble and practice sounds for weeks before the first clear words appear."},
+    {"question": "What is the difference between a Congo and a Timneh African grey?", "answer": "The Congo grey (Psittacus erithacus) is larger, lighter gray, with a black beak and a bright red tail. The Timneh (Psittacus timneh) is smaller and darker, with a maroon tail and a horn-colored patch on the upper beak. They are now classed as separate species."},
+    {"question": "Is it legal to own an African grey parrot?", "answer": "In most countries, yes, provided the bird was bred in captivity and has the right paperwork. Since 2017 the species has been on CITES Appendix I, so international commercial trade in wild-caught greys is banned, and selling or moving birds across borders can require permits."}
+  ],
+  "meta": {
+    "title": "African Grey Parrot Lifespan, Size, Diet & Facts",
+    "description": "African grey parrots live 40–60 years in captivity, weigh 400–490 g (14–17 oz) and measure about 33 cm. Talking ability, diet, habitat and Endangered status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Psittacus%20erithacus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Psittacus_erithacus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Psittacus_erithacus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Grey_parrot"}
+    ]
+  }
+}

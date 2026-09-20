@@ -1,0 +1,26 @@
+{
+  "slug": "snow-leopard",
+  "commonName": "Snow Leopard",
+  "scientificName": "Panthera uncia",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q30197",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Snow leopard",
+  "taxonomy": {
+    "species": "Panthera uncia",
+    "genus": "Panthera",
+    "family": "Felidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "102",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

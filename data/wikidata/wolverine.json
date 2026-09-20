@@ -1,0 +1,44 @@
+{
+  "slug": "wolverine",
+  "commonName": "Wolverine",
+  "scientificName": "Gulo gulo",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q14334",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Wolverine",
+  "taxonomy": {
+    "species": "Gulo gulo",
+    "genus": "Gulo",
+    "family": "Mustelidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "84",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "14.8",
+      "unit": "kg",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "10.6",
+      "unit": "kg",
+      "sex": "female"
+    },
+    {
+      "property": "gestation",
+      "amount": "8",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

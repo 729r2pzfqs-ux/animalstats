@@ -1,0 +1,63 @@
+{
+  "slug": "garden-snail",
+  "commonName": "Garden Snail",
+  "scientificName": "Cornu aspersum",
+  "alternateNames": ["Brown garden snail", "Common garden snail", "Helix aspersa", "Petit-gris"],
+  "nameSingular": "garden snail",
+  "namePlural": "garden snails",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Mollusca", "class": "Gastropoda", "classSlug": "invertebrates", "order": "Stylommatophora", "family": "Helicidae", "genus": "Cornu", "species": "C. aspersum"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 5, "unit": "years", "context": "in the wild", "display": "2–5 years"},
+    "lifespanCaptivity": {"min": 5, "max": 10, "unit": "years", "context": "reported for well-kept pet and farmed snails", "display": "5–10 years"},
+    "weight": {"min": 7, "max": 15, "unit": "g", "context": "adults, including the shell", "display": "7–15 g (0.25–0.5 oz)"},
+    "height": {"min": 2.5, "max": 4, "unit": "cm", "label": "Shell length", "display": "2.5–4 cm (1–1.6 in) shell diameter"},
+    "speed": {"min": 0.047, "max": 0.047, "unit": "km/h", "verb": "move", "context": "top speed of about 1.3 cm per second; usually much slower", "display": "about 0.047 km/h (0.03 mph)"},
+    "gestationPeriod": {"min": 14, "max": 28, "unit": "days", "label": "Egg development", "display": "2–4 weeks"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Leaves, stems, flowers, fruit and seedlings of a very wide range of garden and crop plants, plus decaying plant matter, algae and fungi; it also rasps at limestone and soil for calcium.",
+    "habitat": ["Gardens", "Hedgerows", "Farmland", "Woodland edge", "Coastal dunes"],
+    "range": "Native to the Mediterranean region and western Europe; introduced to North and South America, southern Africa, Australia, New Zealand and many islands, where it is often a pest.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The garden snail is the familiar brown land snail of European gardens and one of the most widely spread land mollusks in the world. Its rounded shell is yellowish brown with darker spiral bands and flecks, and the soft gray body carries four tentacles, the upper pair tipped with simple eyes. It is active at night and after rain, gliding on a film of mucus, and seals itself inside its shell during dry or cold spells. Formerly named Helix aspersa, it is eaten as escargot under the name petit-gris and is a serious pest of citrus, vegetables and ornamental plants where it has been introduced.",
+  "answers": {
+    "lifespan": "Garden snails usually live 2–5 years in the wild, and well-kept captive snails are reported to reach 5–10 years. They take one to two years to mature. Most wild snails die young from predators such as thrushes, hedgehogs, beetles and rats, from drying out in hot weather, or from slug pellets in gardens.",
+    "weight": "An adult garden snail weighs about 7–15 g (0.25–0.5 oz) including its shell. The shell makes up roughly a third of the total. Weight swings noticeably with hydration, because a snail can lose a large share of its body water during dry weather and regain it after rain.",
+    "size": "A garden snail's shell is 2.5–4 cm (1–1.6 in) across and about 2.5–3.5 cm high, with four or five whorls. When the animal is fully extended and crawling, the body is roughly 5–9 cm long. Growth stops when the snail matures and the lip of the shell thickens and turns outward.",
+    "speed": "A garden snail's top speed is about 1.3 cm per second, or 0.047 km/h (0.03 mph), which works out to roughly 47 m in an hour. Most of the time it moves far more slowly. It travels on waves of muscle contraction that pass along its single foot, over a layer of mucus that lets it cross rough and even sharp surfaces.",
+    "gestation": "Garden snail eggs hatch in about 2–4 weeks, depending on temperature and soil moisture. Each snail lays a clutch of around 80 pearly white eggs, about 4 mm across, in a small hole dug into damp soil, and can lay several clutches a year in mild climates. The hatchlings emerge with a tiny, fragile shell.",
+    "diet": "Garden snails are herbivores that feed on the leaves, flowers, fruit and seedlings of hundreds of plant species, along with rotting vegetation, algae and fungi. They scrape food with a radula, a tongue-like ribbon carrying thousands of microscopic teeth. They need calcium for their shells and get it from soil, limestone and even old snail shells.",
+    "habitat": "Garden snails live in gardens, parks, hedgerows, farmland, woodland edges and coastal dunes, anywhere with moisture, shelter and preferably lime-rich soil. They are native to the Mediterranean and western Europe and have been carried by people to temperate and subtropical regions on every continent except Antarctica.",
+    "conservation": "The garden snail is treated here as Not Evaluated on the global IUCN Red List and is in no danger: it is abundant, widespread and expanding. In California, Australia, New Zealand, South Africa and elsewhere it is an invasive agricultural pest, and some countries enforce quarantine rules against it."
+  },
+  "funFacts": [
+    "Every garden snail is a hermaphrodite with both male and female organs, and after mating both partners can lay eggs.",
+    "During courtship garden snails stab each other with a calcium 'love dart' coated in mucus that improves the chances of the shooter's sperm being used.",
+    "A garden snail's radula carries thousands of tiny teeth, which are replaced continuously as they wear down.",
+    "In dry weather a garden snail seals its shell opening with a dried mucus membrane called an epiphragm and can stay dormant for months.",
+    "Garden snails were brought to California in the 1850s as a food animal and have been a crop pest there ever since."
+  ],
+  "relatedAnimals": ["earthworm", "common-octopus", "giant-clam", "ocean-quahog", "hedgehog", "ladybug"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can you keep a garden snail as a pet?", "answer": "Yes, garden snails are easy pets. They need a ventilated tank with damp, pesticide-free substrate, fresh vegetables, and a calcium source such as cuttlebone for shell growth. In places where the species is invasive, never release pet snails or their eggs outdoors."},
+    {"question": "Are garden snails edible?", "answer": "Yes. The garden snail is one of the main escargot species and is sold in France as petit-gris. Wild snails must be purged and cooked thoroughly first, because they may have eaten poisonous plants or slug bait and can carry parasites."},
+    {"question": "Do garden snails have teeth?", "answer": "Yes, thousands of them. A garden snail feeds with a radula, a flexible ribbon covered in rows of microscopic teeth that works like a rasp. Counts vary, but a typical garden snail has on the order of 14,000 teeth."},
+    {"question": "How do I stop snails eating my plants?", "answer": "Remove daytime hiding places, water in the morning rather than the evening, and hand-pick snails after dark. Copper tape, beer traps and iron phosphate pellets also help. Encouraging predators such as thrushes, hedgehogs, frogs and ground beetles keeps numbers down over the long term."},
+    {"question": "What is the difference between a snail and a slug?", "answer": "A snail has an external coiled shell large enough to withdraw into, while a slug has only a small internal shell or none at all. Both are gastropod mollusks, and slugs evolved from snail ancestors several times independently."},
+    {"question": "Can a snail leave its shell?", "answer": "No. A snail's shell is part of its body, attached by a strong muscle and containing most of its organs. The shell grows with the animal from hatching, and a snail pulled from its shell will die. Small cracks can be repaired with new shell material."}
+  ],
+  "meta": {
+    "title": "Garden Snail Facts: Lifespan, Speed, Size & Diet",
+    "description": "Garden snails live 2–5 years, weigh 7–15 g and crawl at a top speed of about 0.047 km/h (47 m an hour). Eggs, teeth, diet and pet care for Cornu aspersum.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Cornu_aspersum"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q22019793"}
+    ]
+  }
+}

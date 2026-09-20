@@ -1,0 +1,31 @@
+{
+  "slug": "cockatiel",
+  "commonName": "Cockatiel",
+  "scientificName": "Nymphicus hollandicus",
+  "classSlug": "birds",
+  "aliases": [],
+  "qid": "Q514809",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Cockatiel",
+  "taxonomy": {
+    "species": "Nymphicus hollandicus",
+    "genus": "Nymphicus",
+    "family": "Cacatuidae",
+    "order": "Psittaciformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "5.68",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "86",
+      "unit": "g",
+      "sex": null
+    }
+  ]
+}

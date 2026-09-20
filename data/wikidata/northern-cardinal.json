@@ -1,0 +1,27 @@
+{
+  "slug": "northern-cardinal",
+  "commonName": "Northern Cardinal",
+  "scientificName": "Cardinalis cardinalis",
+  "classSlug": "birds",
+  "aliases": [
+    "cardinal"
+  ],
+  "qid": "Q726389",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Northern cardinal",
+  "taxonomy": {
+    "species": "Cardinalis cardinalis",
+    "genus": "Cardinalis",
+    "family": "Cardinalidae",
+    "order": "Passeriformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "length",
+      "amount": "8.5",
+      "unit": "in",
+      "sex": null
+    }
+  ]
+}

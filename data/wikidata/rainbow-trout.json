@@ -1,0 +1,22 @@
+{
+  "slug": "rainbow-trout",
+  "commonName": "Rainbow Trout",
+  "scientificName": "Oncorhynchus mykiss",
+  "classSlug": "fish",
+  "aliases": [
+    "trout"
+  ],
+  "qid": "Q187986",
+  "iucnStatus": null,
+  "wikipedia": "Rainbow trout",
+  "taxonomy": {
+    "species": "Oncorhynchus mykiss",
+    "genus": "Oncorhynchus",
+    "family": "Salmonidae",
+    "order": "Salmoniformes",
+    "class": "Actinopteri",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

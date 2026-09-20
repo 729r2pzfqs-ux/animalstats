@@ -1,0 +1,65 @@
+{
+  "slug": "blue-wildebeest",
+  "commonName": "Blue Wildebeest",
+  "scientificName": "Connochaetes taurinus",
+  "alternateNames": ["Common wildebeest", "Brindled gnu", "White-bearded wildebeest", "Gnu"],
+  "nameSingular": "blue wildebeest",
+  "namePlural": "blue wildebeest",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Bovidae", "genus": "Connochaetes", "species": "C. taurinus"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 20, "unit": "years", "context": "in the wild", "display": "15–20 years"},
+    "lifespanCaptivity": {"min": 20, "max": 24, "unit": "years", "context": "in human care", "display": "20–24 years"},
+    "weight": {"min": 120, "max": 270, "unit": "kg", "context": "adults; bulls are heavier than cows and can reach about 290 kg", "display": "120–270 kg (265–595 lb)"},
+    "height": {"min": 1.15, "max": 1.45, "unit": "m", "label": "Shoulder height", "display": "1.15–1.45 m (3.8–4.8 ft)"},
+    "speed": {"min": 80, "max": 80, "unit": "km/h", "verb": "run", "context": "top speed when fleeing predators", "display": "80 km/h (50 mph)"},
+    "gestationPeriod": {"min": 240, "max": 255, "unit": "days", "label": "Gestation", "display": "about 8–8.5 months (240–255 days)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Almost entirely short, fresh grasses growing on nutrient-rich soils; wildebeest follow the rains to find new growth, browse a little when grass is scarce, and need to drink every day or two.",
+    "habitat": ["Savanna", "Short-grass plains", "Open woodland", "Floodplains"],
+    "range": "Eastern and southern Africa, from southern Kenya and Tanzania through Zambia, Mozambique, Botswana and Namibia to northern South Africa, with the largest herds in the Serengeti-Mara ecosystem.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable",
+    "population": "about 1.5 million"
+  },
+  "description": "The blue wildebeest, or brindled gnu, is a large, front-heavy antelope with a broad muzzle, a shaggy mane, a beard and curved cow-like horns carried by both sexes. It is the more numerous of the two wildebeest species and the animal behind the great Serengeti migration, in which well over a million wildebeest circle between Tanzania and Kenya each year following the rains. The blue in the name refers to the silvery-blue sheen of its dark, striped coat. Wildebeest are a keystone grazer of the African savanna and the staple prey of lions, spotted hyenas and Nile crocodiles.",
+  "answers": {
+    "lifespan": "Blue wildebeest live 15–20 years in the wild and up to about 24 years in zoos. Few reach that age, because predation is heavy: lions, spotted hyenas, crocodiles, cheetahs and wild dogs all hunt them, and calves are especially vulnerable in their first weeks. Animals that survive to adulthood commonly live into their teens.",
+    "weight": "Adult blue wildebeest weigh 120–270 kg (265–595 lb). Bulls are the heavier sex, typically 165–270 kg and occasionally close to 290 kg, while cows usually weigh 120–230 kg. Size also varies by region, with the eastern white-bearded subspecies smaller than southern animals.",
+    "size": "A blue wildebeest stands 1.15–1.45 m (3.8–4.8 ft) tall at the shoulder. Head-and-body length is roughly 1.7–2.4 m, and the black, horse-like tail adds 60–100 cm. The shoulders are much higher than the hindquarters, which gives the animal its sloping outline, and the horns of large bulls can span more than 80 cm.",
+    "speed": "Blue wildebeest can run at about 80 km/h (50 mph). That makes them one of the fastest antelopes, and they can also keep up a steady canter for long distances, which matters as much as sprinting during migrations of hundreds of kilometers.",
+    "gestation": "A blue wildebeest is pregnant for about 8 to 8.5 months, or 240–255 days. Cows give birth to a single calf, and in the Serengeti most births are packed into a few weeks around February. Calves can stand within minutes and run with the herd within hours.",
+    "diet": "Blue wildebeest are herbivores that eat almost nothing but short, green grass. Their wide muzzle and row of incisors are built for cropping a close lawn rather than picking leaves. They must drink regularly, so their movements track rainfall and fresh grass growth.",
+    "habitat": "Blue wildebeest live on short-grass plains, open savanna and lightly wooded acacia country in eastern and southern Africa. They avoid dense bush and very dry areas, staying within reach of water. The biggest populations live in the Serengeti-Mara ecosystem of Tanzania and Kenya.",
+    "conservation": "The blue wildebeest is listed as Least Concern on the IUCN Red List, with a stable population of around 1.5 million. Most of them live in the Serengeti. Fences, roads, farming and competition with livestock have blocked or ended several other migrations, including large ones in Botswana."
+  },
+  "funFacts": [
+    "In the Serengeti, roughly half a million calves are born within a few weeks each year, swamping predators with more prey than they can eat.",
+    "A newborn wildebeest can usually stand within about six minutes and keep pace with the herd the same day.",
+    "The name gnu comes from a Khoikhoi word that imitates the bulls' loud, grunting call.",
+    "Wildebeest often travel with plains zebras, which eat the tall, tough grass stems and expose the short growth wildebeest prefer.",
+    "The annual Serengeti-Mara migration covers a loop of roughly 800 km (500 miles) or more and includes dangerous crossings of the crocodile-filled Mara River."
+  ],
+  "relatedAnimals": ["plains-zebra", "african-buffalo", "thomsons-gazelle", "springbok", "lion", "spotted-hyena"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a wildebeest and a gnu?", "answer": "There is no difference: gnu is simply another name for wildebeest. There are two species, the blue wildebeest, which is larger, more widespread and has horns that curve out to the sides, and the black wildebeest of South Africa, which has a white tail and forward-curving horns."},
+    {"question": "Why do wildebeest migrate?", "answer": "Wildebeest migrate to follow rain and the fresh, nutritious grass it produces. In the Serengeti they calve on mineral-rich southern plains in the wet season, then move west and north to the Maasai Mara as the plains dry out, returning south when the rains come back."},
+    {"question": "Are wildebeest dangerous to humans?", "answer": "Wildebeest are not aggressive toward people and normally run away. Like any large horned animal they can injure someone if cornered, wounded or during the rut, and a stampeding herd is dangerous, but attacks on humans are rare."},
+    {"question": "What is a group of wildebeest called?", "answer": "A group of wildebeest is usually called a herd, and the old collective noun is an implausibility of gnus. Herds range from small groups of cows and calves or bachelor males to migrating columns of many thousands of animals."},
+    {"question": "What animals eat wildebeest?", "answer": "Lions and spotted hyenas are the main predators of adult wildebeest, and Nile crocodiles take many at river crossings. Cheetahs, leopards and African wild dogs mostly target calves and young animals. Wildebeest are the single most important prey species in the Serengeti."}
+  ],
+  "meta": {
+    "title": "Blue Wildebeest Facts: Size, Speed, Lifespan & Migration",
+    "description": "Blue wildebeest weigh 120–270 kg, run at 80 km/h (50 mph) and live 15–20 years. Diet, habitat, gestation and migration facts for the gnu.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Connochaetes%20taurinus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Connochaetes_taurinus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Connochaetes_taurinus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Blue_wildebeest"}
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "galapagos-tortoise",
+  "commonName": "Galápagos Tortoise",
+  "scientificName": "Chelonoidis niger",
+  "alternateNames": ["Galápagos giant tortoise", "Galapagos tortoise", "Giant tortoise", "Chelonoidis nigra"],
+  "nameSingular": "Galápagos tortoise",
+  "namePlural": "Galápagos tortoises",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Testudines", "family": "Testudinidae", "genus": "Chelonoidis", "species": "C. niger (species complex)"},
+  "facts": {
+    "lifespan": {"min": 100, "max": 150, "unit": "years", "context": "estimated in the wild; among the longest-lived land vertebrates", "display": "100–150 years (estimated)"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 110, "max": 270, "unit": "kg", "context": "adults of the large domed forms; females are much lighter than males, and record males exceed 400 kg", "display": "110–270 kg (250–600 lb)"},
+    "height": {"min": 0.9, "max": 1.5, "unit": "m", "label": "Shell length", "display": "0.9–1.5 m (3–5 ft)"},
+    "speed": {"min": 0.3, "max": 0.3, "unit": "km/h", "verb": "move", "context": "normal walking pace", "display": "about 0.3 km/h (0.2 mph)"},
+    "gestationPeriod": {"min": 120, "max": 240, "unit": "days", "label": "Incubation", "display": "about 4–8 months (120–240 days)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Grasses, leaves, prickly pear cactus pads and fruit, and other fallen fruits such as guava and the native manzanillo. They drink deeply when water is available and can go many months without food or water.",
+    "habitat": ["Arid lowland scrub", "Dry grassland", "Humid volcanic highlands"],
+    "range": "Found only on the Galápagos Islands of Ecuador, on Isabela, Santa Cruz, Santiago, San Cristóbal, Pinzón, Española and a few other islands.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Increasing",
+    "population": "roughly 20,000–25,000 across all surviving forms"
+  },
+  "description": "Galápagos tortoises are the largest living tortoises and among the longest-lived of all land animals. They are a complex of closely related giant tortoises, each confined to its own island or volcano in the Galápagos; many authorities now treat them as a dozen or so separate species rather than subspecies of Chelonoidis niger. Strictly, the name niger belongs to the Floreana form, which died out in the 1800s, so some databases show the species as extinct, but the living giant tortoises are very much alive and classed as threatened. Shell shape varies with habitat: domed tortoises graze in lush highlands, while saddlebacked forms on dry islands can stretch their necks up to reach cactus.",
+  "answers": {
+    "lifespan": "Galápagos tortoises commonly live more than 100 years, and wild lifespans of 100–150 years are estimated. The best-known captive animal, Harriet, died at Australia Zoo in 2006 at an estimated age of about 175. A very slow metabolism and late maturity, at around 20–25 years, go with this long life.",
+    "weight": "Adult Galápagos tortoises typically weigh 110–270 kg (250–600 lb). Males are far heavier than females, often more than twice the weight, and tortoises from the large domed populations outweigh the smaller saddlebacked island forms. The heaviest males on record have exceeded 400 kg (880 lb).",
+    "size": "Galápagos tortoises have shells 0.9–1.5 m (3–5 ft) long, making them the largest living tortoises. Large males are the biggest, and lengths approaching 1.8 m measured over the curve of the shell are sometimes quoted. Saddlebacked forms from dry islands are smaller, with longer necks and legs.",
+    "speed": "A Galápagos tortoise walks at about 0.3 km/h (0.2 mph). Charles Darwin timed them at roughly 60 yards in ten minutes, which works out to about the same figure. Despite the slow pace, tortoises on some islands migrate several kilometers between highlands and lowlands each year.",
+    "gestation": "Galápagos tortoise eggs incubate for about 4–8 months (roughly 120–240 days), depending on nest temperature. Females walk to dry, sunny lowland sites to dig nests and lay 2–16 tennis-ball-sized eggs. Warmer nests produce more females. Hatchlings must dig their way out unaided.",
+    "diet": "Galápagos tortoises are herbivores that eat grasses, leaves, cactus pads and fruit. Prickly pear cactus is a key food and water source on the dry islands. They store water and fat so efficiently that they can survive for up to a year without eating or drinking.",
+    "habitat": "Galápagos tortoises live only on the Galápagos Islands, about 1,000 km off the coast of Ecuador. Domed tortoises favor the humid, vegetated highlands of larger islands, while saddlebacked tortoises live on low, arid islands with sparse scrub and cactus.",
+    "conservation": "The living Galápagos tortoises are threatened: the group was long listed as Vulnerable on the IUCN Red List, and the individual species now assessed range from Vulnerable to Critically Endangered, with a few extinct. Numbers fell from perhaps 200,000 to about 3,000 by the 1970s and have since recovered to over 20,000 through captive breeding and removal of goats and rats."
+  },
+  "funFacts": [
+    "The Galápagos Islands are named after the tortoises: galápago is an old Spanish word for tortoise.",
+    "Sailors and whalers took tens of thousands of tortoises as living food stores, because the animals could survive for months in a ship's hold without food or water.",
+    "Lonesome George, the last known Pinta Island tortoise, died in 2012, and his form is now considered extinct.",
+    "Diego, a male Española tortoise returned from San Diego Zoo, fathered hundreds of offspring in a breeding program that helped rescue his species from just 15 survivors.",
+    "In 2019 a female Fernandina tortoise was found alive, a form that had not been confirmed since 1906.",
+    "Differences in shell shape between islands were among the observations that helped Charles Darwin develop his ideas on evolution."
+  ],
+  "relatedAnimals": ["sulcata-tortoise", "green-sea-turtle", "red-eared-slider", "leatherback-sea-turtle", "komodo-dragon", "tuatara"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the oldest Galápagos tortoise ever?", "answer": "The oldest well-known Galápagos tortoise was Harriet, who died at Australia Zoo in 2006 at an estimated age of about 175 years. Her age is an estimate, not a documented birth record. An older tortoise, Jonathan on St Helena, is a Seychelles giant tortoise, not a Galápagos tortoise."},
+    {"question": "How many Galápagos tortoises are left?", "answer": "Roughly 20,000–25,000 Galápagos tortoises survive in the wild across all the living forms. That is up from only about 3,000 in the 1970s, thanks to captive rearing, releases and the removal of introduced goats, pigs and rats, but far below the historic total of perhaps 200,000."},
+    {"question": "Why are some Galápagos tortoises listed as extinct?", "answer": "Because the group is a complex of island forms and a few have died out. The Floreana tortoise, which carries the original name Chelonoidis niger, and the Pinta tortoise are extinct, so databases that match on that name report Extinct. A dozen or so other forms are alive and classed as threatened."},
+    {"question": "Can Galápagos tortoises swim?", "answer": "Not really, but they float. Giant tortoises are buoyant and can hold their heads above water, which is probably how their ancestors drifted from South America to the islands millions of years ago. They wallow in pools and mud but do not swim any distance by choice."},
+    {"question": "What is the difference between a domed and a saddleback tortoise?", "answer": "Domed tortoises have rounded shells and short necks and live in humid highlands where food grows close to the ground. Saddlebacks have a shell that arches up at the front, with longer necks and legs, which lets them reach tall cactus pads on dry, low islands."}
+  ],
+  "meta": {
+    "title": "Galápagos Tortoise Facts: Lifespan, Weight, Size & Speed",
+    "description": "Galápagos tortoises live over 100 years, weigh 110–270 kg (250–600 lb) and walk at just 0.3 km/h. Size, diet, eggs, numbers left and conservation.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Chelonoidis&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Geochelone_nigra/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_tortoise"}
+    ]
+  }
+}

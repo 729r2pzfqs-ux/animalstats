@@ -1,0 +1,64 @@
+{
+  "slug": "beaver",
+  "commonName": "North American Beaver",
+  "scientificName": "Castor canadensis",
+  "alternateNames": ["American beaver", "Canadian beaver", "Beaver"],
+  "nameSingular": "North American beaver",
+  "namePlural": "North American beavers",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Rodentia", "family": "Castoridae", "genus": "Castor", "species": "C. canadensis"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 12, "unit": "years", "context": "in the wild", "display": "10–12 years"},
+    "lifespanCaptivity": {"min": 15, "max": 20, "unit": "years", "context": "in human care", "display": "15–20 years"},
+    "weight": {"min": 11, "max": 32, "unit": "kg", "context": "adults; average about 20 kg", "display": "11–32 kg (24–70 lb)"},
+    "height": {"min": 0.9, "max": 1.2, "unit": "m", "label": "Length", "display": "0.9–1.2 m (3–4 ft) including tail"},
+    "speed": {"min": 8, "max": 8, "unit": "km/h", "verb": "swim", "context": "top swimming speed; slow and clumsy on land", "display": "8 km/h (5 mph)"},
+    "gestationPeriod": {"min": 105, "max": 128, "unit": "days", "label": "Gestation", "display": "105–128 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Bark, cambium, twigs and leaves of trees such as aspen, willow, cottonwood, birch and alder, plus water lilies, cattails, sedges and other aquatic plants in summer. Branches are stored underwater for winter.",
+    "habitat": ["Rivers and streams", "Ponds", "Lakes", "Marshes", "Forested wetlands"],
+    "range": "Most of Canada and the United States and parts of northern Mexico; introduced to Tierra del Fuego in South America and to Finland and northwestern Russia.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The North American beaver is the largest rodent in North America and the second-largest in the world after the capybara. It is a semi-aquatic engineer that fells trees with its ever-growing, iron-hardened orange incisors to build dams, canals and dome-shaped lodges. The ponds created by beaver dams flood forest, slow erosion, store water and create habitat for fish, amphibians, waterfowl and many other species, which is why the beaver is considered a keystone species. Beavers live in family groups made up of a monogamous pair, the current year's kits and the previous year's young.",
+  "answers": {
+    "lifespan": "North American beavers live 10–12 years in the wild and 15–20 years in human care. Adults have few predators besides wolves, coyotes, bears and humans, but kits are vulnerable. Trapping, road deaths, disease such as tularemia and winter starvation are the usual causes of death.",
+    "weight": "Adult North American beavers weigh 11–32 kg (24–70 lb), averaging about 20 kg. Beavers keep growing slowly throughout life, so old animals are the heaviest, and rare individuals have exceeded 40 kg. Males and females are about the same size.",
+    "size": "A North American beaver is 0.9–1.2 m (3–4 ft) long including the tail. The head and body measure 74–90 cm, and the flat, scaly, paddle-shaped tail adds 20–35 cm and can be 10–15 cm wide.",
+    "speed": "Beavers swim at up to about 8 km/h (5 mph), driven by large webbed hind feet. They can stay underwater for up to 15 minutes, though most dives last only a few minutes. On land they are slow and awkward, so they rarely stray far from water.",
+    "gestation": "A North American beaver is pregnant for roughly 105–128 days, or about three and a half to four months; sources differ on the exact figure. Mating takes place in midwinter, and a litter of usually two to four fully furred kits is born in the lodge in late spring.",
+    "diet": "Beavers are herbivores that eat tree bark, the soft cambium beneath it, twigs, leaves and aquatic plants. Favorite trees include aspen, willow, cottonwood and birch. They do not eat fish. In fall, beavers anchor a pile of branches underwater near the lodge to feed on beneath the ice.",
+    "habitat": "North American beavers live in streams, rivers, ponds, lakes and marshes bordered by trees, across most of Canada and the United States. Where the water is too shallow they build dams to create a pond deep enough to keep the lodge entrances underwater and unfrozen.",
+    "conservation": "North American beavers are listed as Least Concern on the IUCN Red List with a stable population. The fur trade nearly wiped them out by about 1900, but protection and reintroductions have restored them across most of their former range. In Tierra del Fuego introduced beavers are a damaging invasive species."
+  },
+  "funFacts": [
+    "Beaver incisors are orange because the enamel contains iron, which makes them harder and more resistant to wear and acid.",
+    "The largest known beaver dam, in Wood Buffalo National Park in Alberta, is about 850 m (2,800 ft) long and visible in satellite images.",
+    "A beaver slaps its tail on the water as an alarm signal to warn the family of danger.",
+    "Transparent third eyelids work like goggles underwater, and the lips close behind the incisors so a beaver can gnaw while submerged.",
+    "Castoreum, a secretion beavers use for scent-marking, has been used in perfumes and occasionally as a food flavoring."
+  ],
+  "relatedAnimals": ["capybara", "sea-otter", "platypus", "gray-squirrel", "brown-rat", "moose"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why do beavers build dams?", "answer": "Beavers build dams to create deep, still ponds. Deep water protects them from predators, keeps the underwater lodge entrances from freezing in winter, and lets them float food and building material instead of dragging it overland. The sound of running water triggers dam-building behavior."},
+    {"question": "Do beavers eat fish?", "answer": "No. Beavers are strict herbivores and never eat fish. They feed on tree bark, twigs, leaves and aquatic plants. The confusion probably comes from otters and muskrats, which share the same waters, or from the beaver's aquatic lifestyle."},
+    {"question": "Are beavers dangerous?", "answer": "Beavers usually avoid people, but they defend themselves and their territory if cornered, and their incisors can inflict deep wounds. Attacks are rare and often involve rabid animals. Beavers can also carry Giardia, which may contaminate water downstream."},
+    {"question": "How long can a beaver hold its breath?", "answer": "A beaver can stay underwater for up to about 15 minutes, although typical dives last only a few minutes. It slows its heart rate and has large lungs and oxygen-rich blood and muscles, which lets it swim several hundred meters without surfacing."},
+    {"question": "What is the difference between a North American beaver and a Eurasian beaver?", "answer": "The two species look alike but cannot interbreed, because they have different chromosome numbers, 40 in North American and 48 in Eurasian beavers. North American beavers have a broader tail and a shorter, wider skull, and they tend to build more and larger dams."}
+  ],
+  "meta": {
+    "title": "North American Beaver Facts: Size, Dams & Lifespan",
+    "description": "North American beavers weigh 11–32 kg (24–70 lb), grow to 1.2 m long, swim at 8 km/h and live 10–12 years in the wild. Dams, diet, habitat and more.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Castor%20canadensis&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Castor_canadensis/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Castor_canadensis"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/North_American_beaver"}
+    ]
+  }
+}

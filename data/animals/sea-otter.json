@@ -1,0 +1,64 @@
+{
+  "slug": "sea-otter",
+  "commonName": "Sea Otter",
+  "scientificName": "Enhydra lutris",
+  "alternateNames": ["Southern sea otter", "Northern sea otter", "California sea otter"],
+  "nameSingular": "sea otter",
+  "namePlural": "sea otters",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Mustelidae", "genus": "Enhydra", "species": "E. lutris"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 20, "unit": "years", "context": "in the wild; males 10–15 years, females 15–20", "display": "10–20 years"},
+    "lifespanCaptivity": {"min": 20, "max": 25, "unit": "years", "context": "in human care; record about 28 years", "display": "20–25 years"},
+    "weight": {"min": 14, "max": 45, "unit": "kg", "context": "adults; females 14–33 kg, males 22–45 kg", "display": "14–45 kg (31–99 lb)"},
+    "height": {"min": 1.0, "max": 1.5, "unit": "m", "label": "Length", "display": "1.0–1.5 m (3.3–4.9 ft)"},
+    "speed": {"min": 9, "max": 9, "unit": "km/h", "verb": "swim", "context": "top speed underwater; much slower when paddling on its back", "display": "up to 9 km/h (5.6 mph)"},
+    "gestationPeriod": {"min": 120, "max": 365, "unit": "days", "label": "Gestation", "display": "4–12 months (about 6 on average), including delayed implantation"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Seabed invertebrates such as sea urchins, abalone, clams, mussels, crabs, snails, squid and octopus, with fish taken regularly in northern waters; an otter eats 20–30 percent of its body weight daily.",
+    "habitat": ["Kelp forests", "Rocky coasts", "Estuaries", "Shallow nearshore waters"],
+    "range": "Coasts of the North Pacific: Russia's Kuril Islands, Kamchatka and Commander Islands, the Aleutians and southern Alaska, British Columbia, Washington and central California.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The sea otter is the heaviest member of the weasel family and one of the smallest marine mammals. Unlike seals and whales it has no blubber, relying instead on the densest fur of any animal, with up to about a million hairs per square inch, and on a very high metabolism to stay warm in cold Pacific water. Sea otters eat, sleep, mate and usually give birth at sea, floating on their backs, and they are among the few mammals that use tools. By eating sea urchins they protect kelp forests, making them a textbook keystone species. The fur trade reduced them to perhaps 1,000–2,000 animals by 1911.",
+  "answers": {
+    "lifespan": "Sea otters live 10–20 years in the wild: males typically reach 10–15 years and females 15–20. In aquariums they commonly live into their 20s, and the record is about 28 years. Worn-out teeth, disease, shark bites and food shortages are common causes of death in the wild.",
+    "weight": "Adult sea otters weigh 14–45 kg (31–99 lb). Males weigh 22–45 kg and females 14–33 kg. Northern sea otters in Alaska grow larger than the southern sea otters of California, where males average around 29 kg and females around 20 kg.",
+    "size": "Sea otters measure 1.0–1.5 m (3.3–4.9 ft) from nose to tail tip, with males toward the upper end of the range. About a quarter to a third of that length is the flattened tail. The hind feet are broad, webbed flippers, while the front paws are small and nimble.",
+    "speed": "Sea otters can swim at up to about 9 km/h (5.6 mph) underwater. At the surface they usually paddle along on their backs at a gentle 1–3 km/h. On land they are clumsy and slow, and California sea otters seldom come ashore at all.",
+    "gestation": "A sea otter's pregnancy lasts anywhere from 4 to 12 months and averages about 6, because the embryo can pause its development before implanting. Females normally give birth in the water to a single pup, which floats like a cork in its fluffy coat and depends on its mother for six to eight months.",
+    "diet": "Sea otters are carnivores that eat sea urchins, crabs, clams, mussels, abalone, snails and other seabed invertebrates, plus fish in some areas. With no blubber, they must eat 20–30 percent of their body weight every day. Individual otters often specialize in just a few kinds of prey.",
+    "habitat": "Sea otters live in shallow coastal waters of the North Pacific, usually within about a kilometer of shore and in water less than 40 m deep. They favor kelp forests, rocky coasts and sheltered estuaries such as Elkhorn Slough in California, from northern Japan and Russia to Alaska and California.",
+    "conservation": "The sea otter is listed as Endangered on the IUCN Red List, and its population is decreasing. It rebounded from near extinction after fur hunting was banned in 1911, but numbers in southwest Alaska crashed from the 1990s, probably because of orca predation. Oil spills, shark bites, disease, pollution and fishing-gear entanglement are further threats."
+  },
+  "funFacts": [
+    "Sea otter fur has up to about one million hairs per square inch, more than any other mammal; a human head has about 100,000 hairs in total.",
+    "Each otter has a loose pouch of skin under its forearm where it stores food and sometimes a favorite rock for cracking shells.",
+    "Resting otters wrap themselves in kelp, and sometimes hold paws, so they do not drift away while asleep.",
+    "Where sea otters return, sea urchin numbers drop and kelp forests regrow, providing habitat for fish and storing carbon.",
+    "A sea otter may spend several hours a day grooming, because fur that gets dirty or matted stops trapping the air that keeps it warm."
+  ],
+  "relatedAnimals": ["harbor-seal", "california-sea-lion", "wolverine", "honey-badger", "beaver", "orca"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why do sea otters hold hands?", "answer": "Sea otters sometimes hold paws while resting so that they stay together and do not drift apart in currents. It is most often seen in aquariums. In the wild, otters more commonly anchor themselves by wrapping up in strands of kelp, and mothers hold pups on their chests."},
+    {"question": "What is the difference between a sea otter and a river otter?", "answer": "Sea otters are two to three times heavier, live almost entirely in salt water, float on their backs and have short, flattened tails. River otters are slim, swim belly-down, have long tapered tails, spend much of their time on land and den on shore."},
+    {"question": "How many sea otters are left?", "answer": "There are estimated to be somewhat more than 100,000 sea otters worldwide, most of them in Alaska and Russia. The southern sea otter of California is far rarer, numbering only about 3,000, all descended from a small group that survived the fur trade near Big Sur."},
+    {"question": "Why are sea otters important?", "answer": "Sea otters are a keystone species. They eat sea urchins, which would otherwise multiply and graze kelp forests down to bare rock. Healthy kelp shelters fish and invertebrates, softens waves and absorbs carbon, and in estuaries otters similarly help seagrass by eating crabs."},
+    {"question": "Do sea otters use tools?", "answer": "Yes. Sea otters use rocks as hammers and anvils to break open clams, mussels, snails and urchins, often balancing a stone on the chest and pounding the shell against it. They also use rocks to knock abalone off the seabed. The habit is more common in California than in Alaska."}
+  ],
+  "meta": {
+    "title": "Sea Otter Facts: Size, Weight, Fur, Diet & Lifespan",
+    "description": "Sea otters weigh 14–45 kg (31–99 lb), grow 1.0–1.5 m long and live 10–20 years in the wild. Fur density, tool use, diet, habitat and endangered status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Enhydra%20lutris&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Enhydra_lutris/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Enhydra_lutris"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Sea_otter"}
+    ]
+  }
+}

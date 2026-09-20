@@ -1,0 +1,23 @@
+{
+  "slug": "honey-bee",
+  "commonName": "Western Honey Bee",
+  "scientificName": "Apis mellifera",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "bee",
+    "honeybee"
+  ],
+  "qid": "Q30034",
+  "iucnStatus": "Data Deficient",
+  "wikipedia": "Western honey bee",
+  "taxonomy": {
+    "species": "Apis mellifera",
+    "genus": "Apis",
+    "family": "Apidae",
+    "order": "Hymenoptera",
+    "class": "Insecta",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

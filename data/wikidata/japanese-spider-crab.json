@@ -1,0 +1,22 @@
+{
+  "slug": "japanese-spider-crab",
+  "commonName": "Japanese Spider Crab",
+  "scientificName": "Macrocheira kaempferi",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "spider crab"
+  ],
+  "qid": "Q273655",
+  "iucnStatus": null,
+  "wikipedia": "Japanese spider crab",
+  "taxonomy": {
+    "species": "Macrocheira kaempferi",
+    "genus": "Macrocheira",
+    "family": "Inachidae",
+    "order": "Decapoda",
+    "class": "Malacostraca",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

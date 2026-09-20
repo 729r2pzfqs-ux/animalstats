@@ -1,0 +1,63 @@
+{
+  "slug": "koi",
+  "commonName": "Koi",
+  "scientificName": "Cyprinus rubrofuscus",
+  "alternateNames": ["Koi carp", "Nishikigoi", "Japanese carp"],
+  "nameSingular": "koi",
+  "namePlural": "koi",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Cypriniformes", "family": "Cyprinidae", "genus": "Cyprinus", "species": "C. rubrofuscus"},
+  "facts": {
+    "lifespan": {"min": 25, "max": 35, "unit": "years", "context": "in a well-kept pond; some individuals pass 50", "display": "25–35 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 4, "max": 12, "unit": "kg", "context": "adult pond koi; jumbo strains can be heavier", "display": "4–12 kg (9–26 lb)"},
+    "height": {"min": 60, "max": 90, "unit": "cm", "label": "Length", "display": "60–90 cm (24–36 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 3, "max": 7, "unit": "days", "label": "Egg development", "display": "3–7 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Algae, aquatic plants, insects, worms, snails and crustaceans sifted from the pond bottom; pond koi are fed floating pellets and treats such as lettuce, peas and watermelon.",
+    "habitat": ["Ornamental ponds", "Water gardens", "Lakes", "Slow rivers"],
+    "range": "Bred in Japan from Amur carp native to East Asia; koi are now kept in ornamental ponds worldwide, with feral populations in some countries.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "Koi are colorful ornamental varieties of the Amur carp, a large freshwater fish native to East Asia. Farmers in Niigata, Japan, began breeding color mutants of their food carp in the early 1800s, and the fish, known in Japanese as nishikigoi or brocaded carp, became famous after a Tokyo exhibition in 1914. Today there are more than a hundred named varieties, grouped by color, pattern and scale type, with Kohaku, Sanke and Showa the most prized. Koi are hardy, long-lived and tame enough to feed from the hand, and top show-quality fish sell for very large sums.",
+  "answers": {
+    "lifespan": "Koi live 25–35 years on average in a well-kept pond, and some pass 50. A famous Japanese koi named Hanako was claimed to be 226 years old based on scale rings, but that figure has never been verified and is doubted by scientists. Koi kept in small or crowded ponds usually live much shorter lives.",
+    "weight": "Adult koi typically weigh 4–12 kg (9–26 lb). Weight depends heavily on bloodline, pond size and feeding: Japanese-bred jumbo koi grow heaviest, while domestic koi kept in small ponds stay lighter. Exceptional fish more than a meter long have been reported at over 20 kg, but those are rare.",
+    "size": "Adult koi are usually 60–90 cm (24–36 in) long. Most reach about 60 cm within five or six years, and jumbo strains kept in large, deep ponds can exceed 1 m. Like goldfish, koi do not stay small to suit a small pond; overcrowding just stunts them and harms their health.",
+    "speed": null,
+    "gestation": "Koi eggs hatch in 3–7 days, depending on water temperature, with about four days typical at 20–22 °C. Koi do not get pregnant; a large female scatters hundreds of thousands of sticky eggs over plants in late spring, and males fertilize them externally. Adult koi readily eat their own eggs and fry.",
+    "diet": "Koi are omnivores that eat algae, plants, insects, worms, snails and crustaceans, which they find by sifting through the pond bottom with their barbels. Pond koi are fed floating pellets so owners can watch them. They stop feeding when water falls below roughly 10 °C, as their digestion slows.",
+    "habitat": "Koi live in outdoor ornamental ponds and water gardens around the world. They need cool to temperate, well-filtered fresh water, ideally at least a meter deep so they can overwinter and escape predators such as herons. Their wild ancestor, the Amur carp, inhabits lakes and slow rivers of East Asia.",
+    "conservation": "Koi are domesticated and are not threatened; the wild Amur carp is rated Least Concern by the IUCN. Released koi and other carp are invasive in many countries, where they uproot plants, muddy the water and compete with native fish, so they should never be released into natural waterways."
+  },
+  "funFacts": [
+    "The Japanese name nishikigoi means brocaded carp, a reference to the ornate silk fabric the fish's patterns resemble.",
+    "Koi have two pairs of whisker-like barbels at the corners of the mouth; goldfish have none, which is the easiest way to tell the two apart.",
+    "In 2018 a Kohaku koi named S Legend sold at auction in Japan for about 1.8 million US dollars, the highest price recorded for a koi.",
+    "Koi learn to recognize the person who feeds them and can be trained to take food from the hand.",
+    "In Japan koi symbolize perseverance, from a legend of a carp that swam up a waterfall and became a dragon; carp-shaped streamers are flown on Children's Day."
+  ],
+  "relatedAnimals": ["goldfish", "betta", "guppy", "beluga-sturgeon", "largemouth-bass"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between koi and goldfish?", "answer": "Koi and goldfish are different species of carp. Koi grow much larger, usually 60–90 cm compared with 10–30 cm for goldfish, have barbels at the corners of the mouth, and have a longer, more torpedo-shaped body. Goldfish have no barbels and come in many rounded, fancy-finned forms."},
+    {"question": "Why are koi fish so expensive?", "answer": "Most koi are cheap, but show-quality fish are expensive because very few meet the standard. Breeders in Japan raise hundreds of thousands of fry and cull almost all of them, keeping only those with near-perfect pattern, skin quality and body shape. Champion bloodlines can sell for tens of thousands of dollars or more."},
+    {"question": "How big a pond do koi need?", "answer": "A common guideline is at least 3,800 liters (1,000 gallons) and a depth of about 1 m (3 ft) for a small group of koi, with roughly 950 liters (250 gallons) per additional adult fish. Koi produce a lot of waste, so strong filtration matters as much as volume."},
+    {"question": "Can koi live in a fish tank?", "answer": "Only while they are small. Young koi can be grown on in a large aquarium for a year or so, but adults reach 60–90 cm and need a pond. Keeping a koi long-term in an indoor tank leads to stunting, poor water quality and a shortened life."},
+    {"question": "Did a koi really live for 226 years?", "answer": "Probably not. Hanako, a scarlet koi that died in Japan in 1977, was said to be 226 years old based on counting growth rings on her scales. The method is unreliable at great ages, and the claim has never been independently verified. Well-documented koi live 25–35 years, occasionally over 50."}
+  ],
+  "meta": {
+    "title": "Koi Fish Facts: How Long Koi Live, Size & Pond Needs",
+    "description": "Koi live 25–35 years in a good pond, grow 60–90 cm (24–36 in) long and weigh 4–12 kg. Diet, breeding, pond size and how koi differ from goldfish.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Cyprinus_rubrofuscus"},
+      {"name": "Wikipedia: Koi", "url": "https://en.wikipedia.org/wiki/Koi"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q3246258"}
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "mallard",
+  "commonName": "Mallard",
+  "scientificName": "Anas platyrhynchos",
+  "alternateNames": ["Mallard duck", "Wild duck", "Greenhead"],
+  "nameSingular": "mallard",
+  "namePlural": "mallards",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Anseriformes", "family": "Anatidae", "genus": "Anas", "species": "A. platyrhynchos"},
+  "facts": {
+    "lifespan": {"min": 5, "max": 10, "unit": "years", "context": "in the wild, for birds that survive their first year; the banding record is over 27 years", "display": "5–10 years"},
+    "lifespanCaptivity": {"min": 10, "max": 15, "unit": "years", "context": "in human care", "display": "10–15 years"},
+    "weight": {"min": 0.7, "max": 1.6, "unit": "kg", "context": "adults; drakes are slightly heavier than hens", "display": "0.7–1.6 kg (1.5–3.5 lb)"},
+    "height": {"min": 50, "max": 65, "unit": "cm", "label": "Length", "display": "50–65 cm (20–26 in)"},
+    "speed": {"min": 65, "max": 88, "unit": "km/h", "verb": "fly", "context": "level flight; the higher figure is for migrating flocks", "display": "65–88 km/h (40–55 mph)"},
+    "gestationPeriod": {"min": 26, "max": 30, "unit": "days", "label": "Incubation", "display": "26–30 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Seeds, aquatic plants, grain and acorns, plus insects, snails, worms, crustaceans and tadpoles. Animal food dominates during breeding, and city birds readily take bread and other handouts.",
+    "habitat": ["Ponds", "Lakes", "Marshes", "Rivers", "City parks"],
+    "range": "Across North America, Europe, Asia and North Africa; introduced to Australia, New Zealand, South Africa and parts of South America.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The mallard is the most abundant and widespread wild duck in the Northern Hemisphere and the ancestor of almost every breed of domestic duck. The drake is unmistakable in breeding plumage, with a glossy green head, white neck ring, chestnut breast and curled black tail feathers, while the hen is mottled brown. Both sexes have a blue wing patch edged in white. Mallards are dabbling ducks: they feed by tipping up in shallow water rather than diving. They thrive almost anywhere there is fresh water, from Arctic tundra pools to city park ponds.",
+  "answers": {
+    "lifespan": "Mallards that survive their first year typically live 5–10 years in the wild and 10–15 years in captivity. Average life expectancy is much lower, around 3 years, because more than half of ducklings die and hunting and predators take many adults. The oldest banded wild mallard was over 27 years old.",
+    "weight": "An adult mallard weighs 0.7–1.6 kg (1.5–3.5 lb). Drakes average a little over 1.2 kg and hens about 1.1 kg. Weight swings through the year: birds fatten up before migration and winter, and hens lose weight while laying and incubating.",
+    "size": "Mallards are 50–65 cm (20–26 in) long with a wingspan of 81–98 cm (32–39 in). That makes them a medium-large duck, bigger than teal and wigeon. Males are slightly larger than females on average.",
+    "speed": "Mallards fly at about 65 km/h (40 mph) in level flight, and migrating flocks have been clocked at up to about 88 km/h (55 mph). They can spring almost vertically off the water without a running start. Migrating mallards can cover many hundreds of kilometers in a single flight with a tailwind.",
+    "gestation": "Mallard eggs hatch after 26–30 days of incubation, most often around 28 days. The hen lays 8–13 eggs, one a day, in a down-lined nest on the ground and incubates them alone. Ducklings leave the nest within about a day and can feed themselves immediately.",
+    "diet": "Mallards are omnivores that eat seeds, aquatic plants, grain, insects, snails, worms and small crustaceans. They feed by dabbling at the surface or tipping tail-up to reach the bottom. Laying hens and ducklings eat mostly insects and other animal food for protein, while winter diets are mostly seeds and grain.",
+    "habitat": "Mallards live in almost any shallow fresh or brackish water: ponds, lakes, marshes, slow rivers, flooded fields, estuaries and city parks. They breed across North America, Europe and Asia. Northern populations migrate south for winter, while many birds in mild climates and cities stay all year.",
+    "conservation": "The mallard is listed as Least Concern on the IUCN Red List, with a population in the tens of millions that is increasing overall. It is the most hunted duck in North America and Europe under regulated seasons. Its main conservation impact is on other species: mallards hybridize with close relatives such as the American black duck."
+  },
+  "funFacts": [
+    "Nearly all domestic ducks, including the white Pekin, descend from the mallard. The only common exception is the Muscovy duck.",
+    "Only female mallards make the loud, classic quack. Drakes give a quieter, raspy call.",
+    "After breeding, drakes molt into a brown, female-like eclipse plumage and cannot fly for three to four weeks while their wing feathers regrow.",
+    "Mallards can sleep with one eye open and half of the brain awake, and birds at the exposed end of a row do this more often to watch for predators.",
+    "Ducklings jump from the nest within about a day of hatching, even from nests built several meters up in trees or on buildings."
+  ],
+  "relatedAnimals": ["canada-goose", "mute-swan", "chicken", "greater-flamingo", "wild-turkey", "pigeon"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a male and female mallard?", "answer": "A male mallard in breeding plumage has a glossy green head, white collar, chestnut breast, gray body and a yellow bill. The female is mottled brown all over with an orange bill marked with dark blotches. Both have a blue wing patch bordered with white."},
+    {"question": "Is it OK to feed bread to mallards?", "answer": "Bread is not a good food for ducks. It fills them up without providing the nutrients they need, and uneaten bread pollutes ponds and attracts rats. Wildlife organizations suggest small amounts of oats, cracked corn, birdseed, thawed peas or chopped lettuce instead, or not feeding at all."},
+    {"question": "Do mallards mate for life?", "answer": "No. Mallards form new pairs each fall and winter, and the pair stays together only until the hen begins incubating. The drake then leaves to molt, and the hen raises the ducklings on her own."},
+    {"question": "Do mallards migrate?", "answer": "Many do. Mallards breeding in Canada, the northern United States, Scandinavia and Russia fly south in fall to reach open water, often returning along the same flyways. Populations in milder regions and in cities, where food and unfrozen water are available, are often resident year-round."},
+    {"question": "Can mallards dive underwater?", "answer": "Mallards are dabbling ducks and normally feed by tipping up rather than diving. They can dive briefly to escape a predator or reach food, and ducklings dive more readily than adults, but they are not built for it the way diving ducks are."}
+  ],
+  "meta": {
+    "title": "Mallard Duck Facts: Lifespan, Size, Flight Speed & Diet",
+    "description": "Mallards live 5–10 years in the wild, weigh 0.7–1.6 kg (1.5–3.5 lb) and fly at 65–88 km/h. Diet, nesting, habitat and male vs female differences.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Anas%20platyrhynchos&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Anas_platyrhynchos/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Anas_platyrhynchos"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Mallard"}
+    ]
+  }
+}

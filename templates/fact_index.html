@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block main %}
+<div class="wrap">
+  <h1 class="pt-4 text-[1.7rem] font-extrabold leading-tight tracking-tight sm:text-4xl">Animal Fact Charts</h1>
+  <p class="prose-p mt-2 sm:text-lg">One statistic at a time, for every animal in the database. Each chart is sortable and links through to the full animal profile.</p>
+  <div class="mt-5 grid gap-3 sm:grid-cols-2">
+    {% for f in facts %}
+    <a href="{{ f.url }}" class="card group p-4 transition hover:border-emerald-500 hover:shadow">
+      <span class="flex items-center gap-2 font-bold text-slate-900 group-hover:text-emerald-700">{{ icon(f.icon, 'w-4 h-4 text-emerald-700') }} {{ f.title }}</span>
+      <span class="mt-1 block text-sm leading-snug text-slate-600">{{ f.intro.split('. ')[0] }}.</span>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}

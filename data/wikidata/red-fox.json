@@ -1,0 +1,40 @@
+{
+  "slug": "red-fox",
+  "commonName": "Red Fox",
+  "scientificName": "Vulpes vulpes",
+  "classSlug": "mammals",
+  "aliases": [
+    "fox"
+  ],
+  "qid": "Q8332",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Red fox",
+  "taxonomy": {
+    "species": "Vulpes vulpes",
+    "genus": "Vulpes",
+    "family": "Canidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "lifeExpectancy",
+      "amount": "5",
+      "unit": "year",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "52",
+      "unit": "day",
+      "sex": null
+    },
+    {
+      "property": "height",
+      "amount": "0.425",
+      "unit": "m",
+      "sex": null
+    }
+  ]
+}

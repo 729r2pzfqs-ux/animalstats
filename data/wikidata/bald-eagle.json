@@ -1,0 +1,39 @@
+{
+  "slug": "bald-eagle",
+  "commonName": "Bald Eagle",
+  "scientificName": "Haliaeetus leucocephalus",
+  "classSlug": "birds",
+  "aliases": [
+    "eagle"
+  ],
+  "qid": "Q127216",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Bald eagle",
+  "taxonomy": {
+    "species": "Haliaeetus leucocephalus",
+    "genus": "Haliaeetus",
+    "family": "Accipitridae",
+    "order": "Accipitriformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "117",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "4.13",
+      "unit": "kg",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "5.35",
+      "unit": "kg",
+      "sex": "female"
+    }
+  ]
+}

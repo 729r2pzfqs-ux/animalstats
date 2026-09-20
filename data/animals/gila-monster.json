@@ -1,0 +1,64 @@
+{
+  "slug": "gila-monster",
+  "commonName": "Gila Monster",
+  "scientificName": "Heloderma suspectum",
+  "alternateNames": [],
+  "nameSingular": "Gila monster",
+  "namePlural": "Gila monsters",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Squamata", "family": "Helodermatidae", "genus": "Heloderma", "species": "H. suspectum"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 20, "unit": "years", "context": "in the wild; possibly longer", "display": "about 20 years"},
+    "lifespanCaptivity": {"min": 20, "max": 30, "unit": "years", "context": "in human care", "display": "20–30 years"},
+    "weight": {"min": 350, "max": 700, "unit": "g", "context": "typical adults; large, well-fed individuals can reach about 2 kg", "display": "350–700 g (12–25 oz)"},
+    "height": {"min": 40, "max": 56, "unit": "cm", "label": "Length", "display": "40–56 cm (16–22 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 120, "max": 300, "unit": "days", "label": "Incubation", "display": "about 4 months in incubators; around 10 months in wild nests"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mostly the eggs of birds, tortoises, lizards and snakes, and helpless nestlings such as baby rabbits, rodents and ground-nesting birds, found by scent and dug out of nests and burrows.",
+    "habitat": ["Desert scrub", "Rocky foothills", "Semi-desert grassland", "Canyon bottoms"],
+    "range": "Southwestern United States, mainly Arizona with parts of Nevada, Utah, California and New Mexico, and northwestern Mexico in Sonora and northern Sinaloa.",
+    "conservationStatus": "Near Threatened",
+    "iucnCategory": "NT",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The Gila monster is a heavy, slow-moving venomous lizard of the Sonoran, Mojave and Chihuahuan deserts and the largest lizard native to the United States. Its skin is covered in bead-like scales patterned in black with pink, orange or yellow, a warning to predators. It spends around 90 to 95 percent of its life underground in burrows and rock shelters, emerging mainly in spring to raid nests for eggs and young animals. Fat stored in its thick tail lets it survive on just a few large meals a year. It is named after the Gila River basin of Arizona and New Mexico.",
+  "answers": {
+    "lifespan": "Gila monsters live about 20 years in the wild and 20–30 years in captivity. Their slow metabolism, underground lifestyle and venomous defense keep adult mortality low. They mature slowly, at around three to five years, so populations recover slowly when adults are removed.",
+    "weight": "A typical adult Gila monster weighs 350–700 g (12–25 oz). Weight swings considerably through the year because fat is stored in the tail, and large, well-fed individuals can reach about 2 kg. A thin tail is a sign that the animal has gone a long time without food.",
+    "size": "Gila monsters grow 40–56 cm (16–22 in) long, including the short, thick tail. That makes them the largest native lizard in the United States. The closely related Mexican beaded lizard grows larger still, reaching around 90 cm.",
+    "speed": null,
+    "gestation": "In the wild, Gila monster eggs take around 10 months to hatch; in incubators they hatch in about 4 months. Females lay 2–12 eggs in an underground nest in July or August, and hatchlings emerge the following spring, which suggests development slows or pauses over winter.",
+    "diet": "Gila monsters are carnivores that eat mainly eggs and nestlings, including quail and tortoise eggs and baby rabbits and rodents. A Gila monster can eat up to a third of its body weight in one meal, and three or four big meals can supply its energy needs for a whole year.",
+    "habitat": "Gila monsters live in desert scrub, rocky foothills and canyon bottoms of the southwestern United States and northwestern Mexico, up to about 1,500 m. They favor places with boulders, burrows and some moisture, and avoid open sandy flats and farmland.",
+    "conservation": "The Gila monster is listed as Near Threatened on the IUCN Red List, and its population is decreasing. Urban sprawl, roads and illegal collecting are the main threats. It became the first venomous animal in the United States to receive legal protection when Arizona protected it in 1952."
+  },
+  "funFacts": [
+    "A hormone in Gila monster saliva, exendin-4, led to exenatide, a widely used type 2 diabetes drug and a forerunner of modern GLP-1 medications.",
+    "Gila monsters have no fangs for injecting venom; it flows from glands in the lower jaw along grooved teeth while the lizard holds on and chews.",
+    "They spend roughly 90 to 95 percent of their lives hidden underground.",
+    "The Gila monster and its close relatives the beaded lizards were long thought to be the only venomous lizards, until venom was identified in monitors and other groups.",
+    "Their beaded appearance comes from osteoderms, tiny bones embedded under each scale."
+  ],
+  "relatedAnimals": ["komodo-dragon", "rattlesnake", "green-iguana", "bearded-dragon", "leopard-gecko", "tuatara"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can a Gila monster kill a human?", "answer": "It is extremely unlikely. A Gila monster bite is intensely painful and can cause swelling, nausea and a drop in blood pressure, but there are no well-documented deaths of healthy people in modern times. Bites still need medical attention, and there is no specific antivenom."},
+    {"question": "Are Gila monsters aggressive?", "answer": "No. Gila monsters are slow and reclusive, and they bite people almost only when picked up, stepped on or harassed. They warn first by hissing and gaping. Once they bite, they clamp on hard and may need to be pried off."},
+    {"question": "Is it legal to keep or kill a Gila monster?", "answer": "In the wild, no. Gila monsters are protected by state law throughout their United States range, including Arizona, Nevada, Utah, California and New Mexico. It is illegal to kill, collect, harass or sell wild ones. If one turns up in a yard, leave it alone or call wildlife officials."},
+    {"question": "What should you do if a Gila monster bites you?", "answer": "Get the lizard off as quickly as possible, for example by prying its jaws open or placing it on the ground so it lets go. Keep the limb still, remove rings and tight clothing, and go to an emergency room. Do not cut the wound or use ice or a tourniquet."},
+    {"question": "How did the Gila monster get its name?", "answer": "The Gila monster is named after the Gila River basin in Arizona and New Mexico, where the lizards were once common. \"Gila\" is pronounced HEE-la. The \"monster\" part reflects early settlers' fear of the lizard and exaggerated stories about its bite."}
+  ],
+  "meta": {
+    "title": "Gila Monster Facts: Size, Venom, Lifespan & Diet",
+    "description": "Gila monsters grow 40–56 cm (16–22 in), weigh 350–700 g and live about 20 years in the wild. Venom, diet, desert habitat and Near Threatened status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Heloderma%20suspectum&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Heloderma_suspectum/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Heloderma_suspectum"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Gila_monster"}
+    ]
+  }
+}

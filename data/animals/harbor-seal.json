@@ -1,0 +1,65 @@
+{
+  "slug": "harbor-seal",
+  "commonName": "Harbor Seal",
+  "scientificName": "Phoca vitulina",
+  "alternateNames": ["Common seal", "Harbour seal"],
+  "nameSingular": "harbor seal",
+  "namePlural": "harbor seals",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Phocidae", "genus": "Phoca", "species": "P. vitulina"},
+  "facts": {
+    "lifespan": {"min": 25, "max": 30, "unit": "years", "context": "in the wild; males about 20–25 years, females 30–35", "display": "25–30 years"},
+    "lifespanCaptivity": {"min": 30, "max": 40, "unit": "years", "context": "in human care; approximate, with a record of about 47 years", "display": "30–40 years"},
+    "weight": {"min": 55, "max": 170, "unit": "kg", "context": "adults; males are somewhat larger than females", "display": "55–170 kg (120–375 lb)"},
+    "height": {"min": 1.5, "max": 1.9, "unit": "m", "label": "Length", "display": "1.5–1.9 m (4.9–6.2 ft)"},
+    "speed": {"min": 19, "max": 19, "unit": "km/h", "verb": "swim", "context": "short bursts; usually cruises much more slowly", "display": "about 19 km/h (12 mph)"},
+    "gestationPeriod": {"min": 270, "max": 330, "unit": "days", "label": "Gestation", "display": "9–11 months, including delayed implantation"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Whatever fish are locally abundant, such as herring, cod, hake, sand lance, flatfish, salmon and rockfish, along with squid, octopus, shrimp and crabs; adults eat roughly 5 percent of their body weight daily.",
+    "habitat": ["Coastal waters", "Estuaries and bays", "Rocky shores", "Sandbars and mudflats", "Glacial fjords"],
+    "range": "Temperate and subarctic coasts of the Northern Hemisphere, on both sides of the North Atlantic and North Pacific, from Baja California and Japan to Europe and the Arctic fringe.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown",
+    "population": "an estimated 350,000–500,000 worldwide"
+  },
+  "description": "The harbor seal, known as the common seal in Europe, is the most widely distributed of all seals and sea lions, living along cold and temperate coasts throughout the Northern Hemisphere. It is a true, or earless, seal: it has no external ear flaps, swims with its hind flippers, and moves on land by hunching along on its belly. Each animal has its own pattern of spots on a coat that varies from silver-gray to brown or nearly black. The rounded head and V-shaped nostrils give it a dog-like face. Harbor seals haul out on rocks, sandbars and ice to rest, molt and give birth, and usually stay close to home.",
+  "answers": {
+    "lifespan": "Harbor seals live about 25–30 years in the wild. Females outlive males, typically reaching 30–35 years against 20–25 for males, probably because of the stress of competing for mates. In zoos and aquariums they often pass 30, and the record is about 47 years.",
+    "weight": "Adult harbor seals weigh 55–170 kg (120–375 lb), and males are somewhat heavier than females. Weight changes with the seasons, since seals build up blubber before breeding and molting and lose it afterward. Alaskan and Japanese harbor seals tend to be the largest.",
+    "size": "Harbor seals are 1.5–1.9 m (4.9–6.2 ft) long. Males average slightly longer than females, but the difference is small compared with sea lions or elephant seals. Pups are 75–100 cm long at birth and weigh 8–12 kg.",
+    "speed": "Harbor seals can swim at about 19 km/h (12 mph) in short bursts, but they usually cruise at a fraction of that speed. They are built for diving rather than sprinting. On land they are slow and awkward, because they cannot rotate their hind flippers forward to walk.",
+    "gestation": "A harbor seal's pregnancy lasts about 9–11 months in total, including a delay of roughly two months before the embryo implants and begins to grow. The single pup can swim within hours of birth, nurses on very rich milk for only four to six weeks and then fends for itself.",
+    "diet": "Harbor seals are carnivores that eat mainly fish, plus squid, octopus and crustaceans. They take whatever is common locally, from herring and cod to salmon and flatfish. They hunt alone, detecting prey with their sensitive whiskers, and can dive deeper than 400 m, though most dives are shallow and short.",
+    "habitat": "Harbor seals live in coastal waters of the North Atlantic and North Pacific, seldom more than a few tens of kilometers from shore. They use bays, estuaries, rocky islets, sandbars, mudflats and glacial ice as haul-out sites, and a few populations live in freshwater lakes in Canada and Alaska.",
+    "conservation": "The harbor seal is listed as Least Concern on the IUCN Red List, with a world population estimated at 350,000–500,000. Trends differ by region: many populations are stable or growing, while some in Alaska, Scotland and elsewhere have declined. Outbreaks of phocine distemper virus killed tens of thousands in Europe in 1988 and 2002."
+  },
+  "funFacts": [
+    "A harbor seal's whiskers can follow the faint water trail left by a swimming fish more than 30 seconds after it has passed.",
+    "Pups are usually born having already shed their white baby coat in the womb, so they can swim within hours.",
+    "Harbor seals can dive deeper than 400 m (1,300 ft) and hold their breath for close to 30 minutes, slowing the heart to a few beats per minute.",
+    "Resting seals often lift their head and hind flippers into a curved banana pose to keep them dry and warm.",
+    "A harbor seal named Hoover, raised by a family in Maine, learned to mimic human phrases in a gruff New England accent."
+  ],
+  "relatedAnimals": ["california-sea-lion", "walrus", "sea-otter", "orca", "great-white-shark", "polar-bear"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a seal and a sea lion?", "answer": "Harbor seals are true seals: they have ear holes but no ear flaps, short front flippers, and they wriggle on their bellies on land. Sea lions have visible ear flaps, long front flippers, can walk on all fours, and are much noisier, barking loudly."},
+    {"question": "Are harbor seals dangerous to humans?", "answer": "Harbor seals are shy and usually slip into the water when people approach. They can deliver a serious bite if cornered or handled, and bites can cause a stubborn infection known as seal finger. Wildlife agencies advise staying at least 50 meters away."},
+    {"question": "What should you do if you find a seal pup alone on the beach?", "answer": "Leave it alone and keep people and dogs well away. Mothers routinely leave pups on shore while they feed and may not return if humans are near. If the pup looks injured or is still alone after a day, call the local marine mammal stranding network."},
+    {"question": "What eats harbor seals?", "answer": "Orcas and large sharks, including great white and Greenland sharks, are the main predators of harbor seals. Steller sea lions, polar bears, walruses, coyotes, wolves and eagles take them in some areas, mostly pups. Transient orcas in the Pacific Northwest rely heavily on harbor seals."},
+    {"question": "How long can a harbor seal stay underwater?", "answer": "Most dives last only three to seven minutes, but harbor seals can stay under for close to 30 minutes. They exhale before diving, store oxygen in their blood and muscles, and slow their heart rate dramatically to make it last."}
+  ],
+  "meta": {
+    "title": "Harbor Seal Facts: Size, Weight, Lifespan & Diet",
+    "description": "Harbor seals live 25–30 years, grow 1.5–1.9 m (4.9–6.2 ft) long and weigh 55–170 kg. Diet, diving, pups, habitat and how seals differ from sea lions.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Phoca%20vitulina&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Phoca_vitulina/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Phoca_vitulina"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Harbor_seal"}
+    ]
+  }
+}

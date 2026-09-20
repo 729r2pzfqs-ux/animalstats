@@ -1,0 +1,46 @@
+{
+  "slug": "lion",
+  "commonName": "Lion",
+  "scientificName": "Panthera leo",
+  "classSlug": "mammals",
+  "aliases": [
+    "african lion"
+  ],
+  "qid": "Q140",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Lion",
+  "taxonomy": {
+    "species": "Panthera leo",
+    "genus": "Panthera",
+    "family": "Felidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "1.65",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "188",
+      "unit": "kg",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "126",
+      "unit": "kg",
+      "sex": "female"
+    },
+    {
+      "property": "gestation",
+      "amount": "108",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

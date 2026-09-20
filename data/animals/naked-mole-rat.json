@@ -1,0 +1,65 @@
+{
+  "slug": "naked-mole-rat",
+  "commonName": "Naked Mole-Rat",
+  "scientificName": "Heterocephalus glaber",
+  "alternateNames": ["Sand puppy", "Desert mole-rat"],
+  "nameSingular": "naked mole-rat",
+  "namePlural": "naked mole-rats",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Rodentia", "family": "Bathyergidae", "genus": "Heterocephalus", "species": "H. glaber"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 17, "unit": "years", "context": "in the wild; workers often only a few years, breeders documented beyond 17", "display": "a few years for workers, 17+ years for breeders"},
+    "lifespanCaptivity": {"min": 25, "max": 32, "unit": "years", "context": "in laboratory and zoo colonies; record over 37 years", "display": "commonly 25–30+ years"},
+    "weight": {"min": 30, "max": 80, "unit": "g", "context": "workers about 30–35 g; queens 50–80 g", "display": "30–80 g (1.1–2.8 oz)"},
+    "height": {"min": 8, "max": 10, "unit": "cm", "label": "Body length", "display": "8–10 cm (3–4 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 66, "max": 74, "unit": "days", "label": "Gestation", "display": "about 70 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Underground roots, bulbs and large tubers found by tunneling. The colony eats out the inside of a big tuber while leaving the skin so it keeps growing, and the tubers also supply all their water.",
+    "habitat": ["Arid grassland", "Semi-desert", "Dry savanna"],
+    "range": "The Horn of Africa: eastern Ethiopia, Somalia, Djibouti and central and eastern Kenya.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The naked mole-rat is a nearly hairless, wrinkled, burrowing rodent from the drylands of East Africa and one of the strangest mammals known. It is eusocial, living like ants or bees in underground colonies that average 70–80 animals, in which a single queen and one to three males breed while everyone else works as diggers, foragers, nursemaids or soldiers. It is neither a mole nor a rat; its nearest relatives are other African mole-rats, porcupines and guinea pigs. Naked mole-rats are studied intensively because they live far longer than any other rodent, rarely develop cancer and tolerate very low oxygen.",
+  "answers": {
+    "lifespan": "Naked mole-rats commonly live 25–30 years or more in captive colonies, and the record is over 37 years, by far the longest of any rodent. Wild lifespans are poorly known: workers may last only a few years, while breeding queens have been tracked for more than 17.",
+    "weight": "Adult naked mole-rats typically weigh 30–35 g (about 1.1–1.2 oz), and breeding queens are larger at 50–80 g. When a female becomes queen her spine actually lengthens, making her longer than the workers and better able to carry big litters.",
+    "size": "A naked mole-rat has a head-and-body length of 8–10 cm (3–4 in) with a tail of 3–4 cm. The skin is pink, loose and wrinkled, with only scattered sensory hairs, and the large front teeth sit outside the lips so the animal can dig without swallowing soil.",
+    "speed": null,
+    "gestation": "A naked mole-rat queen is pregnant for about 70 days, within a range of 66–74 days. Litters average around 12 pups but can exceed 25, the largest of any mammal, and a queen can produce four or five litters a year. Workers help feed and warm the pups.",
+    "diet": "Naked mole-rats are herbivores that eat underground roots, bulbs and tubers. A single large tuber can feed a colony for months, because the animals hollow out the inside and leave the rest to regrow. They never drink, and they eat their own droppings to re-digest tough plant fiber.",
+    "habitat": "Naked mole-rats live entirely underground in the hot, dry grasslands and semi-deserts of Ethiopia, Somalia, Djibouti and Kenya. A colony's tunnels can total 3–5 km in length, with chambers for nesting and waste, in hard soil up to 2 m deep where the temperature stays near 30 °C.",
+    "conservation": "Naked mole-rats are listed as Least Concern on the IUCN Red List with a stable population. They are widespread, common and live underground in arid country of little agricultural value, although farmers in some areas treat them as pests of root crops such as sweet potatoes."
+  },
+  "funFacts": [
+    "Naked mole-rats can survive about 18 minutes with no oxygen at all by switching their metabolism to burn fructose, the way plants do.",
+    "Their skin does not register pain from acid or from capsaicin, the compound that makes chili peppers burn.",
+    "They are close to cold-blooded: body temperature drifts with the surroundings, and they huddle together or move to warmer tunnels to regulate it.",
+    "Each colony has its own dialect of chirps, which the animals learn and which appears to be shaped by the queen.",
+    "About a quarter of a naked mole-rat's muscle mass is in its jaws, and the two lower incisors can move independently like chopsticks.",
+    "Unlike nearly all other mammals, their risk of dying does not rise with age, at least as far as the data reach."
+  ],
+  "relatedAnimals": ["brown-rat", "house-mouse", "guinea-pig", "capybara", "meerkat", "honey-bee"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why do naked mole-rats live so long?", "answer": "Nobody knows for sure, but several traits seem to contribute: unusually accurate protein production, efficient DNA repair, a very dense form of hyaluronan in their tissues, low metabolic rate and a protected underground life. Their mortality risk stays flat instead of climbing with age as it does in other mammals."},
+    {"question": "Do naked mole-rats get cancer?", "answer": "Almost never. Cancer was long thought not to occur in naked mole-rats at all; a few cases have since been found in zoo animals, but it remains extremely rare. High-molecular-mass hyaluronan, which makes cells stop dividing when crowded, is one suspected reason."},
+    {"question": "Are naked mole-rats blind?", "answer": "Nearly. Naked mole-rats have tiny eyes and very poor vision, probably detecting little more than light and dark. They navigate their tunnels by touch, using sensitive whiskers and body hairs, along with smell and hearing, and can run backward as easily as forward."},
+    {"question": "Why are naked mole-rats hairless?", "answer": "Fur would be of little use and could cause overheating in crowded, humid tunnels where the temperature is steadily warm. Without hair the animals can shed heat easily and pick up warmth from each other by huddling. They are not completely bald, keeping about 100 fine sensory hairs."},
+    {"question": "What is a naked mole-rat queen?", "answer": "The queen is the only breeding female in a colony. She is larger than the workers, suppresses reproduction in other females through aggressive behavior such as shoving, and mates with one to three chosen males. When a queen dies, several females may fight, sometimes to the death, to replace her."}
+  ],
+  "meta": {
+    "title": "Naked Mole-Rat Facts: Lifespan, Size, Colonies & Diet",
+    "description": "Naked mole-rats can live more than 30 years, weigh just 30–80 g and measure 8–10 cm. How their queen-led colonies work, plus diet, gestation and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Heterocephalus%20glaber&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Heterocephalus_glaber/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Heterocephalus_glaber"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Naked_mole-rat"}
+    ]
+  }
+}

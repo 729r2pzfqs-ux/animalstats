@@ -1,0 +1,30 @@
+{
+  "slug": "european-hare",
+  "commonName": "European Hare",
+  "scientificName": "Lepus europaeus",
+  "classSlug": "mammals",
+  "aliases": [
+    "hare",
+    "brown hare"
+  ],
+  "qid": "Q26838",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "European hare",
+  "taxonomy": {
+    "species": "Lepus europaeus",
+    "genus": "Lepus",
+    "family": "Leporidae",
+    "order": "Lagomorpha",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "42",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

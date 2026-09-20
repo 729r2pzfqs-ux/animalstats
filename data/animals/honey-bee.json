@@ -1,0 +1,64 @@
+{
+  "slug": "honey-bee",
+  "commonName": "Western Honey Bee",
+  "scientificName": "Apis mellifera",
+  "alternateNames": ["European honey bee", "Honeybee", "Common honey bee"],
+  "nameSingular": "western honey bee",
+  "namePlural": "western honey bees",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Insecta", "classSlug": "invertebrates", "order": "Hymenoptera", "family": "Apidae", "genus": "Apis", "species": "A. mellifera"},
+  "facts": {
+    "lifespan": {"min": 5, "max": 7, "unit": "weeks", "context": "adult workers in summer; winter workers live 4–6 months and queens 2–5 years", "display": "5–7 weeks (summer workers); queens 2–5 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 90, "max": 120, "unit": "mg", "context": "workers; queens and drones weigh roughly twice as much", "display": "about 100 mg (0.004 oz)"},
+    "height": {"min": 12, "max": 15, "unit": "mm", "label": "Body length", "display": "12–15 mm (0.5–0.6 in)"},
+    "speed": {"min": 24, "max": 32, "unit": "km/h", "verb": "fly", "context": "fastest when unladen; slower when carrying nectar or pollen", "display": "24–32 km/h (15–20 mph)"},
+    "gestationPeriod": {"min": 3, "max": 3, "unit": "days", "label": "Egg development", "display": "3 days"}
+  },
+  "ecology": {
+    "diet": "Nectarivore",
+    "dietDetails": "Nectar, which workers concentrate into honey for energy, and pollen, which supplies protein and fat. Larvae are fed royal jelly and a pollen-honey mix called bee bread; future queens receive royal jelly throughout.",
+    "habitat": ["Meadows", "Woodland edges", "Farmland and orchards", "Gardens", "Managed hives"],
+    "range": "Native to Europe, Africa and western Asia; carried by people to every continent except Antarctica and now kept or living wild almost worldwide.",
+    "conservationStatus": "Data Deficient",
+    "iucnCategory": "DD",
+    "populationTrend": "Unknown"
+  },
+  "description": "The western honey bee is the bee that most of the world's beekeepers keep for honey, wax and crop pollination. It lives in perennial colonies of 20,000–60,000 bees in summer, made up of a single egg-laying queen, tens of thousands of sterile female workers and, in the warm months, a few hundred to a few thousand male drones. Workers build wax comb, tend the brood, guard the hive and forage for nectar and pollen. Native to Europe, Africa and western Asia, the species has been spread worldwide by people and is one of the most economically important insects.",
+  "answers": {
+    "lifespan": "Worker honey bees live about 5–7 weeks in summer, while queens live 2–5 years. Summer workers literally wear themselves out foraging. Workers raised in fall live 4–6 months so the colony can survive winter, and male drones live about 8 weeks at most, dying soon after mating or being evicted from the hive in autumn.",
+    "weight": "A worker honey bee weighs about 100 mg (0.004 oz), or a tenth of a gram. Queens and drones weigh roughly twice that. A forager can carry a nectar load of around 40 mg, close to half of her own body weight, back to the hive.",
+    "size": "Worker honey bees are 12–15 mm (0.5–0.6 in) long. Drones are stockier at 15–17 mm with very large eyes, and the queen is the longest bee in the colony at 18–20 mm, with a slender abdomen that extends well beyond her folded wings.",
+    "speed": "Honey bees fly at about 24–32 km/h (15–20 mph). They reach the top of that range on the way out to flowers and slow down on the return trip when loaded with nectar or pollen. Their wings beat roughly 230 times per second, which produces the familiar buzz.",
+    "gestation": "Honey bee eggs hatch after 3 days, whatever the caste. Total development from egg to adult then takes about 16 days for a queen, 21 days for a worker and 24 days for a drone. A healthy queen can lay 1,500 or more eggs a day at the peak of the season.",
+    "diet": "Honey bees eat nectar and pollen. Nectar is converted into honey, the colony's carbohydrate store, while pollen provides protein, fats and vitamins. Young larvae are fed royal jelly secreted by nurse bees, and larvae chosen to become queens are fed royal jelly for their entire development.",
+    "habitat": "Honey bees live wherever there are enough flowers, water and sheltered nest cavities, from meadows, woodland edges and orchards to city gardens. Wild colonies nest in hollow trees and rock crevices. Most colonies today live in managed hives, and the species is absent only from polar regions and the driest deserts.",
+    "conservation": "The western honey bee is listed as Data Deficient on the IUCN Red List, because it is hard to tell truly wild colonies from managed or escaped ones. Managed hive numbers are rising globally, but colonies suffer heavy yearly losses from Varroa mites, the viruses they spread, pesticides, poor forage and other stresses."
+  },
+  "funFacts": [
+    "Foragers tell nestmates where to find food with the waggle dance, which encodes the direction relative to the sun and the distance to the flowers.",
+    "A worker honey bee produces only about one-twelfth of a teaspoon of honey in her entire life.",
+    "A worker's stinger is barbed, so it lodges in the skin of mammals and tears away, killing the bee. Queens have smooth stingers and can sting repeatedly.",
+    "In winter, honey bees do not hibernate. They form a tight cluster and shiver their flight muscles to keep the center of the cluster warm.",
+    "Male honey bees hatch from unfertilized eggs, so a drone has a mother and a grandfather but no father."
+  ],
+  "relatedAnimals": ["bumblebee", "common-wasp", "asian-giant-hornet", "black-garden-ant", "monarch-butterfly", "honey-badger"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do honey bees die after they sting?", "answer": "Worker honey bees usually die after stinging a person or another mammal. The barbed stinger catches in elastic skin and rips out along with the venom sac when the bee pulls away. Workers can sting other insects without dying, and queens can sting more than once."},
+    {"question": "How many bees live in a hive?", "answer": "A healthy honey bee colony holds about 20,000–60,000 bees at its summer peak. That includes one queen, tens of thousands of workers and up to a few thousand drones. In winter the colony shrinks to perhaps 10,000–20,000 long-lived workers clustered around the queen."},
+    {"question": "What is the difference between a honey bee and a bumblebee?", "answer": "Honey bees are slimmer, less hairy and live in perennial colonies of tens of thousands that store large amounts of honey. Bumblebees are rounder and furrier, live in annual colonies of a few hundred at most, and store only a little nectar."},
+    {"question": "Are honey bees native to North America?", "answer": "No. Western honey bees were brought to North America by European colonists in the early 1600s. The continent already had about 4,000 native bee species, including bumblebees, but none of them make honey in harvestable amounts."},
+    {"question": "How do bees make honey?", "answer": "Foragers collect nectar in a special honey stomach and pass it to house bees, which add enzymes that break down its sugars. The bees then fan their wings to evaporate water until the nectar thickens to under about 18 percent water, and seal the finished honey with wax."}
+  ],
+  "meta": {
+    "title": "How Long Do Honey Bees Live? Western Honey Bee Facts",
+    "description": "Worker honey bees live 5–7 weeks in summer and queens 2–5 years. Workers weigh about 100 mg and fly 24–32 km/h. Size, diet, colony life and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Apis%20mellifera&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Apis_mellifera/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Apis_mellifera"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Western_honey_bee"}
+    ]
+  }
+}

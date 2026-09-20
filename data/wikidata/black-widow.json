@@ -1,0 +1,22 @@
+{
+  "slug": "black-widow",
+  "commonName": "Southern Black Widow",
+  "scientificName": "Latrodectus mactans",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "black widow spider"
+  ],
+  "qid": "Q113297",
+  "iucnStatus": null,
+  "wikipedia": "Latrodectus mactans",
+  "taxonomy": {
+    "species": "Latrodectus mactans",
+    "genus": "Latrodectus",
+    "family": "Theridiidae",
+    "order": "Araneae",
+    "class": "Arachnida",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "african-elephant",
+  "commonName": "African Elephant",
+  "scientificName": "Loxodonta africana",
+  "classSlug": "mammals",
+  "aliases": [
+    "african bush elephant",
+    "elephant",
+    "savanna elephant"
+  ],
+  "qid": "Q36557",
+  "iucnStatus": "Endangered",
+  "wikipedia": "African bush elephant",
+  "taxonomy": {
+    "species": "Loxodonta africana",
+    "genus": "Loxodonta",
+    "family": "Elephantidae",
+    "order": "Proboscidea",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "22",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

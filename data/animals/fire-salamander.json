@@ -1,0 +1,64 @@
+{
+  "slug": "fire-salamander",
+  "commonName": "Fire Salamander",
+  "scientificName": "Salamandra salamandra",
+  "alternateNames": ["European fire salamander", "Common fire salamander"],
+  "nameSingular": "fire salamander",
+  "namePlural": "fire salamanders",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Amphibia", "classSlug": "amphibians", "order": "Caudata", "family": "Salamandridae", "genus": "Salamandra", "species": "S. salamandra"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 20, "unit": "years", "context": "in the wild; some individuals live longer", "display": "10–20 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 20, "max": 40, "unit": "g", "context": "approximate adult weight; a typical adult is around 40 g", "display": "about 20–40 g (0.7–1.4 oz)"},
+    "height": {"min": 15, "max": 25, "unit": "cm", "label": "Length", "display": "15–25 cm (6–10 in)"},
+    "speed": null,
+    "gestationPeriod": null
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Earthworms, slugs, snails, beetles, spiders, millipedes, centipedes and other invertebrates found on the forest floor at night; large adults occasionally take small newts and young frogs. Larvae eat aquatic invertebrates.",
+    "habitat": ["Deciduous forest", "Mixed hill forest", "Shaded stream valleys"],
+    "range": "Central and southern Europe, from Portugal and Spain through France, Germany and Italy to the Balkans, Greece and the Carpathians, mostly in hilly, forested country.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The fire salamander is Europe's best-known salamander, a glossy black amphibian boldly marked with yellow, and sometimes orange or red, spots or stripes. The pattern is unique to each individual and warns predators that its skin glands produce a potent toxin. It lives in cool, damp deciduous forests, hiding under logs, stones and leaf litter by day and emerging on mild, rainy nights. Adults are land animals and poor swimmers. Unlike most amphibians the female does not lay eggs: she gives birth to live larvae in forest streams, and some populations bear fully formed young.",
+  "answers": {
+    "lifespan": "Fire salamanders commonly live 10–20 years in the wild, and some live longer. They are among the longest-lived European amphibians. The captive record is about 50 years, for an animal kept at the Museum Koenig in Germany. Their toxic skin means healthy adults have few predators.",
+    "weight": "An adult fire salamander weighs roughly 20–40 g (0.7–1.4 oz), with around 40 g typical for a full-grown animal. Pregnant females are noticeably heavier. Published weights are limited, so the range is approximate; size is more usually given as length.",
+    "size": "Fire salamanders grow 15–25 cm (6–10 in) long, including the tail, and a few reach about 30 cm. Females tend to be slightly longer and stockier than males. Size also varies by subspecies, with some southern and eastern populations larger than those in western Europe.",
+    "speed": null,
+    "gestation": null,
+    "diet": "Fire salamanders are carnivores that eat earthworms, slugs, snails, beetles, spiders and other small invertebrates. They hunt slowly on the forest floor on damp nights, locating prey by sight and smell and seizing it with the jaws and a short sticky tongue.",
+    "habitat": "Fire salamanders live in cool, moist deciduous and mixed forests in the hills and mountains of central and southern Europe, usually between about 250 and 1,000 m. They need clean, shaded streams or spring-fed pools nearby, where females release their larvae.",
+    "conservation": "The fire salamander is listed as Vulnerable on the IUCN Red List, with a decreasing population. The main new threat is a skin-eating fungus, Batrachochytrium salamandrivorans, introduced from Asia, which wiped out more than 99 percent of fire salamanders in the Netherlands. Habitat loss and road deaths add pressure."
+  },
+  "funFacts": [
+    "Fire salamanders can squirt their toxin, samandarin, from glands along the back at an attacker, reportedly over distances of tens of centimeters.",
+    "The name comes from an old belief that salamanders were born in fire; in reality they were fleeing damp logs that had been thrown onto the hearth.",
+    "Instead of laying eggs, the female releases around 20–70 live larvae into a stream; some Spanish populations give birth to fully formed miniature salamanders.",
+    "Every fire salamander has a unique spot pattern, which researchers photograph to identify individuals over many years.",
+    "Females can store sperm for months and sometimes for more than a year before using it."
+  ],
+  "relatedAnimals": ["eastern-newt", "axolotl", "chinese-giant-salamander", "golden-poison-frog", "american-toad"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are fire salamanders poisonous to humans?", "answer": "Fire salamanders are poisonous but not dangerous to people under normal circumstances. Their skin secretes samandarin, a neurotoxin that can irritate the eyes, mouth and broken skin. Simply wash your hands after contact. The toxin is a much greater risk to pets that bite or swallow a salamander."},
+    {"question": "Can fire salamanders survive fire?", "answer": "No. This is a myth dating back to ancient Greece and Rome. Fire salamanders hibernate in rotting logs, and when such logs were burned as firewood, the animals crawled out of the flames, which made people think they were created by fire."},
+    {"question": "Do fire salamanders lay eggs?", "answer": "Usually not. The eggs develop inside the female, and she deposits live, gilled larvae into streams or pools, typically in spring. The larvae live in water for several months before transforming. In a few subspecies in northern Spain, females give birth to fully developed land-living young."},
+    {"question": "Can you keep a fire salamander as a pet?", "answer": "In some countries, yes, using captive-bred animals. They need a cool, damp terrarium kept below about 20 °C, with moss, bark hides and live invertebrate food, and should rarely be handled. Wild collection is illegal across much of Europe, and trade is restricted to slow the spread of fungal disease."},
+    {"question": "What is killing fire salamanders in Europe?", "answer": "A fungal disease known as Bsal, caused by Batrachochytrium salamandrivorans. It arrived from Asia, probably through the pet trade, and erodes the salamanders' skin, killing them within weeks. Outbreaks have occurred in the Netherlands, Belgium, Germany and Spain."}
+  ],
+  "meta": {
+    "title": "Fire Salamander Facts: Size, Lifespan, Poison & Habitat",
+    "description": "Fire salamanders grow 15–25 cm (6–10 in) long, weigh about 20–40 g and live 10–20 years in the wild. Toxin, live-born larvae, diet and Vulnerable status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Salamandra%20salamandra&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Salamandra_salamandra/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Salamandra_salamandra"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Fire_salamander"}
+    ]
+  }
+}

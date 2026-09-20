@@ -1,0 +1,23 @@
+{
+  "slug": "cow",
+  "commonName": "Cow",
+  "scientificName": "Bos taurus",
+  "classSlug": "mammals",
+  "aliases": [
+    "cattle",
+    "bull",
+    "domestic cattle"
+  ],
+  "qid": "Q19610691",
+  "iucnStatus": null,
+  "wikipedia": null,
+  "taxonomy": {
+    "species": "Bos taurus",
+    "genus": "Bos",
+    "family": "Bovidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": []
+}

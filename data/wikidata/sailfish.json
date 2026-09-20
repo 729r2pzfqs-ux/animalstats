@@ -1,0 +1,22 @@
+{
+  "slug": "sailfish",
+  "commonName": "Indo-Pacific Sailfish",
+  "scientificName": "Istiophorus platypterus",
+  "classSlug": "fish",
+  "aliases": [
+    "sailfish"
+  ],
+  "qid": "Q694527",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Indo-Pacific sailfish",
+  "taxonomy": {
+    "species": "Istiophorus platypterus",
+    "genus": "Istiophorus",
+    "family": "Istiophoridae",
+    "order": "Istiophoriformes",
+    "class": "Actinopteri",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

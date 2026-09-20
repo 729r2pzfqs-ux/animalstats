@@ -1,0 +1,64 @@
+{
+  "slug": "wolverine",
+  "commonName": "Wolverine",
+  "scientificName": "Gulo gulo",
+  "alternateNames": ["Glutton", "Carcajou", "Skunk bear", "Quickhatch"],
+  "nameSingular": "wolverine",
+  "namePlural": "wolverines",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Mustelidae", "genus": "Gulo", "species": "G. gulo"},
+  "facts": {
+    "lifespan": {"min": 7, "max": 12, "unit": "years", "context": "in the wild", "display": "7–12 years"},
+    "lifespanCaptivity": {"min": 15, "max": 17, "unit": "years", "context": "in human care", "display": "15–17 years"},
+    "weight": {"min": 8, "max": 18, "unit": "kg", "context": "adults; males 11–18 kg, females 8–12 kg", "display": "8–18 kg (18–40 lb)"},
+    "height": {"min": 30, "max": 45, "unit": "cm", "label": "Shoulder height", "display": "30–45 cm (12–18 in)"},
+    "speed": {"min": 48, "max": 48, "unit": "km/h", "verb": "run", "context": "short bursts; commonly cited estimate", "display": "about 48 km/h (30 mph)"},
+    "gestationPeriod": {"min": 30, "max": 50, "unit": "days", "label": "Gestation", "display": "30–50 days of active pregnancy"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Carrion from reindeer, caribou, moose and elk, especially in winter, plus hunted prey such as hares, marmots, ground squirrels, voles, birds and weakened or snowbound deer; also eggs and berries in summer.",
+    "habitat": ["Boreal forest", "Tundra", "Alpine mountains"],
+    "range": "Northern Eurasia from Scandinavia across Russia to the Pacific, and North America from Alaska and northern Canada south through the Rockies to Idaho, Montana and Wyoming.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The wolverine is the largest land-dwelling member of the weasel family, a stocky, bear-like carnivore of northern forests, mountains and tundra. It has a reputation for strength and ferocity out of proportion to its size and has been known to drive wolves and bears from carcasses. Wolverines are solitary and range over enormous territories that can exceed 1,000 square kilometers for males. Broad, furred feet act like snowshoes, and thick, oily, frost-resistant fur insulates them in deep cold. Females dig birthing dens in deep spring snowpack, which ties the species closely to cold, snowy regions.",
+  "answers": {
+    "lifespan": "Wolverines live about 7–12 years in the wild and 15–17 years in human care. Many wild wolverines die young from starvation, trapping, and attacks by wolves, cougars and other wolverines, so animals older than 10 are uncommon outside captivity.",
+    "weight": "Adult wolverines weigh 8–18 kg (18–40 lb). Males weigh 11–18 kg and are roughly a third heavier than females, which weigh 8–12 kg. Exceptional males above 20 kg have been reported, but claims of much heavier wolverines are doubtful.",
+    "size": "A wolverine stands 30–45 cm (12–18 in) at the shoulder. Head-and-body length is 65–107 cm, and the bushy tail adds 17–26 cm. It looks like a small, low-slung bear with a broad head, short rounded ears and pale stripes along each flank.",
+    "speed": "Wolverines can reportedly run at about 48 km/h (30 mph) in short bursts, though that figure is an estimate. They are better known for stamina: tracked animals have traveled 30 km or more in a day and climbed steep snow-covered peaks without pausing.",
+    "gestation": "A wolverine's active pregnancy lasts only 30–50 days. Because the fertilized egg does not implant for several months after the summer mating season, the total time from mating to birth is around seven to nine months. Two or three white-furred kits are born in a snow den between February and April.",
+    "diet": "Wolverines are carnivores and scavengers that rely heavily on carrion in winter, including the remains of wolf kills, and hunt hares, rodents and birds. On deep snow they can bring down reindeer and other deer many times their own weight. They cache surplus food in snow and boulder fields.",
+    "habitat": "Wolverines live in boreal forest, alpine mountains and Arctic tundra across northern Europe, Russia, Alaska and Canada, with a small population in the US Rocky Mountains and Cascades. They need large, remote areas with persistent spring snow for denning.",
+    "conservation": "Wolverines are listed as Least Concern on the IUCN Red List globally, but the population is decreasing. They live at very low densities and are sensitive to trapping, persecution by herders and loss of spring snow. In 2023 the contiguous United States population was listed as threatened."
+  },
+  "funFacts": [
+    "The scientific name Gulo gulo simply means 'glutton glutton', a nod to the wolverine's reputation for a huge appetite.",
+    "Wolverines have an upper molar rotated 90 degrees inward, which helps them tear meat from frozen carcasses and crush bone.",
+    "A radio-collared male known as M3 climbed Mount Cleveland in Glacier National Park, gaining nearly 1,500 m in about 90 minutes in midwinter.",
+    "Wolverine fur resists frost buildup, which is why it has long been used to trim the hoods of Arctic parkas.",
+    "Males help raise their young to some degree, visiting kits and traveling with them after weaning, which is unusual among mustelids."
+  ],
+  "relatedAnimals": ["honey-badger", "sea-otter", "striped-skunk", "grizzly-bear", "gray-wolf", "tasmanian-devil"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are wolverines dangerous to humans?", "answer": "Wolverines pose very little danger to people. They are shy, live far from settlements and there are no well-documented cases of a wild wolverine killing a human. Like any wild carnivore they will defend themselves if trapped or cornered."},
+    {"question": "Can a wolverine kill a bear or a wolf?", "answer": "Wolverines have been seen driving bears and wolves away from carcasses, and there are rare accounts of them killing much larger animals. In reality wolves and bears kill wolverines far more often than the reverse, so a wolverine's bluff usually works only when the larger predator chooses to back off."},
+    {"question": "Are wolverines related to wolves or bears?", "answer": "No. Despite the name and the bear-like build, wolverines are mustelids, the same family as weasels, otters, martens and badgers. Their closest relatives are the martens and the tayra of Central and South America."},
+    {"question": "How many wolverines are in the United States?", "answer": "Outside Alaska, only a few hundred wolverines are thought to live in the contiguous United States, mostly in Montana, Idaho, Wyoming and Washington. Commonly cited estimates are around 300 animals. Alaska and Canada hold much larger populations numbering in the thousands."},
+    {"question": "Where do wolverines live in Michigan?", "answer": "They do not. Michigan is nicknamed the Wolverine State, but there is little evidence wolverines were ever common there. A single wild wolverine was confirmed in Michigan's Thumb region from 2004 until it was found dead in 2010, the first verified sighting in about 200 years."}
+  ],
+  "meta": {
+    "title": "Wolverine Facts: Size, Weight, Diet & Where They Live",
+    "description": "Wolverines weigh 8–18 kg (18–40 lb), stand 30–45 cm at the shoulder and live 7–12 years in the wild. Diet, speed, snow dens, range and conservation status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Gulo%20gulo&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Gulo_gulo/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Gulo_gulo"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Wolverine"}
+    ]
+  }
+}

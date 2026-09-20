@@ -1,0 +1,23 @@
+{
+  "slug": "green-sea-turtle",
+  "commonName": "Green Sea Turtle",
+  "scientificName": "Chelonia mydas",
+  "classSlug": "reptiles",
+  "aliases": [
+    "turtle",
+    "sea turtle"
+  ],
+  "qid": "Q199458",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Green sea turtle",
+  "taxonomy": {
+    "species": "Chelonia mydas",
+    "genus": "Chelonia",
+    "family": "Cheloniidae",
+    "order": "Testudines",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

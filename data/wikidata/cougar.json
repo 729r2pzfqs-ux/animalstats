@@ -1,0 +1,29 @@
+{
+  "slug": "cougar",
+  "commonName": "Cougar",
+  "scientificName": "Puma concolor",
+  "classSlug": "mammals",
+  "aliases": [
+    "mountain lion",
+    "puma"
+  ],
+  "qid": "Q35255",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Cougar",
+  "taxonomy": {
+    "species": "Puma concolor",
+    "genus": "Puma",
+    "family": "Felidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "94",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

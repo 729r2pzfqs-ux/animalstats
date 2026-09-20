@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% from "_macros.html" import animal_table %}
+{% block main %}
+<div class="wrap">
+  <header class="pt-4">
+    <div class="flex items-center gap-3">
+      <span class="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-emerald-50 text-emerald-700">{{ icon(cls.icon, 'w-7 h-7') }}</span>
+      <h1 class="text-[1.7rem] font-extrabold leading-tight tracking-tight sm:text-4xl">{{ cls.name }}</h1>
+    </div>
+    <p class="prose-p mt-3 sm:text-lg">{{ cls.intro }}</p>
+    <p class="mt-2 text-sm text-slate-500">{{ cls.animals|length }} {{ cls.name|lower }}, grouped by taxonomic order. Tap an animal for full facts.</p>
+  </header>
+  {% if cls.groups|length > 1 %}
+  <nav aria-label="Orders" class="mt-4 flex flex-wrap gap-2">
+    {% for order, items in cls.groups %}<a href="#{{ order|lower }}" class="chip">{{ order }} <span class="text-slate-400">{{ items|length }}</span></a>{% endfor %}
+  </nav>
+  {% endif %}
+  {% for order, items in cls.groups %}
+  <h2 class="h2" id="{{ order|lower }}">{{ order }}</h2>
+  {{ animal_table(items) }}
+  {% endfor %}
+
+  {% set related_lists = lists|selectattr('filter', 'defined')|selectattr('filter.class', 'defined')|selectattr('filter.class', 'equalto', cls.slug)|list %}
+  <h2 class="h2">{{ icon('trophy', 'w-6 h-6 text-emerald-700') }} Rankings</h2>
+  <div class="flex flex-wrap gap-2">
+    {% for l in related_lists %}<a href="{{ l.url }}" class="chip">{{ l.title }}</a>{% endfor %}
+    {% for l in lists[:5] %}{% if l not in related_lists %}<a href="{{ l.url }}" class="chip">{{ l.title }}</a>{% endif %}{% endfor %}
+  </div>
+  <h2 class="h2">Other animal classes</h2>
+  <div class="flex flex-wrap gap-2">
+    {% for c in classes if c.slug != cls.slug %}<a href="{{ c.url }}" class="chip">{{ icon(c.icon, 'w-4 h-4') }} {{ c.name }}</a>{% endfor %}
+  </div>
+</div>
+{% endblock %}

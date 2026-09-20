@@ -1,0 +1,64 @@
+{
+  "slug": "plains-zebra",
+  "commonName": "Plains Zebra",
+  "scientificName": "Equus quagga",
+  "alternateNames": ["Common zebra", "Burchell's zebra", "Zebra"],
+  "nameSingular": "plains zebra",
+  "namePlural": "plains zebras",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Perissodactyla", "family": "Equidae", "genus": "Equus", "species": "E. quagga"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 25, "unit": "years", "context": "in the wild for animals that reach adulthood", "display": "20–25 years"},
+    "lifespanCaptivity": {"min": 25, "max": 40, "unit": "years", "context": "in human care", "display": "25–40 years"},
+    "weight": {"min": 175, "max": 385, "unit": "kg", "context": "adults; stallions are about 10% heavier than mares", "display": "175–385 kg (385–850 lb)"},
+    "height": {"min": 1.1, "max": 1.45, "unit": "m", "label": "Shoulder height", "display": "1.1–1.45 m (3.6–4.8 ft)"},
+    "speed": {"min": 65, "max": 65, "unit": "km/h", "verb": "run", "context": "top speed when fleeing predators", "display": "65 km/h (40 mph)"},
+    "gestationPeriod": {"min": 360, "max": 396, "unit": "days", "label": "Gestation", "display": "12–13 months (360–396 days)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Almost entirely grasses, including tall, coarse stems that other grazers avoid; they occasionally eat leaves, bark, herbs and roots, and need to drink nearly every day.",
+    "habitat": ["Savanna", "Grassland", "Open woodland"],
+    "range": "Eastern and southern Africa, from South Sudan and southern Ethiopia through Kenya and Tanzania to Zambia, Botswana, Namibia and eastern South Africa.",
+    "conservationStatus": "Near Threatened",
+    "iucnCategory": "NT",
+    "populationTrend": "Decreasing",
+    "population": "about 500,000 in total, including 150,000–250,000 mature individuals"
+  },
+  "description": "The plains zebra is the most common and widespread of the three zebra species and the one seen in most African safari parks. It is a stocky wild horse with bold black-and-white stripes whose pattern varies by region and is unique to every individual; southern populations often have faint brown 'shadow stripes' between the black ones. Plains zebras live in stable family groups of one stallion, several mares and their foals, which join into large herds. In the Serengeti they migrate alongside wildebeest. The extinct quagga, last seen alive in 1883, was a partly striped subspecies of the plains zebra.",
+  "answers": {
+    "lifespan": "Plains zebras that reach adulthood live about 20–25 years in the wild, and they can reach 40 in zoos. Average life expectancy is much lower, since many foals are killed in their first year. Lions and spotted hyenas are the main predators, followed by leopards, cheetahs, wild dogs and crocodiles.",
+    "weight": "Adult plains zebras weigh 175–385 kg (385–850 lb). Stallions are about 10 percent heavier than mares, and animals in the south of the range tend to be larger than those in East Africa. A newborn foal weighs around 30–35 kg and can stand within about 15 minutes.",
+    "size": "A plains zebra stands 1.1–1.45 m (3.6–4.8 ft) tall at the shoulder. Head-and-body length is 2.2–2.5 m (7.2–8.2 ft), with a tail of about 50 cm. It is smaller and shorter-legged than Grévy's zebra and about the size of a sturdy pony.",
+    "speed": "Plains zebras can run at about 65 km/h (40 mph). They are slightly slower than lions over a short sprint but have far more stamina, and they zigzag when chased. A cornered zebra defends itself with powerful kicks and bites that can seriously injure a predator.",
+    "gestation": "A plains zebra mare is pregnant for 12–13 months, or 360–396 days. She gives birth to a single foal, which has brownish stripes and can run within an hour. The mare keeps other zebras away for the first days so the foal learns her stripe pattern, scent and call.",
+    "diet": "Plains zebras are herbivores that feed almost entirely on grass. They can digest tall, tough, low-quality grasses that other grazers leave, so in migrations they often move in first and open up the sward for wildebeest and gazelles. They spend most of the day grazing and must drink almost daily.",
+    "habitat": "Plains zebras live in savannas, grasslands and open woodlands of eastern and southern Africa, from sea level up to about 4,000 meters on Mount Kenya. They avoid deserts, dense forest and permanent wetlands and are rarely found more than a day's walk from water.",
+    "conservation": "The plains zebra is listed as Near Threatened on the IUCN Red List. About 500,000 remain, but numbers fell by roughly a quarter between 2002 and 2016. The main threats are hunting for meat and skins, fencing and farming that block migration routes, and competition with livestock for grazing and water."
+  },
+  "funFacts": [
+    "Every zebra has a unique stripe pattern, like a fingerprint, and scientists use the patterns to identify individuals.",
+    "Experiments suggest stripes deter biting flies: horseflies have trouble landing on striped surfaces, which may be the main reason zebras are striped.",
+    "Underneath the coat, a zebra's skin is black, which is one reason zebras are usually described as black with white stripes.",
+    "The quagga, a subspecies that was striped only on its front half, was hunted to extinction; the last one died in Amsterdam's zoo in 1883.",
+    "A group of zebras is sometimes called a dazzle or a zeal."
+  ],
+  "relatedAnimals": ["horse", "donkey", "blue-wildebeest", "giraffe", "lion", "white-rhinoceros"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why do zebras have stripes?", "answer": "The best-supported explanation is that stripes deter biting flies such as horseflies and tsetse flies, which struggle to land on striped surfaces. Other proposed functions include confusing predators, helping with temperature control and social recognition, but the evidence for those is weaker."},
+    {"question": "Are zebras black with white stripes or white with black stripes?", "answer": "Zebras are generally considered black with white stripes. Their skin is black beneath the fur, and the white stripes appear where pigment production is switched off during development. The belly and inner legs are white, which led to the older, opposite view."},
+    {"question": "Can zebras be ridden or domesticated like horses?", "answer": "Zebras have never been truly domesticated. Individual animals have been tamed and trained to pull carts or be ridden, but zebras are more aggressive and panic-prone than horses, have a strong bite and kick, and do not breed or behave reliably enough in captivity."},
+    {"question": "What is the difference between a plains zebra and a Grévy's zebra?", "answer": "The plains zebra is smaller, with broad stripes that continue under the belly and no large ears. Grévy's zebra of Kenya and Ethiopia is taller, with narrow, close-set stripes, a white belly and big rounded ears. Grévy's zebra is also Endangered, while the plains zebra is still numerous."},
+    {"question": "Can zebras and horses breed?", "answer": "Yes. Zebras can interbreed with horses and donkeys, producing hybrids called zorses and zonkeys, collectively known as zebroids. Because the parent species have different numbers of chromosomes, the offspring are almost always sterile, like mules."}
+  ],
+  "meta": {
+    "title": "Plains Zebra Facts: Size, Speed, Stripes & Lifespan",
+    "description": "Plains zebras weigh 175–385 kg (385–850 lb), stand 1.1–1.45 m at the shoulder, run 65 km/h (40 mph) and live 20–25 years. Why zebras have stripes and more.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Equus%20quagga&searchType=species"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Plains_zebra"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q245305"}
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "indian-cobra",
+  "commonName": "Indian Cobra",
+  "scientificName": "Naja naja",
+  "classSlug": "reptiles",
+  "aliases": [
+    "cobra",
+    "spectacled cobra"
+  ],
+  "qid": "Q192754",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Indian cobra",
+  "taxonomy": {
+    "species": "Naja naja",
+    "genus": "Naja",
+    "family": "Elapidae",
+    "order": "Squamata",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

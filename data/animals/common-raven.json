@@ -1,0 +1,64 @@
+{
+  "slug": "common-raven",
+  "commonName": "Common Raven",
+  "scientificName": "Corvus corax",
+  "alternateNames": ["Raven", "Northern raven"],
+  "nameSingular": "common raven",
+  "namePlural": "common ravens",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Passeriformes", "family": "Corvidae", "genus": "Corvus", "species": "C. corax"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 15, "unit": "years", "context": "in the wild; the oldest banded wild birds passed 20", "display": "10–15 years"},
+    "lifespanCaptivity": {"min": 25, "max": 40, "unit": "years", "context": "in human care; Tower of London ravens have passed 40", "display": "25–40 years"},
+    "weight": {"min": 0.7, "max": 1.6, "unit": "kg", "context": "adults; size varies by region, with the largest birds in the far north and the Himalayas", "display": "0.7–1.6 kg (1.5–3.5 lb)"},
+    "height": {"min": 1.0, "max": 1.5, "unit": "m", "label": "Wingspan", "display": "1.0–1.5 m (3.3–4.9 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 20, "max": 25, "unit": "days", "label": "Incubation", "display": "20–25 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Carrion, small mammals, eggs and nestlings, insects, grain, berries, fruit and human garbage. Ravens follow wolves, hunters and roads to find carcasses, and they hide surplus food in caches.",
+    "habitat": ["Mountains", "Coniferous forest", "Tundra", "Desert", "Sea cliffs"],
+    "range": "Across the Northern Hemisphere: North America south to Nicaragua, Europe, northern and central Asia, North Africa and Greenland.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The common raven is the largest perching bird in the world and the most widespread member of the crow family, found from Arctic tundra to hot deserts across the Northern Hemisphere. It is entirely glossy black, with a heavy bill, shaggy throat feathers and a wedge-shaped tail that separates it from crows in flight. Ravens are famous for their intelligence: in experiments they solve multi-step puzzles, plan for future needs and remember individual people and ravens. They are acrobatic fliers that soar, tumble and even fly upside down, and they have one of the largest vocal repertoires of any bird, including mimicry of other sounds.",
+  "answers": {
+    "lifespan": "Common ravens typically live 10–15 years in the wild and 25–40 years in captivity. The oldest banded wild ravens have lived past 20. Captive birds can live far longer, and several ravens kept at the Tower of London have reportedly reached their forties.",
+    "weight": "An adult common raven weighs 0.7–1.6 kg (1.5–3.5 lb), about two to three times as much as an American crow. Weight varies with region: ravens from Alaska, Greenland and the Himalayas are the heaviest, while desert birds in the American Southwest are the lightest.",
+    "size": "Common ravens have a wingspan of 1.0–1.5 m (3.3–4.9 ft) and are 54–67 cm (21–26 in) long. That is roughly the size of a red-tailed hawk. The large bill, long wings and wedge-shaped tail are the best ways to separate a raven from a smaller, fan-tailed crow.",
+    "speed": null,
+    "gestation": "Common raven eggs hatch after 20–25 days of incubation. The female lays three to seven greenish, brown-blotched eggs in a large stick nest on a cliff ledge, tall tree or structure, often in late winter. The male feeds her while she sits, and chicks fledge at five to seven weeks.",
+    "diet": "Common ravens are omnivores that eat carrion, small animals, eggs, insects, grain, berries and garbage. They are skilled scavengers that watch wolves, bears and human hunters to find carcasses. Ravens store surplus food in hidden caches and will move a cache if they know another raven was watching.",
+    "habitat": "Common ravens live in a huge range of open and wild habitats across the Northern Hemisphere, including mountains, conifer forests, tundra, deserts, sea cliffs and rangeland. They generally avoid dense cities more than crows do, but they have spread into towns and farmland in western North America.",
+    "conservation": "The common raven is listed as Least Concern on the IUCN Red List, and its population is increasing. It was persecuted and wiped out from much of the eastern United States and lowland Europe in the 1800s but has recolonized many of those areas. In the Mojave Desert, booming raven numbers threaten young desert tortoises."
+  },
+  "funFacts": [
+    "In experiments, ravens set aside a tool or token they would need hours later, passing up an immediate treat, which suggests they can plan for the future.",
+    "Ravens can mimic sounds, including human words, car engines and other birds, and captive ravens can learn to talk as well as some parrots.",
+    "Ravens are among the few birds seen playing: they slide down snowbanks, hang upside down from branches and play catch with sticks in midair.",
+    "At least six ravens are kept at the Tower of London because of a legend that the kingdom will fall if they ever leave.",
+    "Young ravens call loudly at a carcass to recruit other ravens, which helps them overwhelm the adult pair defending it."
+  ],
+  "relatedAnimals": ["american-crow", "african-grey-parrot", "bald-eagle", "red-tailed-hawk", "gray-wolf", "pigeon"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a raven and a crow?", "answer": "Ravens are much larger, with a heavier bill, shaggy throat feathers and a wedge-shaped tail, and they often soar. Crows are smaller with a fan-shaped tail and steady flapping flight. Ravens give a deep croak, while crows give a higher caw. Ravens usually travel in pairs, crows in groups."},
+    {"question": "How smart are ravens?", "answer": "Ravens are among the most intelligent birds. Studies show they solve multi-step puzzles without trial and error, use and save tools, barter, plan for future events and remember people who treated them unfairly. On some cognitive tests they perform about as well as great apes."},
+    {"question": "Can ravens talk?", "answer": "Yes. Ravens are excellent mimics, and captive birds can learn to imitate human words and phrases clearly. In the wild they copy other birds and environmental sounds. Their natural vocabulary is also large, with dozens of distinct calls used for alarm, courtship and contact."},
+    {"question": "What is a group of ravens called?", "answer": "A group of ravens is traditionally called an unkindness or a conspiracy, though scientists simply say flock. Adult ravens usually live as territorial pairs. Large groups are mostly young, unpaired birds that gather at food sources and communal night roosts."},
+    {"question": "Do ravens mate for life?", "answer": "Generally, yes. Common ravens form long-term pair bonds, and a pair typically defends the same territory and reuses nest sites year after year. Young birds spend several years in non-breeding flocks before pairing, usually at about three to four years old."}
+  ],
+  "meta": {
+    "title": "Common Raven Facts: Size, Lifespan, Diet & Intelligence",
+    "description": "Common ravens weigh 0.7–1.6 kg, have a wingspan of 1.0–1.5 m (3.3–4.9 ft) and live 10–15 years in the wild. Raven vs crow, diet and intelligence.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Corvus%20corax&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Corvus_corax/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Corvus_corax"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Common_raven"}
+    ]
+  }
+}

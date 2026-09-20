@@ -1,0 +1,37 @@
+{
+  "slug": "rabbit",
+  "commonName": "Rabbit",
+  "scientificName": "Oryctolagus cuniculus",
+  "classSlug": "mammals",
+  "aliases": [
+    "european rabbit",
+    "bunny",
+    "domestic rabbit"
+  ],
+  "qid": "Q25851",
+  "iucnStatus": "Endangered",
+  "wikipedia": "European rabbit",
+  "taxonomy": {
+    "species": "Oryctolagus cuniculus",
+    "genus": "Oryctolagus",
+    "family": "Leporidae",
+    "order": "Lagomorpha",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "30",
+      "unit": "day",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "29",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

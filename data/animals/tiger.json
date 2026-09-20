@@ -1,0 +1,65 @@
+{
+  "slug": "tiger",
+  "commonName": "Tiger",
+  "scientificName": "Panthera tigris",
+  "alternateNames": ["Bengal tiger", "Siberian tiger", "Amur tiger", "Sumatran tiger"],
+  "nameSingular": "tiger",
+  "namePlural": "tigers",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Felidae", "genus": "Panthera", "species": "P. tigris"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 15, "unit": "years", "context": "in the wild", "display": "10–15 years"},
+    "lifespanCaptivity": {"min": 20, "max": 25, "unit": "years", "context": "in human care", "display": "20–25 years"},
+    "weight": {"min": 75, "max": 260, "unit": "kg", "context": "females 75–170 kg, males 100–260 kg; Bengal and Amur tigers are largest, Sumatran smallest", "display": "75–260 kg (165–575 lb)"},
+    "height": {"min": 0.8, "max": 1.1, "unit": "m", "label": "Shoulder height", "display": "0.8–1.1 m (2.6–3.6 ft)"},
+    "speed": {"min": 49, "max": 65, "unit": "km/h", "verb": "run", "context": "short bursts", "display": "49–65 km/h (30–40 mph)"},
+    "gestationPeriod": {"min": 93, "max": 112, "unit": "days", "label": "Gestation", "display": "about 103 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mainly large hoofed mammals such as sambar, chital, red deer, wild boar and gaur; tigers also take smaller prey, occasionally livestock, and can eat 20–35 kg of meat in one sitting.",
+    "habitat": ["Tropical forest", "Mangrove swamp", "Grassland", "Temperate forest", "Taiga"],
+    "range": "Scattered populations in India, Nepal, Bhutan, Bangladesh, the Russian Far East, northeast China, Thailand, Malaysia and Sumatra; India holds the majority.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing",
+    "population": "about 3,700–5,600 in the wild"
+  },
+  "description": "The tiger is the largest living cat, instantly recognizable by its orange coat with dark vertical stripes, a pattern unique to each individual. Tigers are solitary ambush hunters that patrol large territories, mostly at night, and unlike most cats they readily enter water and swim well. The species once ranged from Turkey to the Russian Far East and south to Bali, but it has lost more than 90 percent of that range in the past century. Two subspecies are now recognized: the continental tiger, which includes Bengal, Amur, Indochinese and Malayan populations, and the Sunda tiger, which survives only on Sumatra.",
+  "answers": {
+    "lifespan": "Tigers live 10–15 years in the wild and 20–25 years in zoos. Few wild tigers die of old age; injuries from prey or rival tigers, poaching and starvation once their teeth wear down are the usual causes. Around half of all cubs die before reaching two years old.",
+    "weight": "Adult tigers weigh 75–260 kg (165–575 lb). Males of the large Bengal and Amur populations typically weigh 180–260 kg and females 100–170 kg, while Sumatran tigers are much smaller at 75–140 kg. Exceptional males have exceeded 300 kg, but such weights are rare records.",
+    "size": "A tiger stands 0.8–1.1 m (2.6–3.6 ft) tall at the shoulder. Head-and-body length is 1.4–2.8 m, and the tail adds another 0.6–1.1 m, so a big male can measure over 3 m from nose to tail tip.",
+    "speed": "Tigers can run at 49–65 km/h (30–40 mph), but only over short distances. They are ambush predators that creep to within 10–20 meters of prey before a sudden rush, and most hunts fail; only about one attempt in ten to twenty ends in a kill.",
+    "gestation": "A tigress is pregnant for about 103 days, with a range of 93–112 days. She gives birth to two to four blind cubs in a sheltered den and raises them alone. Cubs begin hunting with their mother at around six months and stay with her for about two years.",
+    "diet": "Tigers are carnivores that prey mainly on deer and wild pigs, along with wild cattle such as gaur. A tiger typically kills one large animal about once a week, drags it into cover and feeds on it for several days, eating as much as 20–35 kg in a night.",
+    "habitat": "Tigers live in a wide range of Asian habitats, from tropical rainforest, mangrove swamps and tall grasslands in India to snowy birch and pine forests in the Russian Far East. They need dense cover, water and plenty of large prey. India is home to roughly three-quarters of all wild tigers.",
+    "conservation": "The tiger is listed as Endangered on the IUCN Red List. The 2022 assessment estimated about 3,700–5,600 wild tigers; numbers are rising in India, Nepal and Russia but falling or gone across much of Southeast Asia. Poaching for skins and body parts, loss of prey and habitat loss are the main threats."
+  },
+  "funFacts": [
+    "No two tigers have the same stripe pattern, and the stripes are also present on the skin beneath the fur.",
+    "Tigers are strong swimmers and have been recorded crossing rivers several kilometers wide.",
+    "A tiger's roar can be heard from up to about 3 km (2 miles) away.",
+    "More tigers live in captivity, including an estimated 5,000 in the United States alone, than survive in the wild.",
+    "White tigers are not a separate species or albinos; they are Bengal tigers with a rare recessive gene for pale fur."
+  ],
+  "relatedAnimals": ["lion", "leopard", "jaguar", "snow-leopard", "cheetah", "asian-elephant"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How many tigers are left in the wild?", "answer": "About 3,700–5,600 tigers remain in the wild according to the 2022 IUCN assessment, and national surveys in 2023 put the total near 5,500. India has by far the most, with more than 3,000. A century ago there were perhaps 100,000."},
+    {"question": "Which is bigger, a tiger or a lion?", "answer": "Tigers are slightly bigger on average. Large male Bengal and Amur tigers weigh 180–260 kg, compared with 150–190 kg for most male lions. Lions tend to stand a little taller at the shoulder, but tigers are longer and more heavily muscled."},
+    {"question": "Are tigers dangerous to humans?", "answer": "Yes. Tigers kill dozens of people a year, mostly in India and Bangladesh, and the Sundarbans mangrove forest is especially known for attacks. Most tigers avoid people; attacks usually involve surprised, injured or old animals or people working inside tiger habitat."},
+    {"question": "Can tigers swim?", "answer": "Yes. Unlike most cats, tigers enjoy water. They cool off in pools and rivers during hot weather, swim strongly across wide rivers, and in the Sundarbans they regularly swim between islands while hunting."},
+    {"question": "What is the largest tiger subspecies?", "answer": "The Amur or Siberian tiger is traditionally called the largest, although recent measurements show wild Bengal tigers from northern India and Nepal are just as heavy. Males of both populations commonly weigh around 200 kg or more. The Sumatran tiger is the smallest."}
+  ],
+  "meta": {
+    "title": "Tiger Facts: Size, Weight, Lifespan & How Many Are Left",
+    "description": "Tigers weigh 75–260 kg (165–575 lb), live 10–15 years in the wild and run at up to 65 km/h. About 3,700–5,600 remain. Diet, habitat and gestation facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Panthera%20tigris&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Panthera_tigris/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Panthera_tigris"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Tiger"}
+    ]
+  }
+}

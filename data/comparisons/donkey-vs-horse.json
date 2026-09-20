@@ -1,0 +1,60 @@
+{
+  "slug": "donkey-vs-horse",
+  "summary": "The main difference between donkeys and horses is that donkeys are smaller, desert-adapted animals with very long ears, an upright mane and a loud bray, while horses are larger, faster grassland animals with a flowing mane and tail. They are separate species with different chromosome numbers, 62 in donkeys and 64 in horses, which is why their offspring, mules, are almost always sterile.",
+  "differences": [
+    {
+      "title": "Ears, mane and tail",
+      "text": "A donkey's ears are much longer than a horse's, which helps it shed heat and hear distant calls. Its mane is short, stiff and upright, with no forelock over the forehead, and its tail is tufted at the end like a cow's. A horse has a long, falling mane, a forelock and a tail of long hair from the base."
+    },
+    {
+      "title": "Origins",
+      "text": "Donkeys descend from the African wild ass of the deserts of northeastern Africa, where they were domesticated more than 5,000 years ago. Horses were domesticated later, on the grassy steppes of Central Asia. These homelands explain a lot: donkeys are built for heat, scarce water and rough forage, and horses for open plains and speed."
+    },
+    {
+      "title": "Behavior under threat",
+      "text": "Horses are flight animals that bolt first and think later. Donkeys tend to stop, assess and stand their ground, a trait often mistaken for stubbornness. A donkey that senses danger may simply refuse to move. Donkeys will also attack dogs and coyotes, which is why they are sometimes used to guard sheep and goats."
+    },
+    {
+      "title": "Voice",
+      "text": "Horses neigh, whinny and nicker. Donkeys bray, producing the famous 'hee-haw' by calling on both the in-breath and the out-breath. A bray can carry across long distances, which suited wild asses that lived widely spaced in the desert, in contrast to the tight herds formed by horses."
+    },
+    {
+      "title": "Feeding and hooves",
+      "text": "Donkeys are very efficient at digesting tough, fibrous plants and need fewer calories than a horse or pony of the same size. On rich pasture they easily become obese and develop laminitis. Their hooves are smaller, more upright and more elastic than a horse's, suited to dry, rocky ground, and they soften in wet conditions."
+    },
+    {
+      "title": "Coat",
+      "text": "Most donkeys are gray-brown with a pale muzzle, pale eye rings and a light belly, and they carry a dark stripe down the back crossed by another over the shoulders. Horses come in a far wider range of colors. A donkey's coat is also less waterproof, so donkeys need shelter from rain."
+    }
+  ],
+  "similarities": "Donkeys and horses both belong to the genus Equus, together with zebras. Each walks on a single hoofed toe per foot, grazes and digests fiber by fermentation in the hindgut, and has eyes placed on the sides of the head for nearly all-round vision. Both are social animals that have carried people and goods for thousands of years.",
+  "howToTell": [
+    "Ear length is the quickest clue. Donkey ears are strikingly long; horse ears are short and neat.",
+    "A short, bristly, upright mane with no forelock means donkey.",
+    "A tail with long hair only at the tip is a donkey's; a full, flowing tail is a horse's.",
+    "Look for the dark cross over a donkey's shoulders and its pale muzzle.",
+    "A bray means donkey; a whinny means horse."
+  ],
+  "faq": [
+    {
+      "question": "Can donkeys and horses interbreed?",
+      "answer": "Yes. A male donkey and a female horse produce a mule, while a male horse and a female donkey produce a hinny. Because donkeys have 62 chromosomes and horses 64, the hybrids have 63 and are almost always sterile. Rare fertile female mules have been documented."
+    },
+    {
+      "question": "Is a mule the same as a donkey?",
+      "answer": "No. A donkey is a species, Equus asinus, while a mule is a hybrid of a male donkey and a female horse. Mules are usually larger than donkeys, with a horse-like body but longer ears. They are valued for combining a horse's size with a donkey's endurance and sure-footedness."
+    },
+    {
+      "question": "Are donkeys stronger than horses?",
+      "answer": "For their size, yes. Donkeys can carry a higher proportion of their body weight than horses and cope better with heat, thirst and poor feed. In absolute terms, a large horse can pull or carry more, simply because it is a much bigger animal. Mules were bred to combine the two."
+    },
+    {
+      "question": "Are donkeys really stubborn?",
+      "answer": "Not in the way people think. Donkeys have a strong sense of self-preservation and freeze when they are unsure, where a horse would run. Forcing them rarely works. Handlers who give a donkey time to assess a situation generally find it willing and cooperative."
+    }
+  ],
+  "meta": {
+    "title": "Donkey vs Horse: Differences, Mules and Hybrids",
+    "description": "Donkeys are smaller, long-eared desert animals that bray; horses are larger and faster. With 62 and 64 chromosomes, they produce sterile mules."
+  }
+}

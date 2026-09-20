@@ -1,0 +1,26 @@
+{
+  "slug": "alpaca",
+  "commonName": "Alpaca",
+  "scientificName": "Vicugna pacos",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q81564",
+  "iucnStatus": null,
+  "wikipedia": "Vicugna pacos",
+  "taxonomy": {
+    "species": "Vicugna pacos",
+    "genus": "Vicugna",
+    "family": "Camelidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "293",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "common-wasp",
+  "commonName": "Common Wasp",
+  "scientificName": "Vespula vulgaris",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "wasp",
+    "yellowjacket"
+  ],
+  "qid": "Q260482",
+  "iucnStatus": null,
+  "wikipedia": "Vespula vulgaris",
+  "taxonomy": {
+    "species": "Vespula vulgaris",
+    "genus": "Vespula",
+    "family": "Vespidae",
+    "order": "Hymenoptera",
+    "class": "Insecta",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

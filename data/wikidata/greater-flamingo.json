@@ -1,0 +1,27 @@
+{
+  "slug": "greater-flamingo",
+  "commonName": "Greater Flamingo",
+  "scientificName": "Phoenicopterus roseus",
+  "classSlug": "birds",
+  "aliases": [
+    "flamingo"
+  ],
+  "qid": "Q179863",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Greater flamingo",
+  "taxonomy": {
+    "species": "Phoenicopterus roseus",
+    "genus": "Phoenicopterus",
+    "family": "Phoenicopteridae",
+    "order": "Phoenicopteriformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "length",
+      "amount": "132.5",
+      "unit": "cm",
+      "sex": null
+    }
+  ]
+}

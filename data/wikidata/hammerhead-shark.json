@@ -1,0 +1,22 @@
+{
+  "slug": "hammerhead-shark",
+  "commonName": "Great Hammerhead Shark",
+  "scientificName": "Sphyrna mokarran",
+  "classSlug": "fish",
+  "aliases": [
+    "hammerhead"
+  ],
+  "qid": "Q757353",
+  "iucnStatus": "Critically Endangered",
+  "wikipedia": "Great hammerhead",
+  "taxonomy": {
+    "species": "Sphyrna mokarran",
+    "genus": "Sphyrna",
+    "family": "Sphyrnidae",
+    "order": "Carcharhiniformes",
+    "class": "Chondrichthyes",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

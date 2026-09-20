@@ -1,0 +1,64 @@
+{
+  "slug": "black-mamba",
+  "commonName": "Black Mamba",
+  "scientificName": "Dendroaspis polylepis",
+  "alternateNames": ["Black-mouthed mamba", "Common black mamba"],
+  "nameSingular": "black mamba",
+  "namePlural": "black mambas",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Squamata", "family": "Elapidae", "genus": "Dendroaspis", "species": "D. polylepis"},
+  "facts": {
+    "lifespan": {"min": 11, "max": 11, "unit": "years", "context": "longest commonly recorded; true wild lifespan is unknown and may be longer", "display": "11 years or more"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 1, "max": 1.6, "unit": "kg", "context": "typical adults", "display": "about 1–1.6 kg (2.2–3.5 lb)"},
+    "height": {"min": 2, "max": 3, "unit": "m", "label": "Length", "display": "2–3 m (6.6–9.8 ft)"},
+    "speed": {"min": 16, "max": 16, "unit": "km/h", "verb": "move", "context": "short bursts over open ground; figures of 20 km/h are also quoted, and higher claims are exaggerated", "display": "about 16 km/h (10 mph)"},
+    "gestationPeriod": {"min": 60, "max": 90, "unit": "days", "label": "Incubation", "display": "60–90 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Small warm-blooded animals: rodents, squirrels, rock hyraxes, bushbabies, bats and birds, especially nestlings. It bites, lets go and waits for the fast-acting venom to work before swallowing the prey whole.",
+    "habitat": ["Savanna", "Open woodland", "Rocky hills", "Riverine forest", "Scrub"],
+    "range": "Sub-Saharan Africa, mainly the east and south, from Ethiopia, Kenya and Uganda through Tanzania, Zambia and Mozambique to northeastern South Africa, Botswana and Namibia.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The black mamba is Africa's longest venomous snake and the second-longest in the world after the king cobra. It is also one of the fastest snakes, able to move at about 16 km/h in short bursts. The name refers to the inky black lining of its mouth, which it displays when threatened; the body is actually olive, brown or gray. Unlike the three green mamba species, which live in trees, the black mamba spends most of its time on the ground and often keeps a permanent lair in a termite mound, rock crevice or hollow tree. Its potent, fast-acting neurotoxic venom makes it one of the most feared snakes in Africa.",
+  "answers": {
+    "lifespan": "Black mambas are known to live at least 11 years, and their true lifespan in the wild is unknown and probably longer. Few individuals have been followed over time. Young mambas face many predators, including mongooses, snake eagles and other snakes, while adults have few enemies other than people.",
+    "weight": "Adult black mambas weigh about 1–1.6 kg (2.2–3.5 lb). They are long but very slender snakes, built for speed, which is why a 2.5 m mamba weighs only a fraction as much as a python of the same length.",
+    "size": "Adult black mambas are typically 2–3 m (6.6–9.8 ft) long, making the species Africa's longest venomous snake. Individuals of 4.3–4.5 m have been reported but are exceptional. Hatchlings are already 40–60 cm long and can grow to 2 m within their first year.",
+    "speed": "Black mambas can move at about 16 km/h (10 mph) over short distances, making them one of the fastest snakes. Some sources quote up to 20 km/h, but popular claims that a mamba can outrun a horse or a sprinting person are myths. They use their speed to escape, not to chase people.",
+    "gestation": "Black mamba eggs incubate for roughly 60–90 days. After mating in spring, the female lays 6–17 eggs in a warm, humid spot such as a burrow or termite mound and then leaves. Hatchlings are independent and fully venomous from the moment they emerge.",
+    "diet": "Black mambas are carnivores that eat small mammals and birds, including rodents, squirrels, hyraxes, bushbabies and nestlings. They hunt by day, usually striking once or twice and releasing the prey, then following it until the venom takes effect. Powerful digestive acids break down a meal within about a day.",
+    "habitat": "Black mambas live in the savannas, open woodlands, rocky hills and riverine forests of eastern and southern Africa. They prefer fairly dry country below about 1,800 m and avoid rainforest and true desert. A mamba often returns to the same lair every night for years.",
+    "conservation": "The black mamba is listed as Least Concern on the IUCN Red List, with a stable population and a very wide range. It is not considered threatened, although mambas are often killed on sight out of fear and lose habitat to expanding farmland and settlements."
+  },
+  "funFacts": [
+    "The black mamba is not black: its skin is olive, brown or gray. The name comes from the inky black inside of its mouth, which it gapes as a warning.",
+    "Before antivenom became available, a black mamba bite was almost always fatal, sometimes within a few hours.",
+    "A threatened mamba can raise about a third of its body off the ground, spread a narrow hood and hiss.",
+    "Compounds called mambalgins, found in black mamba venom, have been studied as painkillers reported to be as strong as morphine in mice.",
+    "Rival males wrestle in the breeding season, twining their bodies together and trying to pin each other's heads to the ground, without biting."
+  ],
+  "relatedAnimals": ["king-cobra", "indian-cobra", "rattlesnake", "honey-badger", "boa-constrictor", "meerkat"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How deadly is a black mamba bite?", "answer": "Extremely. The venom is a fast-acting neurotoxin, and a single bite can deliver many times the lethal dose for an adult. Symptoms can begin within ten minutes, and without antivenom the bite is nearly always fatal, typically within 7–15 hours. With prompt antivenom and breathing support, most victims survive."},
+    {"question": "Can a black mamba outrun a human?", "answer": "No. A black mamba's top speed is about 16–20 km/h in a short burst, while a fit adult can sprint faster than 25 km/h. The snake cannot sustain its speed for long, and it uses it to flee to cover, not to chase people."},
+    {"question": "Do black mambas chase people?", "answer": "No, that is a myth. Black mambas are nervous snakes that try to escape when disturbed. Trouble arises when a person stands between the snake and its lair or corners it; it may then rear up, gape its black mouth and strike repeatedly."},
+    {"question": "Why is it called a black mamba if it is not black?", "answer": "The name refers to the inside of the mouth, which is dark blue-black and shown off in a threat display. The body ranges from olive and yellowish-brown to gunmetal gray, with a pale belly. Older individuals tend to be darker than juveniles."},
+    {"question": "What animals eat black mambas?", "answer": "Adults have few predators, but snake eagles, such as the brown and black-chested snake eagles, take them, and mongooses and honey badgers kill them as well. Both of those mammals have some resistance to the venom. Young mambas are eaten by other snakes, birds of prey and monitor lizards."}
+  ],
+  "meta": {
+    "title": "Black Mamba Speed, Venom, Size & Lifespan Facts",
+    "description": "Black mambas grow 2–3 m (6.6–9.8 ft) long, weigh about 1.6 kg and move at roughly 16 km/h (10 mph). Venom, bite facts, diet, habitat and myths.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Dendroaspis%20polylepis&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Dendroaspis_polylepis/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Black_mamba"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q188690"}
+    ]
+  }
+}

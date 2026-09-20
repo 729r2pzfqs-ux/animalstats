@@ -1,0 +1,28 @@
+{
+  "slug": "chimpanzee",
+  "commonName": "Chimpanzee",
+  "scientificName": "Pan troglodytes",
+  "classSlug": "mammals",
+  "aliases": [
+    "chimp"
+  ],
+  "qid": "Q4126704",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Chimpanzee",
+  "taxonomy": {
+    "species": "Pan troglodytes",
+    "genus": "Pan",
+    "family": "Hominidae",
+    "order": "Primates",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "225",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

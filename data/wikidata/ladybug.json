@@ -1,0 +1,23 @@
+{
+  "slug": "ladybug",
+  "commonName": "Seven-Spot Ladybug",
+  "scientificName": "Coccinella septempunctata",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "ladybird",
+    "ladybug"
+  ],
+  "qid": "Q159543",
+  "iucnStatus": null,
+  "wikipedia": "Coccinella septempunctata",
+  "taxonomy": {
+    "species": "Coccinella septempunctata",
+    "genus": "Coccinella",
+    "family": "Coccinellidae",
+    "order": "Coleoptera",
+    "class": "Insecta",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

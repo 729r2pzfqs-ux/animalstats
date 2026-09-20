@@ -1,0 +1,22 @@
+{
+  "slug": "boa-constrictor",
+  "commonName": "Boa Constrictor",
+  "scientificName": "Boa constrictor",
+  "classSlug": "reptiles",
+  "aliases": [
+    "boa"
+  ],
+  "qid": "Q215388",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Boa constrictor",
+  "taxonomy": {
+    "species": "Boa constrictor",
+    "genus": "Boa",
+    "family": "Boidae",
+    "order": "Squamata",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

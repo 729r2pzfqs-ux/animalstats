@@ -1,0 +1,20 @@
+{
+  "slug": "american-crow",
+  "commonName": "American Crow",
+  "scientificName": "Corvus brachyrhynchos",
+  "classSlug": "birds",
+  "aliases": [
+    "crow"
+  ],
+  "qid": "Q267735",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "American crow",
+  "taxonomy": {
+    "species": "Corvus brachyrhynchos",
+    "genus": "Corvus",
+    "family": "Corvidae",
+    "order": "Passeriformes",
+    "class": "Aves"
+  },
+  "quantities": []
+}

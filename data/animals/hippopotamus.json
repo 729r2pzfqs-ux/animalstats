@@ -1,0 +1,65 @@
+{
+  "slug": "hippopotamus",
+  "commonName": "Hippopotamus",
+  "scientificName": "Hippopotamus amphibius",
+  "alternateNames": ["Hippo", "Common hippopotamus", "River hippopotamus", "Nile hippopotamus"],
+  "nameSingular": "hippopotamus",
+  "namePlural": "hippopotamuses",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Hippopotamidae", "genus": "Hippopotamus", "species": "H. amphibius"},
+  "facts": {
+    "lifespan": {"min": 35, "max": 50, "unit": "years", "context": "in the wild", "display": "35–50 years"},
+    "lifespanCaptivity": {"min": 40, "max": 50, "unit": "years", "context": "in human care; a few have passed 60", "display": "40–50 years"},
+    "weight": {"min": 1300, "max": 3200, "unit": "kg", "context": "adults; females average about 1,300–1,500 kg, males 1,500–3,200 kg", "display": "1,300–3,200 kg (2,870–7,050 lb)"},
+    "height": {"min": 1.3, "max": 1.65, "unit": "m", "label": "Shoulder height", "display": "1.3–1.65 m (4.3–5.4 ft)"},
+    "speed": {"min": 30, "max": 30, "unit": "km/h", "verb": "run", "context": "short distances on land", "display": "30 km/h (19 mph)"},
+    "gestationPeriod": {"min": 227, "max": 240, "unit": "days", "label": "Gestation", "display": "about 8 months (227–240 days)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Almost entirely short grasses, cropped with the lips during nightly grazing trips on land; they eat very little aquatic vegetation and only rarely scavenge meat.",
+    "habitat": ["River", "Lake", "Swamp", "Floodplain grassland"],
+    "range": "Rivers, lakes and wetlands of sub-Saharan Africa, with the largest numbers in East and southern Africa, especially Zambia and Tanzania; extinct in Egypt and North Africa.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Stable",
+    "population": "about 115,000–130,000"
+  },
+  "description": "The hippopotamus is a huge semi-aquatic mammal of African rivers and lakes and one of the heaviest land animals, after elephants and alongside the white rhinoceros. Its eyes, ears and nostrils sit high on the head so it can stay almost fully submerged during the day, protecting its sensitive skin from sun and heat. At night hippos leave the water to graze. Males defend stretches of river and hold groups of females and young. Despite their pig-like looks, hippos' closest living relatives are whales and dolphins. They are highly territorial and unpredictable, and are widely regarded as among the most dangerous large animals in Africa.",
+  "answers": {
+    "lifespan": "Hippos live 35–50 years in the wild and typically 40–50 years in zoos, where a few have passed 60. Adults have almost no natural predators, though lions, hyenas and crocodiles take calves. Drought, disease outbreaks such as anthrax, fights between bulls and hunting by people are the main causes of adult deaths.",
+    "weight": "Adult hippos weigh 1,300–3,200 kg (2,870–7,050 lb). Females average around 1,300–1,500 kg and males about 1,500–1,800 kg, but bulls keep growing throughout life and old males can exceed 3,000 kg. Only elephants and the largest white rhinos are heavier among land animals.",
+    "size": "A hippo stands 1.3–1.65 m (4.3–5.4 ft) tall at the shoulder and measures 3–5 m (10–16 ft) in length, including a tail of about 35–50 cm. Its mouth can open to nearly 150 degrees, revealing lower canine tusks that can reach 50 cm (20 in) in length.",
+    "speed": "Hippos can run at about 30 km/h (19 mph) on land over short distances, faster than most people can sprint. In water they do not truly swim; they are too dense to float, so they walk or bound along the bottom, moving at around 8 km/h.",
+    "gestation": "A hippo is pregnant for about eight months, or 227–240 days. A single calf weighing 25–50 kg is usually born in shallow water or on land and can nurse underwater by closing its ears and nostrils. The mother keeps it apart from the group for the first few weeks.",
+    "diet": "Hippos are herbivores that eat mainly short grass. They leave the water at dusk and walk up to several kilometers to grazing 'lawns', eating about 35–40 kg (80–90 lb) of grass a night, a small amount for their size because they spend the day resting in water.",
+    "habitat": "Hippos live in rivers, lakes and swamps in sub-Saharan Africa, wherever water is deep enough to cover them and there is grassland nearby. They need to stay submerged or in mud by day to keep their skin from cracking. Groups of 10–30, sometimes over 100, share a stretch of water.",
+    "conservation": "The hippopotamus is listed as Vulnerable on the IUCN Red List, with an estimated 115,000–130,000 animals and a roughly stable trend. Numbers dropped steeply in the 1990s and early 2000s, particularly in the Democratic Republic of the Congo. Threats include habitat loss, water diversion, and poaching for meat and ivory teeth."
+  },
+  "funFacts": [
+    "Hippos' closest living relatives are whales and dolphins; the two groups shared a common ancestor roughly 55 million years ago.",
+    "Hippo skin oozes a reddish, oily fluid once called 'blood sweat', which acts as a sunscreen and antibacterial moisturizer.",
+    "Adult hippos can hold their breath for around five minutes, and they surface to breathe automatically even while asleep underwater.",
+    "The name comes from ancient Greek for 'river horse', although hippos are not related to horses.",
+    "Hippos descended from four animals imported by Pablo Escobar in the 1980s now number well over 100 in Colombia's Magdalena River basin."
+  ],
+  "relatedAnimals": ["white-rhinoceros", "african-elephant", "nile-crocodile", "african-buffalo", "pig", "blue-whale"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are hippos dangerous to humans?", "answer": "Yes. Hippos are among the most dangerous large animals in Africa. They are territorial in water, will charge and capsize boats, and attack people who get between them and the water at night. They are often said to kill around 500 people a year, though that figure is an estimate and poorly documented."},
+    {"question": "Can hippos swim?", "answer": "Not really. Adult hippos are too dense to float and do not paddle like other swimming mammals. Instead they sink and move by walking, pushing off or gliding along the riverbed, surfacing every few minutes to breathe."},
+    {"question": "What do hippos eat, and do they eat meat?", "answer": "Hippos are herbivores that eat almost nothing but grass, about 35–40 kg a night. There are reliable observations of hippos scavenging carcasses and occasionally eating meat, but this is rare, and their stomachs are not adapted to a meat diet."},
+    {"question": "Why do hippos open their mouths so wide?", "answer": "A wide-open mouth is a threat display, not a yawn. By gaping to nearly 150 degrees, a hippo shows off its long canine tusks to warn rivals or intruders. Bulls also gape at each other during territorial disputes, which can escalate into serious fights."},
+    {"question": "How many hippos are left in the wild?", "answer": "The IUCN estimates that about 115,000–130,000 common hippos remain across sub-Saharan Africa. Zambia and Tanzania hold the largest populations. The much smaller pygmy hippopotamus of West Africa is a separate species, with only a few thousand left."}
+  ],
+  "meta": {
+    "title": "Hippopotamus Facts: Weight, Size, Speed & Lifespan",
+    "description": "Hippos weigh 1,300–3,200 kg (2,870–7,050 lb), stand up to 1.65 m tall, run 30 km/h (19 mph) on land and live 35–50 years. Diet, habitat and danger to humans.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Hippopotamus%20amphibius&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Hippopotamus_amphibius/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Hippopotamus_amphibius"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Hippopotamus"}
+    ]
+  }
+}

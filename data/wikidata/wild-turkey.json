@@ -1,0 +1,20 @@
+{
+  "slug": "wild-turkey",
+  "commonName": "Wild Turkey",
+  "scientificName": "Meleagris gallopavo",
+  "classSlug": "birds",
+  "aliases": [
+    "turkey"
+  ],
+  "qid": "Q26844",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Wild turkey",
+  "taxonomy": {
+    "species": "Meleagris gallopavo",
+    "genus": "Meleagris",
+    "family": "Phasianidae",
+    "order": "Galliformes",
+    "class": "Aves"
+  },
+  "quantities": []
+}

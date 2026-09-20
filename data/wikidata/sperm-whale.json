@@ -1,0 +1,25 @@
+{
+  "slug": "sperm-whale",
+  "commonName": "Sperm Whale",
+  "scientificName": "Physeter macrocephalus",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q81214",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Sperm whale",
+  "taxonomy": {
+    "species": "Physeter macrocephalus",
+    "genus": "Physeter",
+    "family": "Physeteridae",
+    "order": "Artiodactyla",
+    "class": "Mammalia"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "15",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

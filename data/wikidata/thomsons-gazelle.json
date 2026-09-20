@@ -1,0 +1,28 @@
+{
+  "slug": "thomsons-gazelle",
+  "commonName": "Thomson's Gazelle",
+  "scientificName": "Eudorcas thomsonii",
+  "classSlug": "mammals",
+  "aliases": [
+    "gazelle"
+  ],
+  "qid": "Q271705",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Thomson's gazelle",
+  "taxonomy": {
+    "species": "Eudorcas thomsonii",
+    "genus": "Eudorcas",
+    "family": "Bovidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "5.5",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

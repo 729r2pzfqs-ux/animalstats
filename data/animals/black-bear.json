@@ -1,0 +1,65 @@
+{
+  "slug": "black-bear",
+  "commonName": "American Black Bear",
+  "scientificName": "Ursus americanus",
+  "alternateNames": ["Black bear", "Cinnamon bear", "Kermode bear", "Spirit bear"],
+  "nameSingular": "black bear",
+  "namePlural": "black bears",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Ursidae", "genus": "Ursus", "species": "U. americanus"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 20, "unit": "years", "context": "in the wild; can reach 30, but many die younger where hunted", "display": "15–20 years"},
+    "lifespanCaptivity": {"min": 25, "max": 30, "unit": "years", "context": "in human care; the record is over 40", "display": "25–30 years"},
+    "weight": {"min": 40, "max": 250, "unit": "kg", "context": "adults; females 40–110 kg, males 60–250 kg; heaviest in fall", "display": "40–250 kg (90–550 lb)"},
+    "height": {"min": 0.7, "max": 1.0, "unit": "m", "label": "Shoulder height", "display": "0.7–1.0 m (2.3–3.3 ft)"},
+    "speed": {"min": 48, "max": 48, "unit": "km/h", "verb": "run", "context": "short sprints", "display": "48 km/h (30 mph)"},
+    "gestationPeriod": {"min": 210, "max": 235, "unit": "days", "label": "Gestation", "display": "about 220 days (7 months), including delayed implantation"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Mostly plants: grasses, buds, berries, acorns, beechnuts and other nuts, plus ants, bees and other insects, honey, fish, carrion and occasionally deer fawns or moose calves.",
+    "habitat": ["Forest", "Mountain woodland", "Swamp", "Scrubland"],
+    "range": "Forested parts of North America, from Alaska and most of Canada through much of the United States to the mountains of northern Mexico.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing",
+    "population": "an estimated 800,000 or more across North America"
+  },
+  "description": "The American black bear is the smallest and most common of North America's three bear species, and the world's most numerous bear. Despite the name, its coat can be black, brown, cinnamon, blond, bluish-gray or even white, as in the rare Kermode or spirit bear of coastal British Columbia. Black bears are shy, adaptable forest omnivores with short curved claws that make them excellent tree climbers, even as adults. They spend the winter in dens and give birth there. Unlike the grizzly, the black bear has kept most of its historic range and is increasing in many areas, often living close to towns and suburbs.",
+  "answers": {
+    "lifespan": "American black bears usually live 15–20 years in the wild and can reach 30. In zoos they commonly live 25–30 years, and the record is more than 40. In the wild most adult deaths are linked to people, including hunting, vehicle collisions and removal of bears that have learned to seek human food.",
+    "weight": "Adult American black bears weigh 40–250 kg (90–550 lb). Females typically weigh 40–110 kg and males 60–250 kg, with the biggest bears in areas rich in nuts, crops or human food. Exceptional males have topped 400 kg, but those are records. Bears are heaviest in late fall, just before denning.",
+    "size": "A black bear stands 0.7–1.0 m (2.3–3.3 ft) tall at the shoulder. Adults measure 1.2–2 m (4–6.5 ft) from nose to tail and stand about 1.5–2.1 m tall on their hind legs. They are noticeably smaller and less heavily built than grizzly bears and lack the grizzly's shoulder hump.",
+    "speed": "Black bears can run at about 48 km/h (30 mph) in short bursts. They are also strong swimmers and fast, agile climbers, able to scramble up a tree trunk in seconds. A person cannot outrun or outclimb one, so wildlife agencies advise backing away slowly instead.",
+    "gestation": "Black bear pregnancy lasts about 220 days (7 months), but true fetal development takes only around two months. Bears mate in early summer, and the fertilized egg does not implant until fall. One to five cubs, most often two or three, are born in the winter den in January or February, weighing roughly 225–450 g.",
+    "diet": "American black bears are omnivores, and plants make up as much as 85 percent of their diet. They eat grasses and buds in spring, berries in summer and acorns and other nuts in fall, along with ants, bee larvae, fish, carrion and the occasional fawn. They readily raid garbage, bird feeders and crops.",
+    "habitat": "American black bears live mainly in forests across Alaska, Canada, much of the United States and northern Mexico. They use mountains, swamps and scrubland as well, wherever there is thick cover and plenty of plant food. They are present in at least 40 US states and increasingly live on the edges of suburbs.",
+    "conservation": "The American black bear is listed as Least Concern on the IUCN Red List, and its population is increasing. It is the most abundant bear in the world, with an estimated 800,000 or more animals. Regulated hunting is legal in much of its range, and the main management issue is conflict with people over food."
+  },
+  "funFacts": [
+    "Not all black bears are black: western populations are often brown, cinnamon or blond, and about one in ten bears on some British Columbia islands is white.",
+    "Black bears can go without eating, drinking, urinating or defecating for up to seven months while denning in northern regions.",
+    "Short, strongly curved claws let black bears climb trees throughout their lives, and mothers send cubs up a tree when they sense danger.",
+    "Cubs are born during the mother's winter sleep and weigh less than half a kilogram, roughly the size of a squirrel.",
+    "A black bear's sense of smell is many times better than a dog's, which is why campers are told to store food in bear-proof containers."
+  ],
+  "relatedAnimals": ["grizzly-bear", "polar-bear", "giant-panda", "raccoon", "cougar", "gray-wolf"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are black bears dangerous to humans?", "answer": "Black bears are rarely dangerous. They are timid and usually run away or climb a tree when they meet people. Fatal attacks are very uncommon, averaging about one a year across North America. Most problems come from bears that have learned to associate people with food."},
+    {"question": "What should you do if you see a black bear?", "answer": "Stay calm, do not run, and back away slowly while facing the bear. Make yourself look large and speak in a firm voice. Wildlife agencies advise that in the rare event a black bear attacks, you should fight back rather than play dead."},
+    {"question": "Do black bears hibernate?", "answer": "Yes. Black bears spend three to seven months in a winter den, depending on climate, living off body fat. Their heart rate and metabolism drop sharply, but body temperature falls only a few degrees, so they can wake quickly. In warm southern areas some bears stay active most of the winter."},
+    {"question": "What is the difference between a black bear and a grizzly bear?", "answer": "Black bears are smaller, have no shoulder hump, a straight face profile, taller pointed ears and short curved claws for climbing. Grizzlies have a large shoulder hump, a dished face and long claws for digging. Color is unreliable, because many black bears are brown and some grizzlies are very dark."},
+    {"question": "Can black bears climb trees?", "answer": "Yes, black bears are excellent climbers at every age. Their short, curved claws grip bark, allowing them to climb quickly to escape danger, reach nuts and fruit, or rest. Climbing a tree is therefore not a safe way to escape a black bear."}
+  ],
+  "meta": {
+    "title": "American Black Bear: Size, Lifespan, Speed & Diet",
+    "description": "American black bears weigh 40–250 kg (90–550 lb), live 15–20 years in the wild and sprint at 48 km/h (30 mph). What they eat, where they live and more.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Ursus%20americanus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Ursus_americanus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Ursus_americanus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/American_black_bear"}
+    ]
+  }
+}

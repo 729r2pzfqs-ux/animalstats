@@ -1,0 +1,22 @@
+{
+  "slug": "moon-jellyfish",
+  "commonName": "Moon Jellyfish",
+  "scientificName": "Aurelia aurita",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "jellyfish"
+  ],
+  "qid": "Q26864",
+  "iucnStatus": null,
+  "wikipedia": "Aurelia aurita",
+  "taxonomy": {
+    "species": "Aurelia aurita",
+    "genus": "Aurelia",
+    "family": "Ulmaridae",
+    "order": "Semaeostomeae",
+    "class": "Scyphozoa",
+    "phylum": "Cnidaria",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

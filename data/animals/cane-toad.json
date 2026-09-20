@@ -1,0 +1,64 @@
+{
+  "slug": "cane-toad",
+  "commonName": "Cane Toad",
+  "scientificName": "Rhinella marina",
+  "alternateNames": ["Giant toad", "Marine toad", "Giant neotropical toad", "Bufo marinus"],
+  "nameSingular": "cane toad",
+  "namePlural": "cane toads",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Amphibia", "classSlug": "amphibians", "order": "Anura", "family": "Bufonidae", "genus": "Rhinella", "species": "R. marina"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 15, "unit": "years", "context": "in the wild", "display": "10–15 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 0.2, "max": 1.3, "unit": "kg", "context": "adults; females are heavier, and most toads weigh well under 1 kg", "display": "0.2–1.3 kg (0.4–2.9 lb)"},
+    "height": {"min": 10, "max": 15, "unit": "cm", "label": "Body length", "display": "10–15 cm (4–6 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 1, "max": 3, "unit": "days", "label": "Egg development", "display": "1–3 days to hatch"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Beetles, ants, termites, crickets and other insects, plus snails, small frogs, lizards, snakes and mice. Unusually for an amphibian, it also eats food that does not move, including pet food and carrion.",
+    "habitat": ["Open woodland", "Grassland", "Farmland", "Suburban gardens", "Wetland edges"],
+    "range": "Native from southern Texas through Central America to the central Amazon and Peru; introduced to Australia, Florida, Hawaii, the Caribbean, the Philippines, Fiji and many other Pacific islands.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The cane toad is a very large, heavily built toad from the American tropics that has become one of the world's most notorious invasive species. It was shipped around the globe in the early twentieth century to eat beetle pests in sugarcane fields, a job it largely failed to do. Large glands behind its head ooze a milky poison that can kill animals that bite or swallow it. In Australia, where it was released in 1935, it has spread across the tropical north and caused steep declines in native predators such as quolls, goannas and some snakes.",
+  "answers": {
+    "lifespan": "Cane toads live 10–15 years in the wild. They can live considerably longer in captivity, and one captive toad reportedly survived for 35 years. Only a tiny fraction of eggs and tadpoles reach adulthood, but adult toads have few predators because of their poison.",
+    "weight": "Adult cane toads weigh roughly 0.2–1.3 kg (0.4–2.9 lb), and most are well under 1 kg. Females grow much larger than males. The largest cane toad on record, a pet named Prinsen, weighed 2.65 kg, but that is a record and not a typical weight.",
+    "size": "Cane toads are typically 10–15 cm (4–6 in) long from snout to vent, and females are the larger sex. Big females can reach about 24 cm, and the record specimen measured 38 cm. They are among the largest toads in the world.",
+    "speed": null,
+    "gestation": "Cane toad eggs hatch in about 1–3 days. A female lays 8,000–25,000 eggs at a time in long jelly strings, and she can breed more than once a year. The small black tadpoles become toadlets in roughly one to two months, depending on temperature.",
+    "diet": "Cane toads are carnivores that eat mostly insects such as beetles, ants and termites, along with snails, small reptiles, frogs and rodents. Unlike most amphibians they find food by smell as well as movement, and they readily eat pet food, scraps and carrion.",
+    "habitat": "Cane toads live in open, often disturbed habitats such as grassland, open woodland, farmland and suburban gardens, from southern Texas to the Amazon and across their introduced range. They avoid dense forest. They need only shallow, still water to breed and tolerate slightly salty water.",
+    "conservation": "The cane toad is listed as Least Concern on the IUCN Red List, and its population is increasing. The conservation concern is the damage it does as an invasive species, particularly in Australia, where native predators die after eating it and its range is still expanding westward."
+  },
+  "funFacts": [
+    "About 100 cane toads were brought from Hawaii to Queensland in 1935 to control cane beetles; their descendants in Australia are now estimated at well over 200 million.",
+    "Toads at the front of the Australian invasion have evolved longer legs and move farther each night than toads in long-settled areas.",
+    "Cane toads are poisonous at every life stage, including eggs and tadpoles.",
+    "Some Australian animals have learned to cope: crows and kites flip toads over and eat only the non-toxic parts.",
+    "The scientific name marina reflects an old, mistaken belief that the toad lived in the sea."
+  ],
+  "relatedAnimals": ["american-toad", "american-bullfrog", "goliath-frog", "golden-poison-frog", "red-eyed-tree-frog"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are cane toads poisonous to dogs?", "answer": "Yes, and the poison can kill a dog within an hour or less. Signs include heavy drooling, bright red gums, pawing at the mouth, vomiting, seizures and collapse. Wipe the gums and mouth with a wet cloth, rinsing it repeatedly, and get to a vet immediately."},
+    {"question": "Are cane toads dangerous to humans?", "answer": "Cane toads are dangerous only if the poison is swallowed or gets into the eyes or mouth. Touching a toad is not harmful if you wash your hands afterward. People have died after eating the toads or their eggs, and the poison can cause intense pain and temporary blindness in the eyes."},
+    {"question": "Why were cane toads brought to Australia?", "answer": "Cane toads were released in Queensland in 1935 to eat the cane beetles damaging sugarcane crops. The plan failed: the beetles live high on the cane stalks and their grubs underground, out of the toads' reach. The toads instead spread across northern Australia."},
+    {"question": "How many cane toads are in Australia?", "answer": "Nobody knows exactly, but estimates commonly put the number at well over 200 million. From a starting point in coastal Queensland, cane toads have spread through the Northern Territory into Western Australia and south into New South Wales, advancing by tens of kilometers a year."},
+    {"question": "How can you tell a cane toad from a native frog or toad?", "answer": "Cane toads have dry, warty skin, a bony ridge running from above each eye to the nose, very large swollen poison glands on the shoulders, and unwebbed front feet. Adults are usually bigger than any native frog. In Florida, native southern toads are smaller and have knobs between the eyes."}
+  ],
+  "meta": {
+    "title": "Cane Toad Facts: Size, Poison, Lifespan & Invasive Range",
+    "description": "Cane toads grow 10–15 cm (4–6 in) long, weigh 0.2–1.3 kg and live 10–15 years in the wild. Females lay 8,000–25,000 eggs. Poison, diet and invasive history.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Rhinella%20marina&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Rhinella_marina/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Cane_toad"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q321087"}
+    ]
+  }
+}

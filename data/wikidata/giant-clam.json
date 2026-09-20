@@ -1,0 +1,22 @@
+{
+  "slug": "giant-clam",
+  "commonName": "Giant Clam",
+  "scientificName": "Tridacna gigas",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "clam"
+  ],
+  "qid": "Q751784",
+  "iucnStatus": "Critically Endangered",
+  "wikipedia": "Giant clam",
+  "taxonomy": {
+    "species": "Tridacna gigas",
+    "genus": "Tridacna",
+    "family": "Cardiidae",
+    "order": "Cardiida",
+    "class": "Bivalvia",
+    "phylum": "Mollusca",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

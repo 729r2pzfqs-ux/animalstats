@@ -1,0 +1,64 @@
+{
+  "slug": "warthog",
+  "commonName": "Common Warthog",
+  "scientificName": "Phacochoerus africanus",
+  "alternateNames": ["Warthog", "African warthog"],
+  "nameSingular": "common warthog",
+  "namePlural": "common warthogs",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Suidae", "genus": "Phacochoerus", "species": "P. africanus"},
+  "facts": {
+    "lifespan": {"min": 7, "max": 15, "unit": "years", "context": "in the wild; most live 7–11 years", "display": "7–15 years"},
+    "lifespanCaptivity": {"min": 15, "max": 18, "unit": "years", "context": "in human care", "display": "15–18 years"},
+    "weight": {"min": 45, "max": 150, "unit": "kg", "context": "adults; sows 45–75 kg, boars 60–150 kg", "display": "45–150 kg (100–330 lb)"},
+    "height": {"min": 64, "max": 85, "unit": "cm", "label": "Shoulder height", "display": "64–85 cm (25–33 in)"},
+    "speed": {"min": 48, "max": 48, "unit": "km/h", "verb": "run", "context": "top sprint", "display": "48 km/h (30 mph)"},
+    "gestationPeriod": {"min": 150, "max": 175, "unit": "days", "label": "Gestation", "display": "5–6 months (about 170 days)"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Mostly grasses, plus roots, bulbs and rhizomes dug up with the snout, fallen fruit, berries and bark; warthogs also occasionally eat insects, eggs and carrion.",
+    "habitat": ["Savanna", "Grassland", "Open woodland", "Semi-desert"],
+    "range": "Sub-Saharan Africa, from Senegal and Mauritania east to Ethiopia and south to Namibia and eastern South Africa, outside rainforest and true desert.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The common warthog is a wild pig of the African savanna, recognizable by its flat, shovel-shaped head, upward-curving tusks and the wart-like pads of thick skin on its face. Those pads protect boars when they fight. The body is sparsely haired and gray, with a mane down the spine and a thin tufted tail held straight up like an antenna when the animal runs. Warthogs are the only pigs adapted to grazing in open, dry country. They live in family groups called sounders, are active by day, and shelter at night in burrows, usually ones abandoned by aardvarks.",
+  "answers": {
+    "lifespan": "Common warthogs live 7–11 years on average in the wild, with some reaching about 15, and up to 18 years or so in zoos. Piglets suffer heavy losses to predators and cold, and often fewer than half survive their first year. Lions, leopards, hyenas, wild dogs and crocodiles hunt adults.",
+    "weight": "Adult common warthogs weigh 45–150 kg (100–330 lb). Sows weigh 45–75 kg, while boars are noticeably bigger at 60–150 kg. Despite the large head and tusks, warthogs are lighter than many wild boar and far lighter than the giant forest hog.",
+    "size": "A common warthog stands 64–85 cm (25–33 in) tall at the shoulder, with a head-and-body length of 0.9–1.5 m. The upper tusks curve up and out and can exceed 25 cm in boars, while the shorter lower tusks are kept razor sharp by rubbing against the upper pair.",
+    "speed": "Warthogs can run at up to 48 km/h (30 mph). They flee with the tail held upright and usually head for a burrow, which they enter backward so their tusks face any predator that follows. A warthog that cannot reach cover will turn and fight.",
+    "gestation": "A warthog sow is pregnant for five to six months, about 170 days. She leaves her group to give birth in a burrow, typically to two to four piglets, though litters of up to eight occur. Piglets stay underground for their first weeks and are weaned at around six months.",
+    "diet": "Warthogs are omnivores, but grass makes up most of what they eat. They graze kneeling on their padded wrists and use the snout and tusks to dig up roots, bulbs and rhizomes in the dry season. Fruit, bark, insects, eggs and carrion are eaten occasionally.",
+    "habitat": "Common warthogs live in savannas, grasslands and open woodlands across sub-Saharan Africa. They avoid rainforest, dense bush and true desert, and need burrows for shelter from predators and temperature extremes, because they have little fur or body fat.",
+    "conservation": "The common warthog is listed as Least Concern on the IUCN Red List. It remains widespread and common, although the overall population is thought to be decreasing because of hunting for meat, drought and habitat loss, and it has disappeared from some densely settled areas."
+  },
+  "funFacts": [
+    "Warthogs back into their burrows so that any predator following them meets a face full of tusks.",
+    "The facial warts are not warts at all but pads of thickened skin and tissue that cushion blows when boars fight.",
+    "Warthogs kneel on calloused front wrists to graze, and the pads are already present on piglets before birth.",
+    "They rarely dig their own dens, relying mostly on old aardvark burrows.",
+    "Banded mongooses and oxpeckers have been seen picking ticks off warthogs, which sometimes lie down to be groomed."
+  ],
+  "relatedAnimals": ["wild-boar", "pig", "hippopotamus", "meerkat", "lion", "spotted-hyena"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are warthogs dangerous to humans?", "answer": "Warthogs usually run from people and are not considered aggressive. A cornered, wounded or hand-fed warthog can be dangerous, however, because its lower tusks are sharp enough to cause deep wounds. Sows with piglets may also charge. Keeping a respectful distance avoids almost all incidents."},
+    {"question": "What is the difference between a warthog and a wild boar?", "answer": "Warthogs are African savanna pigs with nearly bare gray skin, facial pads and large upward-curving tusks, and they mainly graze. Wild boar are Eurasian forest pigs with thick bristly coats, straight snouts without warts and smaller tusks, and they are the ancestor of domestic pigs."},
+    {"question": "Why do warthogs run with their tails up?", "answer": "A running warthog holds its thin, tufted tail straight up, probably as a follow-me signal that helps piglets and group members keep track of each other in tall grass. The tail drops again when the animal slows to a walk."},
+    {"question": "Can a warthog kill a lion?", "answer": "It is rare, but warthogs have injured and occasionally killed lions and leopards with their tusks while defending themselves. Far more often the lion wins. Warthogs are regular lion prey, and lions will even dig them out of burrows."},
+    {"question": "What is a group of warthogs called?", "answer": "A group of warthogs is called a sounder. A sounder usually consists of one or more related sows and their young. Adult boars live alone or in loose bachelor groups and join the females only to mate."}
+  ],
+  "meta": {
+    "title": "Common Warthog Facts: Size, Tusks, Speed & Lifespan",
+    "description": "Common warthogs weigh 45–150 kg (100–330 lb), run at 48 km/h and live 7–15 years in the wild. Tusks, diet, burrows, gestation and habitat explained.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Phacochoerus%20africanus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Phacochoerus_africanus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Phacochoerus_africanus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Common_warthog"}
+    ]
+  }
+}

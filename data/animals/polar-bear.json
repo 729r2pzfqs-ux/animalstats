@@ -1,0 +1,65 @@
+{
+  "slug": "polar-bear",
+  "commonName": "Polar Bear",
+  "scientificName": "Ursus maritimus",
+  "alternateNames": ["Ice bear", "Nanuq", "White bear"],
+  "nameSingular": "polar bear",
+  "namePlural": "polar bears",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Ursidae", "genus": "Ursus", "species": "U. maritimus"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 18, "unit": "years", "context": "typical in the wild; some reach 25–30", "display": "15–18 years"},
+    "lifespanCaptivity": {"min": 25, "max": 30, "unit": "years", "context": "in human care; the record is over 40", "display": "25–30 years"},
+    "weight": {"min": 150, "max": 700, "unit": "kg", "context": "adults; females 150–300 kg, males 350–700 kg", "display": "150–700 kg (330–1,540 lb)"},
+    "height": {"min": 1.0, "max": 1.6, "unit": "m", "label": "Shoulder height", "display": "1.0–1.6 m (3.3–5.2 ft)"},
+    "speed": {"min": 40, "max": 40, "unit": "km/h", "verb": "run", "context": "short sprints on land; swims at about 10 km/h", "display": "40 km/h (25 mph)"},
+    "gestationPeriod": {"min": 195, "max": 265, "unit": "days", "label": "Gestation", "display": "195–265 days (about 8 months), including delayed implantation"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mainly ringed and bearded seals caught at breathing holes or on the sea ice, prized for their blubber; also walrus, beluga and whale carcasses, and on land occasional birds, eggs and vegetation.",
+    "habitat": ["Sea ice", "Arctic coast", "Tundra"],
+    "range": "Circumpolar Arctic: Canada, Alaska (United States), Greenland, Svalbard (Norway) and Russia, wherever seasonal sea ice covers the continental shelf.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Unknown",
+    "population": "about 26,000 (IUCN estimate, range 22,000–31,000)"
+  },
+  "description": "The polar bear is the largest living bear and the largest land carnivore, and the only bear that depends on the ocean for its food. It evolved from brown bears and is adapted to life on Arctic sea ice, with a thick layer of fat, dense water-repellent fur over black skin, and large paws that act as snowshoes and paddles. Polar bears hunt seals from the ice, so they follow its seasonal advance and retreat over huge distances. Because they spend most of their lives on sea ice, they are legally classed as marine mammals in the United States. Loss of sea ice to climate warming is the main threat to the species.",
+  "answers": {
+    "lifespan": "Polar bears typically live 15–18 years in the wild, and a small number reach 25–30. In zoos they commonly live 25–30 years, and the oldest on record passed 40. Cub mortality is high, and older wild bears often die of starvation once worn teeth and failing strength make seal hunting difficult.",
+    "weight": "Adult male polar bears weigh 350–700 kg (770–1,540 lb), while females weigh 150–300 kg (330–660 lb). Males are roughly twice the size of females. Weight varies a lot through the year: a pregnant female may double her weight before denning, and bears can lose a great deal during ice-free summers.",
+    "size": "A polar bear stands 1.0–1.6 m (3.3–5.2 ft) tall at the shoulder. Adult males measure 2.4–3 m (8–10 ft) from nose to tail and can tower about 3 m when standing upright; females are 1.8–2.4 m long. Their front paws can be 30 cm (12 in) across.",
+    "speed": "Polar bears can run at about 40 km/h (25 mph) in short sprints, but they overheat quickly and usually walk at around 5–6 km/h. In water they swim at roughly 10 km/h (6 mph) using their front paws as paddles, and they can keep swimming for days.",
+    "gestation": "Polar bear pregnancy lasts 195–265 days (about 8 months), including a period of delayed implantation. Mating takes place on the sea ice in April to June, but the embryo does not implant until fall. One to three cubs, usually twins, are born in a snow den between November and January, each weighing only about 600 g.",
+    "diet": "Polar bears are carnivores that live mainly on ringed and bearded seals. They wait beside breathing holes or stalk seals resting on the ice, and they often eat only the energy-rich blubber. They also scavenge whale carcasses and occasionally take walrus and beluga. Food found on land rarely makes up for lost seal hunting.",
+    "habitat": "Polar bears live on the sea ice and coasts of the Arctic, in Canada, Alaska, Greenland, Norway's Svalbard and Russia. They prefer ice over shallow, productive continental-shelf waters where seals are abundant. Roughly two-thirds of all polar bears live in Canada. When the ice melts in summer, many bears are forced ashore to fast.",
+    "conservation": "Polar bears are listed as Vulnerable on the IUCN Red List, with about 26,000 animals in 19 subpopulations. The overall trend is listed as unknown because several subpopulations are poorly surveyed. The main threat is the loss of Arctic sea ice from climate warming, which shortens the seal-hunting season."
+  },
+  "funFacts": [
+    "Polar bear fur is not white: each hair is transparent and hollow, and the skin underneath is black.",
+    "A satellite-tracked female polar bear swam 687 km (427 miles) over nine days in the Beaufort Sea without stopping.",
+    "Newborn cubs weigh about 600 g (1.3 lb), less than a loaf of bread, and grow quickly on milk that is around 30 percent fat.",
+    "Only pregnant females den through the winter; other polar bears stay active and keep hunting on the ice all winter long.",
+    "Polar bears and grizzly bears occasionally interbreed in the wild where their ranges meet, producing hybrids sometimes called pizzly or grolar bears."
+  ],
+  "relatedAnimals": ["grizzly-bear", "black-bear", "arctic-fox", "walrus", "harbor-seal", "beluga-whale"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are polar bears dangerous to humans?", "answer": "Yes. Polar bears are powerful predators that may treat humans as prey, particularly when they are hungry or stranded on land. Attacks are rare because few people live in polar bear country, but Arctic communities use patrols, deterrents and secure food storage to keep bears and people apart."},
+    {"question": "Do polar bears eat penguins?", "answer": "No. Polar bears live only in the Arctic, in the Northern Hemisphere, while wild penguins live in the Southern Hemisphere, mostly in and around Antarctica. The two never meet outside of zoos. Polar bears mainly eat seals."},
+    {"question": "How many polar bears are left in the world?", "answer": "About 26,000 polar bears remain, according to the IUCN, with a likely range of 22,000 to 31,000. They are divided into 19 subpopulations across the Arctic. Some subpopulations are declining, some appear stable, and several have too little data to judge."},
+    {"question": "Why is polar bear fur white?", "answer": "Polar bear fur looks white because its transparent, hollow hairs scatter visible light, much as snow does. The white appearance provides camouflage on ice and snow while hunting seals. Beneath the fur the skin is black, and in zoos the fur can sometimes look yellowish or even green from algae."},
+    {"question": "Do polar bears hibernate?", "answer": "Not in the usual sense. Only pregnant females enter a den for the winter, where they give birth and nurse cubs for several months without eating. Males and non-pregnant females remain active all winter, because winter sea ice gives them their best access to seals."}
+  ],
+  "meta": {
+    "title": "Polar Bear Facts: Weight, Size, Lifespan & Diet",
+    "description": "Male polar bears weigh 350–700 kg (770–1,540 lb), females about half that. They live 15–18 years in the wild and run 40 km/h. Habitat, diet and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Ursus%20maritimus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Ursus_maritimus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Ursus_maritimus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Polar_bear"}
+    ]
+  }
+}

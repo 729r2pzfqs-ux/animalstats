@@ -1,0 +1,64 @@
+{
+  "slug": "green-anaconda",
+  "commonName": "Green Anaconda",
+  "scientificName": "Eunectes murinus",
+  "alternateNames": ["Giant anaconda", "Common anaconda", "Water boa", "Sucuri"],
+  "nameSingular": "green anaconda",
+  "namePlural": "green anacondas",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Squamata", "family": "Boidae", "genus": "Eunectes", "species": "E. murinus"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 10, "unit": "years", "context": "average in the wild", "display": "about 10 years"},
+    "lifespanCaptivity": {"min": 20, "max": 30, "unit": "years", "context": "in human care", "display": "20–30 years"},
+    "weight": {"min": 30, "max": 80, "unit": "kg", "context": "adults; females are far heavier than males, and the largest females exceed 100 kg", "display": "30–80 kg (65–175 lb)"},
+    "height": {"min": 3, "max": 5, "unit": "m", "label": "Length", "display": "3–5 m (10–16 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 180, "max": 210, "unit": "days", "label": "Gestation", "display": "6–7 months"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Fish, birds, caimans, turtles and mammals such as capybaras, peccaries and deer, ambushed at the water's edge, killed by constriction and swallowed whole. Large meals can last an anaconda for weeks or months.",
+    "habitat": ["Swamp", "Marsh", "Slow rivers", "Flooded forest", "Seasonally flooded grassland"],
+    "range": "Tropical South America east of the Andes, mainly the Amazon and Orinoco basins, from Colombia and Venezuela south to Bolivia and Brazil, plus the island of Trinidad.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The green anaconda is the heaviest snake in the world and one of the longest, a semi-aquatic boa from the swamps and slow rivers of tropical South America. Its eyes and nostrils sit on top of its head so it can lie almost fully submerged while it waits for prey. Females are much larger than males, one of the biggest size differences between the sexes of any land vertebrate. Anacondas are not venomous; they kill by coiling around prey and squeezing. Unlike pythons, they give birth to live young rather than laying eggs.",
+  "answers": {
+    "lifespan": "Green anacondas live about 10 years in the wild and 20–30 years in captivity. Young anacondas are eaten by caimans, birds of prey and other predators, so few reach old age in the wild. Well-kept zoo animals routinely pass 20 years because they have steady food, veterinary care and no predators.",
+    "weight": "Adult green anacondas typically weigh 30–80 kg (65–175 lb), which makes them the heaviest snakes on Earth. Females are several times heavier than males, and the largest females exceed 100 kg. Reports of animals over 200 kg exist but are poorly verified and should be treated as exceptional.",
+    "size": "Green anacondas usually measure 3–5 m (10–16 ft) long. Females average around 4.5 m, while males average closer to 3 m. Reliable measurements top out at a little over 6 m; stories of much longer anacondas have never been confirmed. The reticulated python grows longer, but the anaconda is far bulkier.",
+    "speed": null,
+    "gestation": "Green anacondas are pregnant for about 6–7 months and give birth to live young. A typical litter is 20–40 babies, each around 60–80 cm long, though very large females can produce more than 80. The newborns are independent from birth and receive no parental care.",
+    "diet": "Green anacondas are carnivores that eat fish, birds, turtles, caimans and mammals such as capybaras and deer. They ambush prey in or beside the water, grab it with backward-curving teeth and kill it by constriction. After a large meal an adult may not eat again for weeks or even months.",
+    "habitat": "Green anacondas live in swamps, marshes, slow rivers and flooded forests of tropical South America, especially the Amazon and Orinoco basins. They spend most of their time in water, where their bulk is supported and they move easily. In the dry season some bury themselves in mud or shelter in remaining pools.",
+    "conservation": "The green anaconda is listed as Least Concern on the IUCN Red List. It has a huge range and is hard to survey, so the overall population trend is not well known. Local threats include wetland drainage, killing out of fear and some hunting for skins."
+  },
+  "funFacts": [
+    "During breeding season several males may wrap around one female in a \"breeding ball\" that can stay together for up to four weeks.",
+    "Female green anacondas sometimes eat one of their smaller mates after breeding, which may help fuel a pregnancy during which they barely feed.",
+    "An anaconda's eyes and nostrils sit on top of its head, letting it breathe and watch for prey while the rest of its body is hidden underwater.",
+    "In 2024 researchers proposed splitting the green anaconda into northern and southern species based on genetic differences; the proposal is still being debated by herpetologists.",
+    "The genus name Eunectes comes from Greek and means \"good swimmer.\""
+  ],
+  "relatedAnimals": ["boa-constrictor", "reticulated-python", "burmese-python", "ball-python", "capybara", "jaguar"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can a green anaconda eat a human?", "answer": "There are no verified cases of a green anaconda eating a person. A very large female is physically strong enough to overpower a human, and defensive bites do happen, but anacondas live in remote wetlands and generally avoid people. Documented attacks on researchers have been rare and non-fatal."},
+    {"question": "Is the green anaconda the biggest snake in the world?", "answer": "It is the heaviest snake in the world, but not the longest. The reticulated python of Southeast Asia reaches greater lengths, with reliable records over 6 m. An anaconda of the same length is much thicker and can weigh roughly twice as much."},
+    {"question": "Are green anacondas venomous?", "answer": "No. Green anacondas are non-venomous constrictors in the boa family. They seize prey with rows of sharp, backward-pointing teeth, wrap their coils around it and squeeze until blood flow stops. A bite can cause deep cuts and should be cleaned, but it carries no venom."},
+    {"question": "Do anacondas lay eggs?", "answer": "No. Green anacondas give birth to live young. The eggs develop and hatch inside the mother's body, and she delivers 20–40 fully formed baby snakes after a pregnancy of about six to seven months. Pythons, by contrast, lay eggs and coil around them."},
+    {"question": "Where do green anacondas live?", "answer": "Green anacondas live in tropical South America east of the Andes, mostly in the Amazon and Orinoco river basins and on Trinidad. They are found in Brazil, Venezuela, Colombia, Ecuador, Peru, Bolivia and the Guianas, always close to swamps, marshes or slow-moving rivers."}
+  ],
+  "meta": {
+    "title": "Green Anaconda Facts: Size, Weight, Lifespan & Diet",
+    "description": "Green anacondas grow 3–5 m (10–16 ft) long, weigh 30–80 kg and live about 10 years in the wild. Diet, habitat, live birth and status of the heaviest snake.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Eunectes%20murinus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Eunectes_murinus/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Green_anaconda"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q207347"}
+    ]
+  }
+}

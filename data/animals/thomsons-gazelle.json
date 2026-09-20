@@ -1,0 +1,64 @@
+{
+  "slug": "thomsons-gazelle",
+  "commonName": "Thomson's Gazelle",
+  "scientificName": "Eudorcas thomsonii",
+  "alternateNames": ["Tommy", "Tommie"],
+  "nameSingular": "Thomson's gazelle",
+  "namePlural": "Thomson's gazelles",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Bovidae", "genus": "Eudorcas", "species": "E. thomsonii"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 15, "unit": "years", "context": "in the wild", "display": "10–15 years"},
+    "lifespanCaptivity": {"min": 15, "max": 20, "unit": "years", "context": "in human care", "display": "15–20 years"},
+    "weight": {"min": 15, "max": 35, "unit": "kg", "context": "adults; males 20–35 kg, females 15–25 kg", "display": "15–35 kg (33–77 lb)"},
+    "height": {"min": 55, "max": 82, "unit": "cm", "label": "Shoulder height", "display": "55–82 cm (22–32 in)"},
+    "speed": {"min": 80, "max": 80, "unit": "km/h", "verb": "run", "context": "top sprint; some sources give up to 90 km/h", "display": "80 km/h (50 mph)"},
+    "gestationPeriod": {"min": 160, "max": 180, "unit": "days", "label": "Gestation", "display": "5–6 months (160–180 days)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Mainly short, fresh grasses, which make up about 90 percent of the diet in the wet season; in the dry season the gazelles also eat herbs, seeds, clover and leaves of shrubs.",
+    "habitat": ["Short-grass plains", "Savanna", "Open grassland"],
+    "range": "East Africa, in southern and central Kenya and northern Tanzania, with the largest numbers in the Serengeti-Mara ecosystem.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Decreasing"
+  },
+  "description": "Thomson's gazelle is a small, graceful antelope of the East African plains and the most common gazelle in the region. It is sandy fawn above and white below, with a bold black stripe along each flank, a white rump and a constantly flicking black tail. Males carry long, ringed horns that curve slightly backward; females have short, thin horns or none. The species is named after the Scottish explorer Joseph Thomson and is widely known as the tommy. Hundreds of thousands follow the wildebeest and zebra herds through the Serengeti, grazing the short grass the larger animals leave behind.",
+  "answers": {
+    "lifespan": "Thomson's gazelles live 10–15 years in the wild and up to about 20 years in zoos. Most die far younger, because nearly every predator on the plains hunts them. Around half of all fawns are lost to predators such as jackals, hyenas, baboons and eagles in their first months.",
+    "weight": "Adult Thomson's gazelles weigh 15–35 kg (33–77 lb). Males weigh 20–35 kg and females 15–25 kg. That is about half the weight of the similar-looking Grant's gazelle, which shares the same plains and is often confused with it.",
+    "size": "A Thomson's gazelle stands 55–82 cm (22–32 in) tall at the shoulder and is about 0.8–1.2 m long. Males' horns reach 25–43 cm and are strongly ringed, while females' horns are thin, often crooked and only 7–15 cm long.",
+    "speed": "Thomson's gazelles can run at about 80 km/h (50 mph), with some sources quoting up to 90 km/h. They are slower than a cheetah in a straight sprint but can keep running for longer and turn more sharply, and they often escape by zigzagging until the cat tires.",
+    "gestation": "A Thomson's gazelle is pregnant for five to six months, or roughly 160–180 days. The short pregnancy allows females to give birth twice a year, which is unusual among antelopes. The single fawn lies hidden in the grass for its first weeks while the mother feeds nearby.",
+    "diet": "Thomson's gazelles are herbivores that mostly eat short grass. In the wet season grass makes up about 90 percent of their food; in the dry season they add herbs, seeds and shrub leaves. They follow wildebeest and zebras, which crop and trample tall grass and expose tender regrowth.",
+    "habitat": "Thomson's gazelles live on the open short-grass plains and savannas of Kenya and Tanzania. They prefer dry, firm ground with closely grazed grass and good visibility, and avoid tall grass and dense woodland. The Serengeti, Ngorongoro and Maasai Mara hold the main populations.",
+    "conservation": "Thomson's gazelle is listed as Least Concern on the IUCN Red List, but its population is decreasing. Numbers have dropped steeply in several areas since the 1970s. The main pressures are habitat change, expanding farms and livestock, fencing, road building and hunting for meat."
+  },
+  "funFacts": [
+    "Thomson's gazelles are the cheetah's most important prey on the Serengeti plains, making up the bulk of kills in many studies.",
+    "Like springbok, tommies stot or pronk, bouncing on stiff legs to show predators they are fit and hard to catch.",
+    "Females can breed twice a year, often conceiving again within weeks of giving birth.",
+    "A hidden fawn has almost no scent, and its mother eats its droppings and drinks its urine to keep the hiding place odor-free.",
+    "The black flank stripe and ever-wagging tail make tommies easy to tell apart from the larger, paler Grant's gazelle."
+  ],
+  "relatedAnimals": ["springbok", "cheetah", "blue-wildebeest", "plains-zebra", "pronghorn", "african-wild-dog"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can a Thomson's gazelle outrun a cheetah?", "answer": "Not in a straight line, since a cheetah is faster over short distances. But cheetahs can only sprint for a few hundred meters, and gazelles turn more sharply and have more stamina. If the gazelle gets a good head start or dodges well, it usually escapes; many cheetah hunts fail."},
+    {"question": "What is the difference between a Thomson's gazelle and a Grant's gazelle?", "answer": "Thomson's gazelles are much smaller, about 15–35 kg against roughly 40–80 kg, and have a bold black side stripe and a white rump patch that stops below the tail. Grant's gazelles are paler, have longer horns, and their white rump extends above the tail."},
+    {"question": "What eats Thomson's gazelles?", "answer": "Cheetahs are their main predator, and lions, leopards, spotted hyenas and African wild dogs also hunt adults. Fawns are taken by jackals, baboons, servals, pythons and large eagles. Few other African animals feed such a wide range of predators."},
+    {"question": "Why is it called Thomson's gazelle?", "answer": "The species is named after Joseph Thomson, a Scottish geologist and explorer who traveled through what is now Kenya and Tanzania in the 1880s. The scientific name thomsonii also honors him, and tommy is the usual nickname on safari."},
+    {"question": "Do Thomson's gazelles migrate?", "answer": "Yes. In the Serengeti-Mara ecosystem they take part in the great migration, moving between the southern short-grass plains in the wet season and wetter northern and western areas in the dry season. They usually trail behind the zebras and wildebeest."}
+  ],
+  "meta": {
+    "title": "Thomson's Gazelle: Speed, Size, Lifespan & Diet Facts",
+    "description": "Thomson's gazelles run at about 80 km/h (50 mph), weigh 15–35 kg and live 10–15 years. Size, diet, habitat, predators and gestation of the tommy.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Eudorcas%20thomsonii&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Eudorcas_thomsonii/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Thomson's_gazelle"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q271705"}
+    ]
+  }
+}

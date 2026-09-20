@@ -1,0 +1,64 @@
+{
+  "slug": "northern-cardinal",
+  "commonName": "Northern Cardinal",
+  "scientificName": "Cardinalis cardinalis",
+  "alternateNames": ["Cardinal", "Redbird", "Red cardinal"],
+  "nameSingular": "northern cardinal",
+  "namePlural": "northern cardinals",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Passeriformes", "family": "Cardinalidae", "genus": "Cardinalis", "species": "C. cardinalis"},
+  "facts": {
+    "lifespan": {"min": 3, "max": 5, "unit": "years", "context": "in the wild; average is about 3 years, and the banding record is 15 years 9 months", "display": "3–5 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 42, "max": 48, "unit": "g", "context": "typical adults; extremes range from about 34 to 65 g", "display": "42–48 g (1.5–1.7 oz)"},
+    "height": {"min": 21, "max": 23, "unit": "cm", "label": "Length", "display": "21–23 cm (8.3–9.1 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 11, "max": 13, "unit": "days", "label": "Incubation", "display": "11–13 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Mostly seeds, grain, buds and fruit such as dogwood, wild grape, sumac and mulberry, plus beetles, grasshoppers, caterpillars and other insects, which are fed almost exclusively to nestlings. Sunflower and safflower seeds are feeder favorites.",
+    "habitat": ["Woodland edges", "Thickets", "Gardens", "Shrubland", "Swamps"],
+    "range": "Eastern and central United States and southeastern Canada south through Mexico to Belize and Guatemala; introduced to Hawaii and Bermuda.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The northern cardinal is a crested songbird of eastern and central North America, instantly recognized by the male's brilliant red plumage and black face mask. Females are warm buff-brown with red tinges on the crest, wings and tail, and both sexes have a thick orange-red bill built for cracking seeds. Cardinals do not migrate and do not molt into dull winter plumage, so they stand out against snow and are a fixture at backyard feeders. Unusually among North American songbirds, the female sings as well as the male. It is the state bird of seven US states, more than any other species.",
+  "answers": {
+    "lifespan": "Northern cardinals live about 3 years on average in the wild, and many survivors reach 3–5 years. The oldest banded wild cardinal was a female at least 15 years and 9 months old. Hawks, owls, cats and snakes take adults, and many nests are lost to predators.",
+    "weight": "An adult northern cardinal typically weighs 42–48 g (1.5–1.7 oz), a little less than two AA batteries. The full recorded range is roughly 34–65 g. Males are slightly larger than females on average.",
+    "size": "Northern cardinals are 21–23 cm (8.3–9.1 in) long with a wingspan of 25–31 cm (9.8–12.2 in). That makes them a mid-sized songbird, slightly smaller than an American robin, with a long tail and a tall pointed crest.",
+    "speed": null,
+    "gestation": "Northern cardinal eggs hatch after 11–13 days of incubation. The female builds a cup nest low in a dense shrub or vine tangle, lays two to five speckled eggs and incubates them while the male brings her food. Chicks leave the nest after 7–13 days, and pairs raise two or more broods a year.",
+    "diet": "Northern cardinals eat mainly seeds, grain and fruit, which make up roughly 90 percent of the adult diet, along with insects such as beetles, grasshoppers and caterpillars. Nestlings are fed almost entirely on insects. At feeders they strongly prefer black-oil sunflower and safflower seeds.",
+    "habitat": "Northern cardinals live in dense shrubby places: woodland edges, thickets, hedgerows, overgrown fields, swamps, desert washes, parks and backyards. They range from southeastern Canada through the eastern and central United States to Mexico, Belize and Guatemala, and they stay on or near their territories all year.",
+    "conservation": "The northern cardinal is listed as Least Concern on the IUCN Red List, with a large, stable-to-growing population. It has expanded its range northward over the past century, helped by suburban plantings, bird feeders and milder winters. It is protected under the US Migratory Bird Treaty Act and cannot legally be kept as a cage bird."
+  },
+  "funFacts": [
+    "The northern cardinal is the state bird of Illinois, Indiana, Kentucky, North Carolina, Ohio, Virginia and West Virginia.",
+    "Female cardinals sing, often from the nest, which may tell the male when to bring food. In most North American songbirds only the male sings.",
+    "The red color comes from carotenoid pigments in the diet. Rare yellow cardinals have a mutation that stops them from converting yellow pigments to red.",
+    "Cardinals sometimes go bald in late summer, losing all their head feathers at once during molt and showing dark gray skin for a week or two.",
+    "The bird is named for the red robes worn by Roman Catholic cardinals."
+  ],
+  "relatedAnimals": ["american-robin", "hummingbird", "american-crow", "scarlet-macaw", "pigeon"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a male and female cardinal?", "answer": "Male northern cardinals are bright red all over with a black mask around the bill. Females are pale brown or buff with reddish tinges on the crest, wings and tail and a fainter gray mask. Both have the pointed crest and the thick orange-red bill. Juveniles resemble females but have a dark bill."},
+    {"question": "Why does a cardinal keep attacking my window?", "answer": "The bird sees its reflection and treats it as a rival intruding on its territory. Both males and females do this, mainly in the spring and early summer breeding season. Covering the outside of the glass or breaking up the reflection with soap or decals usually stops the behavior."},
+    {"question": "Do cardinals mate for life?", "answer": "Many pairs stay together for several breeding seasons and remain together through winter, but it is not strictly for life. Studies find that a portion of pairs split up between seasons, and a bird whose mate dies quickly takes a new one. Courting males feed seeds to females beak to beak."},
+    {"question": "What do cardinals like to eat at feeders?", "answer": "Cardinals prefer black-oil sunflower seeds and safflower seeds, and will also take cracked corn, peanut pieces and suet. They like sturdy platform or hopper feeders with room to perch, and they tend to visit very early in the morning and again at dusk."},
+    {"question": "Do cardinals migrate?", "answer": "No. Northern cardinals are year-round residents and most spend their entire lives within a few kilometers of where they hatched. In winter they relax their territories and may forage in loose flocks, sometimes of several dozen birds."}
+  ],
+  "meta": {
+    "title": "Northern Cardinal Facts: Lifespan, Size, Diet & Nesting",
+    "description": "Northern cardinals live about 3 years on average (record 15), weigh 42–48 g and measure 21–23 cm. Male vs female, diet, feeders and nesting facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Cardinalis%20cardinalis&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Cardinalis_cardinalis/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Cardinalis_cardinalis"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Northern_cardinal"}
+    ]
+  }
+}

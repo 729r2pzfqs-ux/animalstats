@@ -1,0 +1,22 @@
+{
+  "slug": "ocean-quahog",
+  "commonName": "Ocean Quahog",
+  "scientificName": "Arctica islandica",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "quahog clam"
+  ],
+  "qid": "Q856177",
+  "iucnStatus": null,
+  "wikipedia": "Arctica islandica",
+  "taxonomy": {
+    "species": "Arctica islandica",
+    "genus": "Arctica",
+    "family": "Arcticidae",
+    "order": "Veneroida",
+    "class": "Bivalvia",
+    "phylum": "Mollusca",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

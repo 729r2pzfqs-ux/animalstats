@@ -1,0 +1,64 @@
+{
+  "slug": "electric-eel",
+  "commonName": "Electric Eel",
+  "scientificName": "Electrophorus electricus",
+  "alternateNames": ["Poraquê", "Temblador"],
+  "nameSingular": "electric eel",
+  "namePlural": "electric eels",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Gymnotiformes", "family": "Gymnotidae", "genus": "Electrophorus", "species": "E. electricus"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 15, "unit": "years", "context": "estimated in the wild", "display": "about 15 years"},
+    "lifespanCaptivity": {"min": 10, "max": 22, "unit": "years", "context": "in aquariums; males about 10–15 years, females 12–22", "display": "10–22 years"},
+    "weight": {"min": 20, "max": 20, "unit": "kg", "context": "large adults; most are lighter", "display": "up to about 20 kg (44 lb)"},
+    "height": {"min": 1, "max": 2.5, "unit": "m", "label": "Length", "display": "1–2.5 m (3.3–8.2 ft)"},
+    "speed": null,
+    "gestationPeriod": null
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Adults eat mainly fish, along with amphibians, crustaceans and the occasional small mammal or bird; juveniles feed on insects, shrimp and other invertebrates, and hatchlings eat unhatched eggs.",
+    "habitat": ["Muddy river bottoms", "Swamps", "Creeks", "Flooded forest"],
+    "range": "Northern South America; the species in the strict sense lives in the Guiana Shield region of Guyana, Suriname, French Guiana and adjacent Brazil and Venezuela, with two sister species across the Amazon basin.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The electric eel is a long, cylindrical South American freshwater fish that can deliver shocks of several hundred volts. Despite the name it is not a true eel but a knifefish, more closely related to catfish and carp. About four fifths of its body is taken up by three electric organs built from thousands of modified muscle cells stacked like batteries. It uses weak pulses to navigate and find prey in murky water and powerful bursts to stun prey and deter predators. It breathes air, surfacing every few minutes. In 2019 scientists split electric eels into three species; Electrophorus electricus is the one from the Guiana Shield.",
+  "answers": {
+    "lifespan": "Electric eels are thought to live about 15 years in the wild and 10–22 years in aquariums. In captivity males typically reach 10–15 years and females 12–22. Wild lifespans are hard to measure because the fish live in remote, murky waters, so that figure is an estimate.",
+    "weight": "A large adult electric eel weighs up to about 20 kg (44 lb). Most individuals are lighter, since weight climbs steeply with length and only the biggest fish, around 2 m or more, approach that figure. Nearly all of the body behind the head is electric organ and swimming muscle.",
+    "size": "Adult electric eels are usually 1–2.5 m (3.3–8.2 ft) long, with about 2.5 m the maximum recorded, which makes it the largest of the South American knifefishes. The vital organs are all packed into the front fifth of the body, and the rest of the length holds the three electric organs.",
+    "speed": null,
+    "gestation": null,
+    "diet": "Electric eels are carnivores that eat mostly fish, plus amphibians, crustaceans and occasionally small mammals or birds. They locate hidden prey with a volley of high-voltage pulses that makes the prey's muscles twitch, then stun it with a full discharge and swallow it whole. Young eels eat insects and other invertebrates.",
+    "habitat": "Electric eels live in slow, muddy, oxygen-poor fresh waters of northern South America, including river bottoms, swamps, creeks and flooded forest. Because they get about 80 percent of their oxygen by gulping air at the surface, they can survive in stagnant pools that would suffocate most fish.",
+    "conservation": "The electric eel is listed as Least Concern on the IUCN Red List, with a stable population. It is widespread, has few predators and is rarely fished because it is dangerous to handle. Local threats include dams, mining pollution and deforestation in the Amazon and Guiana Shield river systems."
+  },
+  "funFacts": [
+    "Electrophorus electricus can produce shocks of around 600 volts, and its newly described relative Electrophorus voltai was measured at 860 volts, the strongest of any animal.",
+    "Electric eels must surface to breathe air about every 10 minutes and would drown if held underwater.",
+    "An electric eel can leap partly out of the water and press its chin against a threat, delivering a much stronger shock than it could through the water.",
+    "Alessandro Volta studied electric fish when designing the first battery in 1800, and the stacked cells of the eel's organs work on a similar principle.",
+    "Males build a nest of saliva foam during the dry season and guard the eggs and young, which can number well over a thousand."
+  ],
+  "relatedAnimals": ["piranha", "green-anaconda", "capybara", "axolotl", "beluga-sturgeon"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can an electric eel kill a human?", "answer": "It is possible but very rare. A single shock lasts only a few thousandths of a second and is unlikely to kill a healthy adult, but repeated shocks can cause heart or breathing failure, and a stunned person may drown in even shallow water. Deaths have been reported but are poorly documented."},
+    {"question": "How many volts does an electric eel produce?", "answer": "Electrophorus electricus generates up to about 600 volts, at around 1 ampere, in very brief pulses. In 2019 researchers measured 860 volts from a related species, Electrophorus voltai. The eel also gives off constant weak pulses of about 10 volts to sense its surroundings."},
+    {"question": "Is an electric eel really an eel?", "answer": "No. The electric eel is a South American knifefish in the order Gymnotiformes, more closely related to catfish and carp than to true eels. It earned the name from its long, snake-like body. True eels belong to the order Anguilliformes and cannot produce electricity."},
+    {"question": "How do electric eels make electricity?", "answer": "Electric eels have three organs containing thousands of flat, modified muscle cells called electrocytes, stacked in series like the cells of a battery. Each produces only about 0.15 volts, but when the brain signals them all to fire at once the voltages add up to hundreds of volts."},
+    {"question": "Why don't electric eels shock themselves?", "answer": "Scientists are not completely sure. The eel's vital organs are packed near the head and insulated by fatty tissue, its large body spreads the current, and the pulses last only milliseconds. Most of the current also takes the easier path out through the water to the prey."}
+  ],
+  "meta": {
+    "title": "Electric Eel Facts: Voltage, Size, Lifespan & Diet",
+    "description": "Electric eels grow 1–2.5 m long, weigh up to about 20 kg, live around 15 years and deliver shocks of about 600 volts. How the shock works, diet and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Electrophorus%20electricus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Electrophorus_electricus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Electrophorus_electricus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Electrophorus_electricus"}
+    ]
+  }
+}

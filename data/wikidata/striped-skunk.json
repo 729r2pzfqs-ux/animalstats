@@ -1,0 +1,34 @@
+{
+  "slug": "striped-skunk",
+  "commonName": "Striped Skunk",
+  "scientificName": "Mephitis mephitis",
+  "classSlug": "mammals",
+  "aliases": [
+    "skunk"
+  ],
+  "qid": "Q368495",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Striped skunk",
+  "taxonomy": {
+    "species": "Mephitis mephitis",
+    "genus": "Mephitis",
+    "family": "Mephitidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "33.5",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "68",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

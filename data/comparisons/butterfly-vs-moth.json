@@ -1,0 +1,59 @@
+{
+  "slug": "butterfly-vs-moth",
+  "summary": "The main difference between butterflies and moths is the antennae: butterflies have thin antennae ending in a small club, while moths have feathery or tapering antennae with no club. Most butterflies fly by day and rest with wings closed upright; most moths fly at night and rest with wings spread flat or folded like a tent. Both belong to the insect order Lepidoptera.",
+  "differences": [
+    {
+      "title": "Antennae",
+      "text": "This is the most reliable test. A butterfly's antennae are slender stalks with a distinct knob or club at the tip, as seen on the monarch. Moth antennae are either feathery, like small combs, or thin and pointed. Male luna moths have especially broad, feathery antennae, used to pick up the scent of females from far away."
+    },
+    {
+      "title": "Active hours",
+      "text": "Most butterflies are active in daylight and need sunshine to warm their flight muscles. Most moths are active at dusk or at night and warm up by shivering their wings. There are many exceptions, including day-flying hummingbird moths and burnet moths, which is why time of day is a helpful hint but not proof."
+    },
+    {
+      "title": "Resting posture",
+      "text": "A resting butterfly usually folds its wings together upright over its back, showing the undersides, though it may open them flat to bask. Moths generally rest with the wings spread flat against a surface or folded roof-like over the body. Most moths also link their front and hind wings with a tiny bristle called a frenulum."
+    },
+    {
+      "title": "Pupa",
+      "text": "A butterfly caterpillar transforms inside a chrysalis, a hard, smooth case with no silk covering, often hanging from a stem. The monarch's chrysalis is jade green with gold dots. Many moth caterpillars spin a silk cocoon around the pupa, as the luna moth does among fallen leaves, while others pupate in a chamber underground."
+    },
+    {
+      "title": "Body and color",
+      "text": "Butterflies tend to have slim, smooth bodies and brightly colored wings. Moths are usually stouter and furrier, with hair-like scales that help hold heat at night, and many wear camouflage browns and grays. Not all do: the pale green, long-tailed luna moth is as striking as any butterfly."
+    },
+    {
+      "title": "Diversity",
+      "text": "Moths vastly outnumber butterflies. Roughly nine out of ten known species of Lepidoptera are moths, with butterflies making up a single branch of the family tree. In evolutionary terms, butterflies are best thought of as one specialized group of day-flying moths, not as a separate, equal lineage."
+    }
+  ],
+  "similarities": "Butterflies and moths make up the order Lepidoptera, which means 'scaly wings.' Both have four wings covered in tiny overlapping scales that create their colors, and most adults feed through a coiled tube called a proboscis. Both go through complete metamorphosis, from egg to caterpillar to pupa to adult, and both are important pollinators and food for birds and bats.",
+  "howToTell": [
+    "Check the antenna tips: a small club means butterfly; feathery or plain pointed antennae mean moth.",
+    "Note the resting pose. Wings held closed and upright suggest a butterfly; wings flat or tent-like suggest a moth.",
+    "A thick, furry body points to a moth, while a slender, smoother body points to a butterfly.",
+    "An insect circling a porch light at night is almost always a moth."
+  ],
+  "faq": [
+    {
+      "question": "Are butterflies and moths related?",
+      "answer": "Yes, very closely. Both belong to the order Lepidoptera, and butterflies evolved from within the moths. Genetic studies place butterflies as one branch among many moth lineages, which means some moths are more closely related to butterflies than they are to other moths."
+    },
+    {
+      "question": "Are moths harmful or dangerous?",
+      "answer": "Almost all moths are harmless. Adults cannot bite or sting, and a few, such as the luna moth, have no working mouthparts and never feed. Problems come from caterpillars: clothes moth larvae damage wool, pantry moth larvae spoil food, and some hairy caterpillars can irritate skin."
+    },
+    {
+      "question": "Why are moths attracted to light?",
+      "answer": "The cause is still debated. A long-standing idea is that moths navigate by keeping the moon at a fixed angle and spiral in when they try this with a nearby lamp. Recent research suggests flying insects instinctively tilt their backs toward the brightest light, which traps them in orbit around artificial lights."
+    },
+    {
+      "question": "Can butterflies and moths interbreed?",
+      "answer": "No. Butterflies and moths from different families are separated by many millions of years of evolution and cannot mate successfully. They differ in activity times, mating signals and anatomy. Hybrids in Lepidoptera occur only between very closely related species."
+    }
+  ],
+  "meta": {
+    "title": "Butterfly vs Moth: Differences and How to Tell Them Apart",
+    "description": "Butterflies have club-tipped antennae and rest with wings upright; moths have feathery or tapered antennae and rest wings flat. Learn the rest."
+  }
+}

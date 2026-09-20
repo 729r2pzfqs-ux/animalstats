@@ -1,0 +1,44 @@
+{
+  "slug": "springbok",
+  "commonName": "Springbok",
+  "scientificName": "Antidorcas marsupialis",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q213084",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Springbok",
+  "taxonomy": {
+    "species": "Antidorcas marsupialis",
+    "genus": "Antidorcas",
+    "family": "Bovidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "4.4",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "41",
+      "unit": "kg",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "37",
+      "unit": "kg",
+      "sex": "female"
+    },
+    {
+      "property": "gestation",
+      "amount": "5.75",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

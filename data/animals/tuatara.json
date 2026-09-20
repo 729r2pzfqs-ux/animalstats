@@ -1,0 +1,64 @@
+{
+  "slug": "tuatara",
+  "commonName": "Tuatara",
+  "scientificName": "Sphenodon punctatus",
+  "alternateNames": ["Northern tuatara", "Cook Strait tuatara"],
+  "nameSingular": "tuatara",
+  "namePlural": "tuatara",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Rhynchocephalia", "family": "Sphenodontidae", "genus": "Sphenodon", "species": "S. punctatus"},
+  "facts": {
+    "lifespan": {"min": 60, "max": 100, "unit": "years", "context": "in the wild; some individuals are thought to exceed 100", "display": "60–100 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 0.5, "max": 1, "unit": "kg", "context": "adults; females about 0.5 kg, males up to about 1 kg", "display": "0.5–1 kg (1.1–2.2 lb)"},
+    "height": {"min": 45, "max": 61, "unit": "cm", "label": "Length", "display": "45–61 cm (18–24 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 365, "max": 455, "unit": "days", "label": "Incubation", "display": "12–15 months"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mostly invertebrates such as beetles, wētā, crickets, spiders, worms and snails, along with lizards, frogs, and the eggs and chicks of the seabirds whose burrows tuatara share.",
+    "habitat": ["Coastal forest", "Scrub", "Seabird burrow colonies"],
+    "range": "About 32 predator-free offshore islands of New Zealand, in Cook Strait and off the northeastern North Island, plus fenced mainland sanctuaries where it has been reintroduced.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The tuatara looks like a lizard but is not one. It is the only surviving member of Rhynchocephalia, an order of reptiles that flourished alongside the early dinosaurs around 200 million years ago and has otherwise been extinct for tens of millions of years. Found only in New Zealand, tuatara are nocturnal burrow dwellers that stay active at temperatures too cold for most reptiles. They grow for about 35 years, breed only every few years and can live for a century. The name is Māori for \"peaks on the back,\" describing the spiny crest, and the plural is also tuatara.",
+  "answers": {
+    "lifespan": "Tuatara live 60–100 years, and some are thought to pass 100. They are among the longest-lived reptiles, helped by a cool climate and very slow metabolism. They do not reach sexual maturity until 10–20 years old and keep growing until about 35. A captive male named Henry fathered young at an estimated age of 111.",
+    "weight": "Adult tuatara weigh 0.5–1 kg (1.1–2.2 lb). Males are much the larger sex and can reach about 1 kg, while females typically weigh around 0.5 kg. Growth is extremely slow, and animals take roughly three decades to reach full size.",
+    "size": "Tuatara grow 45–61 cm (18–24 in) long, including the tail. Males reach about 61 cm and females about 45 cm. Males also have a taller crest of soft, triangular spines along the neck and back, which they raise during displays.",
+    "speed": null,
+    "gestation": "Tuatara eggs take about 12–15 months to hatch, among the longest incubation periods of any reptile. Females lay 6–10 soft-shelled eggs only once every two to five years and provide no care. Nest temperature sets the sex: warmer nests produce males and cooler nests females.",
+    "diet": "Tuatara are carnivores that eat mainly beetles, wētā, spiders, worms and other invertebrates, plus lizards, seabird eggs and chicks. They hunt at night by sitting at the burrow entrance and ambushing passing prey. Their slow metabolism means they need little food.",
+    "habitat": "Tuatara live on about 32 predator-free islands off New Zealand, in coastal forest and scrub riddled with seabird burrows. They often share burrows with petrels and shearwaters. They were wiped out on the mainland by introduced rats but have been returned to fenced sanctuaries such as Zealandia in Wellington.",
+    "conservation": "The tuatara is listed as Least Concern on the IUCN Red List, because island populations are secure and strictly protected. It survives only where rats and other introduced predators are absent. Climate warming is a long-term concern, since hotter nests produce more males."
+  },
+  "funFacts": [
+    "Tuatara have a \"third eye\" on top of the head with its own lens and retina; it is visible in hatchlings and later covered by scales.",
+    "They stay active at body temperatures as low as about 5–11 °C, far cooler than most reptiles can tolerate.",
+    "The upper jaw has two rows of teeth and the lower jaw one row that slots between them, an arrangement found in no other living animal.",
+    "Tuatara teeth are outgrowths of the jawbone and are never replaced, so old animals wear them down to smooth bone.",
+    "A resting tuatara may take a breath only about once an hour."
+  ],
+  "relatedAnimals": ["komodo-dragon", "green-iguana", "galapagos-tortoise", "kiwi", "gila-monster", "bearded-dragon"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is a tuatara a lizard?", "answer": "No. Tuatara look like lizards but belong to a separate order, Rhynchocephalia, which split from the ancestors of lizards and snakes around 250 million years ago. Differences include the unique tooth arrangement, a skull with two openings behind each eye, and the lack of external ear openings."},
+    {"question": "Is the tuatara a dinosaur or a living fossil?", "answer": "The tuatara is not a dinosaur, but its lineage is as old as the earliest dinosaurs. It is often called a living fossil because it is the sole survivor of an ancient group. Genetic studies show it has continued to evolve, so the label is only loosely accurate."},
+    {"question": "Do tuatara really have three eyes?", "answer": "In a sense, yes. Tuatara have a parietal eye on top of the head with a lens, retina and nerve connection to the brain. It cannot form images and is covered by scales within months of hatching. It likely helps regulate daily and seasonal cycles by sensing light."},
+    {"question": "How many tuatara are left?", "answer": "New Zealand's Department of Conservation estimates the total at somewhere above 55,000 tuatara, with the great majority living on Stephens Island (Takapourewa) in Cook Strait. Numbers are not precisely known, which is why a range rather than a firm count is usually quoted."},
+    {"question": "Can you keep a tuatara as a pet?", "answer": "No. Tuatara are fully protected under New Zealand law and cannot be privately owned or exported for the pet trade. They are held only by approved zoos, sanctuaries and research institutions, and they are of great cultural importance to Māori as a taonga, or treasure."}
+  ],
+  "meta": {
+    "title": "Tuatara Facts: Lifespan, Size, Third Eye & Habitat",
+    "description": "Tuatara live 60–100 years, grow 45–61 cm (18–24 in) long and weigh 0.5–1 kg. Their eggs take 12–15 months to hatch. Diet, habitat and third-eye facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Sphenodon%20punctatus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Sphenodon_punctatus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Sphenodon_punctatus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Sphenodon_punctatus"}
+    ]
+  }
+}

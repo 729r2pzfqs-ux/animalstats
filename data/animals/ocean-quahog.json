@@ -1,0 +1,64 @@
+{
+  "slug": "ocean-quahog",
+  "commonName": "Ocean Quahog",
+  "scientificName": "Arctica islandica",
+  "alternateNames": ["Icelandic cyprine", "Mahogany clam", "Black clam", "Mahogany quahog"],
+  "nameSingular": "ocean quahog",
+  "namePlural": "ocean quahogs",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Mollusca", "class": "Bivalvia", "classSlug": "invertebrates", "order": "Venerida", "family": "Arcticidae", "genus": "Arctica", "species": "A. islandica"},
+  "facts": {
+    "lifespan": {"min": 100, "max": 200, "unit": "years", "context": "many adults in cold-water populations; the record is 507 years", "display": "commonly 100–200 years (record 507)"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 100, "max": 300, "unit": "g", "context": "approximate live weight of adults including the shell; varies with size and population", "display": "roughly 100–300 g (3.5–10.5 oz)"},
+    "height": {"min": 7, "max": 13, "unit": "cm", "label": "Shell length", "display": "7–13 cm (2.8–5 in)"},
+    "speed": null,
+    "gestationPeriod": null
+  },
+  "ecology": {
+    "diet": "Filter feeder",
+    "dietDetails": "Microscopic algae and other phytoplankton, filtered from seawater drawn in through short siphons while the clam lies buried just below the surface of the seabed.",
+    "habitat": ["Sandy seabed", "Muddy seabed", "Continental shelf"],
+    "range": "Both sides of the North Atlantic: from Newfoundland to Cape Hatteras in the west, and around Iceland, the British Isles, the North Sea and Norway to the Bay of Biscay in the east.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The ocean quahog is a thick-shelled North Atlantic clam and the longest-lived non-colonial animal whose age has been reliably measured. Its rounded shell is covered by a dark brown to black outer skin, the periostracum, which earns it the trade name mahogany clam. It lives buried in sand and mud on the continental shelf, filtering plankton through short siphons, and grows extremely slowly in cold water. Like a tree, its shell lays down one growth line a year, which lets scientists age individual clams and use their shells as archives of past ocean climate. It is harvested commercially off the United States and Iceland.",
+  "answers": {
+    "lifespan": "Ocean quahogs commonly live 100–200 years, and the oldest one ever aged was 507 years old. That record clam, nicknamed Ming, was dredged off Iceland in 2006 and is an extreme outlier rather than a typical lifespan. Even so, clams over a century old are routine in commercial catches, and lifespans are shorter in warmer or brackish waters such as the Baltic.",
+    "weight": "An adult ocean quahog weighs roughly 100–300 g (3.5–10.5 oz) with its shell, though this is an approximate figure that varies with size and location. The heavy shell accounts for most of the weight, and the edible meat of a market-sized clam is only a few tens of grams.",
+    "size": "Ocean quahog shells are typically 7–13 cm (2.8–5 in) long in adults. Growth is fast for the first couple of decades and then slows almost to a standstill, so a 100-year-old clam and a 300-year-old clam can be nearly the same size. Size alone is therefore a poor guide to age.",
+    "speed": null,
+    "gestation": null,
+    "diet": "Ocean quahogs are filter feeders that eat phytoplankton, mainly microscopic algae. Buried in the sediment with only their short siphons at the surface, they pump seawater across their gills, trap food particles in mucus and pass them to the mouth. They can also burrow deeper and shut down for days at a time without feeding.",
+    "habitat": "Ocean quahogs live buried in sand and muddy sand on the continental shelf of the North Atlantic, mostly at depths of about 25–250 m (80–800 ft) off North America. In European waters they range from just below the shore to around 500 m. They need cold water and generally avoid areas where bottom temperatures exceed about 16 °C.",
+    "conservation": "The ocean quahog has not been evaluated for the IUCN Red List. United States stocks are assessed as not overfished, but the species is managed cautiously because it grows and replaces itself so slowly. In the North Sea it is listed by the OSPAR Convention as threatened or declining, largely because of damage from bottom trawling."
+  },
+  "funFacts": [
+    "Ming, a 507-year-old ocean quahog, was born around 1499, during China's Ming dynasty, and was already old when Shakespeare was writing.",
+    "Ming's age was first counted as about 405 years and revised to 507 in 2013, after researchers re-examined the growth lines using more precise methods.",
+    "Scientists did not know Ming's age when it was collected; like the other clams in the sample, it was frozen on the research ship, which killed it.",
+    "By matching growth-line patterns between shells, researchers have built year-by-year records of North Atlantic ocean conditions reaching back more than 1,000 years.",
+    "Ocean quahogs are slow to mature as well as slow to age; many do not breed until they are around 7–13 years old, and some take longer."
+  ],
+  "relatedAnimals": ["giant-clam", "greenland-shark", "bowhead-whale", "immortal-jellyfish", "garden-snail", "galapagos-tortoise"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the oldest clam ever found?", "answer": "The oldest clam ever found was Ming, an ocean quahog collected off the north coast of Iceland in 2006 and aged at 507 years. It is the oldest individual non-colonial animal with a precisely known age."},
+    {"question": "How do scientists tell the age of a clam?", "answer": "They count annual growth lines, much like tree rings. The shell is cut through the hinge, polished and examined under a microscope, because lines in the hinge region are better preserved than those on the outside. Radiocarbon dating and matching patterns across shells are used to confirm the counts."},
+    {"question": "Did scientists kill the world's oldest clam?", "answer": "Yes, but unknowingly. Ming was one of about 200 clams collected for a climate study and frozen on board, as is standard practice. Its age was discovered only later, when the shell was sectioned. Many equally old clams probably still live on the seabed."},
+    {"question": "Can you eat ocean quahogs?", "answer": "Yes. Ocean quahogs are harvested commercially, mainly off the northeastern United States, and their strongly flavored meat goes into chowders, soups, sauces and minced clam products. They are rarely served whole on the half shell like other clams."},
+    {"question": "What is the difference between an ocean quahog and a hard clam?", "answer": "They are different species in different families. The hard clam, or northern quahog (Mercenaria mercenaria), lives in shallow bays, has a pale gray shell with a purple inner stain and lives a few decades. The ocean quahog lives offshore in deep cold water, has a dark shell and can live for centuries."},
+    {"question": "Why do ocean quahogs live so long?", "answer": "The reasons are not fully understood. Ocean quahogs have a very slow metabolism in cold water, can shut down almost completely for days, and their cells show unusually strong resistance to oxidative damage and stable proteins. These traits make them a model animal in aging research."}
+  ],
+  "meta": {
+    "title": "Ocean Quahog Lifespan: The 507-Year-Old Clam & Key Facts",
+    "description": "Ocean quahogs commonly live 100–200 years; the record, a clam named Ming, reached 507. Shell size of 7–13 cm (2.8–5 in), diet, habitat and how clams are aged.",
+    "sources": [
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Arctica_islandica"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Arctica_islandica"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q856177"}
+    ]
+  }
+}

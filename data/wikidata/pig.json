@@ -1,0 +1,23 @@
+{
+  "slug": "pig",
+  "commonName": "Pig",
+  "scientificName": "Sus domesticus",
+  "classSlug": "mammals",
+  "aliases": [
+    "domestic pig",
+    "hog",
+    "swine"
+  ],
+  "qid": "Q125459958",
+  "iucnStatus": null,
+  "wikipedia": null,
+  "taxonomy": {
+    "species": "Sus domesticus",
+    "genus": "Sus",
+    "family": "Suidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": []
+}

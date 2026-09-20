@@ -1,0 +1,64 @@
+{
+  "slug": "armadillo",
+  "commonName": "Nine-Banded Armadillo",
+  "scientificName": "Dasypus novemcinctus",
+  "alternateNames": ["Common long-nosed armadillo", "Nine-banded long-nosed armadillo", "Armadillo"],
+  "nameSingular": "nine-banded armadillo",
+  "namePlural": "nine-banded armadillos",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Cingulata", "family": "Dasypodidae", "genus": "Dasypus", "species": "D. novemcinctus"},
+  "facts": {
+    "lifespan": {"min": 7, "max": 10, "unit": "years", "context": "in the wild; estimates vary", "display": "7–10 years"},
+    "lifespanCaptivity": {"min": 15, "max": 20, "unit": "years", "context": "in human care", "display": "15–20 years"},
+    "weight": {"min": 2.5, "max": 6.5, "unit": "kg", "context": "adults", "display": "2.5–6.5 kg (5.5–14 lb)"},
+    "height": {"min": 64, "max": 107, "unit": "cm", "label": "Length", "display": "64–107 cm (25–42 in) including tail"},
+    "speed": {"min": 48, "max": 48, "unit": "km/h", "verb": "run", "context": "short dashes; commonly cited estimate", "display": "about 48 km/h (30 mph)"},
+    "gestationPeriod": {"min": 120, "max": 120, "unit": "days", "label": "Gestation", "display": "about 120 days, after a 3–4 month implantation delay"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Mostly beetles, grubs, ants, termites, worms and other soil invertebrates dug up with the front claws, plus occasional small reptiles and amphibians, eggs, carrion, fruit and fungi.",
+    "habitat": ["Woodland", "Scrub", "Grassland", "Rainforest", "Farmland"],
+    "range": "From the south-central and southeastern United States through Mexico and Central America to northern Argentina and Uruguay; the US range is still expanding northward.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The nine-banded armadillo is the most widespread armadillo and the only one found in the United States, which it entered from Mexico in the 1800s. Its body is covered by a shell of bony plates topped with tough skin, with seven to eleven flexible bands across the middle that let it bend. Despite the armor it cannot roll into a ball; only the three-banded armadillos can. It is a mostly nocturnal, solitary digger with poor eyesight and a keen nose, and it shelters in burrows. Females almost always give birth to identical quadruplets.",
+  "answers": {
+    "lifespan": "Nine-banded armadillos live roughly 7–10 years in the wild, though estimates vary, and 15–20 years in human care. Vehicles kill huge numbers, and coyotes, bobcats, cougars, alligators and dogs take others. Hard frosts also kill armadillos, which carry little body fat.",
+    "weight": "Adult nine-banded armadillos weigh 2.5–6.5 kg (5.5–14 lb), about the same as a large house cat. Males are slightly heavier than females. The bony shell accounts for roughly one-sixth of the animal's total weight.",
+    "size": "A nine-banded armadillo is 64–107 cm (25–42 in) long including the tail. The head and body measure 38–58 cm, and the tapering, armored tail adds 26–53 cm. It stands only 15–25 cm tall at the top of the shell.",
+    "speed": "Nine-banded armadillos are commonly said to reach about 48 km/h (30 mph) in a short dash, though this is an estimate rather than a measured figure. When startled they often leap 1 m or more straight up before bolting for thick brush or a burrow.",
+    "gestation": "A nine-banded armadillo's embryos develop for about 120 days, or four months. Mating is in summer, but the fertilized egg does not implant for three to four months, so young are born around eight months after mating. The single egg splits into four identical quadruplets.",
+    "diet": "Nine-banded armadillos are insectivores that eat mainly beetles, grubs, ants, termites and worms, which they sniff out up to 20 cm underground and dig up. They also take small vertebrates, eggs, carrion and fruit, and their rooting leaves cone-shaped holes in lawns.",
+    "habitat": "Nine-banded armadillos live in woodland, scrub, grassland and rainforest from the southern United States to northern Argentina. They prefer warm, moist areas with loose soil for digging near water, and they avoid regions with long freezes or very dry conditions.",
+    "conservation": "Nine-banded armadillos are listed as Least Concern on the IUCN Red List. They are abundant and have expanded steadily northward and eastward through the United States over the past century. They are hunted for meat in parts of Latin America, but this has not threatened the species overall."
+  },
+  "funFacts": [
+    "Nine-banded armadillos nearly always give birth to four genetically identical young, all developed from a single fertilized egg.",
+    "To cross a narrow stream an armadillo may walk along the bottom holding its breath; for wider water it gulps air into its gut to float and paddles across.",
+    "Despite the name, a nine-banded armadillo can have anywhere from seven to eleven movable bands.",
+    "The armadillo's habit of jumping straight up when startled works against predators but is often fatal under passing cars.",
+    "Armadillos are among the very few animals besides humans that naturally carry the bacterium that causes leprosy."
+  ],
+  "relatedAnimals": ["giant-anteater", "sloth", "hedgehog", "striped-skunk", "raccoon"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can a nine-banded armadillo roll into a ball?", "answer": "No. The nine-banded armadillo has too many shell plates to curl up completely. Only the two species of three-banded armadillo from South America can roll into a sealed ball. A nine-banded armadillo escapes danger by running, digging or wedging itself into a burrow."},
+    {"question": "Do armadillos carry leprosy?", "answer": "Yes, some do. Nine-banded armadillos in the southern United States and parts of Latin America can carry Mycobacterium leprae, and a few human cases have been linked to handling or eating them. The risk is low, but health agencies advise against touching wild armadillos."},
+    {"question": "Are armadillos dangerous?", "answer": "Armadillos are not aggressive and have small peg-like teeth, so they rarely bite. The main concerns are the small risk of leprosy transmission from handling them and the damage their digging does to lawns, gardens and foundations."},
+    {"question": "Where do armadillos live in the United States?", "answer": "Nine-banded armadillos are found from Texas, Oklahoma and Kansas east to Florida, Georgia and the Carolinas, and north into Missouri, southern Illinois, Tennessee and Kentucky. They crossed the Rio Grande in the mid-1800s and are still spreading north as winters grow milder."},
+    {"question": "Is an armadillo's shell bulletproof?", "answer": "No. The shell is made of thin bony plates covered by keratin, strong enough to resist thorns and many predators' teeth but not bullets. Reports of ricochets exist, but the armor is easily pierced and offers no real ballistic protection."}
+  ],
+  "meta": {
+    "title": "Nine-Banded Armadillo Facts: Size, Speed, Diet & Range",
+    "description": "Nine-banded armadillos weigh 2.5–6.5 kg (5.5–14 lb), measure 64–107 cm with the tail and live 7–10 years in the wild. Diet, quadruplets, range and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Dasypus%20novemcinctus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Dasypus_novemcinctus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Dasypus_novemcinctus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Nine-banded_armadillo"}
+    ]
+  }
+}

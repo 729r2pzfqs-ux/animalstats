@@ -1,0 +1,29 @@
+{
+  "slug": "wild-boar",
+  "commonName": "Wild Boar",
+  "scientificName": "Sus scrofa",
+  "classSlug": "mammals",
+  "aliases": [
+    "boar",
+    "feral hog"
+  ],
+  "qid": "Q58697",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Wild boar",
+  "taxonomy": {
+    "species": "Sus scrofa",
+    "genus": "Sus",
+    "family": "Suidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "121",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

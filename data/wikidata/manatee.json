@@ -1,0 +1,30 @@
+{
+  "slug": "manatee",
+  "commonName": "West Indian Manatee",
+  "scientificName": "Trichechus manatus",
+  "classSlug": "mammals",
+  "aliases": [
+    "manatee",
+    "sea cow"
+  ],
+  "qid": "Q40261",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "West Indian manatee",
+  "taxonomy": {
+    "species": "Trichechus manatus",
+    "genus": "Trichechus",
+    "family": "Trichechidae",
+    "order": "Sirenia",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "13",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

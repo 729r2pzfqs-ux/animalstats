@@ -1,0 +1,64 @@
+{
+  "slug": "betta",
+  "commonName": "Betta Fish",
+  "scientificName": "Betta splendens",
+  "alternateNames": ["Siamese fighting fish", "Betta", "Plakat"],
+  "nameSingular": "betta fish",
+  "namePlural": "betta fish",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Anabantiformes", "family": "Osphronemidae", "genus": "Betta", "species": "B. splendens"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 5, "unit": "years", "context": "in a heated, filtered aquarium; about 3 years is typical", "display": "2–5 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 2, "max": 5, "unit": "g", "context": "approximate adult weight; bettas are rarely weighed", "display": "about 2–5 g (0.07–0.18 oz)"},
+    "height": {"min": 6, "max": 7, "unit": "cm", "label": "Length", "display": "6–7 cm (2.4–2.8 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 1, "max": 2, "unit": "days", "label": "Egg development", "display": "24–48 hours"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Insects and insect larvae, especially mosquito larvae, plus zooplankton and small crustaceans taken at the surface; pet bettas need a protein-rich pellet with frozen or live foods such as bloodworms and daphnia.",
+    "habitat": ["Marshes", "Rice paddies", "Floodplains", "Slow streams", "Aquariums"],
+    "range": "Wild bettas are native to central Thailand, with populations of uncertain origin in neighboring parts of Southeast Asia; domesticated bettas are kept worldwide.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The betta, or Siamese fighting fish, is a small labyrinth fish from the shallow, warm wetlands of Thailand. It has been bred there for centuries, first for staged fights between males and later for color and finnage, and the long-finned, vividly colored pet-store betta looks very different from its short-finned, brownish-green wild ancestor. Bettas have a labyrinth organ that lets them gulp air at the surface, so they can survive in oxygen-poor water. Males are intensely territorial toward one another and build floating bubble nests in which they guard the eggs and newly hatched fry.",
+  "answers": {
+    "lifespan": "Betta fish live 2–5 years in an aquarium, with about 3 years being typical. Fish sold in stores are often already six months to a year old. Warm water of around 24–28 °C, a filtered tank of at least 10–20 liters and a varied diet make the biggest difference; bettas kept in unheated cups and bowls rarely live as long.",
+    "weight": "An adult betta fish weighs only about 2–5 g (0.07–0.18 oz), no more than a single sheet of printer paper. Bettas are rarely weighed, so this figure is approximate. Long-finned males look much bigger than females, but most of that is fin rather than body mass.",
+    "size": "Betta fish grow 6–7 cm (2.4–2.8 in) long as adults, not counting the long tail of show varieties. Females are slightly smaller with shorter fins. So-called giant bettas, a selectively bred strain, can reach 10 cm or more, but standard pet bettas stop growing at about seven months old.",
+    "speed": null,
+    "gestation": "Betta eggs hatch in 24–48 hours. Bettas do not get pregnant: the male builds a bubble nest, wraps around the female as she releases eggs, then collects the fertilized eggs in his mouth and places them in the nest. He guards the fry until they swim freely about three days after hatching.",
+    "diet": "Betta fish are carnivores that eat insects, mosquito larvae, zooplankton and small crustaceans in the wild. Pet bettas should be fed a high-protein betta pellet plus occasional frozen or live bloodworms, brine shrimp or daphnia. They overeat readily, so two small meals a day is plenty.",
+    "habitat": "Wild betta fish live in shallow, warm, still or slow-moving fresh water in Thailand, including marshes, flooded grassland, rice paddies and roadside ditches. The water is often low in oxygen, which bettas handle by breathing air at the surface. It is a myth that they live in tiny puddles; these wetlands cover large areas.",
+    "conservation": "Wild Betta splendens is listed as Vulnerable on the IUCN Red List, and the wild population is decreasing. The main threats are the draining and pollution of wetlands in central Thailand and interbreeding with released domesticated bettas. The domesticated form, by contrast, is one of the most widely kept aquarium fish in the world."
+  },
+  "funFacts": [
+    "Bettas breathe air using a labyrinth organ above the gills, and they can drown if they are prevented from reaching the water surface.",
+    "Male bettas build floating nests of saliva-coated bubbles and do all the parental care, retrieving any egg or hatchling that falls out.",
+    "The betta was named Thailand's national aquatic animal in 2019, reflecting centuries of breeding history there.",
+    "A male betta will flare his gill covers and fins at his own reflection, treating it as a rival male.",
+    "Wild bettas are short-finned and mostly dull green or brown; the flowing fins and bright colors of pet bettas are products of selective breeding."
+  ],
+  "relatedAnimals": ["goldfish", "guppy", "koi", "clownfish", "axolotl"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can two betta fish live together?", "answer": "Two male bettas should never share a tank, because they will fight, often until one is badly injured or dead. Females can sometimes be kept in groups of five or more in a large, heavily planted tank, but this needs close watching. A male and female should only be together briefly for breeding."},
+    {"question": "What fish can live with a betta?", "answer": "Peaceful, short-finned species that ignore the betta work best, such as corydoras catfish, small rasboras, kuhli loaches and snails, in a tank of at least 40 liters. Avoid fin-nippers such as tiger barbs and fish with long, colorful fins such as male guppies, which a betta may attack."},
+    {"question": "Do betta fish need a heater and filter?", "answer": "Yes. Bettas are tropical fish that do best at about 24–28 °C (76–82 °F), which in most homes means a heater. A gentle filter keeps ammonia from building up. Bettas survive in small unheated bowls only because they can breathe air, not because those conditions are healthy."},
+    {"question": "Why do betta fish make bubble nests?", "answer": "A male betta builds a bubble nest because he is mature and ready to breed. He blows saliva-coated bubbles that cluster at the surface, usually under a leaf, to hold eggs and fry. A nest in a pet tank is generally a sign of a healthy, settled fish, even with no female present."},
+    {"question": "Why are they called Siamese fighting fish?", "answer": "The name comes from Siam, the former name of Thailand, where people have bred bettas for organized fights between males for centuries. Matches were bet on, and fighting strains were selected for stamina and aggression. Today most bettas are bred for color and fins instead."}
+  ],
+  "meta": {
+    "title": "How Long Do Betta Fish Live? Betta Facts & Stats",
+    "description": "Betta fish live 2–5 years (about 3 is typical), grow 6–7 cm long and their eggs hatch in 24–48 hours. Diet, tank mates, wild habitat and IUCN status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Betta%20splendens&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Betta_splendens/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Siamese_fighting_fish"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q549"}
+    ]
+  }
+}

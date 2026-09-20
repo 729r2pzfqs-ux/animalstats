@@ -1,0 +1,65 @@
+{
+  "slug": "blue-whale",
+  "commonName": "Blue Whale",
+  "scientificName": "Balaenoptera musculus",
+  "alternateNames": ["Sulphur-bottom whale", "Pygmy blue whale", "Antarctic blue whale"],
+  "nameSingular": "blue whale",
+  "namePlural": "blue whales",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Balaenopteridae", "genus": "Balaenoptera", "species": "B. musculus"},
+  "facts": {
+    "lifespan": {"min": 80, "max": 90, "unit": "years", "context": "estimated from earplug layers", "display": "80–90 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 100000, "max": 150000, "unit": "kg", "context": "adults; the heaviest recorded, Antarctic females, approached 190 tonnes", "display": "100–150 tonnes (110–165 US tons)"},
+    "height": {"min": 24, "max": 30, "unit": "m", "label": "Length", "display": "24–30 m (79–98 ft)"},
+    "speed": {"min": 32, "max": 32, "unit": "km/h", "verb": "swim", "context": "short bursts; normally cruises at about 8 km/h", "display": "over 32 km/h (20 mph) in bursts"},
+    "gestationPeriod": {"min": 300, "max": 365, "unit": "days", "label": "Gestation", "display": "10–12 months"}
+  },
+  "ecology": {
+    "diet": "Filter feeder",
+    "dietDetails": "Almost exclusively krill, the small shrimp-like crustaceans that swarm in cold, productive waters; a blue whale engulfs huge mouthfuls of water and strains out the krill through its baleen plates.",
+    "habitat": ["Open ocean", "Continental shelf edge", "Polar and subpolar waters"],
+    "range": "All oceans except the Arctic, migrating between cold high-latitude feeding grounds in summer and warmer low-latitude waters in winter.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Increasing",
+    "population": "5,000–15,000 mature individuals"
+  },
+  "description": "The blue whale is the largest animal known to have ever lived, longer than a basketball court and heavier than any dinosaur with a reliably estimated weight. It is a baleen whale of the rorqual family, with a long, slender, mottled blue-gray body, a broad flat head, a tiny dorsal fin set far back, and pleated throat grooves that expand when it feeds. Like all whales it belongs to the cetaceans, now classified within the even-toed hoofed mammals. Blue whales feed almost entirely on krill. Twentieth-century whaling killed more than 350,000 of them, and the species is still recovering.",
+  "answers": {
+    "lifespan": "Blue whales are estimated to live 80–90 years. Ages are worked out by counting the wax layers laid down in a whale's earplug, and the oldest individual measured this way was around 110 years old. Blue whales have never been kept in captivity.",
+    "weight": "Adult blue whales weigh roughly 100–150 tonnes (110–165 US tons). The heaviest ever weighed, Antarctic females taken during the whaling era, approached 190 tonnes. Females are larger than males, and weight swings widely over the year as whales fatten on the feeding grounds and fast on migration.",
+    "size": "Blue whales grow 24–30 m (79–98 ft) long. Antarctic blue whales are the biggest, with the longest scientifically measured individuals just under 30 m, and older whaling reports of about 33 m. Northern Hemisphere blue whales average 23–27 m, and the pygmy blue whale subspecies reaches about 24 m.",
+    "speed": "Blue whales can swim at more than 32 km/h (20 mph) in short bursts, but they usually cruise at about 8 km/h (5 mph) and slow further while feeding. Their speed kept them safe from whalers until steam-powered catcher boats and explosive harpoons appeared in the late 1800s.",
+    "gestation": "A blue whale is pregnant for 10–12 months. The single calf is born about 7 m long and weighing 2–3 tonnes, drinks several hundred liters of fat-rich milk a day, and gains around 90 kg daily. It is weaned at six to seven months, and females calve every two to three years.",
+    "diet": "Blue whales are filter feeders that eat almost nothing but krill. A whale lunges into a swarm with its mouth open, takes in a volume of water that can exceed its own body weight, and pushes it out through 270–400 baleen plates per side. An adult can eat several tonnes of krill a day in the feeding season.",
+    "habitat": "Blue whales live in the open ocean worldwide, apart from the Arctic, and are often found along continental shelf edges and upwelling zones where krill concentrates. Most populations feed in cold polar or temperate waters in summer and move toward the tropics to breed in winter.",
+    "conservation": "The blue whale is listed as Endangered on the IUCN Red List, with 5,000–15,000 mature individuals and an increasing trend. That is still a small fraction of numbers before whaling, which ended for this species in the 1960s. Ship strikes, fishing gear entanglement, ocean noise and changes in krill supply are the main threats today."
+  },
+  "funFacts": [
+    "A blue whale's heart weighs roughly 180 kg (400 lb), about the size of a small golf cart, and during deep dives it can slow to as few as two beats per minute.",
+    "Blue whale calls are among the loudest sounds made by any animal and are pitched so low that much of the sound is below human hearing.",
+    "The tongue alone weighs about as much as an elephant.",
+    "A blue whale's blow can rise 9 m (30 ft) into the air.",
+    "A nursing calf gains around 90 kg (200 lb) every day for its first months of life."
+  ],
+  "relatedAnimals": ["humpback-whale", "bowhead-whale", "sperm-whale", "orca", "whale-shark", "african-elephant"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is the blue whale the biggest animal ever?", "answer": "Yes, as far as is reliably known. At up to about 30 m and well over 150 tonnes, the blue whale outweighs the largest dinosaurs whose mass can be soundly estimated. A few fossil giants, such as the extinct whale Perucetus, have been proposed as rivals, but those estimates are disputed."},
+    {"question": "How many blue whales are left?", "answer": "The IUCN estimates 5,000–15,000 mature blue whales worldwide, and total numbers including juveniles are somewhat higher. Before industrial whaling there were probably more than 250,000, most of them in the Southern Ocean, where recovery has been slowest."},
+    {"question": "How big is a blue whale's heart?", "answer": "A blue whale's heart weighs about 180 kg (400 lb) and measures roughly 1.5 m across, making it the largest heart of any animal. The popular claim that a person could swim through its arteries is an exaggeration, although the main artery is around 23 cm wide."},
+    {"question": "Do blue whales have any predators?", "answer": "Orcas are the only natural predator of blue whales. Pods mostly target calves, but coordinated attacks that killed adult blue whales were documented off Western Australia in 2019 and 2021. Collisions with ships are a far more common cause of death."},
+    {"question": "Can a blue whale swallow a person?", "answer": "No. Although a blue whale's mouth could hold dozens of people, its throat is only about the width of a dinner plate, sized for swallowing krill. Blue whales have no teeth and do not attack humans."}
+  ],
+  "meta": {
+    "title": "Blue Whale Facts: Size, Weight, Lifespan & Diet",
+    "description": "Blue whales grow 24–30 m (79–98 ft) long, weigh 100–150 tonnes and live 80–90 years. Speed, krill diet, gestation and status of the largest animal on Earth.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Balaenoptera%20musculus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Balaenoptera_musculus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Balaenoptera_musculus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Blue_whale"}
+    ]
+  }
+}

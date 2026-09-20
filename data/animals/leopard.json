@@ -1,0 +1,64 @@
+{
+  "slug": "leopard",
+  "commonName": "Leopard",
+  "scientificName": "Panthera pardus",
+  "alternateNames": ["Panther", "Black panther", "African leopard", "Indian leopard"],
+  "nameSingular": "leopard",
+  "namePlural": "leopards",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Felidae", "genus": "Panthera", "species": "P. pardus"},
+  "facts": {
+    "lifespan": {"min": 12, "max": 17, "unit": "years", "context": "in the wild", "display": "12–17 years"},
+    "lifespanCaptivity": {"min": 20, "max": 23, "unit": "years", "context": "in human care", "display": "up to 20–23 years"},
+    "weight": {"min": 20, "max": 72, "unit": "kg", "context": "females 20–43 kg, males 30–72 kg; size varies widely by region", "display": "20–72 kg (44–159 lb)"},
+    "height": {"min": 57, "max": 70, "unit": "cm", "label": "Shoulder height", "display": "57–70 cm (22–28 in)"},
+    "speed": {"min": 58, "max": 58, "unit": "km/h", "verb": "run", "context": "short bursts", "display": "58 km/h (36 mph)"},
+    "gestationPeriod": {"min": 90, "max": 105, "unit": "days", "label": "Gestation", "display": "90–105 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Extremely varied: mostly medium-sized hoofed mammals such as impala, bushbuck, chital and gazelles, but also monkeys, warthogs, rodents, birds, reptiles, fish and even dung beetles.",
+    "habitat": ["Savanna", "Tropical forest", "Mountains", "Scrub", "Semi-desert"],
+    "range": "Widely but patchily across sub-Saharan Africa, and from the Middle East through India, Sri Lanka and Southeast Asia to China and the Russian Far East.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The leopard is the smallest and most adaptable of the four classic big cats and has the widest range of any wild cat in Africa and Asia. Its tawny coat is covered in rosettes, ring-shaped clusters of dark spots without a central dot, and melanistic individuals are known as black panthers. Leopards are solitary, secretive and mostly nocturnal, and they are outstanding climbers, regularly hauling kills into trees to keep them from lions and hyenas. This flexibility lets them live everywhere from rainforest and desert edge to the outskirts of cities such as Mumbai, yet they have vanished from most of their historic range.",
+  "answers": {
+    "lifespan": "Leopards live 12–17 years in the wild and up to about 20–23 years in zoos. Wild males often have shorter lives than females because of territorial fights. Cub mortality is high, with roughly half of all cubs dying in their first year, many killed by lions, hyenas or other leopards.",
+    "weight": "Adult leopards weigh 20–72 kg (44–159 lb). Males, at 30–72 kg, are much heavier than females at 20–43 kg. Size varies with region: leopards from the mountains of Iran and southern African savannas are among the largest, while those of Arabian deserts are the smallest.",
+    "size": "A leopard stands 57–70 cm (22–28 in) tall at the shoulder. Head-and-body length is roughly 0.9–1.9 m, and the long tail adds 60–100 cm, helping with balance in trees. Leopards are relatively short-legged and long-bodied compared with other big cats.",
+    "speed": "A leopard can run at about 58 km/h (36 mph) in a short burst. It relies on stealth far more than speed, stalking to within a few meters before pouncing. Leopards can also leap about 6 m horizontally and 3 m straight up.",
+    "gestation": "A leopard is pregnant for 90–105 days, a little over three months. The female gives birth to two or three cubs in a cave, thicket or hollow tree and moves them often to avoid predators. Cubs stay with their mother for 18–24 months.",
+    "diet": "Leopards are carnivores with the broadest diet of any big cat, recorded eating more than 100 prey species. They prefer medium-sized hoofed mammals of about 10–40 kg, such as impala and chital, but will take anything from beetles and rodents to young giraffes, and they readily scavenge.",
+    "habitat": "Leopards live in more habitats than any other big cat, including savanna, rainforest, mountains up to the snowline, dry scrub and semi-desert, in Africa and across southern Asia to the Russian Far East. They need only cover and prey and can even survive on the edges of large cities.",
+    "conservation": "The leopard is listed as Vulnerable on the IUCN Red List, and its population is decreasing. It has disappeared from an estimated two-thirds or more of its historic range. Habitat loss, declining prey, conflict with livestock farmers and poaching for skins are the main threats; several subspecies, including the Amur leopard, are Critically Endangered."
+  },
+  "funFacts": [
+    "A leopard can carry prey heavier than itself up a tree, including young giraffes and antelope weighing over 50 kg.",
+    "Black panthers are simply leopards (or jaguars) with excess dark pigment; their rosettes are still visible in good light.",
+    "Leopards make a distinctive rasping call that sounds like someone sawing wood.",
+    "Leopards live inside Mumbai's Sanjay Gandhi National Park and hunt stray dogs on the edge of the city at night.",
+    "The Amur leopard of the Russian Far East is one of the rarest cats on Earth, with only around 100 left in the wild."
+  ],
+  "relatedAnimals": ["jaguar", "cheetah", "lion", "tiger", "snow-leopard", "spotted-hyena"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a leopard and a jaguar?", "answer": "Leopards live in Africa and Asia; jaguars live in the Americas. Jaguars are stockier, with a broader head and shorter tail, and their rosettes are larger with small spots inside. Leopard rosettes are smaller, closer together and have no central dots."},
+    {"question": "What is the difference between a leopard and a cheetah?", "answer": "Cheetahs have solid round spots, black tear lines running from the eyes to the mouth, and a slim, long-legged body built for speed. Leopards have rosettes, no tear lines, and a heavier, more muscular build suited to climbing and ambush."},
+    {"question": "Is a black panther a leopard?", "answer": "Often, yes. 'Black panther' is not a species but a name for a melanistic big cat: a black leopard in Africa and Asia, or a black jaguar in the Americas. Black leopards are most common in the humid forests of Malaysia and Java."},
+    {"question": "Why do leopards drag their kills into trees?", "answer": "Leopards hoist kills into trees to protect them from lions, hyenas and wild dogs, which readily steal carcasses but cannot climb well. A cached carcass lets the leopard feed over several days. Where those competitors are absent, leopards hoist prey less often."},
+    {"question": "Are leopards dangerous to humans?", "answer": "Leopards usually avoid people, but attacks do happen, especially in parts of India and Nepal where leopards live close to villages. Most incidents involve surprised or cornered animals, though a few individuals have become habitual man-eaters."}
+  ],
+  "meta": {
+    "title": "Leopard Facts: Weight, Speed, Lifespan, Diet & Habitat",
+    "description": "Leopards weigh 20–72 kg (44–159 lb), stand 57–70 cm at the shoulder, run at 58 km/h and live 12–17 years in the wild. Diet, range and Vulnerable status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Panthera%20pardus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Panthera_pardus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Panthera_pardus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Leopard"}
+    ]
+  }
+}

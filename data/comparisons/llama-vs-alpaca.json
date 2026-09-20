@@ -1,0 +1,55 @@
+{
+  "slug": "llama-vs-alpaca",
+  "summary": "The main difference between llamas and alpacas is size and purpose: llamas are roughly twice as heavy and were bred as pack animals, while alpacas are smaller and were bred for their fine, soft fleece. Llamas have long, curved, banana-shaped ears and a long face. Alpacas have short, spear-shaped ears and a blunt, fluffy face.",
+  "differences": [
+    {
+      "title": "Size",
+      "text": "A llama is the largest of the South American camelids, standing head and shoulders above an alpaca and weighing about twice as much. That size and strength is why Andean peoples used llamas to carry loads along mountain trails. Alpacas are compact and much easier to handle, closer to the size of a large sheep."
+    },
+    {
+      "title": "Ears and face",
+      "text": "Llama ears are long and curve inward at the tips, a shape often compared to bananas. Alpaca ears are short, straight and pointed, like spearheads. A llama's face is long with little hair on it. An alpaca has a short, blunt muzzle and a dense topknot of fleece that gives it a teddy-bear look."
+    },
+    {
+      "title": "Fiber",
+      "text": "Alpacas produce a dense, uniform, very fine fleece prized for clothing, in more than twenty natural shades. There are two breeds: the fluffy, crimped Huacaya and the rarer Suri, whose fiber hangs in silky locks. Llamas have a coarse outer coat over a softer undercoat; their fiber is used mainly for rugs, ropes and bags."
+    },
+    {
+      "title": "Ancestry",
+      "text": "Genetic studies indicate that the llama was domesticated from the wild guanaco, and the alpaca from the smaller, finer-fleeced vicuña, although later crossbreeding has blurred the lines. This is why the alpaca's scientific name was changed from Lama pacos to Vicugna pacos. Both were domesticated in the Andes several thousand years ago."
+    },
+    {
+      "title": "Temperament",
+      "text": "Llamas are confident and independent, and a single llama is often placed with sheep or alpacas as a guard animal, because it will confront foxes, coyotes and stray dogs. Alpacas are shyer herd animals that become stressed if kept alone. They should always be kept in groups of three or more."
+    }
+  ],
+  "similarities": "Llamas and alpacas are domesticated South American members of the camel family, Camelidae, closely related to the wild guanaco and vicuña. Both have padded two-toed feet instead of hard hooves, a split upper lip, a three-chambered stomach, and no upper front teeth. Both hum to communicate, use shared dung piles, and spit, mostly at each other in disputes over food or rank.",
+  "howToTell": [
+    "Check the ears: long, curved banana-shaped ears mean llama; short, straight, pointed ears mean alpaca.",
+    "A tall animal that looks you in the eye is a llama. An alpaca is much shorter.",
+    "A long, fairly bare face is a llama's; a short, fluffy, rounded face is an alpaca's.",
+    "Animals wearing packs or guarding a flock of sheep are llamas, not alpacas."
+  ],
+  "faq": [
+    {
+      "question": "Can llamas and alpacas interbreed?",
+      "answer": "Yes. Llamas and alpacas can mate and produce fertile offspring, called a huarizo when the father is a llama and the mother an alpaca. All four South American camelids have 74 chromosomes and can interbreed. Breeders usually avoid crosses, because they reduce fleece quality."
+    },
+    {
+      "question": "Do llamas and alpacas spit?",
+      "answer": "Yes, both do, but mostly at each other. Spitting settles arguments over food, signals annoyance, and lets a pregnant female reject a male. Well-socialized animals rarely spit at people. Flattened ears and a raised chin are the warning signs that one is about to."
+    },
+    {
+      "question": "Which is friendlier, a llama or an alpaca?",
+      "answer": "It depends on the individual and how it was raised. Llamas tend to be bolder and more comfortable approaching and working with people, which suits trekking. Alpacas are gentle but timid and often dislike being touched. Neither behaves like a dog, and both prefer the company of their own herd."
+    },
+    {
+      "question": "Are llamas and alpacas related to camels?",
+      "answer": "Yes. Llamas and alpacas belong to the camel family, Camelidae, which originated in North America. One branch spread to Asia and Africa and gave rise to dromedary and Bactrian camels, while another moved into South America and produced the guanaco, vicuña, llama and alpaca."
+    }
+  ],
+  "meta": {
+    "title": "Llama vs Alpaca: Size, Ears, Fleece and Differences",
+    "description": "Llamas are about twice the size of alpacas, with banana-shaped ears, and carry loads; alpacas are small and bred for soft fleece. Learn more."
+  }
+}

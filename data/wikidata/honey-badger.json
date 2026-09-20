@@ -1,0 +1,34 @@
+{
+  "slug": "honey-badger",
+  "commonName": "Honey Badger",
+  "scientificName": "Mellivora capensis",
+  "classSlug": "mammals",
+  "aliases": [
+    "ratel"
+  ],
+  "qid": "Q173128",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Honey badger",
+  "taxonomy": {
+    "species": "Mellivora capensis",
+    "genus": "Mellivora",
+    "family": "Mustelidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "12",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "6",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

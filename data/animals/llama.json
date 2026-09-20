@@ -1,0 +1,64 @@
+{
+  "slug": "llama",
+  "commonName": "Llama",
+  "scientificName": "Lama glama",
+  "alternateNames": ["Domestic llama"],
+  "nameSingular": "llama",
+  "namePlural": "llamas",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Camelidae", "genus": "Lama", "species": "L. glama"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 25, "unit": "years", "context": "with good care; most live 15–20 years", "display": "15–25 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 130, "max": 200, "unit": "kg", "context": "typical adults; exceptionally large animals are reported at up to about 270 kg", "display": "130–200 kg (290–440 lb)"},
+    "height": {"min": 1.0, "max": 1.2, "unit": "m", "label": "Shoulder height", "display": "1.0–1.2 m (3.3–3.9 ft); 1.7–1.8 m at the head"},
+    "speed": null,
+    "gestationPeriod": {"min": 340, "max": 360, "unit": "days", "label": "Gestation", "display": "about 350 days (11.5 months)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Grasses, low shrubs, lichens and other mountain vegetation, plus hay on farms; llamas have a three-chambered stomach, chew cud and need less water than most livestock.",
+    "habitat": ["High-altitude grassland", "Mountain plateau", "Farmland"],
+    "range": "The Andes of Peru, Bolivia, Ecuador, Chile and Argentina, mostly above 2,300 m; also farmed in North America, Europe and Australia.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "The llama is the largest of the four South American camelids, a humpless relative of camels domesticated from the wild guanaco in the Andes of Peru some 4,000–5,000 years ago. Andean peoples, including the Inca, relied on it as their only pack animal and as a source of meat, hides, fiber and dried dung for fuel. Llamas have long necks, banana-shaped ears, padded two-toed feet that grip rocky trails, and blood adapted to thin mountain air. They are social herd animals that communicate by humming and settle disputes by spitting. Llamas do not exist in the wild.",
+  "answers": {
+    "lifespan": "Llamas live 15–25 years, with most reaching 15–20. Good nutrition, parasite control and dental care can carry some individuals into their late twenties. Because llamas are domestic animals, there is no separate wild lifespan; their wild ancestor, the guanaco, lives roughly 15–20 years.",
+    "weight": "An adult llama weighs 130–200 kg (290–440 lb), and unusually large animals have been reported at up to about 270 kg. That makes the llama two to three times heavier than an alpaca. A newborn llama, called a cria, weighs around 9–14 kg.",
+    "size": "A llama stands 1.0–1.2 m (3.3–3.9 ft) at the shoulder and 1.7–1.8 m (5.6–5.9 ft) at the top of the head. The long neck accounts for much of its height. Alpacas are noticeably shorter, at about 0.8–1.0 m at the shoulder.",
+    "speed": null,
+    "gestation": "A llama is pregnant for about 350 days, or roughly 11.5 months. She gives birth standing up to a single cria, usually in the morning, and twins are very rare. Llamas have no fixed breeding season because females ovulate only after mating.",
+    "diet": "Llamas are herbivores that graze on grasses and browse on shrubs, lichens and other hardy mountain plants. They have a three-chambered stomach and chew cud like cattle, but use food and water more efficiently. Farmed llamas eat pasture and grass hay and need only modest amounts of feed for their size.",
+    "habitat": "Llamas live on the high plateaus and mountain grasslands of the Andes, typically at 2,300–4,000 m, in Peru, Bolivia, Ecuador, Chile and Argentina. Their blood carries oxygen unusually well, which suits them to high altitude. Tens of thousands are also kept on farms in North America and Europe.",
+    "conservation": "The llama is a domesticated animal with no IUCN Red List status, and several million live in South America, mostly in Bolivia and Peru. It has no wild population. Its wild ancestor, the guanaco, is listed as Least Concern."
+  },
+  "funFacts": [
+    "Llamas spit mainly at each other to settle arguments over food or rank; a well-raised llama rarely spits at people.",
+    "A pack llama can carry roughly a quarter of its body weight, and an overloaded llama will simply lie down and refuse to move.",
+    "Llama antibodies are unusually small, and these 'nanobodies' are widely used in medical research.",
+    "Llamas deposit their droppings in shared dung piles, which makes pastures easier to keep clean.",
+    "The Inca had no horses or oxen; llama caravans carried goods along thousands of kilometers of mountain roads."
+  ],
+  "relatedAnimals": ["alpaca", "dromedary-camel", "bactrian-camel", "sheep", "goat", "donkey"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a llama and an alpaca?", "answer": "Llamas are about twice the size of alpacas, with long, curved 'banana' ears and longer faces, while alpacas have short, spear-shaped ears and blunt, fluffy faces. Llamas were bred as pack animals and alpacas for their fine fleece."},
+    {"question": "Why do llamas spit?", "answer": "Llamas spit to communicate annoyance, mostly toward other llamas when competing for food, establishing rank or, in females, rejecting a male. Spitting at humans is uncommon and usually comes from animals that feel threatened or were over-handled when young."},
+    {"question": "Are llamas related to camels?", "answer": "Yes. Llamas, alpacas, guanacos and vicuñas belong to the camel family, Camelidae. The family originated in North America, and ancestors of llamas moved into South America about three million years ago while camel ancestors crossed into Asia."},
+    {"question": "Can you ride a llama?", "answer": "Adults should not ride llamas. A llama can comfortably carry only about 25–30 percent of its body weight, roughly 35–55 kg, so they are used as pack animals. Small children are sometimes led on llamas, but their spines are not built for riders."},
+    {"question": "Do llamas guard sheep?", "answer": "Yes, a single llama pastured with sheep or goats will often bond with the flock and chase away coyotes, foxes and dogs. Studies of US sheep producers reported clear reductions in predator losses after adding a guard llama."}
+  ],
+  "meta": {
+    "title": "Llama Facts: Lifespan, Weight, Height & Gestation",
+    "description": "Llamas live 15–25 years, weigh 130–200 kg (290–440 lb), stand up to 1.8 m at the head and are pregnant for about 350 days. Diet, habitat and llama facts.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Llama"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Lama_glama/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Lama_glama"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q42569"}
+    ]
+  }
+}

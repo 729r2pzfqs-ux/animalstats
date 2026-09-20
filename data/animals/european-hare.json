@@ -1,0 +1,64 @@
+{
+  "slug": "european-hare",
+  "commonName": "European Hare",
+  "scientificName": "Lepus europaeus",
+  "alternateNames": ["Brown hare", "Common hare"],
+  "nameSingular": "European hare",
+  "namePlural": "European hares",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Lagomorpha", "family": "Leporidae", "genus": "Lepus", "species": "L. europaeus"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 5, "unit": "years", "context": "typical for adults in the wild; the record is about 12 years", "display": "2–5 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 3, "max": 5, "unit": "kg", "context": "adults; females are slightly heavier", "display": "3–5 kg (6.6–11 lb)"},
+    "height": {"min": 60, "max": 75, "unit": "cm", "label": "Body length", "display": "60–75 cm (24–30 in)"},
+    "speed": {"min": 70, "max": 70, "unit": "km/h", "verb": "run", "context": "top speed when fleeing", "display": "70 km/h (43 mph)"},
+    "gestationPeriod": {"min": 41, "max": 42, "unit": "days", "label": "Gestation", "display": "41–42 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Grasses, wild herbs and field crops such as cereals, clover and sugar beet in spring and summer; twigs, buds and the bark of shrubs and young fruit trees in winter.",
+    "habitat": ["Arable farmland", "Grassland", "Pasture", "Open woodland edges", "Steppe"],
+    "range": "Native to continental Europe and western Asia; introduced to Britain in ancient times and later to Ireland, Scandinavia, North and South America, Australia and New Zealand.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The European hare, or brown hare, is one of the largest hares and a characteristic animal of open farmland and grassland across Europe and western Asia. Unlike rabbits, hares do not dig burrows; they rest in a shallow scrape called a form and rely on camouflage and sheer speed to escape predators. They have long black-tipped ears, long powerful hind legs and large eyes set for near all-round vision. Hares are mostly nocturnal and solitary, but in spring they become conspicuous as they chase and 'box' in daylight. Their young, called leverets, are born fully furred with open eyes.",
+  "answers": {
+    "lifespan": "European hares that reach adulthood typically live 2–5 years in the wild, and the oldest wild hare on record was about 12. Most leverets die in their first year from predators, farm machinery, cold wet weather and disease, so the average lifespan from birth is far shorter.",
+    "weight": "Adult European hares weigh 3–5 kg (6.6–11 lb), making them two to three times as heavy as a wild European rabbit. Females are slightly heavier than males, and hares from colder northern and eastern regions tend to be larger.",
+    "size": "A European hare has a head-and-body length of 60–75 cm (24–30 in), with a 7–11 cm tail that is black on top and white beneath. Its ears are 9–11 cm long with black tips, and its hind feet measure 14–16 cm.",
+    "speed": "European hares can run at up to 70 km/h (43 mph), which makes them one of the fastest land mammals in Europe. They pair that speed with sudden sharp turns and the stamina to outlast a fox, since they have no burrow to bolt into.",
+    "gestation": "A European hare is pregnant for 41–42 days. A female can have three or four litters a year of one to four leverets each, and she can conceive a second litter shortly before giving birth to the first, a phenomenon known as superfetation.",
+    "diet": "European hares are herbivores that eat grasses, herbs and crops such as young cereals, clover and beet, switching to buds, twigs and bark in winter. Like rabbits, they re-eat soft droppings produced during the day to extract more nutrients from their food.",
+    "habitat": "European hares live in open country: arable fields, pasture, grassland, steppe and the edges of woods and hedgerows. They do best in mixed farmland that offers food and cover all year and fare poorly in large single-crop fields or dense forest.",
+    "conservation": "European hares are listed as Least Concern on the IUCN Red List, but the population is decreasing. Numbers across much of Europe have fallen since the 1960s because of intensive farming, loss of crop diversity and field margins, machinery, disease and predation on leverets."
+  },
+  "funFacts": [
+    "The 'boxing' seen in March is usually a female fending off an over-eager male, not two males fighting.",
+    "Leverets are born above ground, fully furred and with open eyes, and their mother visits them only briefly around sunset to nurse.",
+    "The phrase 'mad as a March hare' comes from the hares' frantic chasing and boxing during the spring breeding season.",
+    "A European hare's eyes are set so far to the sides that it can see almost all the way around without moving its head.",
+    "Hares and rabbits are lagomorphs, not rodents; they have a second, small pair of upper incisors behind the first."
+  ],
+  "relatedAnimals": ["rabbit", "red-fox", "gray-squirrel", "hedgehog", "golden-eagle", "pronghorn"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a hare and a rabbit?", "answer": "Hares are larger, with longer black-tipped ears and longer hind legs, and they live above ground in shallow forms rather than in burrows. Their young are born furred and open-eyed, whereas rabbit kits are born naked and blind. Hares are also mostly solitary and have never been domesticated."},
+    {"question": "Why do hares box?", "answer": "Boxing hares are usually a female and a male. A female that is not yet ready to mate rears up and strikes a persistent male with her forepaws, and the bouts may also test his fitness. Boxing peaks in spring but can happen throughout the long breeding season."},
+    {"question": "What is a baby hare called?", "answer": "A baby hare is called a leveret. Leverets are born in the open weighing about 100–130 g, already furred and able to see. They lie still and scentless in separate hiding places during the day, gather to suckle once each evening and are weaned at around a month old."},
+    {"question": "Do hares make good pets?", "answer": "No. Hares have never been domesticated and are nervous, easily stressed animals that can injure or kill themselves trying to escape when confined. Leverets found alone have rarely been abandoned, because the mother stays away on purpose, so they should be left where they are."},
+    {"question": "What is a group of hares called?", "answer": "A group of hares is traditionally called a drove, and also a down or husk. The terms are rarely needed, because European hares live alone for most of the year and gather only loosely at good feeding sites or during spring courtship."}
+  ],
+  "meta": {
+    "title": "European Hare Facts: Speed, Size, Lifespan & Diet",
+    "description": "European hares run at up to 70 km/h (43 mph), weigh 3–5 kg and measure 60–75 cm long. Lifespan, leverets, boxing behavior, habitat and hare vs rabbit.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Lepus%20europaeus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Lepus_europaeus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Lepus_europaeus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/European_hare"}
+    ]
+  }
+}

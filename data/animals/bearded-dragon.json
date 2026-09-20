@@ -1,0 +1,64 @@
+{
+  "slug": "bearded-dragon",
+  "commonName": "Central Bearded Dragon",
+  "scientificName": "Pogona vitticeps",
+  "alternateNames": ["Bearded dragon", "Inland bearded dragon", "Beardie"],
+  "nameSingular": "bearded dragon",
+  "namePlural": "bearded dragons",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Squamata", "family": "Agamidae", "genus": "Pogona", "species": "P. vitticeps"},
+  "facts": {
+    "lifespan": {"min": 5, "max": 8, "unit": "years", "context": "estimated in the wild", "display": "5–8 years"},
+    "lifespanCaptivity": {"min": 10, "max": 15, "unit": "years", "context": "as a well-kept pet", "display": "10–15 years"},
+    "weight": {"min": 300, "max": 500, "unit": "g", "context": "healthy adults", "display": "300–500 g (11–18 oz)"},
+    "height": {"min": 40, "max": 60, "unit": "cm", "label": "Length", "display": "40–60 cm (16–24 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 55, "max": 75, "unit": "days", "label": "Incubation", "display": "55–75 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Insects such as ants, beetles, termites and grasshoppers, plus leaves, flowers and fruit, and occasionally small lizards. Young dragons eat mostly insects, while adults shift toward a largely plant-based diet.",
+    "habitat": ["Desert", "Arid woodland", "Scrubland", "Dry grassland"],
+    "range": "The arid and semi-arid interior of eastern and central Australia, across parts of Queensland, New South Wales, Victoria, South Australia and the Northern Territory.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The central bearded dragon is a medium-sized Australian lizard and one of the most popular pet reptiles in the world. It is named for the spiny pouch under its throat, which it puffs out and darkens to black when threatened or displaying. In the wild it lives in dry woodland and desert, basking on fence posts, stumps and rocks in the morning and retreating to shade or burrows in the midday heat. Bearded dragons are calm, active by day and tolerate handling well. Australia banned wildlife exports in the 1960s, so pet dragons elsewhere are all captive bred.",
+  "answers": {
+    "lifespan": "Bearded dragons live 10–15 years as well-kept pets and an estimated 5–8 years in the wild. Wild dragons face predators such as birds of prey, goannas, snakes, dingoes and feral cats. In captivity, proper UVB lighting, heat and a calcium-rich diet are the main factors in reaching a full lifespan.",
+    "weight": "A healthy adult bearded dragon weighs 300–500 g (11–18 oz). Males tend to be slightly larger, with broader heads. Pets heavier than about 600 g are usually overweight, a common problem when adults are fed too many insects and not enough greens.",
+    "size": "Adult bearded dragons are 40–60 cm (16–24 in) long from snout to tail tip, and the tail makes up about half of that. Hatchlings are roughly 10 cm long and grow quickly, reaching close to adult size in 12–18 months.",
+    "speed": null,
+    "gestation": "Bearded dragon eggs hatch after about 55–75 days of incubation. The female digs a burrow and lays a clutch of roughly 11–30 eggs, and she can lay several clutches in one season from a single mating. Warmer incubation temperatures shorten the time to hatching.",
+    "diet": "Bearded dragons are omnivores that eat insects, leaves, flowers, fruit and the occasional small lizard. Juveniles eat mostly insects to fuel fast growth, while adults eat mainly plants. Pet adults do best on leafy greens and vegetables daily, with insects a few times a week.",
+    "habitat": "Central bearded dragons live in the deserts, dry woodlands and scrublands of inland eastern and central Australia. They are semi-arboreal and often perch on branches, stumps and fence posts to bask and watch for rivals. During very hot or cold periods they shelter in burrows.",
+    "conservation": "The central bearded dragon is listed as Least Concern on the IUCN Red List, with a stable population. It is widespread and common in inland Australia and is protected there, like all native reptiles. The millions kept as pets worldwide are captive bred."
+  },
+  "funFacts": [
+    "Bearded dragons wave one arm in a slow circle, a gesture thought to signal submission or recognition to other dragons.",
+    "At high incubation temperatures, genetically male embryos can develop as fully fertile females, making this one of the few reptiles known to switch sex in the egg.",
+    "The \"beard\" can turn jet black within moments when the lizard is stressed, threatened or courting.",
+    "In cool months bearded dragons enter brumation, a reptile version of hibernation, and may barely eat or move for weeks.",
+    "Bearded dragons produce a mild venom, a leftover of their evolutionary history that is harmless to people."
+  ],
+  "relatedAnimals": ["leopard-gecko", "green-iguana", "veiled-chameleon", "komodo-dragon", "ball-python", "red-eared-slider"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are bearded dragons good pets for beginners?", "answer": "Yes. Bearded dragons are widely considered one of the best lizards for beginners because they are docile, active by day and tolerate handling. They still need a large heated enclosure, strong UVB lighting and a varied diet, and owners should plan for a 10–15 year commitment."},
+    {"question": "What size tank does a bearded dragon need?", "answer": "An adult bearded dragon needs an enclosure of at least about 120 × 60 × 60 cm (4 × 2 × 2 ft), often sold as a 120-gallon tank. It needs a hot basking spot of roughly 38–42 °C, a cooler end and a UVB lamp spanning much of the length."},
+    {"question": "Do bearded dragons bite?", "answer": "Rarely. Bearded dragons are among the least aggressive pet lizards, and most bites are feeding mistakes or come from frightened, poorly socialized animals. A bite can pinch or break the skin but is not dangerous. Wash the area with soap and water afterward."},
+    {"question": "Why is my bearded dragon's beard black?", "answer": "A black beard usually signals stress, fear, aggression or breeding behavior. It can also appear when a dragon is cold, unwell or adjusting to a new home. A brief black beard is normal, but if it lasts for days along with poor appetite, a reptile vet visit is wise."},
+    {"question": "Can bearded dragons eat fruit?", "answer": "Yes, in small amounts. Fruits such as berries, apple, melon and mango are fine as occasional treats, but they are high in sugar and should make up only a small part of the diet. Leafy greens and vegetables should be the daily staple for adults."}
+  ],
+  "meta": {
+    "title": "Bearded Dragon Lifespan, Size, Weight & Diet Facts",
+    "description": "Bearded dragons live 10–15 years as pets, grow 40–60 cm (16–24 in) long and weigh 300–500 g. Diet, egg incubation, habitat and pet care facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Pogona%20vitticeps&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Pogona_vitticeps/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Pogona_vitticeps"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Central_bearded_dragon"}
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "great-white-shark",
+  "commonName": "Great White Shark",
+  "scientificName": "Carcharodon carcharias",
+  "classSlug": "fish",
+  "aliases": [
+    "shark"
+  ],
+  "qid": "Q129026",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Great white shark",
+  "taxonomy": {
+    "species": "Carcharodon carcharias",
+    "genus": "Carcharodon",
+    "family": "Lamnidae",
+    "order": "Lamniformes",
+    "class": "Chondrichthyes",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "2400",
+      "unit": "lb",
+      "sex": null
+    },
+    {
+      "property": "lifeExpectancy",
+      "amount": "73",
+      "unit": "year",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "18",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

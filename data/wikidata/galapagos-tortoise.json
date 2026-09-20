@@ -1,0 +1,22 @@
+{
+  "slug": "galapagos-tortoise",
+  "commonName": "Galápagos Tortoise",
+  "scientificName": "Chelonoidis niger",
+  "classSlug": "reptiles",
+  "aliases": [
+    "tortoise",
+    "giant tortoise"
+  ],
+  "qid": "Q486672",
+  "iucnStatus": "Extinct",
+  "wikipedia": "Floreana giant tortoise",
+  "taxonomy": {
+    "genus": "Chelonoidis",
+    "family": "Testudinidae",
+    "order": "Testudines",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

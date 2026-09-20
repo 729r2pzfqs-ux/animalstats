@@ -1,0 +1,47 @@
+{
+  "slug": "tiger",
+  "commonName": "Tiger",
+  "scientificName": "Panthera tigris",
+  "classSlug": "mammals",
+  "aliases": [
+    "bengal tiger",
+    "siberian tiger"
+  ],
+  "qid": "Q19939",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Tiger",
+  "taxonomy": {
+    "species": "Panthera tigris",
+    "genus": "Panthera",
+    "family": "Felidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "1.19",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "180",
+      "unit": "kg",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "120",
+      "unit": "kg",
+      "sex": "female"
+    },
+    {
+      "property": "gestation",
+      "amount": "107",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

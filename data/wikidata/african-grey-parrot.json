@@ -1,0 +1,40 @@
+{
+  "slug": "african-grey-parrot",
+  "commonName": "African Grey Parrot",
+  "scientificName": "Psittacus erithacus",
+  "classSlug": "birds",
+  "aliases": [
+    "parrot",
+    "grey parrot"
+  ],
+  "qid": "Q220328",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Grey parrot",
+  "taxonomy": {
+    "species": "Psittacus erithacus",
+    "genus": "Psittacus",
+    "family": "Psittacidae",
+    "order": "Psittaciformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "18.7",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "lifeExpectancy",
+      "amount": "45",
+      "unit": "year",
+      "sex": null
+    },
+    {
+      "property": "lifeExpectancy",
+      "amount": "22",
+      "unit": "year",
+      "sex": null
+    }
+  ]
+}

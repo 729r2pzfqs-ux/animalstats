@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% from "_macros.html" import ad, badge, faq_block %}
+{% set A = cmp.A %}{% set B = cmp.B %}{% set t = cmp.text %}
+{% macro row(label, a, b) %}<tr><td class="font-semibold text-slate-900">{{ label }}</td><td>{{ a }}</td><td>{{ b }}</td></tr>{% endmacro %}
+{% block main %}
+<article class="wrap">
+  <header class="pt-4">
+    <h1 class="text-[1.7rem] font-extrabold leading-tight tracking-tight sm:text-4xl">{{ cmp.title }}: What’s the Difference?</h1>
+    <p class="mt-2 text-base leading-relaxed text-slate-700 sm:text-lg">{{ t.summary }}</p>
+  </header>
+
+  <section aria-label="Side-by-side comparison" class="card mt-4 overflow-x-auto">
+    <table class="tbl">
+      <thead><tr><th class="w-28"></th><th><a href="{{ A.url }}" class="text-emerald-700 underline">{{ A.commonName }}</a></th><th><a href="{{ B.url }}" class="text-emerald-700 underline">{{ B.commonName }}</a></th></tr></thead>
+      <tbody>
+        <tr><td class="font-semibold text-slate-900">Scientific name</td><td><em>{{ A.scientificName }}</em></td><td><em>{{ B.scientificName }}</em></td></tr>
+        {{ row('Lifespan', A.facts.lifespan.display ~ ' ' ~ (A.facts.lifespan.context or ''), B.facts.lifespan.display ~ ' ' ~ (B.facts.lifespan.context or '')) }}
+        {{ row('Weight', A.facts.weight.display if A.facts.weight else '—', B.facts.weight.display if B.facts.weight else '—') }}
+        {{ row('Size', A.facts.height.display ~ ' (' ~ A.facts.height.label|lower ~ ')', B.facts.height.display ~ ' (' ~ B.facts.height.label|lower ~ ')') }}
+        {{ row('Top speed', A.facts.speed.display if A.facts.speed else '—', B.facts.speed.display if B.facts.speed else '—') }}
+        {{ row('Gestation / incubation', A.facts.gestationPeriod.display if A.facts.gestationPeriod else '—', B.facts.gestationPeriod.display if B.facts.gestationPeriod else '—') }}
+        {{ row('Diet', A.ecology.diet, B.ecology.diet) }}
+        {{ row('Family', A.taxonomy.family, B.taxonomy.family) }}
+        <tr><td class="font-semibold text-slate-900">Habitat</td><td>{{ A.ecology.habitat|join(', ') }}</td><td>{{ B.ecology.habitat|join(', ') }}</td></tr>
+        <tr><td class="font-semibold text-slate-900">IUCN status</td><td>{{ badge(A) }}</td><td>{{ badge(B) }}</td></tr>
+      </tbody>
+    </table>
+  </section>
+  <p class="mt-2 text-xs text-slate-500">Figures shown are for the {{ A.commonName|lower }} (<em>{{ A.scientificName }}</em>) and the {{ B.commonName|lower }} (<em>{{ B.scientificName }}</em>).</p>
+
+  <h2 class="h2">{{ icon('scale', 'w-6 h-6 text-emerald-700') }} Key differences</h2>
+  <div class="space-y-4">
+    {% for d in t.differences %}
+    <div><h3 class="font-bold text-slate-900">{{ d.title }}</h3><p class="prose-p mt-1">{{ d.text }}</p></div>
+    {% endfor %}
+  </div>
+
+  {{ ad('in_article_1') }}
+
+  <h2 class="h2">{{ icon('search', 'w-6 h-6 text-emerald-700') }} How to tell them apart</h2>
+  <ul class="space-y-2.5">
+    {% for tip in t.howToTell %}<li class="flex gap-3"><span class="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-emerald-600"></span><span class="prose-p">{{ tip }}</span></li>{% endfor %}
+  </ul>
+
+  <h2 class="h2">What they have in common</h2>
+  <p class="prose-p">{{ t.similarities }}</p>
+
+  <h2 class="h2">{{ icon('circle-help', 'w-6 h-6 text-emerald-700') }} Frequently asked questions</h2>
+  {{ faq_block(t.faq) }}
+
+  {{ ad('in_article_2') }}
+
+  <h2 class="h2">Full profiles</h2>
+  <div class="grid grid-cols-2 gap-3">
+    {% for x in [A, B] %}
+    <a href="{{ x.url }}" class="card group p-4 transition hover:border-emerald-500 hover:shadow"><span class="font-bold text-slate-900 group-hover:text-emerald-700">{{ x.commonName }} facts</span><span class="block text-xs italic text-slate-500">{{ x.scientificName }}</span></a>
+    {% endfor %}
+  </div>
+  <h2 class="h2">More comparisons</h2>
+  <div class="flex flex-wrap gap-2">
+    {% for c in comparisons if c.slug != cmp.slug %}{% if loop.index <= 12 %}<a href="{{ c.url }}" class="chip">{{ c.title }}</a>{% endif %}{% endfor %}
+    <a href="/compare/" class="chip font-semibold">All comparisons {{ icon('arrow-right', 'w-4 h-4') }}</a>
+  </div>
+</article>
+{% endblock %}

@@ -1,0 +1,63 @@
+{
+  "slug": "luna-moth",
+  "commonName": "Luna Moth",
+  "scientificName": "Actias luna",
+  "alternateNames": ["American moon moth"],
+  "nameSingular": "luna moth",
+  "namePlural": "luna moths",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Insecta", "classSlug": "invertebrates", "order": "Lepidoptera", "family": "Saturniidae", "genus": "Actias", "species": "A. luna"},
+  "facts": {
+    "lifespan": {"min": 7, "max": 10, "unit": "days", "context": "adult moths; the egg, caterpillar and cocoon stages add roughly two months, or a whole winter for the last brood", "display": "7–10 days as an adult"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 1, "max": 2, "unit": "g", "context": "adults; approximate, since adult weight is rarely measured and females full of eggs are heaviest", "display": "roughly 1–2 g (0.04–0.07 oz)"},
+    "height": {"min": 7.5, "max": 11.5, "unit": "cm", "label": "Wingspan", "display": "7.5–11.5 cm (3–4.5 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 8, "max": 13, "unit": "days", "label": "Egg development", "display": "8–13 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Caterpillars eat the leaves of deciduous trees such as white birch, walnut, hickory, pecan, sweetgum, persimmon and sumac. Adult luna moths have no working mouthparts and do not eat at all.",
+    "habitat": ["Deciduous forest", "Mixed woodland", "Wooded suburbs"],
+    "range": "Eastern North America, from Nova Scotia west to Saskatchewan in Canada and south through the eastern United States to Florida and eastern Texas.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The luna moth is one of North America's largest and most recognizable moths, with pale lime-green wings, a small eyespot on each wing and long, curving tails on the hindwings. It belongs to the giant silk moth family, Saturniidae. Adults emerge from their cocoons without functional mouthparts, so they cannot feed and live only about a week, just long enough to mate and lay eggs. Luna moths fly at night in late spring and summer and are drawn to lights, which is how most people come across them. Northern populations have one generation a year, southern ones up to three.",
+  "answers": {
+    "lifespan": "Adult luna moths live only about 7–10 days. They emerge without working mouthparts and cannot eat, so they survive on fat stored during the caterpillar stage. The whole life cycle is much longer: about 8–13 days as an egg, three to four weeks or more as a caterpillar, and two to three weeks in the cocoon, or all winter for the year's last brood.",
+    "weight": "An adult luna moth weighs roughly 1–2 g (0.04–0.07 oz), although published measurements are scarce. Females carrying a full load of 200 or more eggs are the heaviest. Because adults never feed, a luna moth is at its heaviest when it emerges and loses weight every day of its short life.",
+    "size": "Luna moths have a wingspan of 7.5–11.5 cm (3–4.5 in), and exceptional individuals have been measured at up to about 18 cm (7 in). The hindwing tails add several centimeters to the moth's length. Full-grown caterpillars are bright green and reach about 7–9 cm (3–3.5 in) long.",
+    "speed": null,
+    "gestation": "Luna moth eggs hatch in about 8–13 days, depending on temperature. A female lays 200–400 eggs, singly or in small groups, on the leaves of host trees over several nights. The caterpillars pass through five growth stages before spinning a thin, papery cocoon wrapped in leaves on the forest floor.",
+    "diet": "Luna moth caterpillars eat tree leaves, and adult luna moths do not eat anything. Favorite host trees include white birch in the north and walnut, hickory, pecan, sweetgum and persimmon farther south. The caterpillars rarely occur in numbers large enough to damage their host trees.",
+    "habitat": "Luna moths live in deciduous and mixed forests across eastern North America, from southern Canada to Florida and eastern Texas. They need stands of host trees such as birch, hickory, walnut and sweetgum, and they also turn up in wooded suburbs and parks where those trees grow.",
+    "conservation": "The luna moth has not been evaluated for the IUCN Red List and is generally considered common and widespread. Local declines have been linked to habitat loss, light pollution that disrupts night-flying adults, pesticides, and a parasitic fly introduced to control spongy moths that also attacks giant silk moth caterpillars."
+  },
+  "funFacts": [
+    "Experiments show that the luna moth's spinning hindwing tails distort bat sonar, causing bats to aim at the tails instead of the body and miss.",
+    "Adult luna moths have no functional mouth or digestive system and never eat during their week of life.",
+    "Males have large, feathery antennae that pick up the scent released by females, often from a considerable distance.",
+    "When threatened, luna moth caterpillars make a clicking noise with their jaws and can regurgitate distasteful fluid.",
+    "The luna moth appeared on a United States first-class postage stamp issued in 1987."
+  ],
+  "relatedAnimals": ["monarch-butterfly", "vampire-bat", "barn-owl", "honey-bee", "praying-mantis"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are luna moths rare?", "answer": "Luna moths are not rare, but they are rarely seen. They are common in forests across eastern North America, yet adults live only about a week, fly only at night and spend the day resting motionless among leaves, so encounters feel special."},
+    {"question": "Why do luna moths not have mouths?", "answer": "Adult luna moths have only tiny, non-working mouthparts because their sole job is to reproduce. All feeding happens in the caterpillar stage, which stores enough fat to power about a week of adult life. Most other giant silk moths share this trait."},
+    {"question": "Are luna moths dangerous or poisonous?", "answer": "No. Luna moths do not bite, sting or carry venom, and neither the adults nor the caterpillars are poisonous to people. They are safe to handle gently, although handling can rub off wing scales and shorten an already brief life."},
+    {"question": "What does seeing a luna moth mean?", "answer": "There is no scientific meaning, but because luna moths are beautiful, nocturnal and short-lived, many people treat a sighting as a symbol of renewal, transformation or good luck. In practical terms it means healthy host trees are growing somewhere nearby."},
+    {"question": "When can you see luna moths?", "answer": "In Canada and the northern United States, luna moths fly once a year, mostly from late May to early July. Farther south there are two or three broods, so adults can appear from March through September. They are most active after midnight."}
+  ],
+  "meta": {
+    "title": "Luna Moth Facts: Lifespan, Wingspan, Diet & Life Cycle",
+    "description": "Adult luna moths live just 7–10 days, never eat, and have a wingspan of 7.5–11.5 cm (3–4.5 in). Life cycle, host trees, range and more luna moth facts.",
+    "sources": [
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Actias_luna/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Luna_moth"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q135289"}
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "komodo-dragon",
+  "commonName": "Komodo Dragon",
+  "scientificName": "Varanus komodoensis",
+  "alternateNames": ["Komodo monitor", "Ora"],
+  "nameSingular": "Komodo dragon",
+  "namePlural": "Komodo dragons",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Squamata", "family": "Varanidae", "genus": "Varanus", "species": "V. komodoensis"},
+  "facts": {
+    "lifespan": {"min": 30, "max": 30, "unit": "years", "context": "estimated in the wild", "display": "about 30 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 70, "max": 90, "unit": "kg", "context": "adults; males are heavier than females, and gorged animals weigh far more", "display": "70–90 kg (154–200 lb)"},
+    "height": {"min": 2, "max": 3, "unit": "m", "label": "Length", "display": "2–3 m (6.5–10 ft)"},
+    "speed": {"min": 20, "max": 20, "unit": "km/h", "verb": "run", "context": "brief sprints", "display": "20 km/h (12 mph)"},
+    "gestationPeriod": {"min": 210, "max": 240, "unit": "days", "label": "Incubation", "display": "7–8 months"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Adults eat Timor deer, wild pigs, water buffalo and carrion, and will cannibalize smaller dragons. Juveniles hunt insects, geckos, small lizards, birds and eggs, mostly up in the trees.",
+    "habitat": ["Tropical savanna", "Dry forest", "Grassland", "Beaches"],
+    "range": "Only a handful of islands in southeastern Indonesia: Komodo, Rinca, Gili Motang and Nusa Kode within Komodo National Park, plus parts of western and northern Flores.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Stable",
+    "population": "about 1,400 mature individuals"
+  },
+  "description": "The Komodo dragon is the largest living lizard, a giant monitor found on just a few Indonesian islands. Adults are apex predators that ambush deer, pigs and even water buffalo, using serrated teeth, powerful neck muscles and venom that prevents blood from clotting. They find carrion with a forked tongue that samples scent particles from kilometers away. Young dragons spend their first years in trees to avoid being eaten by adults. Western science only described the species in 1910, and its restricted range makes it vulnerable to rising seas and habitat loss.",
+  "answers": {
+    "lifespan": "Komodo dragons live about 30 years in the wild. They grow slowly and take eight to nine years to mature. Historically, captive dragons often died younger than wild ones, although modern zoo husbandry has improved survival considerably.",
+    "weight": "Adult Komodo dragons typically weigh 70–90 kg (154–200 lb), and females are lighter than males. A dragon can eat up to 80 percent of its body weight in one meal, which explains record weights such as 166 kg for an animal with a full stomach.",
+    "size": "Komodo dragons grow 2–3 m (6.5–10 ft) long, making them the largest lizards on Earth. Adult males average about 2.6 m and females about 2.3 m. The largest verified specimen measured 3.13 m. Roughly half of the total length is tail.",
+    "speed": "Komodo dragons can run at about 20 km/h (12 mph) in short sprints. They cannot keep that pace up for long, so they hunt mainly by ambush, waiting beside game trails and lunging at passing deer or pigs. They are also capable swimmers and young ones climb well.",
+    "gestation": "Komodo dragon eggs incubate for 7–8 months. Females lay about 20 eggs, sometimes up to 30, in September, often in the abandoned nest mounds of megapode birds. Hatchlings emerge around April, when insects are plentiful, and head straight for the trees.",
+    "diet": "Komodo dragons are carnivores that eat deer, wild pigs, water buffalo, smaller dragons and large amounts of carrion. They tear off big chunks with serrated teeth and swallow them whole. Because their metabolism is slow, an adult can survive on as few as 12 large meals a year.",
+    "habitat": "Komodo dragons live on hot, dry Indonesian islands: Komodo, Rinca, Gili Motang, Nusa Kode and parts of Flores. They prefer open savanna, dry monsoon forest and grassland at low elevations, and they shelter in burrows at night to conserve body heat.",
+    "conservation": "The Komodo dragon is listed as Endangered on the IUCN Red List, with roughly 1,400 mature individuals. It was uplisted from Vulnerable in 2021, mainly because rising sea levels and habitat loss are projected to shrink its already tiny range. The population inside Komodo National Park is considered stable."
+  },
+  "funFacts": [
+    "Komodo dragons are venomous: glands in the lower jaw release toxins that lower blood pressure and stop blood from clotting.",
+    "Female Komodo dragons can reproduce without a male. Zoo females have laid viable eggs by parthenogenesis, and all such offspring are male.",
+    "A Komodo dragon can detect carrion from several kilometers away by flicking its forked tongue and reading the scent with an organ in the roof of its mouth.",
+    "Young dragons roll in dung and live in trees, both of which help them avoid being eaten by cannibalistic adults.",
+    "Their skin is reinforced with tiny bones called osteoderms, forming a kind of natural chain mail."
+  ],
+  "relatedAnimals": ["green-iguana", "gila-monster", "saltwater-crocodile", "nile-crocodile", "american-alligator", "tuatara"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can a Komodo dragon kill a human?", "answer": "Yes, but it is very rare. Only a handful of fatal attacks have been recorded in recent decades, mostly involving local villagers or people who got too close. Visitors to Komodo National Park are required to walk with trained rangers for that reason."},
+    {"question": "Are Komodo dragons venomous?", "answer": "Yes. Research published in 2009 showed that Komodo dragons have venom glands in the lower jaw. The venom causes a drop in blood pressure and prevents clotting, so bitten prey bleeds heavily and weakens. The old idea that they kill with bacteria-laden saliva is now considered outdated."},
+    {"question": "How many Komodo dragons are left?", "answer": "The IUCN estimates about 1,400 mature Komodo dragons remain in the wild, with around 3,000 animals in total when juveniles are included. Almost all of them live inside Komodo National Park, with a smaller, more threatened population on Flores."},
+    {"question": "Where can you see Komodo dragons in the wild?", "answer": "Komodo dragons can only be seen in the wild in Indonesia, in Komodo National Park, mainly on Komodo and Rinca islands, and in a few reserves on Flores. The park is reached by boat from the town of Labuan Bajo on Flores."},
+    {"question": "What eats a Komodo dragon?", "answer": "Adult Komodo dragons have no natural predators apart from other Komodo dragons. Eggs and juveniles are much more vulnerable and are eaten by adult dragons, wild pigs, civets, snakes and birds of prey, which is why young dragons spend their early years in trees."}
+  ],
+  "meta": {
+    "title": "Komodo Dragon Facts: Size, Speed, Venom & Lifespan",
+    "description": "Komodo dragons grow 2–3 m (6.5–10 ft), weigh 70–90 kg, sprint at 20 km/h (12 mph) and live about 30 years. Diet, venom, habitat and Endangered status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Varanus%20komodoensis&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Varanus_komodoensis/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Komodo_dragon"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q4504"}
+    ]
+  }
+}

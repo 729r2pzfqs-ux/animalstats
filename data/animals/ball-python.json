@@ -1,0 +1,64 @@
+{
+  "slug": "ball-python",
+  "commonName": "Ball Python",
+  "scientificName": "Python regius",
+  "alternateNames": ["Royal python"],
+  "nameSingular": "ball python",
+  "namePlural": "ball pythons",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Squamata", "family": "Pythonidae", "genus": "Python", "species": "P. regius"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 10, "unit": "years", "context": "average estimated in the wild", "display": "about 10 years"},
+    "lifespanCaptivity": {"min": 20, "max": 30, "unit": "years", "context": "in human care; records exceed 45 years", "display": "20–30 years"},
+    "weight": {"min": 1, "max": 2.5, "unit": "kg", "context": "adults; females are larger than males", "display": "1–2.5 kg (2.2–5.5 lb)"},
+    "height": {"min": 0.9, "max": 1.5, "unit": "m", "label": "Length", "display": "0.9–1.5 m (3–5 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 55, "max": 60, "unit": "days", "label": "Incubation", "display": "55–60 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Small mammals and birds. Wild ball pythons eat African giant rats, grass mice, shrews, gerbils and ground-nesting or roosting birds; pets are fed appropriately sized mice and rats, usually frozen and thawed.",
+    "habitat": ["Savanna", "Grassland", "Open woodland", "Farmland edges"],
+    "range": "West and Central Africa, from Senegal and Guinea through Ghana, Togo, Benin and Nigeria east to Sudan, South Sudan and Uganda.",
+    "conservationStatus": "Near Threatened",
+    "iucnCategory": "NT",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The ball python is the smallest of the African pythons and the most popular pet snake in the world. It takes its name from its defense: when frightened it coils into a tight ball with its head tucked safely in the middle. The alternative name royal python comes from stories that African rulers wore the snakes as living jewelry. Ball pythons are stocky, calm, nocturnal constrictors that spend the day in rodent burrows and termite mounds. Captive breeders have produced thousands of color and pattern varieties, known as morphs. Large exports of wild-caught and ranched snakes from West Africa have raised concern about wild populations.",
+  "answers": {
+    "lifespan": "Ball pythons live about 10 years on average in the wild and 20–30 years in captivity. Some live far longer: a ball python at Philadelphia Zoo reached 47 years, and one at Saint Louis Zoo was estimated to be over 60. A pet ball python is a commitment of decades.",
+    "weight": "Adult ball pythons weigh 1–2.5 kg (2.2–5.5 lb). Females are the larger sex and commonly weigh 1.5–2.5 kg, while most adult males stay between 1 and 1.5 kg. Hatchlings weigh only about 50–80 g.",
+    "size": "Adult ball pythons are 0.9–1.5 m (3–5 ft) long, making them the smallest African pythons. Females average around 1.2–1.5 m and males 0.9–1.1 m. Individuals of 1.8 m (6 ft) are recorded but uncommon. Hatchlings emerge about 25–40 cm long.",
+    "speed": null,
+    "gestation": "Ball python eggs incubate for about 55–60 days. The female lays a clutch of 3–11 eggs, typically around six, and coils tightly around them until they hatch, rarely eating during that time. Breeders usually move the eggs to an incubator kept near 31–32 °C.",
+    "diet": "Ball pythons are carnivores that eat small mammals and birds. In the wild they take rats, mice, shrews and birds, with younger and male snakes eating more birds because they climb more. Pets are usually fed one suitably sized rodent every one to two weeks.",
+    "habitat": "Ball pythons live in the savannas, grasslands and open woodlands of West and Central Africa, from Senegal east to Uganda. They spend much of the day underground in rodent burrows and old termite mounds, which keep them cool and humid, and often live on farmland where rodents are plentiful.",
+    "conservation": "The ball python is listed as Near Threatened on the IUCN Red List, and its population is decreasing. It is the most heavily exported live animal listed by CITES from Africa, with large numbers shipped from Togo, Benin and Ghana for the pet trade. Hunting for meat and leather and farming changes add to the pressure."
+  },
+  "funFacts": [
+    "A ball python's main defense is to roll into a ball with its head hidden in the center, which is how it got its name.",
+    "In 2020 a female ball python at Saint Louis Zoo, thought to be over 60 years old, laid eggs despite having had no contact with a male for more than 15 years.",
+    "Ball pythons are respected and protected in parts of southern Nigeria and Benin, where they are considered sacred and allowed to move freely through villages.",
+    "Breeders have developed thousands of ball python morphs, from albino and piebald to banana, and rare new ones have sold for tens of thousands of dollars.",
+    "Like other pythons, ball pythons have heat-sensing pits along the upper lip for locating warm-blooded prey at night."
+  ],
+  "relatedAnimals": ["burmese-python", "reticulated-python", "boa-constrictor", "green-anaconda", "bearded-dragon", "leopard-gecko"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do ball pythons make good pets?", "answer": "Yes, they are among the best snakes for beginners. Ball pythons are calm, slow-moving, stay a manageable 0.9–1.5 m and rarely bite. They do need correct heat and humidity and a secure enclosure with hiding places, and owners should be ready for a 20–30 year commitment."},
+    {"question": "Why won't my ball python eat?", "answer": "Fasting is common in ball pythons and is not always a problem. Healthy adults may refuse food for weeks or even months, especially in winter, during breeding season or before shedding. Check temperatures, humidity and hiding spots, and see a reptile vet if the snake loses noticeable weight."},
+    {"question": "Do ball pythons bite?", "answer": "Rarely. Ball pythons are shy and prefer to curl up or hide. Bites usually happen when a snake mistakes a hand for food or feels cornered. They are non-venomous, and a bite from their small, needle-like teeth causes only shallow punctures that should be washed and disinfected."},
+    {"question": "How big of a tank does a ball python need?", "answer": "An adult needs an enclosure at least as long as the snake, commonly around 120 × 60 × 60 cm (4 × 2 × 2 ft). It should have a warm side near 31–33 °C, a cooler side, humidity of roughly 50–60 percent or higher, and two snug hides."},
+    {"question": "What is a ball python morph?", "answer": "A morph is a color or pattern variety produced by an inherited genetic mutation, such as albino, pastel, piebald or clown. Breeders combine mutations to create new looks. Some morphs come with health problems; the spider morph, for example, is linked to a head wobble and poor balance."}
+  ],
+  "meta": {
+    "title": "Ball Python Lifespan, Size, Weight & Care Facts",
+    "description": "Ball pythons live 20–30 years in captivity, grow 0.9–1.5 m (3–5 ft) and weigh 1–2.5 kg. Diet, eggs, morphs, wild habitat and pet care essentials.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Python%20regius&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Python_regius/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Python_regius"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Ball_python"}
+    ]
+  }
+}

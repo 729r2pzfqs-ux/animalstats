@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% set title = "About AnimalStats — Sources & How We Compile Animal Data" %}
+{% set description = "AnimalStats is a free animal facts reference. How figures are compiled, the sources used (IUCN Red List, Wikidata, ADW, AnAge) and their limits." %}
+{% set email %}<!--email_off--><a class="link" href="mailto:info&#64;animalstats&#46;org">info&#64;animalstats&#46;org</a><!--/email_off-->{% endset %}
+{% block main %}
+<div class="wrap">
+  <h1 class="pt-4 text-[1.7rem] font-extrabold leading-tight tracking-tight sm:text-4xl">About AnimalStats</h1>
+  <div class="prose-p mt-4 space-y-4">
+    <p>AnimalStats is a free reference that answers the questions people most often ask about animals — how long they live, how big they get, how fast they are, what they eat, and whether they are endangered — with the number first and the explanation after. It has no accounts and is built to load fast on a phone.</p>
+    <h2 class="h2">Where the data comes from</h2>
+    <ul class="list-disc space-y-1.5 pl-6">
+      <li><strong>Wikidata</strong> (CC0): scientific names, taxonomy and IUCN status identifiers for every animal are fetched from Wikidata and used to cross-check each record.</li>
+      <li><strong>IUCN Red List of Threatened Species</strong>: conservation category and population trend. Each animal page links to the Red List search for that species so you can see the current assessment.</li>
+      <li><strong>Animal Diversity Web</strong> (University of Michigan) and the <strong>AnAge</strong> database of animal ageing and longevity: lifespans, body sizes and reproductive figures.</li>
+      <li><strong>Wikipedia</strong>, plus species accounts from organizations such as NOAA Fisheries, the Smithsonian's National Zoo and major natural history museums, for descriptions and context.</li>
+    </ul>
+    <h2 class="h2">How to read the figures</h2>
+    <ul class="list-disc space-y-1.5 pl-6">
+      <li>Figures are <strong>typical adult ranges</strong>, not records. Record individuals are mentioned in the text and labeled as records.</li>
+      <li><strong>Lifespan</strong> is given for the wild and, where known, in human care, which is usually longer.</li>
+      <li><strong>Size</strong> is shoulder height for four-legged mammals, standing height for upright animals, total length for whales, fish and reptiles, and sometimes wingspan; every figure says which.</li>
+      <li><strong>Top speeds</strong> are the least reliable animal statistics. Where a famous figure is not supported by modern measurements we use the conservative one and explain why.</li>
+      <li><strong>Gestation</strong> applies to live-bearing animals; for egg layers we give the incubation or egg development period instead.</li>
+      <li>Rankings cover only the animals in this database, not every species on Earth.</li>
+    </ul>
+    <h2 class="h2">Limits</h2>
+    <p>Animals vary by sex, age, population and season, and sources disagree. Red List assessments are revised as new surveys come in, and taxonomy changes. AnimalStats is a general reference, not a substitute for the primary literature, and should not be relied on for veterinary, safety or legal decisions.</p>
+    <h2 class="h2">Corrections and contact</h2>
+    <p>If you find a figure that disagrees with a current authoritative source, please tell us: {{ email }}. Include the page and the source and we will check it.</p>
+  </div>
+</div>
+{% endblock %}

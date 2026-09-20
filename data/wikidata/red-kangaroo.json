@@ -1,0 +1,22 @@
+{
+  "slug": "red-kangaroo",
+  "commonName": "Red Kangaroo",
+  "scientificName": "Osphranter rufus",
+  "classSlug": "mammals",
+  "aliases": [
+    "kangaroo"
+  ],
+  "qid": "Q104831614",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Red kangaroo",
+  "taxonomy": {
+    "species": "Osphranter rufus",
+    "genus": "Osphranter",
+    "family": "Macropodidae",
+    "order": "Diprotodontia",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "white-tailed-deer",
+  "commonName": "White-Tailed Deer",
+  "scientificName": "Odocoileus virginianus",
+  "classSlug": "mammals",
+  "aliases": [
+    "deer",
+    "whitetail"
+  ],
+  "qid": "Q215887",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "White-tailed deer",
+  "taxonomy": {
+    "species": "Odocoileus virginianus",
+    "genus": "Odocoileus",
+    "family": "Cervidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "205",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

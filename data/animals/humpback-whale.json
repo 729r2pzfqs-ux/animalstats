@@ -1,0 +1,65 @@
+{
+  "slug": "humpback-whale",
+  "commonName": "Humpback Whale",
+  "scientificName": "Megaptera novaeangliae",
+  "alternateNames": ["Humpback"],
+  "nameSingular": "humpback whale",
+  "namePlural": "humpback whales",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Balaenopteridae", "genus": "Megaptera", "species": "M. novaeangliae"},
+  "facts": {
+    "lifespan": {"min": 50, "max": 90, "unit": "years", "context": "estimates vary: at least 45–50 years is well supported, and NOAA gives 80–90", "display": "50–90 years (estimates vary)"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 25000, "max": 40000, "unit": "kg", "context": "adults; females are slightly larger than males", "display": "25–40 tonnes (28–44 US tons)"},
+    "height": {"min": 12, "max": 16, "unit": "m", "label": "Length", "display": "12–16 m (39–52 ft)"},
+    "speed": {"min": 24, "max": 27, "unit": "km/h", "verb": "swim", "context": "short bursts; migrating whales travel at 5–15 km/h", "display": "up to 24–27 km/h (15–17 mph)"},
+    "gestationPeriod": {"min": 330, "max": 365, "unit": "days", "label": "Gestation", "display": "about 11.5 months"}
+  },
+  "ecology": {
+    "diet": "Filter feeder",
+    "dietDetails": "Krill and small schooling fish such as herring, capelin, sand lance, anchovies and mackerel, gulped in large mouthfuls and strained through baleen; humpbacks feed heavily in summer and largely fast in winter.",
+    "habitat": ["Coastal waters", "Continental shelf", "Open ocean", "Tropical breeding lagoons"],
+    "range": "All major oceans, migrating between summer feeding grounds in cold high-latitude waters and winter breeding grounds in the tropics, such as Hawaii, the Caribbean and the South Pacific.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing",
+    "population": "about 84,000 mature individuals"
+  },
+  "description": "The humpback whale is a large baleen whale known for its acrobatic breaches, its long and complex songs, and pectoral flippers that reach about a third of its body length, the longest of any whale. The body is dark above and variably white below, with knobby bumps called tubercles on the head and a small dorsal fin on a hump that shows when the whale dives. Like other whales it is a cetacean, a group now placed within the even-toed hoofed mammals. Humpbacks make some of the longest migrations of any mammal and have recovered strongly since commercial whaling of the species was banned.",
+  "answers": {
+    "lifespan": "Humpback whales live at least 45–50 years, and NOAA estimates a full lifespan of about 80–90 years. The true figure is uncertain, because whales are hard to age: the higher estimates come from counting earplug layers, and photo-identified individuals have been followed for more than 45 years.",
+    "weight": "Adult humpback whales weigh 25–40 tonnes (28–44 US tons). Females are a little larger than males. A humpback loses a substantial share of its body weight each winter, because it eats little or nothing for months while it migrates and breeds in tropical waters.",
+    "size": "Humpback whales grow 12–16 m (39–52 ft) long, with females averaging 1–1.5 m longer than males. The largest reliably reported reach about 17–18 m. The pectoral flippers are up to 5 m long, and the tail flukes can be 5.5 m wide.",
+    "speed": "Humpback whales can reach about 24–27 km/h (15–17 mph) in short bursts, but they are slow by whale standards. On migration they usually travel at 5–15 km/h, and they drift along at only a few kilometers per hour while feeding or resting.",
+    "gestation": "A humpback whale is pregnant for about 11.5 months. The single calf is born in warm tropical water at around 4–4.5 m long and about a tonne in weight. It nurses on milk that is 45–60 percent fat for up to a year, and females usually calve every two to three years.",
+    "diet": "Humpback whales are filter feeders that eat krill and small schooling fish such as herring, capelin and sand lance. They are inventive hunters, using bubble nets, tail slaps and lunges through bait balls. An adult can eat up to about 1.4 tonnes of food a day in summer.",
+    "habitat": "Humpback whales live in every major ocean and tend to stay closer to coasts than other large whales. They spend summer in cold, productive waters off places like Alaska, Iceland, Norway and Antarctica, then migrate to shallow tropical waters to mate and give birth.",
+    "conservation": "The humpback whale is listed as Least Concern on the IUCN Red List, and its population is increasing. Whaling reduced humpbacks by more than 90 percent before protection in the 1960s. A few populations, such as the Arabian Sea humpbacks, remain endangered, and entanglement in fishing gear and ship strikes are the main current threats."
+  },
+  "funFacts": [
+    "Only male humpbacks sing, and all the males in one ocean basin sing versions of the same song, which gradually changes from year to year.",
+    "A single song lasts 10–20 minutes, and a male may repeat it for hours.",
+    "The underside of each humpback's tail has a unique black-and-white pattern, and researchers have cataloged tens of thousands of whales from fluke photographs.",
+    "Groups of humpbacks blow rings of bubbles to corral fish, then surge up through the center with mouths open, a technique called bubble-net feeding.",
+    "Humpbacks migrate up to about 8,000 km (5,000 miles) each way, among the longest regular journeys of any mammal."
+  ],
+  "relatedAnimals": ["blue-whale", "bowhead-whale", "sperm-whale", "orca", "whale-shark"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why do humpback whales breach?", "answer": "Nobody knows for certain, and there are probably several reasons. The leading idea is communication, since the splash can be heard far away, and breaching is more common in rough seas and when groups join or split. It may also dislodge parasites or simply be play."},
+    {"question": "Why do humpback whales sing?", "answer": "Singing is done by males, mostly on the breeding grounds, so it is almost certainly linked to mating. Whether the song attracts females, signals status to other males or does both is still debated. Females have not been clearly observed approaching singers."},
+    {"question": "Are humpback whales dangerous to humans?", "answer": "Humpbacks are not aggressive toward people, and there are many accounts of them being curious and gentle around boats and divers. The danger is their size: a breach or tail slap can capsize a small boat, so regulations require vessels to keep their distance."},
+    {"question": "How many humpback whales are there?", "answer": "The IUCN estimates about 84,000 mature humpback whales, and the total population including juveniles is well over 100,000. That compares with only a few thousand left when commercial hunting of humpbacks ended in the 1960s."},
+    {"question": "Why is it called a humpback whale?", "answer": "The name comes from the way the whale arches its back steeply before a deep dive, which raises the small hump in front of its dorsal fin. The genus name Megaptera means big wing and refers to the enormous flippers."}
+  ],
+  "meta": {
+    "title": "Humpback Whale Facts: Size, Weight, Song & Lifespan",
+    "description": "Humpback whales grow 12–16 m (39–52 ft) long, weigh 25–40 tonnes and live at least 50 years. Migration, song, diet, gestation and conservation status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Megaptera%20novaeangliae&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Megaptera_novaeangliae/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Megaptera_novaeangliae"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Humpback_whale"}
+    ]
+  }
+}

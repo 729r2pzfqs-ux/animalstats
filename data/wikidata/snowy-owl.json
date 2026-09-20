@@ -1,0 +1,20 @@
+{
+  "slug": "snowy-owl",
+  "commonName": "Snowy Owl",
+  "scientificName": "Bubo scandiacus",
+  "classSlug": "birds",
+  "aliases": [
+    "owl"
+  ],
+  "qid": "Q170177",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Snowy owl",
+  "taxonomy": {
+    "species": "Bubo scandiacus",
+    "genus": "Bubo",
+    "family": "Strigidae",
+    "order": "Strigiformes",
+    "class": "Aves"
+  },
+  "quantities": []
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "dog",
+  "commonName": "Dog",
+  "scientificName": "Canis familiaris",
+  "alternateNames": ["Domestic dog", "Puppy", "Canis lupus familiaris"],
+  "nameSingular": "dog",
+  "namePlural": "dogs",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Canidae", "genus": "Canis", "species": "C. familiaris"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 13, "unit": "years", "context": "average across breeds; small breeds often reach 14–16 years, giant breeds 7–10", "display": "10–13 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 1.5, "max": 90, "unit": "kg", "context": "depends on breed, from Chihuahuas to English Mastiffs", "display": "1.5–90 kg (3–200 lb)"},
+    "height": {"min": 15, "max": 85, "unit": "cm", "label": "Shoulder height", "display": "15–85 cm (6–34 in)"},
+    "speed": {"min": 24, "max": 72, "unit": "km/h", "verb": "run", "context": "most breeds 24–48 km/h; racing greyhounds reach about 72 km/h", "display": "24–72 km/h (15–45 mph)"},
+    "gestationPeriod": {"min": 58, "max": 68, "unit": "days", "label": "Gestation", "display": "about 63 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Primarily meat eaters that also digest starch well; pets eat commercial dog food, while free-ranging dogs scavenge human food waste and carrion and occasionally hunt small animals.",
+    "habitat": ["Homes", "Urban areas", "Farmland", "Villages"],
+    "range": "Worldwide wherever people live, on every continent except Antarctica, as pets, working animals and free-ranging village or street dogs.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "The dog is a domesticated descendant of an extinct population of wolves and was the first animal that humans domesticated, well before farming began and at least 15,000 years ago. Selective breeding has produced hundreds of breeds that differ more in size and shape than any other land mammal, from 2 kg toy dogs to mastiffs of 90 kg. Dogs are highly social, read human gestures and tone unusually well, and have a sense of smell many thousands of times more sensitive than ours. They work as herders, guards, hunters, guides and detection animals, but most of the world's dogs are free-ranging rather than pets.",
+  "answers": {
+    "lifespan": "Dogs live 10–13 years on average, but the figure depends heavily on size. Small breeds such as Chihuahuas and Dachshunds often reach 14–16 years, while giant breeds such as Great Danes typically live only 7–10. The oldest reliably documented dog, an Australian cattle dog named Bluey, died at 29.",
+    "weight": "Dogs weigh anywhere from about 1.5 kg to 90 kg (3–200 lb) depending on breed. A Chihuahua weighs 1.5–3 kg, a Labrador Retriever 25–36 kg, and an English Mastiff can pass 90 kg. No other land mammal shows such a wide range of adult size within one species.",
+    "size": "Dogs stand roughly 15–85 cm (6–34 in) tall at the shoulder. Chihuahuas are about 15–23 cm, Labradors around 55–62 cm, and Great Danes and Irish Wolfhounds commonly exceed 80 cm. Height is measured at the withers, the highest point of the shoulders.",
+    "speed": "Most dogs can run 24–48 km/h (15–30 mph), and the fastest breed, the greyhound, reaches about 72 km/h (45 mph). Sighthounds such as salukis and whippets are also very fast, while short-legged and flat-faced breeds are much slower and overheat quickly.",
+    "gestation": "A dog is pregnant for about 63 days, or nine weeks, with a normal range of 58–68 days. Litter size depends on breed: toy breeds often have one to four puppies, and large breeds commonly have six to ten. Puppies are born with closed eyes and ears.",
+    "diet": "Dogs are omnivores that lean strongly toward meat. Unlike wolves, they carry extra copies of a gene for digesting starch, an adaptation to living on human leftovers. Pets do best on complete commercial dog food; chocolate, grapes, raisins, onions and the sweetener xylitol are toxic to them.",
+    "habitat": "Dogs live wherever people live, on every continent except Antarctica. Pet dogs share human homes, working dogs live on farms and ranches, and the majority of the world's dogs are free-ranging animals that live around villages, towns and rubbish dumps.",
+    "conservation": "The dog is a domesticated animal and has no IUCN Red List status. The global population is estimated at several hundred million to around a billion, most of them free-ranging. Free-ranging dogs can harm wildlife through predation, disease such as rabies and distemper, and interbreeding with wild canids."
+  },
+  "funFacts": [
+    "Dogs were domesticated before any other animal, thousands of years before sheep, goats, cattle or cats.",
+    "A dog's nose print is as individual as a human fingerprint, and a dog's nose holds up to about 300 million scent receptors.",
+    "Dogs sweat mainly through their paw pads and cool themselves chiefly by panting.",
+    "Trained detection dogs can sniff out explosives, drugs, bed bugs and some human diseases.",
+    "Dogs follow human pointing gestures more readily than chimpanzees do, a skill that appears in puppies without training."
+  ],
+  "relatedAnimals": ["gray-wolf", "coyote", "cat", "red-fox", "african-wild-dog"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How old is a dog in human years?", "answer": "The old rule of multiplying by seven is inaccurate. A dog's first year equals roughly 15 human years and the second about nine more; after that each year adds around four to five, with large breeds aging faster than small ones."},
+    {"question": "Are dogs descended from wolves?", "answer": "Yes. Dogs descend from an extinct population of gray wolves and were domesticated at least 15,000 years ago, possibly much earlier. Modern gray wolves are the dog's closest living relatives, and the two can still interbreed and produce fertile offspring."},
+    {"question": "Are dogs color blind?", "answer": "Dogs are not fully color blind, but they see fewer colors than people. They have two types of cone cell instead of three, so they see blues and yellows well but cannot easily tell red from green."},
+    {"question": "What is the fastest dog breed?", "answer": "The greyhound is the fastest dog breed, reaching about 72 km/h (45 mph) on a track. Salukis, whippets and Afghan hounds are close behind, and salukis may keep up high speeds over longer distances."},
+    {"question": "How many dog breeds are there?", "answer": "It depends on who is counting. The Fédération Cynologique Internationale recognizes about 360 breeds, while the American Kennel Club recognizes around 200. Many local landrace dogs and mixed-breed dogs belong to no formal breed at all."}
+  ],
+  "meta": {
+    "title": "Dog Facts: How Long Dogs Live, Size, Speed & Diet",
+    "description": "Dogs live 10–13 years on average, weigh 1.5–90 kg depending on breed and are pregnant for about 63 days. Speed, diet and more facts about Canis familiaris.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Canis_familiaris"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Canis_familiaris"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q20717272"}
+    ]
+  }
+}

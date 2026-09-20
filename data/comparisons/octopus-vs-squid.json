@@ -1,0 +1,59 @@
+{
+  "slug": "octopus-vs-squid",
+  "summary": "The main difference between an octopus and a squid is that an octopus has eight arms and a rounded, finless body, while a squid has eight arms plus two longer feeding tentacles and a torpedo-shaped body with fins. A squid also has a stiff internal support called a pen, which an octopus lacks. Octopuses mostly live alone on the seafloor; squid swim in open water.",
+  "differences": [
+    {
+      "title": "Arms and tentacles",
+      "text": "An octopus has eight arms lined with suckers along their full length, and no tentacles. A squid has eight arms and two additional tentacles that are longer, with suckers only on the club-shaped tips. The tentacles shoot out to seize prey and pull it back to the arms. Many squid also have toothed rings or hooks in their suckers."
+    },
+    {
+      "title": "Body shape",
+      "text": "An octopus has a soft, bag-like mantle and a rounded head, with no fins in the familiar shallow-water species. A squid has a streamlined, tube-shaped mantle with a pair of fins toward the rear end that stabilize and steer it. This difference reflects their lifestyles: crawling and hiding versus fast swimming."
+    },
+    {
+      "title": "Internal skeleton",
+      "text": "A squid has a gladius, or pen, a thin, flexible, feather-shaped blade made of chitin that runs inside the mantle and is the last remnant of its ancestors' shell. Most octopuses have nothing comparable. With no hard parts except the beak, an octopus can squeeze through any gap wider than that beak."
+    },
+    {
+      "title": "Habitat and lifestyle",
+      "text": "The common octopus is a bottom-dweller that occupies a den among rocks, often marked by a pile of discarded shells, and it hunts crabs, clams and fish, mostly alone. Squid are animals of open water. Many species travel in schools, and they range from the surface to the deep sea, where the giant squid lives."
+    },
+    {
+      "title": "Movement",
+      "text": "Both use jet propulsion, forcing water out through a funnel, but squid rely on it far more and are among the fastest invertebrates. Some even launch themselves out of the water and glide. Octopuses usually crawl along the bottom on their arms and reserve jetting for quick escapes, since it is tiring for them."
+    },
+    {
+      "title": "Size extremes",
+      "text": "Most octopuses and squid are small to medium animals, but squid produce the true giants. The giant squid, the example species here, and the colossal squid are the largest invertebrates on Earth, with eyes as big as dinner plates. The giant squid was first filmed alive in its natural deep-sea habitat in 2012."
+    }
+  ],
+  "similarities": "Octopuses and squid are both cephalopods, a class of mollusks that also includes cuttlefish and nautiluses. Both have three hearts, blue copper-based blood, a parrot-like beak, a large brain and excellent eyesight. Both can squirt ink to confuse predators and change color using pigment cells called chromatophores. Most species grow quickly, breed once and die soon afterward.",
+  "howToTell": [
+    "Count the limbs: eight arms alone mean octopus; eight arms plus two longer tentacles mean squid.",
+    "A rounded, bag-like body with no fins points to an octopus; a torpedo-shaped body with fins points to a squid.",
+    "An animal crawling over the seafloor or tucked inside a rocky den is an octopus.",
+    "A group of streamlined cephalopods swimming together in open water is a school of squid."
+  ],
+  "faq": [
+    {
+      "question": "Do octopuses have tentacles?",
+      "answer": "Strictly speaking, no. Biologists call an octopus's eight limbs arms, because they bear suckers along their entire length. Tentacles are the two longer, specialized limbs found in squid and cuttlefish, with suckers only at the tips. In everyday speech, though, many people call all of them tentacles."
+    },
+    {
+      "question": "Which is smarter, an octopus or a squid?",
+      "answer": "Octopuses have been studied far more and are the better-documented problem solvers. They open jars, navigate mazes, use coconut shells as shelters and recognize individual people. Squid are harder to keep in laboratories, so less is known, though they show complex signaling and social behavior. Cuttlefish also perform impressively in memory tests."
+    },
+    {
+      "question": "Which is bigger, an octopus or a squid?",
+      "answer": "The largest squid are much bigger than any octopus. The giant squid and colossal squid are the biggest invertebrates known. The largest octopus, the giant Pacific octopus, is considerably smaller. Most of the hundreds of species in both groups, however, would fit in your hands."
+    },
+    {
+      "question": "Is calamari octopus or squid?",
+      "answer": "Calamari is squid. The word comes from the Italian for squid, and the familiar fried rings are slices of the tube-shaped mantle. Octopus is sold and cooked separately, and has a denser, meatier texture. It is usually served as whole arms instead of rings."
+    }
+  ],
+  "meta": {
+    "title": "Octopus vs Squid: Arms, Tentacles and Key Differences",
+    "description": "An octopus has eight arms and a round, finless body; a squid has eight arms plus two tentacles, fins and an internal pen. See all differences."
+  }
+}

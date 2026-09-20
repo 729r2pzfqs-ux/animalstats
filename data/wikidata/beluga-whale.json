@@ -1,0 +1,33 @@
+{
+  "slug": "beluga-whale",
+  "commonName": "Beluga Whale",
+  "scientificName": "Delphinapterus leucas",
+  "classSlug": "mammals",
+  "aliases": [
+    "beluga"
+  ],
+  "qid": "Q132072",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Beluga whale",
+  "taxonomy": {
+    "species": "Delphinapterus leucas",
+    "genus": "Delphinapterus",
+    "family": "Monodontidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "60",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "1",
+      "unit": "year",
+      "sex": null
+    }
+  ]
+}

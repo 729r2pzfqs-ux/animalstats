@@ -1,0 +1,65 @@
+{
+  "slug": "white-rhinoceros",
+  "commonName": "White Rhinoceros",
+  "scientificName": "Ceratotherium simum",
+  "alternateNames": ["White rhino", "Square-lipped rhinoceros"],
+  "nameSingular": "white rhinoceros",
+  "namePlural": "white rhinoceroses",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Perissodactyla", "family": "Rhinocerotidae", "genus": "Ceratotherium", "species": "C. simum"},
+  "facts": {
+    "lifespan": {"min": 35, "max": 40, "unit": "years", "context": "in the wild; occasionally up to 50", "display": "35–40 years"},
+    "lifespanCaptivity": {"min": 40, "max": 50, "unit": "years", "context": "in human care", "display": "40–50 years"},
+    "weight": {"min": 1700, "max": 2400, "unit": "kg", "context": "adults; females average about 1,700 kg, males about 2,300 kg; exceptional bulls reach 3,600 kg", "display": "1,700–2,400 kg (3,750–5,290 lb)"},
+    "height": {"min": 1.5, "max": 1.85, "unit": "m", "label": "Shoulder height", "display": "1.5–1.85 m (4.9–6.1 ft)"},
+    "speed": {"min": 50, "max": 50, "unit": "km/h", "verb": "run", "context": "short bursts", "display": "50 km/h (31 mph)"},
+    "gestationPeriod": {"min": 480, "max": 520, "unit": "days", "label": "Gestation", "display": "about 16 months (roughly 490 days)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "A pure grazer that crops short grasses close to the ground with its wide, square upper lip, favoring shaded, nutritious grazing lawns; it drinks daily when water is available.",
+    "habitat": ["Savanna", "Grassland", "Open woodland"],
+    "range": "Almost all live in southern Africa, mainly South Africa, with smaller reintroduced populations in Namibia, Botswana, Zimbabwe, Eswatini, Kenya, Uganda and Zambia.",
+    "conservationStatus": "Near Threatened",
+    "iucnCategory": "NT",
+    "populationTrend": "Decreasing",
+    "population": "roughly 16,000–17,000, nearly all southern white rhinos"
+  },
+  "description": "The white rhinoceros is the largest of the five rhino species and, after the elephants, one of the heaviest land animals on Earth. It is a grazer with a broad, square upper lip, a long head carried low, a pronounced shoulder hump and two horns made of keratin. Despite the name it is gray, not white. White rhinos are the most sociable rhinos, with females and young often forming small groups. There are two subspecies. The southern white rhino was rescued from near-extinction and is now the most numerous rhino, while the northern white rhino is functionally extinct, with only two females left alive.",
+  "answers": {
+    "lifespan": "White rhinos live about 35–40 years in the wild, occasionally up to 50, and 40–50 years in captivity. Adults have no natural predators apart from humans; lions and hyenas sometimes take calves. Today poaching for horn is by far the most important cause of early death.",
+    "weight": "Adult white rhinos weigh 1,700–2,400 kg (3,750–5,290 lb). Females average about 1,700 kg and males about 2,300 kg, and exceptionally large bulls have been reported at up to 3,600 kg. That makes the white rhino roughly twice as heavy as the black rhino.",
+    "size": "A white rhino stands 1.5–1.85 m (4.9–6.1 ft) tall at the shoulder and measures 3.4–4 m (11–13 ft) in head-and-body length. The front horn averages about 60 cm (24 in) and can exceptionally reach 150 cm, while the rear horn is much shorter.",
+    "speed": "White rhinos can run at about 50 km/h (31 mph) in short bursts, despite weighing around two tonnes. They can also turn quickly. Their eyesight is poor, so a startled rhino may charge toward a sound or smell it cannot identify, relying on its acute hearing and sense of smell.",
+    "gestation": "A white rhino is pregnant for about 16 months, roughly 490 days, one of the longest pregnancies of any land mammal. The single calf weighs 40–65 kg at birth and stays with its mother for two to three years, until the next calf arrives. Females breed only every two and a half to three years.",
+    "diet": "White rhinos are herbivores that eat almost nothing but grass. Their wide, flat lips work like a lawnmower, cropping short grasses close to the ground, and an adult eats around 50 kg or more a day. By keeping grass short they create grazing lawns that benefit other grazers.",
+    "habitat": "White rhinos live in grassy savannas and open woodlands with access to water and mud wallows. Nearly all wild white rhinos live in southern Africa, the great majority in South Africa, with smaller populations in Namibia, Botswana, Zimbabwe and Kenya, where they have been reintroduced or introduced.",
+    "conservation": "The white rhinoceros is listed as Near Threatened on the IUCN Red List, with roughly 16,000–17,000 animals and a declining trend driven by poaching for horn. The southern subspecies recovered from fewer than 100 animals around 1900. The northern subspecies is down to two females, kept under guard in Kenya."
+  },
+  "funFacts": [
+    "The 'white' in the name has nothing to do with color; a popular but unproven explanation is that it comes from the Dutch or Afrikaans word for 'wide', describing the mouth.",
+    "Rhino horn is made of keratin, the same protein as fingernails and hair, and it grows continuously throughout the animal's life.",
+    "A group of rhinos is called a crash, and white rhinos are the rhino species most often seen in groups.",
+    "The last male northern white rhino, Sudan, died in Kenya in 2018; scientists are trying to save the subspecies using stored sperm and lab-created embryos.",
+    "White rhino bulls mark their territories with large communal dung heaps called middens, which also serve as message boards for other rhinos."
+  ],
+  "relatedAnimals": ["black-rhinoceros", "african-elephant", "hippopotamus", "plains-zebra", "horse", "african-buffalo"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a white rhino and a black rhino?", "answer": "Both are gray. The white rhino is much larger, has a wide, square upper lip for grazing grass, a long head held low and a shoulder hump. The black rhino is smaller, with a pointed, hooked upper lip for browsing shrubs, and it carries its head higher."},
+    {"question": "How many white rhinos are left?", "answer": "About 16,000–17,000 white rhinos remain, almost all of them southern white rhinos, and most live in South Africa. Only two northern white rhinos survive, both females living at Ol Pejeta Conservancy in Kenya, so that subspecies is functionally extinct."},
+    {"question": "Why are rhinos poached?", "answer": "Rhinos are poached for their horns, which sell for very high prices on black markets in parts of Asia, where horn is used in traditional remedies and as a status symbol. Horn is made of keratin and has no proven medical value. International trade has been banned under CITES since 1977."},
+    {"question": "Are white rhinos dangerous?", "answer": "White rhinos are generally calmer and less aggressive than black rhinos, but they are still powerful wild animals weighing about two tonnes that can charge at 50 km/h. Cows with calves and surprised animals are the most likely to charge, so they should always be given plenty of space."},
+    {"question": "Is a rhino horn made of bone?", "answer": "No. A rhino's horn has no bony core. It is a dense mass of keratin fibers, the protein found in hair, hooves and fingernails, growing from the skin of the nose. If a horn breaks or is trimmed, it slowly grows back."}
+  ],
+  "meta": {
+    "title": "White Rhino Facts: Weight, Size, Horn & Population",
+    "description": "White rhinos weigh 1,700–2,400 kg (3,750–5,290 lb), stand up to 1.85 m at the shoulder and run 50 km/h. About 16,000–17,000 remain. Diet, habitat and threats.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Ceratotherium%20simum&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Ceratotherium_simum/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Ceratotherium_simum"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/White_rhinoceros"}
+    ]
+  }
+}

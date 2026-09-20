@@ -1,0 +1,29 @@
+{
+  "slug": "gray-wolf",
+  "commonName": "Gray Wolf",
+  "scientificName": "Canis lupus",
+  "classSlug": "mammals",
+  "aliases": [
+    "wolf",
+    "grey wolf",
+    "timber wolf"
+  ],
+  "qid": "Q18498",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Wolf",
+  "taxonomy": {
+    "species": "Canis lupus",
+    "genus": "Canis",
+    "family": "Canidae",
+    "order": "Carnivora",
+    "class": "Mammalia"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "62",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

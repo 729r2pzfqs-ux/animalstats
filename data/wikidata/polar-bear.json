@@ -1,0 +1,44 @@
+{
+  "slug": "polar-bear",
+  "commonName": "Polar Bear",
+  "scientificName": "Ursus maritimus",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q33609",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Polar bear",
+  "taxonomy": {
+    "species": "Ursus maritimus",
+    "genus": "Ursus",
+    "family": "Ursidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "600",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "450",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "lifeExpectancy",
+      "amount": "50",
+      "unit": "year",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "8.5",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

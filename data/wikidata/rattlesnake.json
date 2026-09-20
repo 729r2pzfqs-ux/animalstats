@@ -1,0 +1,22 @@
+{
+  "slug": "rattlesnake",
+  "commonName": "Western Diamondback Rattlesnake",
+  "scientificName": "Crotalus atrox",
+  "classSlug": "reptiles",
+  "aliases": [
+    "rattlesnake"
+  ],
+  "qid": "Q222287",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Western diamondback rattlesnake",
+  "taxonomy": {
+    "species": "Crotalus atrox",
+    "genus": "Crotalus",
+    "family": "Viperidae",
+    "order": "Squamata",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

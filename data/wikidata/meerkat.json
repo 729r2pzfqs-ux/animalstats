@@ -1,0 +1,38 @@
+{
+  "slug": "meerkat",
+  "commonName": "Meerkat",
+  "scientificName": "Suricata suricatta",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q134015",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Meerkat",
+  "taxonomy": {
+    "species": "Suricata suricatta",
+    "genus": "Suricata",
+    "family": "Herpestidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "30.5",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "725",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "11",
+      "unit": "week",
+      "sex": null
+    }
+  ]
+}

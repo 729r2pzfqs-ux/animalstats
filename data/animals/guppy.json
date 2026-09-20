@@ -1,0 +1,64 @@
+{
+  "slug": "guppy",
+  "commonName": "Guppy",
+  "scientificName": "Poecilia reticulata",
+  "alternateNames": ["Millionfish", "Rainbow fish", "Fancy guppy"],
+  "nameSingular": "guppy",
+  "namePlural": "guppies",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Cyprinodontiformes", "family": "Poeciliidae", "genus": "Poecilia", "species": "P. reticulata"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 3, "unit": "years", "context": "in aquariums; wild guppies in predator-rich streams usually live less", "display": "2–3 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 0.1, "max": 1, "unit": "g", "context": "approximate; small males at the low end, large females at the top", "display": "about 0.1–1 g (under 0.04 oz)"},
+    "height": {"min": 1.5, "max": 6, "unit": "cm", "label": "Length", "display": "1.5–6 cm (0.6–2.4 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 21, "max": 30, "unit": "days", "label": "Gestation", "display": "21–30 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Algae, diatoms, plant fragments, mosquito and other insect larvae, tiny crustaceans and detritus; aquarium guppies take fine flake food, baby brine shrimp and daphnia.",
+    "habitat": ["Streams", "Ponds", "Ditches", "Brackish estuaries", "Aquariums"],
+    "range": "Native to northeastern South America and nearby Caribbean islands, including Venezuela, Guyana, Trinidad and Tobago and Barbados; introduced to warm fresh waters on every continent except Antarctica.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The guppy is a tiny, live-bearing freshwater fish from northeastern South America and the Caribbean and one of the most popular aquarium fish in the world. Males are small and brilliantly patterned, with large fan-shaped tails in domestic strains, while females are bigger and plain gray-brown. Guppies breed quickly, giving birth to live young about once a month, which earned them the nickname millionfish. That fast turnover, together with populations in Trinidad that live with and without predators, has made the guppy a classic species for studying evolution in action. It has also been released widely for mosquito control, often with harmful effects on native fish.",
+  "answers": {
+    "lifespan": "Guppies live 2–3 years in an aquarium, and well-kept fish occasionally reach 4 or 5. Wild guppies usually live less, especially in streams with many predators. Warm water speeds up their metabolism and shortens life, and females worn down by constant breeding tend to die younger than those kept apart from males.",
+    "weight": "A guppy weighs only about 0.1–1 g (well under 0.04 oz). Adult males are the lightest at roughly a tenth of a gram, while large, heavily pregnant females approach one gram. Guppies are seldom weighed outside laboratories, so these figures are approximate.",
+    "size": "Guppies are 1.5–6 cm (0.6–2.4 in) long. Males measure 1.5–3.5 cm and females 3–6 cm, so a female can be twice the length of her mate. Selectively bred fancy guppies have much larger tails than wild fish, which adds to their apparent size.",
+    "speed": null,
+    "gestation": "A guppy is pregnant for 21–30 days before giving birth to live young. A brood is usually 20–60 fry, though large females can drop more than 100. Females store sperm for months, so a single mating can produce several broods, and fry can swim and feed on their own at birth.",
+    "diet": "Guppies are omnivores that eat algae, diatoms, plant bits, insect larvae, tiny crustaceans and detritus. In aquariums they do well on fine flake food with baby brine shrimp, daphnia or blanched vegetables. They have small stomachs, so two or three small feedings a day work best.",
+    "habitat": "Wild guppies live in warm streams, ponds, ditches and pools in northeastern South America and the Caribbean, from clear mountain headwaters to murky lowland channels. They tolerate brackish water and a wide range of conditions, which is why introduced guppies now thrive in warm fresh waters around the world.",
+    "conservation": "The guppy is listed as Least Concern on the IUCN Red List and is abundant across its native range. The conservation worry is its impact elsewhere: guppies released for mosquito control or dumped from aquariums have become invasive in many tropical countries, where they compete with and spread parasites to native fish."
+  },
+  "funFacts": [
+    "The guppy is named after Robert John Lechmere Guppy, a naturalist who sent specimens from Trinidad to the British Museum in 1866.",
+    "A female guppy can store sperm for many months and produce several broods after a single mating.",
+    "In Trinidad, guppies moved to streams without predators evolved larger bodies, later maturity and brighter males within a few years, a famous example of rapid evolution.",
+    "Newborn guppies are fully formed, about 6 mm long, and must hide immediately because adults, including their mother, will eat them.",
+    "Females prefer brightly colored males, especially those with vivid orange spots, a pigment the males must get from their diet."
+  ],
+  "relatedAnimals": ["betta", "goldfish", "koi", "clownfish", "piranha"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How many babies do guppies have?", "answer": "A female guppy usually gives birth to 20–60 fry at a time, and a large, mature female can have more than 100. She can produce a new brood roughly every 30 days, which is why a few guppies can fill a tank within months."},
+    {"question": "How can you tell male and female guppies apart?", "answer": "Male guppies are smaller, slimmer and brightly colored with large, showy tails, and their anal fin is modified into a narrow rod called a gonopodium. Females are larger and rounder, mostly gray or silver, with a fan-shaped anal fin and a dark gravid spot near the vent."},
+    {"question": "How can you tell if a guppy is pregnant?", "answer": "A pregnant guppy develops a swollen, boxy belly and a dark gravid spot near her anal fin that grows larger and darker as the fry develop. In the last days before birth, the eyes of the fry may be visible through her skin and she may hide or stay near the heater."},
+    {"question": "Do guppies eat their babies?", "answer": "Yes. Adult guppies, including the mother, will eat newborn fry. In a community tank most fry are eaten unless there is dense cover such as floating plants or moss. Breeders move pregnant females to a separate planted tank and remove them after they give birth."},
+    {"question": "Do guppies need a heater?", "answer": "In most homes, yes. Guppies are tropical fish that do best at about 22–28 °C (72–82 °F). They tolerate brief cooler spells, but prolonged cold weakens their immune system and makes them prone to disease. A small adjustable heater keeps the temperature stable."}
+  ],
+  "meta": {
+    "title": "Guppy Facts: Lifespan, Size, Gestation & Babies",
+    "description": "Guppies live 2–3 years, grow 1.5–6 cm long and are pregnant for 21–30 days, giving birth to 20–60 live fry. Diet, habitat, care and breeding facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Poecilia%20reticulata&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Poecilia_reticulata/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Poecilia_reticulata"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Guppy"}
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "tuatara",
+  "commonName": "Tuatara",
+  "scientificName": "Sphenodon punctatus",
+  "classSlug": "reptiles",
+  "aliases": [],
+  "qid": "Q3007063",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Sphenodon punctatus",
+  "taxonomy": {
+    "species": "Sphenodon punctatus",
+    "genus": "Sphenodon",
+    "family": "Sphenodontidae",
+    "order": "Rhynchocephalia",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

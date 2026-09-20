@@ -1,0 +1,23 @@
+{
+  "slug": "common-starfish",
+  "commonName": "Common Starfish",
+  "scientificName": "Asterias rubens",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "starfish",
+    "sea star"
+  ],
+  "qid": "Q21120",
+  "iucnStatus": null,
+  "wikipedia": "Common starfish",
+  "taxonomy": {
+    "species": "Asterias rubens",
+    "genus": "Asterias",
+    "family": "Asteriidae",
+    "order": "Forcipulatida",
+    "class": "Asteroidea",
+    "phylum": "Echinodermata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

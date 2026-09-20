@@ -1,0 +1,64 @@
+{
+  "slug": "hamster",
+  "commonName": "Hamster",
+  "scientificName": "Mesocricetus auratus",
+  "alternateNames": ["Syrian hamster", "Golden hamster", "Teddy bear hamster"],
+  "nameSingular": "hamster",
+  "namePlural": "hamsters",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Rodentia", "family": "Cricetidae", "genus": "Mesocricetus", "species": "M. auratus"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 3, "unit": "years", "context": "pet Syrian hamsters; wild lifespan is poorly known and probably shorter", "display": "2–3 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 100, "max": 150, "unit": "g", "context": "adults; females are larger than males and well-fed pets can be heavier", "display": "100–150 g (3.5–5.3 oz)"},
+    "height": {"min": 13, "max": 18, "unit": "cm", "label": "Body length", "display": "13–18 cm (5–7 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 16, "max": 18, "unit": "days", "label": "Gestation", "display": "16–18 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Seeds, grains, nuts, green plant parts and some insects in the wild; pets eat a hamster seed or pellet mix with small amounts of fresh vegetables and occasional protein.",
+    "habitat": ["Dry steppe", "Farmland", "Homes"],
+    "range": "Wild only on a small plateau around Aleppo in northern Syria and neighboring southern Turkey; kept as a pet and laboratory animal worldwide.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The hamster most people keep as a pet is the Syrian or golden hamster, the largest and best known of the pet hamster species. It is a solitary, nocturnal, burrowing rodent with a very short tail and expandable cheek pouches that reach back to its shoulders for carrying food. Nearly all pet and laboratory Syrian hamsters are thought to descend from a single litter captured near Aleppo, Syria, in 1930. While millions live in captivity, the wild population occupies a small farmed area of Syria and Turkey, where it is trapped and poisoned as a crop pest, and is listed as Endangered.",
+  "answers": {
+    "lifespan": "Syrian hamsters live 2–3 years as pets. A few reach four years, but that is unusual, and signs of old age often appear from about 18 months. Dwarf hamster species have similar or slightly shorter lives. Lifespan in the wild is poorly documented and is probably shorter because of predators.",
+    "weight": "An adult Syrian hamster weighs 100–150 g (3.5–5.3 oz). Females are larger than males, and well-fed pets sometimes reach 180–200 g. Dwarf hamsters, which are different species, are far lighter at roughly 25–50 g.",
+    "size": "A Syrian hamster is 13–18 cm (5–7 in) long, with a stubby tail of about 1.5 cm. That makes it the largest of the common pet hamsters; dwarf species such as the Roborovski hamster measure only 5–10 cm.",
+    "speed": null,
+    "gestation": "A Syrian hamster is pregnant for just 16–18 days, the shortest gestation of any placental mammal. Litters usually contain 6–12 pups, born hairless and blind. Pups are weaned at around three weeks, and females can breed from as young as four to six weeks.",
+    "diet": "Hamsters are omnivores that eat seeds, grains, nuts, plant shoots and insects. Pets do well on a commercial hamster mix or pellets with small portions of fresh vegetables and an occasional protein treat. They stuff food into their cheek pouches and carry it back to a hoard in the nest.",
+    "habitat": "Wild Syrian hamsters live in dry, open steppe and farmland on a small plateau around Aleppo in northern Syria and southern Turkey. They dig burrows that can be a meter or so deep and come out at night or around dusk and dawn. Pet hamsters live in homes worldwide.",
+    "conservation": "The wild Syrian hamster is listed as Endangered on the IUCN Red List, with a decreasing population. Its natural range is very small, and it is threatened by agricultural expansion and by farmers who trap and poison it as a crop pest. The captive population numbers in the millions."
+  },
+  "funFacts": [
+    "Nearly all pet Syrian hamsters are believed to descend from one mother and her litter collected near Aleppo in 1930.",
+    "A hamster's cheek pouches extend back to its shoulders and can hold a remarkable share of its body weight in food.",
+    "Pet hamsters have been recorded running several kilometers on an exercise wheel in a single night.",
+    "The word hamster comes from the German verb 'hamstern', meaning to hoard.",
+    "Adult Syrian hamsters are strictly solitary and will fight, sometimes to the death, if housed together."
+  ],
+  "relatedAnimals": ["guinea-pig", "house-mouse", "brown-rat", "rabbit", "gray-squirrel"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can two hamsters live together?", "answer": "Syrian hamsters must be kept alone. They become territorial from about six to eight weeks of age and will fight seriously if they share a cage. Some dwarf hamster species can sometimes live in same-sex pairs, but even they often need to be separated."},
+    {"question": "Are hamsters nocturnal?", "answer": "Yes, pet hamsters are mostly nocturnal, sleeping through the day and becoming active in the evening and at night. Studies of wild Syrian hamsters found them active mainly around dusk and dawn, which helps them avoid both heat and night-hunting owls."},
+    {"question": "Do hamsters hibernate?", "answer": "Hamsters do not truly hibernate as pets, but a Syrian hamster kept in a cold room, below roughly 10°C (50°F), can enter torpor, becoming stiff, cold and slow-breathing. Warming the animal gently usually revives it; the state can be mistaken for death."},
+    {"question": "Do hamsters make good pets for children?", "answer": "Hamsters are inexpensive and easy to house, but they are not ideal for young children. They sleep during the day, can bite when woken or grabbed, are fragile if dropped, and live only 2–3 years. They suit older children and adults who are active in the evening."},
+    {"question": "Do hamsters bite?", "answer": "Hamsters can bite, usually when they are startled, woken suddenly or not used to handling. A hamster that is handled gently and regularly from a young age rarely bites. Washing food smells off your hands first also helps."}
+  ],
+  "meta": {
+    "title": "Hamster Lifespan, Size & Facts (Syrian Hamster)",
+    "description": "Syrian hamsters live 2–3 years, weigh 100–150 g, grow 13–18 cm long and are pregnant for only 16–18 days. Diet, habitat and wild conservation status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Mesocricetus%20auratus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Mesocricetus_auratus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Mesocricetus_auratus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Golden_hamster"}
+    ]
+  }
+}

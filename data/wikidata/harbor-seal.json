@@ -1,0 +1,29 @@
+{
+  "slug": "harbor-seal",
+  "commonName": "Harbor Seal",
+  "scientificName": "Phoca vitulina",
+  "classSlug": "mammals",
+  "aliases": [
+    "seal",
+    "common seal"
+  ],
+  "qid": "Q26913",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Harbor seal",
+  "taxonomy": {
+    "species": "Phoca vitulina",
+    "genus": "Phoca",
+    "family": "Phocidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "11",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

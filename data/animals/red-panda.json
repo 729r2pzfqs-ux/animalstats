@@ -1,0 +1,65 @@
+{
+  "slug": "red-panda",
+  "commonName": "Red Panda",
+  "scientificName": "Ailurus fulgens",
+  "alternateNames": ["Lesser panda", "Firefox", "Red cat-bear"],
+  "nameSingular": "red panda",
+  "namePlural": "red pandas",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Ailuridae", "genus": "Ailurus", "species": "A. fulgens"},
+  "facts": {
+    "lifespan": {"min": 8, "max": 10, "unit": "years", "context": "in the wild", "display": "8–10 years"},
+    "lifespanCaptivity": {"min": 12, "max": 15, "unit": "years", "context": "in human care; the record is about 23", "display": "12–15 years"},
+    "weight": {"min": 3, "max": 6.2, "unit": "kg", "context": "adults; males and females are similar in size", "display": "3–6.2 kg (6.6–13.7 lb)"},
+    "height": {"min": 50, "max": 64, "unit": "cm", "label": "Body length", "display": "50–64 cm (20–25 in), plus a 28–59 cm tail"},
+    "speed": null,
+    "gestationPeriod": {"min": 112, "max": 158, "unit": "days", "label": "Gestation", "display": "112–158 days (about 135 on average)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Mainly bamboo leaves and tender shoots, which form the great majority of the diet, supplemented with fruit, berries, acorns, roots, lichens and occasionally insects, bird eggs and small animals.",
+    "habitat": ["Temperate mountain forest", "Bamboo thicket", "Mixed broadleaf-conifer forest"],
+    "range": "The eastern Himalayas and mountains of southwestern China: Nepal, northern India, Bhutan, northern Myanmar and China's Sichuan, Yunnan and Tibet regions.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing",
+    "population": "thought to be fewer than 10,000 mature individuals"
+  },
+  "description": "The red panda is a cat-sized, tree-dwelling mammal with rust-red fur, a masked face and a long ringed tail. It lives in cool mountain forests of the eastern Himalayas and southwestern China. Despite its name and its bamboo diet, it is not closely related to the giant panda: it is the only living member of its own family, Ailuridae, whose nearest relatives are raccoons, weasels and skunks. Red pandas are solitary, most active at dawn, dusk and night, and spend much of the day asleep in trees. Genetic work published in 2020 suggests there are two distinct forms, the Himalayan and the Chinese red panda.",
+  "answers": {
+    "lifespan": "Red pandas live about 8–10 years in the wild and typically 12–15 years in zoos. The oldest known red panda lived to around 23. In the wild, many cubs do not survive their first year, and adults face predation by leopards and martens as well as the effects of habitat loss and free-roaming dogs.",
+    "weight": "Adult red pandas weigh 3–6.2 kg (6.6–13.7 lb), about the same as a large house cat. Males and females are similar in size. Their thick fur makes them look heavier than they are. Newborn cubs weigh only about 110–130 g and stay in the nest for roughly three months.",
+    "size": "A red panda's head and body measure 50–64 cm (20–25 in), and the bushy ringed tail adds another 28–59 cm (11–23 in). That makes it slightly larger than a domestic cat. The long tail helps with balance in the trees and wraps around the body like a blanket in cold weather.",
+    "speed": null,
+    "gestation": "Red panda pregnancy lasts 112–158 days, averaging about 135 days. The wide range suggests a period of delayed implantation. Mating takes place in winter, and one to four cubs, usually two, are born in June or July in a nest the mother builds in a tree hollow or rock crevice.",
+    "diet": "Red pandas are herbivores in practice, with bamboo leaves and shoots making up the great majority of their diet. They also eat fruit, acorns, roots, lichens and the occasional egg or insect. Because they digest bamboo poorly, they must eat a large share of their body weight in leaves and shoots each day.",
+    "habitat": "Red pandas live in cool, moist mountain forests with a bamboo understory, mostly between about 2,200 and 4,800 meters. Their range runs from Nepal through northern India, Bhutan and northern Myanmar into the Chinese provinces of Sichuan and Yunnan and the Tibet region. They need old trees for nesting and resting.",
+    "conservation": "The red panda is listed as Endangered on the IUCN Red List, and its population is decreasing. Fewer than 10,000 mature individuals are thought to remain, though the true number is uncertain. The main threats are forest loss and fragmentation, livestock grazing of bamboo, poaching for fur and the illegal pet trade."
+  },
+  "funFacts": [
+    "The red panda was scientifically described in 1825, decades before the giant panda, so it was the original 'panda'.",
+    "Red pandas are one of the few animals that can climb down a tree headfirst, rotating their ankles to grip the trunk.",
+    "Like the giant panda, the red panda has a 'false thumb', an extended wrist bone used to grasp bamboo; the two evolved it independently.",
+    "'Firefox' is an old nickname for the red panda, and the web browser is named after it.",
+    "Red pandas have fur on the soles of their feet, which insulates them from cold and gives grip on wet, mossy branches."
+  ],
+  "relatedAnimals": ["giant-panda", "raccoon", "striped-skunk", "snow-leopard", "sloth"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are red pandas related to giant pandas?", "answer": "Not closely. The giant panda is a bear, while the red panda is the only living member of its own family, Ailuridae. Its nearest relatives are raccoons, weasels and skunks. The two pandas share a name, a bamboo diet and a false thumb, but these similarities evolved separately."},
+    {"question": "Do red pandas make good pets?", "answer": "No. Red pandas are endangered wild animals protected under CITES Appendix I, and keeping one as a pet is illegal in most countries. They need a specialized bamboo diet and cool temperatures, scent-mark heavily, and have sharp claws. The illegal pet trade is one of the threats to wild populations."},
+    {"question": "Are red pandas dangerous?", "answer": "Red pandas are not dangerous to people. They are shy and usually flee up a tree. When cornered, a red panda may stand on its hind legs to look larger and can scratch or bite with sharp claws and teeth, but it poses no serious threat."},
+    {"question": "How many red pandas are left in the wild?", "answer": "No precise count exists. The IUCN considers it likely that fewer than 10,000 mature red pandas remain, and the population is thought to have fallen by about half over the last three generations. Their secretive, tree-dwelling habits make them very hard to survey."},
+    {"question": "Is a red panda a bear, a cat or a raccoon?", "answer": "None of these. The red panda has been placed with both bears and raccoons in the past, but genetic studies show it belongs to its own family, Ailuridae, within the carnivore group that also includes raccoons, skunks and weasels."}
+  ],
+  "meta": {
+    "title": "Red Panda Facts: Size, Weight, Lifespan & Diet",
+    "description": "Red pandas weigh 3–6.2 kg (6.6–13.7 lb), measure 50–64 cm plus a long ringed tail, and live 8–10 years in the wild. Diet, habitat and endangered status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Ailurus%20fulgens&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Ailurus_fulgens/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Ailurus_fulgens"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Red_panda"}
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "sloth",
+  "commonName": "Brown-Throated Sloth",
+  "scientificName": "Bradypus variegatus",
+  "alternateNames": ["Brown-throated three-toed sloth", "Three-toed sloth"],
+  "nameSingular": "brown-throated sloth",
+  "namePlural": "brown-throated sloths",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Pilosa", "family": "Bradypodidae", "genus": "Bradypus", "species": "B. variegatus"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 30, "unit": "years", "context": "estimated; wild lifespan is poorly documented", "display": "an estimated 20–30 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 2.25, "max": 6.3, "unit": "kg", "context": "adults; females are slightly larger", "display": "2.25–6.3 kg (5–14 lb)"},
+    "height": {"min": 42, "max": 80, "unit": "cm", "label": "Body length", "display": "42–80 cm (17–31 in)"},
+    "speed": {"min": 0.24, "max": 0.24, "unit": "km/h", "verb": "move", "context": "about 4 m per minute; slightly faster in trees when alarmed", "display": "about 0.24 km/h (0.15 mph)"},
+    "gestationPeriod": {"min": 150, "max": 210, "unit": "days", "label": "Gestation", "display": "5–7 months (150–210 days)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Leaves, buds and tender shoots from a limited number of rainforest trees and lianas, including Cecropia. Each sloth favors a handful of tree species, a preference it learns from its mother.",
+    "habitat": ["Tropical rainforest", "Cloud forest", "Mangroves", "Cacao plantations"],
+    "range": "Central and South America, from Honduras through Panama, Colombia, Ecuador and Peru to Bolivia, Brazil and the far north of Argentina.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The brown-throated sloth is the most common and widespread of the four three-toed sloth species, and the sloth most visitors see in Costa Rica and Panama. It spends nearly all its life hanging in the rainforest canopy, moving slowly to save energy on a leaf diet that offers very few calories. It has three long hooked claws on every limb, a small round head with a dark eye stripe, and coarse fur that often turns green with algae. Three-toed sloths are only distantly related to the two-toed sloths, which belong to a separate family and have two claws on each front limb.",
+  "answers": {
+    "lifespan": "Brown-throated sloths are thought to live about 20–30 years in the wild, but the figure is an estimate because few wild sloths have been followed for life. Three-toed sloths rarely survive long in zoos because of their specialized leaf diet, so there is no reliable captive lifespan.",
+    "weight": "Adult brown-throated sloths weigh 2.25–6.3 kg (5–14 lb), about the same as a house cat. Females tend to be slightly larger than males. Up to a third of that weight can be the leaves fermenting slowly in the large, multi-chambered stomach.",
+    "size": "A brown-throated sloth has a head-and-body length of 42–80 cm (17–31 in), plus a stubby tail of a few centimeters. The arms are nearly twice as long as the legs, and each limb ends in three curved claws 7–8 cm long.",
+    "speed": "Brown-throated sloths move at about 0.24 km/h (0.15 mph), which works out to roughly 4 m a minute. They are slightly quicker in the branches when alarmed, almost helpless on the ground, and surprisingly capable swimmers, moving several times faster in water than on land.",
+    "gestation": "A brown-throated sloth is pregnant for roughly 5–7 months; published figures vary and the exact length is not firmly established. The female gives birth to a single baby while hanging in a tree, and the infant clings to her belly for about six months.",
+    "diet": "Brown-throated sloths are herbivores that eat leaves, buds and shoots from a fairly small selection of rainforest trees. Digestion is the slowest known in any mammal, and a single meal can take two weeks or more to pass through the gut.",
+    "habitat": "Brown-throated sloths live in tropical forests from Honduras to northern Argentina, including lowland rainforest, cloud forest, mangroves and shade-grown cacao plantations. They need connected tree canopy, because crossing open ground exposes them to dogs, vehicles and predators.",
+    "conservation": "Brown-throated sloths are listed as Least Concern on the IUCN Red List, although the population is decreasing. Deforestation, forest fragmentation, road kills, power-line electrocution and illegal capture for the pet and tourist-photo trades are the main threats."
+  },
+  "funFacts": [
+    "Three-toed sloths have eight or nine neck vertebrae instead of the usual mammalian seven, allowing them to turn their heads about 270 degrees.",
+    "Sloth fur hosts green algae, moths, beetles and fungi; the algae give the coat a green tint that works as camouflage.",
+    "A sloth climbs down to the ground roughly once a week to urinate and defecate, a risky habit whose purpose is still debated.",
+    "Body temperature in three-toed sloths swings by several degrees with the weather, more like a reptile's than a typical mammal's.",
+    "A sloth's grip is so strong and passive that animals sometimes remain hanging from a branch after death."
+  ],
+  "relatedAnimals": ["giant-anteater", "armadillo", "koala", "jaguar", "capybara"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why are sloths so slow?", "answer": "Sloths are slow because their leaf diet provides very little energy. They have the lowest metabolic rate of any non-hibernating mammal and about 30 percent less muscle than similar-sized animals. Moving slowly also helps them avoid the notice of eagles and jaguars, which hunt by sight."},
+    {"question": "What is the difference between two-toed and three-toed sloths?", "answer": "Three-toed sloths (Bradypus) have three claws on their front limbs, a short tail and a dark eye mask, and they eat only leaves. Two-toed sloths (Choloepus) have two front claws, are larger, more nocturnal and eat a broader diet. Both have three toes on the hind feet."},
+    {"question": "How much do sloths sleep?", "answer": "Wild brown-throated sloths sleep about 9–10 hours a day, according to a study that recorded brain activity in free-living animals in Panama. The old figure of 15–20 hours came from captive sloths, which sleep far more than wild ones."},
+    {"question": "Can sloths swim?", "answer": "Yes. Sloths are good swimmers and use a kind of breaststroke with their long arms. They move roughly three times faster in water than on land and can slow their heart rate to hold their breath, which helps them cross rivers and flooded forest."},
+    {"question": "Do sloths make good pets?", "answer": "No. Sloths have specialized diets, need warm, humid conditions and are easily stressed by handling, even though they appear calm. Three-toed sloths almost always die in captivity. Demand for pet sloths and tourist selfies also drives illegal capture from the wild."}
+  ],
+  "meta": {
+    "title": "Brown-Throated Sloth Facts: Speed, Size & Lifespan",
+    "description": "Brown-throated sloths move at just 0.24 km/h, weigh 2.25–6.3 kg (5–14 lb) and live an estimated 20–30 years. Diet, sleep, habitat and three-toed sloth facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Bradypus%20variegatus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Bradypus_variegatus/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Brown-throated_sloth"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q148752"}
+    ]
+  }
+}

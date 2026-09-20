@@ -1,0 +1,62 @@
+{
+  "slug": "asian-giant-hornet",
+  "commonName": "Asian Giant Hornet",
+  "scientificName": "Vespa mandarinia",
+  "alternateNames": ["Northern giant hornet", "Murder hornet", "Japanese giant hornet"],
+  "nameSingular": "Asian giant hornet",
+  "namePlural": "Asian giant hornets",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Insecta", "classSlug": "invertebrates", "order": "Hymenoptera", "family": "Vespidae", "genus": "Vespa", "species": "V. mandarinia"},
+  "facts": {
+    "lifespan": {"min": 1, "max": 12, "unit": "months", "context": "workers live from a few weeks to a few months; queens live about a year, including hibernation", "display": "weeks to a few months (workers); queens about 1 year"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 2, "max": 4, "unit": "g", "context": "approximate; published weights are scarce and queens are the heaviest caste", "display": "roughly 2–4 g (0.07–0.14 oz)"},
+    "height": {"min": 35, "max": 50, "unit": "mm", "label": "Body length", "display": "35–50 mm (1.4–2 in)"},
+    "speed": {"min": 40, "max": 40, "unit": "km/h", "verb": "fly", "context": "widely cited top flight speed", "display": "up to about 40 km/h (25 mph)"},
+    "gestationPeriod": null
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Workers hunt large insects such as beetles, mantises, caterpillars and other wasps, and raid honey bee and wasp colonies to carry off the brood for their larvae. Adults themselves drink tree sap, fruit juices and a larval secretion.",
+    "habitat": ["Temperate forest", "Low mountains", "Woodland edges", "Farmland"],
+    "range": "East Asia, South Asia and mainland Southeast Asia, including Japan, Korea, China, Taiwan, the Russian Far East, northern India and Nepal.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The Asian giant hornet is the world's largest hornet, with queens that can exceed 5 cm in length. In 2022 the Entomological Society of America adopted northern giant hornet as its official common name, replacing the media nickname murder hornet. It is a social wasp with an annual colony that usually nests underground, in old rodent burrows or among tree roots. In late summer and fall, groups of workers attack honey bee hives, killing the adult bees and carrying the larvae and pupae back to feed their own brood. A few nests found in the Pacific Northwest from 2019 were destroyed.",
+  "answers": {
+    "lifespan": "Asian giant hornet workers live from a few weeks to a few months, while queens live about a year. A queen mates in fall, hibernates alone in soil or rotting wood, founds a nest in spring and dies the following autumn. Colonies are annual, so every nest dies out before winter, leaving only new queens.",
+    "weight": "An Asian giant hornet weighs roughly 2–4 g (0.07–0.14 oz), with queens at the top of the range. Reliable published weights are scarce, so treat these as approximate. Even so, it is many times heavier than a honey bee worker, which weighs only about a tenth of a gram.",
+    "size": "Asian giant hornet workers are 35–40 mm (1.4–1.6 in) long, and queens can exceed 50 mm (2 in). The wingspan is about 76 mm (3 in) and the stinger is about 6 mm (0.25 in) long. The broad orange-yellow head and dark brown-and-orange banded abdomen are distinctive.",
+    "speed": "Asian giant hornets are widely reported to fly at up to about 40 km/h (25 mph). Workers usually forage within 1–2 km of the nest but can travel considerably farther when food is scarce, which helps them locate honey bee hives across a wide area.",
+    "gestation": null,
+    "diet": "Asian giant hornets are predators of other insects, especially beetles, mantises, caterpillars, honey bees and smaller wasps. Workers chew prey into a paste to feed the larvae. Adults cannot digest solid protein, so they live on tree sap, ripe fruit and a nutritious fluid that the larvae secrete.",
+    "habitat": "Asian giant hornets live in forests, wooded foothills and low mountains across temperate and subtropical Asia, from the Russian Far East and Japan to northern India. They avoid open plains and high altitudes. Most nests are underground, in abandoned rodent burrows, rotted tree roots or hollows at the base of trees.",
+    "conservation": "The Asian giant hornet has not been evaluated for the IUCN Red List and is not considered threatened in its native range. It is managed as a potential invasive species. Nests found in Washington State and British Columbia between 2019 and 2021 were destroyed, and U.S. authorities declared it eradicated from the country in December 2024."
+  },
+  "funFacts": [
+    "During a raid, a few dozen giant hornets can kill tens of thousands of European honey bees in a matter of hours.",
+    "Japanese honey bees defend themselves by swarming over a scout hornet in a tight ball and vibrating their muscles until the heat kills it.",
+    "The stinger is about 6 mm (a quarter inch) long, long enough to pierce ordinary beekeeping suits.",
+    "In parts of Japan, giant hornet larvae and adults are eaten as a traditional food and the hornets are steeped in liquor.",
+    "The official common name was changed to northern giant hornet in 2022 to avoid naming an insect after a geographic region or a sensational nickname."
+  ],
+  "relatedAnimals": ["common-wasp", "honey-bee", "bumblebee", "praying-mantis", "black-garden-ant"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can an Asian giant hornet kill a human?", "answer": "Yes, but deaths are uncommon. A single sting is very painful but rarely dangerous unless the person is allergic. Multiple stings can cause kidney failure and death, and in Japan hornets, wasps and bees together are reported to kill a few dozen people in a typical year."},
+    {"question": "Are murder hornets in the United States?", "answer": "Not any more, as far as anyone knows. Asian giant hornets were first detected in Washington State in 2019, and four nests were found and destroyed in 2020 and 2021. After three years without a detection, state and federal agencies declared the hornet eradicated in December 2024."},
+    {"question": "Why are they called murder hornets?", "answer": "The nickname comes from the way they attack honey bee colonies, decapitating adult bees in large numbers before carrying off the brood. It spread through news headlines in 2020. Entomologists prefer northern giant hornet, the official common name since 2022."},
+    {"question": "How painful is an Asian giant hornet sting?", "answer": "Very painful. People who have been stung describe a deep, burning, throbbing pain, and the large dose of venom can cause significant swelling and tissue damage around the sting. Anyone with signs of an allergic reaction or many stings needs emergency care."},
+    {"question": "What is the difference between an Asian giant hornet and a European hornet?", "answer": "The Asian giant hornet is much bigger, 35–50 mm against roughly 20–35 mm, and has a large, entirely orange-yellow head. The European hornet has a reddish-brown and yellow head and thorax, and a yellow abdomen marked with brown teardrop shapes."}
+  ],
+  "meta": {
+    "title": "Asian Giant Hornet Facts: Size, Sting, Speed & Range",
+    "description": "The Asian giant hornet, or northern giant hornet, is 35–50 mm long with a 6 mm stinger and flies up to 40 km/h. Lifespan, diet, range and sting danger.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Asian_giant_hornet"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q121791"}
+    ]
+  }
+}

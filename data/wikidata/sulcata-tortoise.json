@@ -1,0 +1,23 @@
+{
+  "slug": "sulcata-tortoise",
+  "commonName": "African Spurred Tortoise",
+  "scientificName": "Centrochelys sulcata",
+  "classSlug": "reptiles",
+  "aliases": [
+    "sulcata",
+    "tortoise"
+  ],
+  "qid": "Q301016",
+  "iucnStatus": "Endangered",
+  "wikipedia": "African spurred tortoise",
+  "taxonomy": {
+    "species": "Centrochelys sulcata",
+    "genus": "Centrochelys",
+    "family": "Testudinidae",
+    "order": "Testudines",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

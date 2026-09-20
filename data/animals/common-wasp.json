@@ -1,0 +1,63 @@
+{
+  "slug": "common-wasp",
+  "commonName": "Common Wasp",
+  "scientificName": "Vespula vulgaris",
+  "alternateNames": ["Common yellowjacket", "European wasp", "Yellowjacket"],
+  "nameSingular": "common wasp",
+  "namePlural": "common wasps",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Insecta", "classSlug": "invertebrates", "order": "Hymenoptera", "family": "Vespidae", "genus": "Vespula", "species": "V. vulgaris"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 4, "unit": "weeks", "context": "adult workers; queens live about a year, including winter hibernation", "display": "2–4 weeks (workers); queens about 1 year"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 70, "max": 250, "unit": "mg", "context": "approximate; workers are under about 100 mg, queens considerably heavier", "display": "roughly 70–250 mg (0.002–0.009 oz)"},
+    "height": {"min": 12, "max": 20, "unit": "mm", "label": "Body length", "display": "12–20 mm (0.5–0.8 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 5, "max": 8, "unit": "days", "label": "Egg development", "display": "5–8 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Adults feed on sugars: nectar, ripe fruit, aphid honeydew and a sweet liquid produced by their own larvae. Workers catch flies, caterpillars and other insects, and scavenge meat, to feed the larvae.",
+    "habitat": ["Woodland", "Grassland", "Farmland", "Gardens", "Towns and cities"],
+    "range": "Native across Europe and temperate Asia; introduced to New Zealand, Australia and southern South America. Similar North American wasps are now classed as a separate species.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The common wasp is the black-and-yellow social wasp that most Europeans picture when they hear the word wasp. Each colony lasts a single season. A queen that has hibernated through winter starts a nest of chewed wood pulp in spring, usually underground or in a roof space or wall cavity, and by late summer it may house several thousand workers. The colony dies with the first hard frosts, leaving only newly mated queens to overwinter. Common wasps are important predators of garden and farm pests, although their taste for sugar in late summer brings them into conflict with people.",
+  "answers": {
+    "lifespan": "Common wasp workers live about 2–4 weeks as adults, while queens live about a year. Queens spend roughly half of that year hibernating in a sheltered spot such as a loft, shed or log pile. The colony is annual in its native range: workers, males and the old queen die off by early winter.",
+    "weight": "Common wasps weigh roughly 70–250 mg (0.002–0.009 oz). Workers are at the bottom of that range, typically under 100 mg, while queens are considerably heavier, especially in autumn when they have laid down fat for hibernation. Exact figures vary with season and food supply.",
+    "size": "Common wasp workers are 12–17 mm (0.5–0.7 in) long, and queens reach about 20 mm (0.8 in). The species can be told from the very similar German wasp by the anchor-shaped black mark on its face, where the German wasp usually has three small dots.",
+    "speed": null,
+    "gestation": "Common wasp eggs hatch in about 5–8 days. The queen lays a single egg in each paper cell, and the legless larvae are fed chewed-up insects for around two weeks before pupating. The first workers emerge roughly a month after the queen starts the nest and take over building and foraging.",
+    "diet": "Adult common wasps live on sugary liquids, while their larvae are fed insects and scraps of meat. Workers hunt flies, caterpillars, aphids and spiders for the brood, and the larvae give back a sugary secretion in return. When brood rearing ends in late summer, workers lose that sugar source and turn to fruit, jam and sweet drinks.",
+    "habitat": "Common wasps live in woodland, grassland, farmland, gardens and towns across Europe and temperate Asia. Nests are built in dry, enclosed spaces: old rodent burrows, hollow trees, lofts, sheds and wall cavities. The species is also an established invader in New Zealand, southeastern Australia and parts of Argentina and Chile.",
+    "conservation": "The common wasp has not been evaluated for the IUCN Red List and is abundant across its native range. It is better known as an invasive species. In New Zealand's honeydew beech forests, common wasps reach some of the highest densities recorded anywhere and compete with native birds and insects for food."
+  },
+  "funFacts": [
+    "A common wasp nest is made of paper: workers scrape wood fibers from fences and dead trees and mix them with saliva.",
+    "A large nest can hold 5,000–10,000 workers at its late-summer peak, all daughters of a single queen.",
+    "Wasps pester picnics in late summer because the larvae that fed them a sugary secretion have pupated, leaving workers hungry for sugar.",
+    "Common wasps have smooth stingers, so unlike honey bee workers they can sting repeatedly without dying.",
+    "Yellowjackets in North America that were long called Vespula vulgaris were recognized in 2010 as a separate species, Vespula alascensis."
+  ],
+  "relatedAnimals": ["asian-giant-hornet", "honey-bee", "bumblebee", "black-garden-ant", "housefly"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the point of wasps?", "answer": "Wasps are major predators of other insects. A single colony removes large numbers of flies, caterpillars and aphids from gardens and crops over a summer. Adult wasps also visit flowers for nectar and pollinate some plants along the way."},
+    {"question": "Do wasps die after they sting?", "answer": "No. A wasp's stinger is smooth, so it slides back out of the skin and the wasp can sting again. Only honey bee workers routinely die after stinging, because their barbed stinger gets stuck in mammal skin."},
+    {"question": "Why are wasps so aggressive in late summer?", "answer": "By late summer the colony is at its largest, and the queen stops producing the larvae that reward workers with a sugary liquid. Thousands of workers are left searching for sugar, which draws them to fruit, drinks and outdoor meals, where they are easily provoked."},
+    {"question": "What is the difference between a wasp and a bee?", "answer": "Common wasps are smooth, shiny and sharply marked in black and yellow with a narrow waist, while bees are hairier and stouter. Wasps feed their young on insects and meat, whereas bees raise their young entirely on pollen and nectar."},
+    {"question": "Do wasps come back to the same nest each year?", "answer": "No. In temperate climates a common wasp nest is used for one season and never reoccupied. New queens may pick the same attic or bank the following spring because it is a good site, but they always build a fresh nest."}
+  ],
+  "meta": {
+    "title": "Common Wasp (Yellowjacket) Facts: Lifespan, Size & Diet",
+    "description": "Common wasp workers live 2–4 weeks and queens about a year. Workers are 12–17 mm long; nests hold up to 10,000. Diet, nests, stings and wasp facts.",
+    "sources": [
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Vespula_vulgaris/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Vespula_vulgaris"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q260482"}
+    ]
+  }
+}

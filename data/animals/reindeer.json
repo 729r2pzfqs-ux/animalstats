@@ -1,0 +1,65 @@
+{
+  "slug": "reindeer",
+  "commonName": "Reindeer",
+  "scientificName": "Rangifer tarandus",
+  "alternateNames": ["Caribou"],
+  "nameSingular": "reindeer",
+  "namePlural": "reindeer",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Cervidae", "genus": "Rangifer", "species": "R. tarandus"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 15, "unit": "years", "context": "in the wild; females live longer than males", "display": "10–15 years"},
+    "lifespanCaptivity": {"min": 15, "max": 20, "unit": "years", "context": "domesticated or in human care", "display": "15–20 years"},
+    "weight": {"min": 80, "max": 180, "unit": "kg", "context": "adults; females 80–120 kg, males 160–180 kg; large woodland caribou bulls can exceed 250 kg", "display": "80–180 kg (175–400 lb)"},
+    "height": {"min": 0.85, "max": 1.5, "unit": "m", "label": "Shoulder height", "display": "0.85–1.5 m (2.8–4.9 ft)"},
+    "speed": {"min": 60, "max": 80, "unit": "km/h", "verb": "run", "context": "top speed when fleeing", "display": "60–80 km/h (37–50 mph)"},
+    "gestationPeriod": {"min": 222, "max": 235, "unit": "days", "label": "Gestation", "display": "about 228 days (7.5 months)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Lichens, especially reindeer lichen, are the main winter food, dug from under the snow; in summer they eat willow and birch leaves, sedges, grasses, herbs and mushrooms.",
+    "habitat": ["Arctic tundra", "Boreal forest", "Mountain"],
+    "range": "Circumpolar: Alaska, Canada and Greenland, where they are called caribou, and Norway, Finland, Svalbard and Russia, with domesticated herds across northern Eurasia.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing",
+    "population": "about 2.9 million (IUCN assessment, 2015), down roughly 40% in about 25 years"
+  },
+  "description": "The reindeer, known as caribou in North America, is a deer of Arctic tundra and northern forests and the only deer species in which both males and females grow antlers. It is built for cold: a dense coat of hollow hairs, a nose that warms incoming air, and broad, splayed hooves that work as snowshoes and as shovels for digging out lichen. Some herds make the longest overland migrations of any mammal. Reindeer were domesticated in Eurasia thousands of years ago and remain central to the livelihood of Sami, Nenets and other northern peoples. Wild numbers have fallen sharply, and the species is listed as Vulnerable.",
+  "answers": {
+    "lifespan": "Reindeer live about 10–15 years in the wild, and up to around 20 years when domesticated or kept in zoos. Females usually outlive males, which are worn down by the fall rut and often die before age 10. Wolves, bears, wolverines and golden eagles prey on calves and weakened adults.",
+    "weight": "Adult reindeer weigh 80–180 kg (175–400 lb), with females usually 80–120 kg and males 160–180 kg. Size varies widely among subspecies: Svalbard reindeer are small and short-legged, while bulls of North America's woodland caribou can top 250 kg. Domesticated reindeer tend to be smaller than wild ones.",
+    "size": "A reindeer stands 0.85–1.5 m (2.8–4.9 ft) tall at the shoulder. Body length is 1.6–2.1 m (5.3–6.9 ft). Bulls carry the largest antlers relative to body size of any living deer, with beams that can reach about 1.3 m (4.3 ft) in length.",
+    "speed": "Reindeer can run at 60–80 km/h (37–50 mph) when fleeing predators. Even a day-old calf can outrun a person. On migration they travel at a steadier pace, covering 20–55 km a day, and they are strong swimmers that cross wide rivers and sea inlets.",
+    "gestation": "A reindeer is pregnant for about 228 days, or seven and a half months. Mating takes place in the fall rut, in late September to early November, and a single calf is born in May or June. Calves can stand within an hour and follow the herd within a day.",
+    "diet": "Reindeer are herbivores whose key winter food is lichen, which they smell through the snow and dig out with their hooves. They are among the few mammals able to digest lichen efficiently. In summer they switch to the leaves of willow and birch, sedges, grasses, herbs and mushrooms.",
+    "habitat": "Reindeer live on Arctic tundra, in boreal forest and on mountains all around the far north: Alaska, Canada, Greenland, Scandinavia and Russia. Tundra herds migrate between forest wintering grounds and coastal calving areas, in some cases traveling more than 1,000 km round trip each year. Forest-dwelling caribou are more sedentary.",
+    "conservation": "Reindeer are listed as Vulnerable on the IUCN Red List after the wild population fell about 40 percent in roughly 25 years, to around 2.9 million. Causes include climate change, which brings icing events that lock away food, along with industrial development, habitat disturbance, and in some regions overhunting."
+  },
+  "funFacts": [
+    "Reindeer are the only deer in which females grow antlers; females keep theirs through winter, while mature bulls shed theirs after the fall rut.",
+    "Reindeer eyes change with the seasons: the reflective layer behind the retina is golden in summer and turns deep blue in winter to capture more light.",
+    "Reindeer can see ultraviolet light, which makes urine, fur and lichen stand out dark against UV-reflecting snow.",
+    "A tendon slipping over a bone in the foot makes a clicking sound as reindeer walk, which may help the herd stay together in blizzards.",
+    "Some caribou herds in Alaska and Canada travel over 1,000 km round trip each year, the longest land migration recorded for any mammal."
+  ],
+  "relatedAnimals": ["moose", "elk", "red-deer", "white-tailed-deer", "arctic-fox", "gray-wolf"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between reindeer and caribou?", "answer": "Reindeer and caribou are the same species, Rangifer tarandus. 'Caribou' is the name used in North America for wild animals, while 'reindeer' is used in Europe and Asia and for domesticated animals everywhere. Domesticated reindeer are generally shorter, stockier and tamer than wild caribou."},
+    {"question": "Are reindeer real?", "answer": "Yes, reindeer are real animals. They are a species of deer that lives across the Arctic and subarctic, and millions exist in the wild and in domesticated herds. They cannot fly, but they do pull sleds in Scandinavia and Siberia, which is the origin of the Christmas story."},
+    {"question": "Do female reindeer have antlers?", "answer": "Yes. Reindeer are the only deer species in which females regularly grow antlers, although theirs are smaller. Females keep their antlers until spring, which helps them defend feeding spots in winter while pregnant. Mature males drop theirs in early winter, after the rut."},
+    {"question": "Were Santa's reindeer male or female?", "answer": "Going by the antlers, probably female. Mature male reindeer shed their antlers in early winter after the rut, while females keep theirs until spring. Reindeer shown with antlers on Christmas Eve would therefore most likely be females, or else young or castrated males, which also keep antlers longer."},
+    {"question": "Why do reindeer noses look red?", "answer": "Reindeer noses contain a very dense network of tiny blood vessels that warms the freezing air they breathe and helps regulate body temperature. In thermal images the nose glows warm, and it can look pinkish in real life, a possible inspiration for the red-nosed reindeer of the Christmas story."}
+  ],
+  "meta": {
+    "title": "Reindeer (Caribou) Facts: Size, Speed, Antlers & Diet",
+    "description": "Reindeer, or caribou, weigh 80–180 kg (175–400 lb), run 60–80 km/h (37–50 mph) and live 10–15 years. Both sexes grow antlers. Diet, migration and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Rangifer%20tarandus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Rangifer_tarandus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Rangifer_tarandus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Reindeer"}
+    ]
+  }
+}

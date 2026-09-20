@@ -1,0 +1,33 @@
+{
+  "slug": "atlantic-puffin",
+  "commonName": "Atlantic Puffin",
+  "scientificName": "Fratercula arctica",
+  "classSlug": "birds",
+  "aliases": [
+    "puffin"
+  ],
+  "qid": "Q26685",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Atlantic puffin",
+  "taxonomy": {
+    "species": "Fratercula arctica",
+    "genus": "Fratercula",
+    "family": "Alcidae",
+    "order": "Charadriiformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "376",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "height",
+      "amount": "11",
+      "unit": "in",
+      "sex": null
+    }
+  ]
+}

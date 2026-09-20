@@ -1,0 +1,63 @@
+{
+  "slug": "ladybug",
+  "commonName": "Seven-Spot Ladybug",
+  "scientificName": "Coccinella septempunctata",
+  "alternateNames": ["Seven-spot ladybird", "Sevenspotted lady beetle", "Ladybird", "C-7"],
+  "nameSingular": "seven-spot ladybug",
+  "namePlural": "seven-spot ladybugs",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Insecta", "classSlug": "invertebrates", "order": "Coleoptera", "family": "Coccinellidae", "genus": "Coccinella", "species": "C. septempunctata"},
+  "facts": {
+    "lifespan": {"min": 1, "max": 2, "unit": "years", "context": "adults, including winter dormancy; most live about a year", "display": "about 1 year, occasionally up to 2"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 30, "max": 45, "unit": "mg", "context": "adults; approximate, varies with feeding and season", "display": "roughly 30–45 mg (about 0.001 oz)"},
+    "height": {"min": 6, "max": 8, "unit": "mm", "label": "Body length", "display": "6–8 mm (0.24–0.31 in)"},
+    "speed": {"min": 30, "max": 30, "unit": "km/h", "verb": "fly", "context": "average in radar-tracked high-altitude flight, helped by wind; bursts up to about 60 km/h were recorded", "display": "about 30 km/h (19 mph)"},
+    "gestationPeriod": {"min": 4, "max": 10, "unit": "days", "label": "Egg development", "display": "4–10 days, depending on temperature"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Mainly aphids, eaten by both adults and larvae, along with scale insects, mites, insect eggs and small larvae. When prey is scarce, adults also feed on pollen and nectar.",
+    "habitat": ["Gardens", "Farmland", "Meadows", "Woodland edges", "Hedgerows"],
+    "range": "Native to Europe, North Africa and much of Asia; deliberately introduced to North America for aphid control and now established across the United States and southern Canada.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The seven-spot ladybug, called the seven-spot ladybird in Britain, is the classic red beetle with black spots: three on each wing cover and one shared across the middle. It is the most familiar ladybug in Europe and, since its introduction in the twentieth century, one of the most common in North America. Both adults and the gray, alligator-shaped larvae are voracious aphid predators, which makes the species valuable to gardeners and farmers. Its bright colors advertise bitter defensive chemicals. Adults spend the winter dormant in leaf litter, grass tussocks and crevices, often in groups.",
+  "answers": {
+    "lifespan": "Seven-spot ladybugs live about a year as adults, and occasionally up to two. Adults that emerge in summer feed, spend the winter dormant in sheltered spots, then mate and lay eggs the following spring before dying. The earlier stages are quick: egg, larva and pupa together take only about four to eight weeks.",
+    "weight": "An adult seven-spot ladybug weighs roughly 30–45 mg, about a thousandth of an ounce. Weight swings with how well the beetle has been feeding, and adults put on fat reserves in late summer to carry them through as much as six months of winter dormancy without food.",
+    "size": "Seven-spot ladybugs are 6–8 mm (0.24–0.31 in) long, with a domed, almost hemispherical body. The red or orange-red wing covers carry seven black spots, and the black thorax has a white patch on each side. Full-grown larvae are longer than adults, at around 10–12 mm.",
+    "speed": "Radar tracking in England found that ladybugs, including the seven-spot, fly at an average of about 30 km/h (19 mph), with bursts of up to roughly 60 km/h. Those speeds were measured high above the ground, where tailwinds help. The same study recorded ladybugs flying at heights of over 1,000 meters.",
+    "gestation": "Seven-spot ladybug eggs hatch in about 4–10 days, faster in warm weather. Females lay clusters of yellow, spindle-shaped eggs near aphid colonies so the larvae have food on hand. The larva feeds for two to four weeks and then pupates for about a week before the adult emerges.",
+    "diet": "Seven-spot ladybugs are predators that feed mainly on aphids. A larva can eat several hundred aphids during its development, and adults eat dozens a day when prey is plentiful. They also take scale insects, mites and insect eggs, and fall back on pollen and nectar when prey runs short.",
+    "habitat": "Seven-spot ladybugs live almost anywhere aphids do: gardens, crop fields, meadows, hedgerows, woodland edges and parks. They are native across Europe, North Africa and Asia and are now widespread in North America. In winter, adults shelter in leaf litter, dense grass, bark crevices and sometimes buildings.",
+    "conservation": "The seven-spot ladybug has not been evaluated for the IUCN Red List and remains common across its huge range. In Europe it faces competition from the invasive harlequin ladybug, while in North America the introduced seven-spot is itself thought to have contributed to declines of native ladybugs such as the nine-spotted ladybug."
+  },
+  "funFacts": [
+    "When threatened, a ladybug oozes bitter yellow fluid from its leg joints, a defense called reflex bleeding.",
+    "The spots do not show age: every seven-spot ladybug has seven spots from the day its wing covers harden.",
+    "A single larva can eat several hundred aphids before it pupates, which is why ladybugs are valued for natural pest control.",
+    "The seven-spot ladybug is the official state insect of several U.S. states, even though it is not native to North America.",
+    "Newly emerged adults are pale yellow and spotless; the red color and black spots develop over the following hours."
+  ],
+  "relatedAnimals": ["black-garden-ant", "praying-mantis", "dragonfly", "monarch-butterfly", "honey-bee"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are ladybugs poisonous?", "answer": "Ladybugs are not dangerous to people. Their body fluid contains bitter alkaloids that make them taste foul to birds and other predators, and the red-and-black pattern is a warning sign. A pet that eats a large number may get an upset stomach."},
+    {"question": "Do ladybugs bite?", "answer": "Seven-spot ladybugs can give a mild pinch with their jaws, usually when they are hungry or thirsty, but they cannot break the skin in any meaningful way and carry no venom. The invasive harlequin ladybug is more prone to nipping people."},
+    {"question": "Do the spots on a ladybug tell its age?", "answer": "No. The number of spots depends on the species, not the age. A seven-spot ladybug has seven spots throughout its adult life, while other species have two, ten, fourteen, twenty-two or no spots at all."},
+    {"question": "What is the difference between a ladybug and an Asian lady beetle?", "answer": "The Asian lady beetle, or harlequin ladybug, is slightly larger, varies from orange to red or black with anywhere from zero to about 19 spots, and usually has a black M or W mark behind the head. Seven-spots are consistently red with exactly seven spots."},
+    {"question": "Are ladybugs good for the garden?", "answer": "Yes. Both adults and larvae eat large numbers of aphids and other soft-bodied plant pests. Leaving some rough, undisturbed areas of leaf litter and long grass gives ladybugs places to spend the winter, so they are present when aphids appear in spring."}
+  ],
+  "meta": {
+    "title": "Seven-Spot Ladybug Facts: Lifespan, Size, Diet & Habitat",
+    "description": "Seven-spot ladybugs live about a year, measure 6–8 mm and can eat dozens of aphids a day. Lifespan, size, flight speed, diet, habitat and ladybug FAQs.",
+    "sources": [
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Coccinella_septempunctata/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Coccinella_septempunctata"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q159543"}
+    ]
+  }
+}

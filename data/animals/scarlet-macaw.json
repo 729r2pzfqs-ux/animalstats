@@ -1,0 +1,64 @@
+{
+  "slug": "scarlet-macaw",
+  "commonName": "Scarlet Macaw",
+  "scientificName": "Ara macao",
+  "alternateNames": ["Red-and-yellow macaw", "Guacamaya roja", "Lapa roja"],
+  "nameSingular": "scarlet macaw",
+  "namePlural": "scarlet macaws",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Psittaciformes", "family": "Psittacidae", "genus": "Ara", "species": "A. macao"},
+  "facts": {
+    "lifespan": {"min": 40, "max": 50, "unit": "years", "context": "in the wild, as commonly estimated", "display": "40–50 years"},
+    "lifespanCaptivity": {"min": 50, "max": 75, "unit": "years", "context": "in human care; ages near the top of this range are reported but rarely well documented", "display": "50–75 years"},
+    "weight": {"min": 0.9, "max": 1.2, "unit": "kg", "context": "adults; about 1 kg on average", "display": "0.9–1.2 kg (2–2.6 lb)"},
+    "height": {"min": 81, "max": 96, "unit": "cm", "label": "Length", "display": "81–96 cm (32–38 in)"},
+    "speed": {"min": 56, "max": 56, "unit": "km/h", "verb": "fly", "context": "level flight", "display": "up to 56 km/h (35 mph)"},
+    "gestationPeriod": {"min": 24, "max": 28, "unit": "days", "label": "Incubation", "display": "24–28 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Nuts, seeds and fruits, including hard palm nuts and unripe fruit that other animals cannot handle, plus flowers, leaves, nectar and bark; occasionally insects and larvae.",
+    "habitat": ["Lowland tropical rainforest", "Riverside forest", "Tropical dry forest", "Wooded savanna"],
+    "range": "Southern Mexico through Central America to the Amazon Basin of Colombia, Peru, Bolivia and Brazil; now patchy and scarce in Central America, widespread in Amazonia.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The scarlet macaw is a large, long-tailed parrot of Central and South American forests, brilliant red with a yellow band across the wings, blue flight feathers and a bare white face. More than half of its length is tail. It has the widest range of any macaw, from southern Mexico to Bolivia and Brazil, and is the national bird of Honduras. Scarlet macaws are loud, social and long-lived, usually seen flying in pairs or family groups, and pairs typically stay together for life. A massive hooked bill lets them crack nuts that defeat most other animals.",
+  "answers": {
+    "lifespan": "Scarlet macaws are estimated to live 40–50 years in the wild and 50–75 years in human care. The highest captive ages are widely reported but rarely well documented, so treat them as an upper limit rather than a typical figure. Either way, a pet macaw is a commitment that can outlast its owner.",
+    "weight": "A scarlet macaw weighs about 1 kg (2.2 lb), with most adults between 0.9 and 1.2 kg (2–2.6 lb). Males and females look alike and are similar in weight. Among macaws it is one of the larger species, but the hyacinth macaw is heavier at up to about 1.7 kg.",
+    "size": "Scarlet macaws measure 81–96 cm (32–38 in) from beak to tail tip, and more than half of that is the long, pointed tail. The wingspan is roughly 1 m (3.3 ft). Only a few parrots, such as the hyacinth macaw and the great green macaw, are larger.",
+    "speed": "Scarlet macaws can fly at up to about 56 km/h (35 mph) in level flight. They are strong, direct fliers with steady, shallow wingbeats, and pairs fly so close together that their wings almost touch. They commute long distances each day between roosts, feeding trees and clay licks.",
+    "gestation": "Scarlet macaw eggs hatch after 24–28 days of incubation. The female lays one to four white eggs, usually two or three, in a large tree cavity and does most of the incubating. Chicks stay in the nest for about three months, and young birds may remain with their parents for a year or more.",
+    "diet": "Scarlet macaws are herbivores that eat nuts, seeds and fruits, along with flowers, leaves, nectar and bark. Their powerful bills crack hard palm nuts, and they can eat unripe and toxic fruits that other animals avoid. In the western Amazon they visit riverbank clay licks, probably for sodium.",
+    "habitat": "Scarlet macaws live in humid lowland rainforest, riverside forest and tropical dry forest from southern Mexico to the Amazon Basin, mostly below about 1,000 m. They need large, old trees with cavities for nesting and range widely over the canopy. They are often seen along rivers and forest edges.",
+    "conservation": "The scarlet macaw is listed as Least Concern because of its huge Amazonian range, but its population is decreasing. In Mexico and Central America it has vanished from most of its former range through deforestation and nest poaching for the pet trade. It is listed on CITES Appendix I, and reintroduction projects operate in Mexico, Guatemala, Honduras and Costa Rica."
+  },
+  "funFacts": [
+    "Scarlet macaws were traded live hundreds of kilometers north into what is now the US Southwest; their remains turn up at Chaco Canyon and other Pueblo sites.",
+    "The patch of bare white skin on the face has a pattern of tiny feather lines, and the skin can flush pink when the bird is excited.",
+    "Like other parrots, macaws have zygodactyl feet, two toes forward and two back, and use a foot like a hand to hold food.",
+    "Hundreds of macaws and other parrots gather at clay licks along rivers in southeastern Peru, among the great wildlife spectacles of the Amazon.",
+    "The scarlet macaw was declared the national bird of Honduras in 1993."
+  ],
+  "relatedAnimals": ["african-grey-parrot", "toco-toucan", "cockatiel", "budgerigar", "jaguar"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are scarlet macaws endangered?", "answer": "Not globally. The species is rated Least Concern because it remains widespread in the Amazon, although numbers are falling. The northern subspecies found from Mexico to Nicaragua is in serious trouble and is listed as endangered under the US Endangered Species Act."},
+    {"question": "Do scarlet macaws make good pets?", "answer": "For most people, no. Scarlet macaws are extremely loud, need a great deal of space and daily attention, chew destructively, can deliver a serious bite and may live for half a century or more. They suit only experienced keepers who can commit for decades."},
+    {"question": "Can scarlet macaws talk?", "answer": "Yes, to a degree. Scarlet macaws can learn a modest number of words and phrases and are good at copying sounds, but they are not as clear or as capable as African grey parrots or Amazon parrots. Their natural voice is a very loud, harsh squawk."},
+    {"question": "What is the difference between a scarlet macaw and a green-winged macaw?", "answer": "Both are large red macaws, but the scarlet macaw has a broad yellow band on its wings and a nearly plain white face. The green-winged, or red-and-green, macaw is bigger and darker red, with green instead of yellow on the wings and lines of small red feathers across the face."},
+    {"question": "Do scarlet macaws mate for life?", "answer": "Generally, yes. Scarlet macaws form long-term pair bonds, and mates stay together all year, flying side by side, preening each other and sharing food. A pair usually nests only every one to two years, which is one reason populations recover slowly from poaching."}
+  ],
+  "meta": {
+    "title": "Scarlet Macaw Facts: Lifespan, Size, Speed & Diet",
+    "description": "Scarlet macaws live 40–50 years in the wild, weigh about 1 kg (2.2 lb), reach 81–96 cm long and fly at up to 56 km/h. Diet, rainforest range and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Ara%20macao&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Ara_macao/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Ara_macao"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Scarlet_macaw"}
+    ]
+  }
+}

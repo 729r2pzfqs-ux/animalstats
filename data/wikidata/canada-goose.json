@@ -1,0 +1,39 @@
+{
+  "slug": "canada-goose",
+  "commonName": "Canada Goose",
+  "scientificName": "Branta canadensis",
+  "classSlug": "birds",
+  "aliases": [
+    "goose"
+  ],
+  "qid": "Q26733",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Canada goose",
+  "taxonomy": {
+    "species": "Branta canadensis",
+    "genus": "Branta",
+    "family": "Anatidae",
+    "order": "Anseriformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "3.814",
+      "unit": "kg",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "3.314",
+      "unit": "kg",
+      "sex": "female"
+    },
+    {
+      "property": "mass",
+      "amount": "5",
+      "unit": "kg",
+      "sex": null
+    }
+  ]
+}

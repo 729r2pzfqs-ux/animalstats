@@ -1,0 +1,64 @@
+{
+  "slug": "american-bullfrog",
+  "commonName": "American Bullfrog",
+  "scientificName": "Lithobates catesbeianus",
+  "alternateNames": ["Bullfrog", "North American bullfrog", "Rana catesbeiana"],
+  "nameSingular": "American bullfrog",
+  "namePlural": "American bullfrogs",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Amphibia", "classSlug": "amphibians", "order": "Anura", "family": "Ranidae", "genus": "Lithobates", "species": "L. catesbeianus"},
+  "facts": {
+    "lifespan": {"min": 7, "max": 10, "unit": "years", "context": "in the wild", "display": "7–10 years"},
+    "lifespanCaptivity": {"min": 16, "max": 16, "unit": "years", "context": "longevity record in human care", "display": "up to 16 years"},
+    "weight": {"min": 300, "max": 500, "unit": "g", "context": "adults; very large individuals reach about 800 g", "display": "300–500 g (0.7–1.1 lb)"},
+    "height": {"min": 9, "max": 15, "unit": "cm", "label": "Body length", "display": "9–15 cm (3.5–6 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 3, "max": 5, "unit": "days", "label": "Egg development", "display": "3–5 days to hatch"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Almost anything it can swallow: insects, crayfish, worms, fish, other frogs including smaller bullfrogs, snakes, small turtles, mice, bats and small birds. Tadpoles graze on algae and plant matter.",
+    "habitat": ["Ponds", "Lakes", "Marshes", "Slow rivers", "Reservoirs"],
+    "range": "Native to eastern and central North America from Nova Scotia to central Florida and west to the Great Plains; introduced to western North America, South America, Europe and East Asia.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The American bullfrog is the largest frog native to North America, known for the deep, resonant \"jug-o-rum\" call that males give on summer nights. It is olive green to brown with a large exposed eardrum behind each eye; in males the eardrum is noticeably bigger than the eye. Bullfrogs are permanent-water frogs that sit along the edges of warm ponds, lakes and marshes and lunge at nearly any animal smaller than themselves. Introduced around the world for frog-leg farming, the species is now listed among the world's worst invasive animals because it eats and outcompetes native wildlife.",
+  "answers": {
+    "lifespan": "American bullfrogs live 7–10 years in the wild, and the captive record is about 16 years. That count includes a long tadpole stage, which lasts one to three years depending on climate. Most eggs and tadpoles are eaten by fish, herons, turtles and other predators long before adulthood.",
+    "weight": "Adult American bullfrogs weigh 300–500 g (0.7–1.1 lb), and very large individuals can reach about 800 g. Females grow somewhat larger than males. This makes the bullfrog North America's heaviest native frog, although it is dwarfed by Africa's goliath frog.",
+    "size": "American bullfrogs measure 9–15 cm (3.5–6 in) from snout to vent, with the largest reaching about 20 cm. With the hind legs stretched out, a big bullfrog is far longer. Tadpoles are large too, growing up to about 15 cm before they transform.",
+    "speed": null,
+    "gestation": "American bullfrog eggs hatch in about 3–5 days. A female lays up to 20,000 eggs in a thin film on the water surface. The tadpoles then take one to three years to become frogs, a much longer larval period than in most other frogs.",
+    "diet": "American bullfrogs are carnivores that eat nearly any animal they can fit in their mouths, including insects, crayfish, fish, other frogs, snakes, mice and small birds. They are sit-and-wait predators that lunge with the mouth open and use the front feet to stuff in larger prey.",
+    "habitat": "American bullfrogs live in permanent, warm, still or slow water such as ponds, lakes, marshes, reservoirs and sluggish rivers with plenty of vegetation. They need water that lasts all year, because tadpoles take one to three years to develop. They spend winter buried in mud underwater.",
+    "conservation": "The American bullfrog is listed as Least Concern on the IUCN Red List, and its population is increasing. The concern runs the other way: introduced bullfrogs prey on native amphibians, compete with them and spread chytrid fungus, so many regions run programs to control them."
+  },
+  "funFacts": [
+    "The male's deep call can carry for roughly a kilometer and is the source of the name bullfrog.",
+    "Bullfrogs can carry the chytrid fungus that has devastated amphibians worldwide while showing few symptoms themselves.",
+    "A bullfrog can leap about 1–2 m (3–6 ft), several times its own body length, in a single jump.",
+    "You can tell the sexes apart by the eardrum: in males it is much larger than the eye, in females about the same size.",
+    "Bullfrog tadpoles can spend up to three winters in the water before becoming frogs in the coldest parts of the range."
+  ],
+  "relatedAnimals": ["goliath-frog", "american-toad", "cane-toad", "red-eyed-tree-frog", "eastern-newt"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are American bullfrogs poisonous?", "answer": "American bullfrogs are not dangerous to people and are widely eaten as frog legs. Their skin secretions taste unpleasant to some predators, and like all amphibians they can carry Salmonella, so it is sensible to wash your hands after handling one."},
+    {"question": "Why are bullfrogs considered invasive?", "answer": "Outside their native eastern North America, bullfrogs eat native frogs, fish, snakes and birds, outcompete local amphibians and spread chytrid fungus. They breed in huge numbers and have few predators in new areas. The species appears on the IUCN list of 100 of the world's worst invasive species."},
+    {"question": "What does a bullfrog sound like?", "answer": "A male bullfrog gives a deep, booming call often written as \"jug-o-rum\" or compared to a distant bull bellowing. Males call on warm nights from late spring to summer to attract females and defend their patch of shoreline. Alarmed bullfrogs give a sharp squeak as they leap."},
+    {"question": "Do bullfrogs eat other frogs?", "answer": "Yes. Other frogs are a regular part of the diet, and bullfrogs are well known for cannibalism; in some studies smaller bullfrogs make up a substantial share of what large adults eat. Anything that moves and fits in the mouth is likely to be attacked."},
+    {"question": "Can you keep an American bullfrog as a pet?", "answer": "It is possible but demanding. An adult needs a large, secure tank with both deep, filtered water and land, and it must be housed alone because it will eat tankmates. Many states and countries restrict keeping or releasing bullfrogs, so check local laws first."}
+  ],
+  "meta": {
+    "title": "American Bullfrog Facts: Size, Weight, Lifespan & Diet",
+    "description": "American bullfrogs measure 9–15 cm (3.5–6 in), weigh 300–500 g and live 7–10 years in the wild. Eggs hatch in 3–5 days. Diet, call and invasive status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Lithobates%20catesbeianus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Lithobates_catesbeianus/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/American_bullfrog"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q4667413"}
+    ]
+  }
+}

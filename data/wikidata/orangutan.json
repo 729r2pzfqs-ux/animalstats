@@ -1,0 +1,34 @@
+{
+  "slug": "orangutan",
+  "commonName": "Bornean Orangutan",
+  "scientificName": "Pongo pygmaeus",
+  "classSlug": "mammals",
+  "aliases": [
+    "orangutan"
+  ],
+  "qid": "Q599672",
+  "iucnStatus": "Critically Endangered",
+  "wikipedia": "Bornean orangutan",
+  "taxonomy": {
+    "species": "Pongo pygmaeus",
+    "genus": "Pongo",
+    "family": "Hominidae",
+    "order": "Primates",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "1.73",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "248",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

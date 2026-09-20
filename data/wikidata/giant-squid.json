@@ -1,0 +1,35 @@
+{
+  "slug": "giant-squid",
+  "commonName": "Giant Squid",
+  "scientificName": "Architeuthis dux",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "squid"
+  ],
+  "qid": "Q13537131",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Giant squid",
+  "taxonomy": {
+    "species": "Architeuthis dux",
+    "genus": "Architeuthis",
+    "family": "Architeuthidae",
+    "order": "Oegopsida",
+    "class": "Cephalopoda",
+    "phylum": "Mollusca",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "600",
+      "unit": "lb",
+      "sex": null
+    },
+    {
+      "property": "height",
+      "amount": "43",
+      "unit": "ft",
+      "sex": null
+    }
+  ]
+}

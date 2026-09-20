@@ -1,0 +1,63 @@
+{
+  "slug": "housefly",
+  "commonName": "Housefly",
+  "scientificName": "Musca domestica",
+  "alternateNames": ["House fly", "Common housefly"],
+  "nameSingular": "housefly",
+  "namePlural": "houseflies",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Insecta", "classSlug": "invertebrates", "order": "Diptera", "family": "Muscidae", "genus": "Musca", "species": "M. domestica"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 30, "unit": "days", "context": "adult flies; the egg, maggot and pupa stages add another 1–3 weeks", "display": "15–30 days as an adult"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 10, "max": 20, "unit": "mg", "context": "adults; females are larger than males", "display": "about 10–20 mg (0.0004–0.0007 oz)"},
+    "height": {"min": 6, "max": 8, "unit": "mm", "label": "Body length", "display": "6–8 mm (0.24–0.31 in)"},
+    "speed": {"min": 7, "max": 8, "unit": "km/h", "verb": "fly", "context": "typical flight speed", "display": "about 7–8 km/h (4.5–5 mph)"},
+    "gestationPeriod": {"min": 0.3, "max": 1, "unit": "days", "label": "Egg development", "display": "8–24 hours"}
+  },
+  "ecology": {
+    "diet": "Scavenger",
+    "dietDetails": "Adults sponge up liquids and dissolve solids with saliva, feeding on sugary foods, rotting fruit and vegetables, garbage, carrion, animal dung and other decaying organic matter. Maggots develop in manure, garbage and compost.",
+    "habitat": ["Homes and buildings", "Farms and stables", "Garbage and landfill", "Towns and cities"],
+    "range": "Worldwide wherever people live, on every continent except Antarctica; thought to have originated in Central Asia or the Middle East.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The housefly is the most common fly found in and around homes and one of the most widely distributed insects on Earth, having followed people almost everywhere. It is gray, with four dark stripes on the thorax, red compound eyes and a single pair of wings. Houseflies cannot bite; they feed with a sponge-like mouthpart after liquefying food with saliva. Because they move constantly between garbage, dung and human food, they can carry disease-causing bacteria on their feet and mouthparts. They breed extremely fast, going from egg to adult in as little as a week in warm weather.",
+  "answers": {
+    "lifespan": "Adult houseflies live about 15–30 days. The idea that they live only 24 hours is a myth. Flies last longest in cool conditions with steady access to sugar, and in laboratories some survive two months. Before adulthood, the egg, maggot and pupa stages take as little as 7–10 days in warm weather.",
+    "weight": "A housefly weighs about 10–20 mg, so it takes 50 to 100 flies to weigh a single gram. Females are larger and heavier than males. Adult size depends on how well the maggot fed: crowded or poorly nourished larvae produce noticeably smaller flies.",
+    "size": "Houseflies are 6–8 mm (0.24–0.31 in) long with a wingspan of about 13–15 mm. Females are slightly larger than males and have a wider gap between their red compound eyes. The maggots are white, legless and taper toward the head, growing to about 12 mm before pupating.",
+    "speed": "Houseflies fly at about 7–8 km/h (4.5–5 mph). They are not especially fast, but they are hard to swat because they process visual information several times faster than people do and can launch away from a threat within a fraction of a second.",
+    "gestation": "Housefly eggs hatch in 8–24 hours, among the shortest egg stages of any common insect. A female lays batches of about 75–150 eggs in moist, decaying material such as manure or garbage, and around 500 eggs over her life. The maggots feed for several days before pupating.",
+    "diet": "Houseflies feed on liquids and decaying organic matter, from sugary spills and overripe fruit to garbage, carrion and dung. They cannot chew, so they vomit saliva onto solid food to dissolve it and then sponge it up. They taste food with sensors on their feet.",
+    "habitat": "Houseflies live alongside people all over the world, in homes, restaurants, farms, stables, markets and landfills. They breed wherever moist organic waste builds up, especially animal manure and household garbage. Most stay within a kilometer or two of where they hatched, although some disperse much farther.",
+    "conservation": "The housefly has not been evaluated for the IUCN Red List and is in no danger; it is one of the most abundant insects associated with people. It is managed as a public-health and livestock pest, and many populations have evolved resistance to commonly used insecticides."
+  },
+  "funFacts": [
+    "Houseflies taste with their feet, which carry sensors that detect sugars the moment the fly lands.",
+    "In warm conditions a housefly can go from egg to adult in as little as 7–10 days, allowing ten or more generations in a year.",
+    "Houseflies walk on ceilings using sticky pads on their feet, called pulvilli, together with tiny claws.",
+    "Instead of hind wings, flies have a pair of small knobbed organs called halteres that act as gyroscopes to keep them stable in flight.",
+    "Houseflies are strongly suspected of being able to carry the agents of at least 65 human diseases, including typhoid, dysentery and cholera."
+  ],
+  "relatedAnimals": ["mosquito", "dragonfly", "common-wasp", "black-garden-ant", "american-toad"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do houseflies live for only 24 hours?", "answer": "No. That is a common myth, possibly confused with mayflies, some of which live a day or less as adults. An adult housefly normally lives two to four weeks, and longer in cool conditions with plenty of food."},
+    {"question": "Do houseflies bite?", "answer": "No. Houseflies have soft, sponge-like mouthparts and cannot pierce skin. If a fly that looks like a housefly bites you, it is probably a stable fly, a similar-looking relative with a stiff, forward-pointing beak that feeds on blood."},
+    {"question": "Why do flies rub their legs together?", "answer": "They are cleaning themselves. A fly's feet and legs are covered in taste and touch sensors, and the sticky pads on its feet need to be free of dust to grip smooth surfaces, so flies groom frequently to keep them working."},
+    {"question": "Why are houseflies so hard to swat?", "answer": "Houseflies see movement in much finer slices of time than humans, so an approaching hand appears to move slowly. They can plan an escape jump in about a tenth of a second and have nearly all-round vision."},
+    {"question": "Do houseflies spread disease?", "answer": "Yes. Flies pick up bacteria and other pathogens from feces, garbage and carrion and transfer them to food on their feet, in their vomit and in their droppings. They have been linked to the spread of typhoid, dysentery, cholera and eye infections such as trachoma."}
+  ],
+  "meta": {
+    "title": "How Long Do Houseflies Live? Housefly Facts & Stats",
+    "description": "Adult houseflies live 15–30 days, not 24 hours. They are 6–8 mm long, fly at 7–8 km/h and their eggs hatch in 8–24 hours. Diet, life cycle and more.",
+    "sources": [
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Musca_domestica/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Housefly"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q166111"}
+    ]
+  }
+}

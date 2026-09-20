@@ -1,0 +1,22 @@
+{
+  "slug": "atlantic-salmon",
+  "commonName": "Atlantic Salmon",
+  "scientificName": "Salmo salar",
+  "classSlug": "fish",
+  "aliases": [
+    "salmon"
+  ],
+  "qid": "Q188879",
+  "iucnStatus": "Near Threatened",
+  "wikipedia": "Atlantic salmon",
+  "taxonomy": {
+    "species": "Salmo salar",
+    "genus": "Salmo",
+    "family": "Salmonidae",
+    "order": "Salmoniformes",
+    "class": "Actinopteri",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

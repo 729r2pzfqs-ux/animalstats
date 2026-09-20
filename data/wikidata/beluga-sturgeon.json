@@ -1,0 +1,21 @@
+{
+  "slug": "beluga-sturgeon",
+  "commonName": "Beluga Sturgeon",
+  "scientificName": "Huso huso",
+  "classSlug": "fish",
+  "aliases": [
+    "sturgeon"
+  ],
+  "qid": "Q191816",
+  "iucnStatus": "Critically Endangered",
+  "wikipedia": "Beluga (sturgeon)",
+  "taxonomy": {
+    "species": "Huso huso",
+    "genus": "Huso",
+    "family": "Acipenseridae",
+    "order": "Acipenseriformes",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

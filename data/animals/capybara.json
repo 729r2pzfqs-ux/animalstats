@@ -1,0 +1,64 @@
+{
+  "slug": "capybara",
+  "commonName": "Capybara",
+  "scientificName": "Hydrochoerus hydrochaeris",
+  "alternateNames": ["Greater capybara", "Carpincho", "Chigüire", "Water hog"],
+  "nameSingular": "capybara",
+  "namePlural": "capybaras",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Rodentia", "family": "Caviidae", "genus": "Hydrochoerus", "species": "H. hydrochaeris"},
+  "facts": {
+    "lifespan": {"min": 6, "max": 10, "unit": "years", "context": "in the wild; many live less than 4 years because of predation", "display": "6–10 years"},
+    "lifespanCaptivity": {"min": 10, "max": 12, "unit": "years", "context": "in human care", "display": "10–12 years"},
+    "weight": {"min": 35, "max": 66, "unit": "kg", "context": "adults; females are slightly heavier than males", "display": "35–66 kg (77–146 lb)"},
+    "height": {"min": 50, "max": 62, "unit": "cm", "label": "Shoulder height", "display": "50–62 cm (20–24 in)"},
+    "speed": {"min": 35, "max": 35, "unit": "km/h", "verb": "run", "context": "short sprints on land", "display": "35 km/h (22 mph)"},
+    "gestationPeriod": {"min": 130, "max": 150, "unit": "days", "label": "Gestation", "display": "130–150 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Mainly grasses and aquatic plants, with reeds, bark, grain, melons and squash at times. Capybaras are selective grazers in the wet season and eat a wider range of tougher plants in the dry season.",
+    "habitat": ["Wetlands", "Flooded savanna", "Riverbanks", "Marshes", "Lakeshores"],
+    "range": "Most of South America east of the Andes, from Colombia and Venezuela south through Brazil to Uruguay and northeastern Argentina.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The capybara is the largest living rodent, a barrel-shaped, semi-aquatic relative of guinea pigs that lives beside rivers, lakes and marshes across South America. Its eyes, ears and nostrils sit high on the head so it can stay almost fully submerged while watching for danger, and its toes are partly webbed. Capybaras are highly social, usually living in groups of 10–20 that may merge into gatherings of 50 or more around shrinking water holes in the dry season. They are most active at dawn and dusk and are hunted by jaguars, caimans, anacondas and people.",
+  "answers": {
+    "lifespan": "Capybaras can live 6–10 years in the wild and 10–12 years in human care. Many wild capybaras survive less than four years, because they are a staple prey of jaguars, pumas, caimans and anacondas, and the young are also taken by eagles, ocelots and foxes.",
+    "weight": "Adult capybaras weigh 35–66 kg (77–146 lb), which makes them the heaviest rodents on Earth. Females are usually a little heavier than males, and the largest wild individuals on record weighed around 90 kg.",
+    "size": "A capybara stands 50–62 cm (20–24 in) at the shoulder and is 1.0–1.3 m (3.3–4.3 ft) long. It has a blunt, squared-off muzzle, short legs, slightly webbed feet and only a tiny vestigial tail.",
+    "speed": "Capybaras can run at about 35 km/h (22 mph) in short sprints, roughly as fast as a small horse canters. When threatened they usually bolt for water, where they swim strongly and can stay submerged for up to five minutes.",
+    "gestation": "A capybara is pregnant for 130–150 days, or about five months. Litters average four pups but range from one to eight. The young are born fully furred with open eyes, can follow the group within hours and start nibbling grass in their first week.",
+    "diet": "Capybaras are herbivores that eat mainly grasses and aquatic plants, about 3 kg of fresh forage a day. Like rabbits, they eat some of their own droppings in the morning to digest tough plant fiber a second time and absorb more nutrients.",
+    "habitat": "Capybaras live beside rivers, lakes, ponds, marshes and seasonally flooded savannas across South America east of the Andes. They are never found far from water, which they need for drinking, mating, cooling off and escaping predators.",
+    "conservation": "Capybaras are listed as Least Concern on the IUCN Red List with a stable population. They are hunted for meat and leather and are ranched in parts of Venezuela and Colombia. They adapt well to cattle country, and some urban populations have grown large."
+  },
+  "funFacts": [
+    "Capybaras are closely related to guinea pigs and rock cavies and belong to the same family, Caviidae.",
+    "Their front teeth never stop growing, which offsets the constant wear from grinding tough grasses.",
+    "Capybaras can sleep in water with only their nostrils above the surface.",
+    "Birds such as cattle tyrants and caracaras often perch on capybaras to pick off ticks and insects.",
+    "In the 1700s the Catholic Church reportedly allowed capybara meat to be eaten during Lent in Venezuela, and it remains a traditional Easter dish there."
+  ],
+  "relatedAnimals": ["guinea-pig", "beaver", "brown-rat", "jaguar", "green-anaconda", "wombat"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are capybaras friendly?", "answer": "Capybaras are calm, social animals that tolerate other species well, which is why they are often photographed with birds, monkeys and other animals sitting on them. Wild capybaras are still wary of people, and they can bite hard with their large incisors if they feel threatened."},
+    {"question": "Do capybaras make good pets?", "answer": "Usually not. Capybaras need company of their own kind, a large grazing area and a pool deep enough to swim in, and they can weigh over 60 kg. Owning one is illegal or requires a permit in many US states and countries."},
+    {"question": "Is a capybara a rodent?", "answer": "Yes. The capybara is the world's largest living rodent. It belongs to the cavy family, Caviidae, making it a giant cousin of the guinea pig, and like all rodents it has a single pair of ever-growing incisors in each jaw."},
+    {"question": "What is a group of capybaras called?", "answer": "A group of capybaras is usually just called a herd. Typical herds have 10–20 animals led by a dominant male, with several females, their young and subordinate males. In the dry season herds may combine into groups of 50–100 around remaining water."},
+    {"question": "What eats capybaras?", "answer": "Jaguars, pumas, caimans and green anacondas prey on adult capybaras, while ocelots, foxes, harpy eagles and caracaras take the young. Humans also hunt capybaras for meat and hides across much of South America."}
+  ],
+  "meta": {
+    "title": "Capybara Facts: World's Largest Rodent Size & Lifespan",
+    "description": "Capybaras weigh 35–66 kg (77–146 lb), stand 50–62 cm at the shoulder, run at 35 km/h and live 6–10 years in the wild. Diet, habitat, pups and behavior.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Hydrochoerus%20hydrochaeris&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Hydrochoerus_hydrochaeris/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Hydrochoerus_hydrochaeris"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Capybara"}
+    ]
+  }
+}

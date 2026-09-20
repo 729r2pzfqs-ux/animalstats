@@ -1,0 +1,63 @@
+{
+  "slug": "dragonfly",
+  "commonName": "Emperor Dragonfly",
+  "scientificName": "Anax imperator",
+  "alternateNames": ["Blue emperor", "Emperor"],
+  "nameSingular": "emperor dragonfly",
+  "namePlural": "emperor dragonflies",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Insecta", "classSlug": "invertebrates", "order": "Odonata", "family": "Aeshnidae", "genus": "Anax", "species": "A. imperator"},
+  "facts": {
+    "lifespan": {"min": 1, "max": 2, "unit": "years", "context": "full life cycle, nearly all of it as an aquatic larva; flying adults live only about 4–8 weeks", "display": "1–2 years in total; adults 4–8 weeks"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 0.8, "max": 1.2, "unit": "g", "context": "adults; approximate", "display": "about 1 g (0.035 oz)"},
+    "height": {"min": 6.6, "max": 8.4, "unit": "cm", "label": "Body length", "display": "6.6–8.4 cm (2.6–3.3 in)"},
+    "speed": {"min": 36, "max": 36, "unit": "km/h", "verb": "fly", "context": "about 10 m/s, the top speed reliably measured for large dragonflies; higher claims are unverified", "display": "about 36 km/h (22 mph)"},
+    "gestationPeriod": {"min": 21, "max": 28, "unit": "days", "label": "Egg development", "display": "about 3–4 weeks"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Adults catch flies, midges, butterflies, moths, damselflies and smaller dragonflies in mid-air, often eating on the wing. The aquatic larvae ambush insect larvae, tadpoles, water snails and small fish.",
+    "habitat": ["Ponds", "Lakes", "Slow rivers and canals", "Gravel pits", "Ditches"],
+    "range": "Most of Europe north to southern Scandinavia, nearly all of Africa, the Middle East, and southwestern and central Asia.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The emperor dragonfly is one of the largest dragonflies in Europe and a powerful, tireless flier that patrols ponds and lakes on sunny days, rarely landing. Males have an apple-green thorax and a bright blue abdomen with a dark line down the back; females are mostly green. Like all dragonflies, the emperor spends most of its life underwater as a wingless larva, a fierce ambush predator that shoots out a hinged lower jaw to seize prey. After one or two years the larva climbs a plant stem at night, and the adult emerges to fly for just a few weeks.",
+  "answers": {
+    "lifespan": "An emperor dragonfly lives 1–2 years in total, but only about 4–8 weeks of that as a flying adult. The rest is spent underwater as a larva. In warm, food-rich ponds larvae can finish growing in a single year, while in cooler waters they take two. Many adults survive only a week or two because of predators and bad weather.",
+    "weight": "An adult emperor dragonfly weighs about 1 g (0.035 oz). A large share of that weight is flight muscle packed into the thorax, which is what gives dragonflies their speed and agility. Newly emerged adults are lighter and put on weight as they feed and mature over their first week or two.",
+    "size": "Emperor dragonflies are 6.6–8.4 cm (2.6–3.3 in) long, averaging about 7.8 cm, with a wingspan of around 10.5 cm (4.1 in). That makes the emperor one of the biggest dragonflies in Europe. Full-grown larvae reach about 4.5–5.5 cm before they leave the water.",
+    "speed": "Large dragonflies such as the emperor fly at up to about 36 km/h (22 mph), the fastest speed reliably measured. Older claims of 90 km/h or more have never been verified. Dragonflies can also hover, fly backward and turn almost instantly, because each of their four wings is controlled independently.",
+    "gestation": "Emperor dragonfly eggs hatch about 3–4 weeks after laying. The female lays alone, unguarded by the male, inserting each elongated egg into the stems and leaves of floating or submerged pond plants. The larvae then molt many times over one to two years before they are ready to emerge.",
+    "diet": "Emperor dragonflies eat other insects, which they catch in flight using their legs as a basket. Prey ranges from midges and flies to butterflies and even other dragonflies, and small items are eaten without landing. The larvae are equally predatory, taking aquatic insects, tadpoles and occasionally small fish.",
+    "habitat": "Emperor dragonflies live around large, well-vegetated ponds, lakes, gravel pits, canals and slow-flowing rivers. They are found across most of Europe, almost all of Africa and into western and central Asia. They quickly colonize new ponds, and adults sometimes hunt over meadows well away from water.",
+    "conservation": "The emperor dragonfly is listed as Least Concern on the IUCN Red List. It is widespread and common, and in Europe it has been expanding northward for several decades, reaching Scotland, Denmark and southern Sweden as the climate has warmed. Loss or pollution of ponds is the main local threat."
+  },
+  "funFacts": [
+    "Each compound eye of a large dragonfly contains up to about 30,000 individual lenses, giving it nearly all-round vision.",
+    "Studies of hunting dragonflies show they catch their prey in roughly 95 percent of attempts, among the highest success rates of any predator.",
+    "Dragonfly larvae breathe through gills inside the rectum and can squirt water out of it to jet forward.",
+    "Dragonfly ancestors were flying about 300 million years ago, and some extinct relatives had wingspans of around 70 cm.",
+    "Male emperor dragonflies defend a stretch of water and spend almost the whole day on the wing, patrolling and chasing away rivals."
+  ],
+  "relatedAnimals": ["praying-mantis", "mosquito", "housefly", "monarch-butterfly", "common-swift", "american-bullfrog"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do dragonflies bite or sting?", "answer": "Dragonflies cannot sting; they have no stinger, and the pointed tip of the abdomen is harmless. A large dragonfly held in the hand may try to bite, but its jaws can rarely break human skin. They are not dangerous to people."},
+    {"question": "Do dragonflies eat mosquitoes?", "answer": "Yes. Adult dragonflies eat mosquitoes, midges and other small flying insects, and dragonfly larvae eat mosquito larvae in the water. A large dragonfly can eat dozens of small insects in a day, though they do not eliminate mosquitoes from an area."},
+    {"question": "What is the difference between a dragonfly and a damselfly?", "answer": "Dragonflies are sturdier, have eyes that touch or nearly touch, and rest with their wings held out flat. Damselflies are slimmer with widely separated eyes and usually fold their wings along the body at rest. Dragonflies are also much stronger fliers."},
+    {"question": "How long do dragonflies live as adults?", "answer": "Most adult dragonflies live only a few weeks. Emperor dragonflies typically fly for about four to eight weeks in summer. The larval stage underwater is far longer, lasting one to two years in this species and up to five years in some others."},
+    {"question": "What is the largest dragonfly?", "answer": "Among living species, the giant petaltail of Australia and the giant hawker of Southeast Asia are usually named the largest, with wingspans of about 16 cm. The emperor, at around 10.5 cm across the wings, is one of the largest in Europe."}
+  ],
+  "meta": {
+    "title": "Emperor Dragonfly Facts: Size, Speed, Lifespan & Diet",
+    "description": "Emperor dragonflies are 6.6–8.4 cm long, fly at about 36 km/h and live 1–2 years, mostly as aquatic larvae. Diet, habitat, life cycle and dragonfly FAQs.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Anax%20imperator&searchType=species"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Emperor_dragonfly"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q527496"}
+    ]
+  }
+}

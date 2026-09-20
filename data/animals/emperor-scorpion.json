@@ -1,0 +1,63 @@
+{
+  "slug": "emperor-scorpion",
+  "commonName": "Emperor Scorpion",
+  "scientificName": "Pandinus imperator",
+  "alternateNames": ["Imperial scorpion", "African emperor scorpion"],
+  "nameSingular": "emperor scorpion",
+  "namePlural": "emperor scorpions",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Arachnida", "classSlug": "invertebrates", "order": "Scorpiones", "family": "Scorpionidae", "genus": "Pandinus", "species": "P. imperator"},
+  "facts": {
+    "lifespan": {"min": 5, "max": 8, "unit": "years", "context": "estimated; wild lifespan is poorly documented and is probably shorter than in captivity", "display": "5–8 years"},
+    "lifespanCaptivity": {"min": 6, "max": 8, "unit": "years", "context": "in human care", "display": "6–8 years"},
+    "weight": {"min": 30, "max": 30, "unit": "g", "context": "typical adult; pregnant females can be heavier", "display": "about 30 g (1.1 oz)"},
+    "height": {"min": 15, "max": 20, "unit": "cm", "label": "Length", "display": "15–20 cm (6–8 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 210, "max": 270, "unit": "days", "label": "Gestation", "display": "about 7–9 months"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Mainly termites, which it digs out of their mounds, plus crickets, beetles, cockroaches, other arthropods and occasionally small lizards or mice. Adults crush most prey with their pincers rather than stinging it.",
+    "habitat": ["Tropical rainforest", "Savanna", "Termite mounds", "Burrows and leaf litter"],
+    "range": "West Africa, from Senegal and Guinea east through Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo and Benin to Nigeria and Cameroon.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The emperor scorpion is one of the largest scorpions in the world, a glossy black animal from the forests and savannas of West Africa with massive, granular pincers. In spite of its intimidating look, it is docile and its venom is mild, which has made it the most popular pet scorpion. It shelters in burrows, under logs and in termite mounds, often in small groups, and hunts at night by sensing vibrations. Females give birth to live young and carry them on their backs. International trade in the species is regulated under CITES Appendix II.",
+  "answers": {
+    "lifespan": "Emperor scorpions live about 5–8 years, with 6–8 years typical in captivity. They take several years and around seven molts to reach adulthood. Lifespan in the wild is poorly documented and is probably shorter because of predators such as birds, bats, small mammals, large spiders and lizards.",
+    "weight": "An adult emperor scorpion weighs about 30 g (1.1 oz), roughly the same as a slice of bread. Pregnant females can be considerably heavier. It is among the heaviest scorpions alive, although a few species, such as the giant forest scorpions of Asia, can grow slightly longer.",
+    "size": "Emperor scorpions are about 15–20 cm (6–8 in) long from the front of the head to the tip of the tail. The large, reddish-black pincers are covered in small bumps and sensory hairs. Males and females look alike, but females are usually broader in the body.",
+    "speed": null,
+    "gestation": "Emperor scorpions are pregnant for about 7–9 months and give birth to live young rather than laying eggs. A typical brood is roughly 10–30 white, soft-bodied babies, which climb onto the mother's back and ride there until after their first molt, a couple of weeks later.",
+    "diet": "Emperor scorpions eat mostly insects, with termites the staple food in the wild. They also take crickets, beetles, cockroaches and occasionally small vertebrates such as lizards and mice. Adults rely on the crushing power of their pincers, while young scorpions use their sting more often.",
+    "habitat": "Emperor scorpions live in the hot, humid rainforests and moist savannas of West Africa, from Senegal to Nigeria and Cameroon. They spend the day in burrows, under rocks, logs and leaf litter, and inside termite mounds, which offer both shelter and food.",
+    "conservation": "The emperor scorpion has not been evaluated for the IUCN Red List. Because very large numbers were once exported for the pet trade, the species is listed on CITES Appendix II, which requires permits for international trade. Over-collection and the loss of West African forest are the main concerns."
+  },
+  "funFacts": [
+    "Like other scorpions, the emperor scorpion glows blue-green under ultraviolet light because of fluorescent compounds in its outer shell.",
+    "Its sting is usually compared to a bee sting; among scorpions, big pincers and a slender tail generally signal mild venom.",
+    "Emperor scorpions are unusually tolerant of each other and often live in groups, sometimes with several generations sharing one burrow.",
+    "Newborn emperor scorpions are white and helpless, and they ride on their mother's back until their first molt.",
+    "They find prey mainly through vibrations, picked up by sensory hairs on the pincers and comb-like organs called pectines under the body."
+  ],
+  "relatedAnimals": ["goliath-birdeater", "black-widow", "american-lobster", "japanese-spider-crab", "praying-mantis"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is an emperor scorpion sting dangerous?", "answer": "Not for most people. The venom is mild, and a sting typically causes local pain, redness and swelling similar to a bee sting. As with bee stings, people who are allergic can react severely and should seek medical help. A pinch from the pincers can also be painful."},
+    {"question": "Do emperor scorpions make good pets?", "answer": "Yes, they are considered the best scorpion for beginners because they are calm, hardy and mildly venomous. They need a warm, humid tank with deep substrate for burrowing, hiding places and a diet of live insects. They are best watched rather than handled."},
+    {"question": "Why do scorpions glow under UV light?", "answer": "Compounds in a thin layer of the scorpion's cuticle absorb ultraviolet light and re-emit it as blue-green visible light. No one is sure what purpose it serves; suggestions include helping scorpions detect moonlight levels. Newly molted scorpions do not glow until the new shell hardens."},
+    {"question": "Is the emperor scorpion the largest scorpion in the world?", "answer": "It is one of the largest and heaviest, at up to about 20 cm and 30 g. The giant forest scorpion of India, Heterometrus swammerdami, is generally credited as the longest, reaching around 23 cm."},
+    {"question": "How many babies do emperor scorpions have?", "answer": "A female gives birth to roughly 10–30 live young after a pregnancy of about seven to nine months. The babies, called scorplings, are born white and defenseless and stay on their mother's back for their first couple of weeks."}
+  ],
+  "meta": {
+    "title": "Emperor Scorpion Facts: Size, Lifespan, Sting & Pet Care",
+    "description": "Emperor scorpions reach 15–20 cm (6–8 in), weigh about 30 g and live 5–8 years. Their sting is mild. Diet, habitat, live birth and pet facts.",
+    "sources": [
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Pandinus_imperator/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Emperor_scorpion"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q1142349"}
+    ]
+  }
+}

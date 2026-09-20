@@ -1,0 +1,63 @@
+{
+  "slug": "common-starfish",
+  "commonName": "Common Starfish",
+  "scientificName": "Asterias rubens",
+  "alternateNames": ["Common sea star"],
+  "nameSingular": "common starfish",
+  "namePlural": "common starfish",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Echinodermata", "class": "Asteroidea", "classSlug": "invertebrates", "order": "Forcipulatida", "family": "Asteriidae", "genus": "Asterias", "species": "A. rubens"},
+  "facts": {
+    "lifespan": {"min": 5, "max": 10, "unit": "years", "context": "in the wild", "display": "5–10 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 50, "max": 400, "unit": "g", "context": "approximate wet weight of adults 10–30 cm across; varies greatly with size and feeding", "display": "roughly 50–400 g (2–14 oz)"},
+    "height": {"min": 10, "max": 30, "unit": "cm", "label": "Body length", "display": "10–30 cm (4–12 in) across"},
+    "speed": null,
+    "gestationPeriod": null
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mainly mussels, clams, oysters and other bivalves, which it pulls open with its tube feet, plus barnacles, sea snails, worms, small crustaceans and carrion.",
+    "habitat": ["Rocky shore", "Mussel beds", "Sandy and gravel seabed", "Estuaries"],
+    "range": "Northeast Atlantic from Arctic Norway, Iceland and the White Sea south along European coasts to West Africa, including the North Sea and western Baltic; largely absent from the Mediterranean.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The common starfish is the most familiar sea star of northwest Europe, found in rock pools, on mussel beds and washed up on beaches. It normally has five tapering arms and is usually orange, though brown, pale and purplish individuals occur, with a line of short white spines down the middle of each arm. Hundreds of tube feet on its underside, worked by water pressure, let it creep along and grip prey. It is an important predator of mussels and can form dense swarms that strip a shellfish bed bare. Like other echinoderms it has no brain and no blood, circulating filtered seawater through its body instead.",
+  "answers": {
+    "lifespan": "Common starfish typically live about 5–10 years in the wild, with 7–8 years often given as usual. Growth depends heavily on food supply: well-fed animals on mussel beds grow large quickly, while starved ones can actually shrink and survive for months. Gulls, crabs, other starfish and winter storms that strand them on beaches are the main causes of death.",
+    "weight": "An adult common starfish weighs roughly 50–400 g (2–14 oz), depending on its size and how recently it has fed. This is an approximate range, because weight varies enormously between a 10 cm animal and a 30 cm one and with the amount of seawater held in the body.",
+    "size": "Common starfish usually measure 10–30 cm (4–12 in) from arm tip to arm tip. The largest recorded reached about 52 cm (20 in) across, but animals that big are rare and are found in deeper water. Those in rock pools and on the shore tend to be small.",
+    "speed": null,
+    "gestation": null,
+    "diet": "Common starfish are carnivores that feed mostly on mussels and other bivalves. A starfish wraps its arms around the shell, pulls steadily with its tube feet until the valves part by a millimeter or so, then pushes its own stomach out through its mouth and into the gap to digest the animal inside its shell.",
+    "habitat": "Common starfish live on rocky shores, mussel and oyster beds, and sand or gravel bottoms in the northeast Atlantic, from low-tide rock pools down to about 200 m (650 ft) and occasionally deeper. They tolerate reduced salinity and extend into estuaries and the western Baltic Sea.",
+    "conservation": "The common starfish has not been evaluated for the IUCN Red List and is abundant throughout its range. It is regarded as a pest by mussel and oyster farmers, who sometimes remove starfish from shellfish beds with special mops or dredges. Mass strandings of thousands after storms are natural events and do not indicate decline."
+  },
+  "funFacts": [
+    "A common starfish can regrow a lost arm, and it will deliberately shed an arm that is seized by a predator.",
+    "Each arm ends in a tiny red eyespot that senses light and dark, so a five-armed starfish has five simple eyes.",
+    "A large female common starfish can release around 2.5 million eggs in a single spawning season.",
+    "Starfish have no blood; a water vascular system pumps filtered seawater through the body and powers the tube feet hydraulically.",
+    "Its larva looks nothing like a star: it is a transparent, bilaterally symmetrical swimmer that drifts in the plankton for about three months before settling."
+  ],
+  "relatedAnimals": ["giant-clam", "ocean-quahog", "common-octopus", "american-lobster", "moon-jellyfish", "japanese-spider-crab"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can a starfish regrow its arms?", "answer": "Yes. A common starfish can regrow a lost arm over several months to a year, as long as the central disc is intact. Unlike a few tropical species, a single detached arm of the common starfish cannot grow into a whole new animal."},
+    {"question": "Is a starfish a fish?", "answer": "No. Starfish are echinoderms, related to sea urchins, brittle stars and sea cucumbers, not fish. They have no backbone, gills, scales or fins, which is why many scientists and aquariums prefer the name sea star."},
+    {"question": "Do starfish have brains or eyes?", "answer": "Starfish have no brain. A nerve ring around the mouth and a nerve running down each arm coordinate movement. They do have eyes of a sort: a small light-sensitive eyespot at the tip of each arm that can form a crude image."},
+    {"question": "Is it safe to pick up a starfish?", "answer": "Common starfish are harmless to people, with no venom or sting. Handling is stressful for the starfish, though: it breathes through its skin and can be damaged by being lifted out of the water, squeezed, or left to dry, so it is best to look without removing it."},
+    {"question": "How many arms does a common starfish have?", "answer": "A common starfish normally has five arms. Individuals with four or six occasionally turn up, usually as a result of developmental quirks or irregular regrowth after injury. Some other starfish species, such as sunstars, naturally have many more arms."}
+  ],
+  "meta": {
+    "title": "Common Starfish Facts: Lifespan, Size, Diet & Regrowth",
+    "description": "Common starfish live 5–10 years, span 10–30 cm (4–12 in) and pry open mussels with their tube feet. Arm regrowth, eyes, habitat and diet of Asterias rubens.",
+    "sources": [
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Asterias_rubens/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Common_starfish"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q21120"}
+    ]
+  }
+}

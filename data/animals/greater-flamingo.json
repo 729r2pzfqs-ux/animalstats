@@ -1,0 +1,64 @@
+{
+  "slug": "greater-flamingo",
+  "commonName": "Greater Flamingo",
+  "scientificName": "Phoenicopterus roseus",
+  "alternateNames": ["Flamingo", "Pink flamingo"],
+  "nameSingular": "greater flamingo",
+  "namePlural": "greater flamingos",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Phoenicopteriformes", "family": "Phoenicopteridae", "genus": "Phoenicopterus", "species": "P. roseus"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 30, "unit": "years", "context": "in the wild; some banded birds have passed 40", "display": "20–30 years"},
+    "lifespanCaptivity": {"min": 40, "max": 60, "unit": "years", "context": "in human care; one zoo bird lived to at least 83", "display": "40–60 years"},
+    "weight": {"min": 2, "max": 4, "unit": "kg", "context": "adults; males are larger than females", "display": "2–4 kg (4.4–8.8 lb)"},
+    "height": {"min": 1.1, "max": 1.5, "unit": "m", "label": "Height", "display": "1.1–1.5 m (3.6–4.9 ft)"},
+    "speed": {"min": 50, "max": 60, "unit": "km/h", "verb": "fly", "context": "level flight in flocks", "display": "50–60 km/h (31–37 mph)"},
+    "gestationPeriod": {"min": 27, "max": 31, "unit": "days", "label": "Incubation", "display": "27–31 days"}
+  },
+  "ecology": {
+    "diet": "Filter feeder",
+    "dietDetails": "Brine shrimp and other small crustaceans, insect larvae, mollusks, worms, seeds and blue-green algae, strained from mud and water with the comb-like plates inside its upside-down bill.",
+    "habitat": ["Salt lakes", "Coastal lagoons", "Mudflats", "Estuaries", "Salt pans"],
+    "range": "Africa, southern Europe around the Mediterranean, the Middle East and South Asia as far east as India and Sri Lanka.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The greater flamingo is the largest and most widespread of the six flamingo species, standing up to 1.5 m tall on long pink legs. Its plumage is a pale whitish pink, with bright red wing coverts and black flight feathers that show in flight, and its bill is pink with a black tip. It lives in large, noisy colonies on shallow salt lakes, lagoons and mudflats from West Africa and the Mediterranean to India. Flamingos feed with their heads upside down, pumping water through the bill to filter out tiny animals and algae, and the pigments in that food give the feathers their color.",
+  "answers": {
+    "lifespan": "Greater flamingos live 20–30 years in the wild and commonly 40–60 years in zoos. They are among the longest-lived birds: banded wild birds have been recorded past 40, and a greater flamingo at Adelaide Zoo in Australia died in 2014 at an estimated age of at least 83.",
+    "weight": "An adult greater flamingo weighs 2–4 kg (4.4–8.8 lb). Males are noticeably larger and heavier than females, and the biggest males can reach about 4.5 kg. For a bird that can stand as tall as a child, it is very light, because most of its height is legs and neck.",
+    "size": "Greater flamingos stand 1.1–1.5 m (3.6–4.9 ft) tall, making them the tallest flamingo species. The wingspan is 1.4–1.7 m (4.6–5.6 ft). Males are taller than females, and the legs alone can be longer than the body.",
+    "speed": "Greater flamingos fly at about 50–60 km/h (31–37 mph) in level flight. They travel in lines or V-formations with neck and legs fully stretched out, often at night, and can cover several hundred kilometers between feeding lakes in one flight. They need a short run across the water to take off.",
+    "gestation": "Greater flamingo eggs hatch after 27–31 days of incubation. The pair builds a cone-shaped mud nest and lays a single chalky white egg, which both parents take turns warming. The gray chick leaves the nest after about a week and joins a large group of chicks called a crèche.",
+    "diet": "Greater flamingos are filter feeders that eat small crustaceans such as brine shrimp, insect larvae, mollusks, worms, seeds and algae. They sweep the bill upside down through shallow water and use the tongue as a pump, straining food through comb-like plates. Parents feed chicks a red, protein-rich secretion called crop milk.",
+    "habitat": "Greater flamingos live on shallow salt lakes, coastal lagoons, estuaries, mudflats and salt pans across Africa, southern Europe, the Middle East and South Asia. They prefer salty or alkaline water that few other animals can use, and they move long distances when water levels change. Famous colonies include the Camargue in France and the Rann of Kutch in India.",
+    "conservation": "The greater flamingo is listed as Least Concern on the IUCN Red List, and its population is increasing. It still depends on a small number of breeding sites, so disturbance, changing water levels, pollution and development of salt lakes and wetlands can wipe out a whole season's breeding."
+  },
+  "funFacts": [
+    "Flamingos are born gray and white; the pink comes from carotenoid pigments in the algae and crustaceans they eat, and it takes a few years to develop fully.",
+    "The joint that bends backward halfway up a flamingo's leg is its ankle, not its knee. The real knee is hidden up near the body under the feathers.",
+    "Both parents feed the chick crop milk, a red liquid produced in the upper digestive tract that is rich in fat and protein.",
+    "Flamingos can rest on one leg with almost no muscular effort, because the leg locks into a stable position when the body is balanced over it.",
+    "A group of flamingos is called a flamboyance, and breeding colonies can number tens of thousands of birds."
+  ],
+  "relatedAnimals": ["mute-swan", "canada-goose", "mallard", "wandering-albatross", "scarlet-macaw", "emperor-penguin"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why are flamingos pink?", "answer": "Flamingos are pink because of carotenoid pigments in their food, mainly algae and small crustaceans such as brine shrimp. The pigments are broken down in the liver and deposited in the feathers, skin and bill. Zoo flamingos are given carotenoid supplements, because without them new feathers grow in pale."},
+    {"question": "Why do flamingos stand on one leg?", "answer": "The best-supported explanation is that standing on one leg saves energy and body heat. Research on flamingo bodies showed the leg locks passively into place, so balancing on one leg takes almost no muscle effort, and tucking the other leg into the feathers reduces heat lost to cold water."},
+    {"question": "Can flamingos fly?", "answer": "Yes. Flamingos are strong fliers that cruise at around 50–60 km/h and can travel hundreds of kilometers in a night between lakes. Flamingos in zoos usually do not fly away because their flight feathers are trimmed or they are kept in covered enclosures."},
+    {"question": "What is a group of flamingos called?", "answer": "A group of flamingos is called a flamboyance; colony, stand and flock are also used. Greater flamingos are highly social and breed in colonies that can hold thousands to tens of thousands of pairs, performing synchronized group courtship displays before nesting."},
+    {"question": "What is the difference between a greater flamingo and an American flamingo?", "answer": "The greater flamingo is taller and much paler, mostly whitish pink with a pink, black-tipped bill, and lives in Africa, southern Europe and Asia. The American or Caribbean flamingo is smaller and deep orange-pink and lives in the Caribbean, northern South America and the Galápagos. They were once treated as one species."}
+  ],
+  "meta": {
+    "title": "Greater Flamingo Facts: Height, Lifespan, Diet & Color",
+    "description": "Greater flamingos stand 1.1–1.5 m tall, weigh 2–4 kg and live 20–30 years in the wild. Why they are pink, what they eat and where they live.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Phoenicopterus%20roseus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Phoenicopterus_roseus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Phoenicopterus_roseus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Greater_flamingo"}
+    ]
+  }
+}

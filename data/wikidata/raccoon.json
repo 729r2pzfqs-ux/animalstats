@@ -1,0 +1,44 @@
+{
+  "slug": "raccoon",
+  "commonName": "Raccoon",
+  "scientificName": "Procyon lotor",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q121439",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Raccoon",
+  "taxonomy": {
+    "species": "Procyon lotor",
+    "genus": "Procyon",
+    "family": "Procyonidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "lifeExpectancy",
+      "amount": "2.45",
+      "unit": "year",
+      "sex": null
+    },
+    {
+      "property": "lifeExpectancy",
+      "amount": "20",
+      "unit": "year",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "66",
+      "unit": "day",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "62",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

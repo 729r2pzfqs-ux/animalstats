@@ -1,0 +1,23 @@
+{
+  "slug": "red-eyed-tree-frog",
+  "commonName": "Red-Eyed Tree Frog",
+  "scientificName": "Agalychnis callidryas",
+  "classSlug": "amphibians",
+  "aliases": [
+    "tree frog",
+    "frog"
+  ],
+  "qid": "Q337616",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Agalychnis callidryas",
+  "taxonomy": {
+    "species": "Agalychnis callidryas",
+    "genus": "Agalychnis",
+    "family": "Hylidae",
+    "order": "Anura",
+    "class": "Amphibia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

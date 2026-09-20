@@ -1,0 +1,41 @@
+{
+  "slug": "american-bison",
+  "commonName": "American Bison",
+  "scientificName": "Bison bison",
+  "classSlug": "mammals",
+  "aliases": [
+    "buffalo",
+    "bison"
+  ],
+  "qid": "Q82728",
+  "iucnStatus": "Near Threatened",
+  "wikipedia": "American bison",
+  "taxonomy": {
+    "species": "Bison bison",
+    "genus": "Bison",
+    "family": "Bovidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "20",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "2800",
+      "unit": "lb",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "285",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

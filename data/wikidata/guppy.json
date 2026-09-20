@@ -1,0 +1,19 @@
+{
+  "slug": "guppy",
+  "commonName": "Guppy",
+  "scientificName": "Poecilia reticulata",
+  "classSlug": "fish",
+  "aliases": [],
+  "qid": "Q178202",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Guppy",
+  "taxonomy": {
+    "species": "Poecilia reticulata",
+    "genus": "Poecilia",
+    "family": "Poeciliidae",
+    "order": "Cyprinodontiformes",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

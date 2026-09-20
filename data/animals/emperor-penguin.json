@@ -1,0 +1,65 @@
+{
+  "slug": "emperor-penguin",
+  "commonName": "Emperor Penguin",
+  "scientificName": "Aptenodytes forsteri",
+  "alternateNames": [],
+  "nameSingular": "emperor penguin",
+  "namePlural": "emperor penguins",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Sphenisciformes", "family": "Spheniscidae", "genus": "Aptenodytes", "species": "A. forsteri"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 20, "unit": "years", "context": "in the wild; some individuals are thought to live considerably longer", "display": "15–20 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 22, "max": 45, "unit": "kg", "context": "adults; weight swings widely over the year as birds fatten up and then fast", "display": "22–45 kg (49–99 lb)"},
+    "height": {"min": 1.0, "max": 1.2, "unit": "m", "label": "Height", "display": "1.0–1.2 m (3.3–3.9 ft)"},
+    "speed": {"min": 6, "max": 9, "unit": "km/h", "verb": "swim", "context": "normal underwater cruising; short bursts are faster", "display": "6–9 km/h (4–6 mph)"},
+    "gestationPeriod": {"min": 62, "max": 67, "unit": "days", "label": "Incubation", "display": "about 65 days"}
+  },
+  "ecology": {
+    "diet": "Piscivore",
+    "dietDetails": "Fish, especially Antarctic silverfish, together with Antarctic krill and squid; the proportions vary between colonies and seasons, and prey is caught on dives under the sea ice.",
+    "habitat": ["Antarctic sea ice", "Ice shelves", "Cold Southern Ocean waters"],
+    "range": "Around the coast of Antarctica, breeding in roughly 60 known colonies, almost all on stable sea ice attached to the land; forages in the surrounding Southern Ocean.",
+    "conservationStatus": "Near Threatened",
+    "iucnCategory": "NT",
+    "populationTrend": "Decreasing",
+    "population": "about 256,500 breeding pairs (2020 estimate from satellite surveys)"
+  },
+  "description": "The emperor penguin is the tallest and heaviest of all living penguins and the only bird that breeds through the Antarctic winter. Adults have a black head and back, a white belly and golden-yellow patches on the neck. Colonies form on sea ice in autumn; after the female lays a single egg she returns to sea, and the male balances the egg on his feet under a fold of skin for about two months without eating, in temperatures that can drop below −40 °C. Emperors are also the deepest-diving birds. Because they depend on stable sea ice, climate change is the greatest threat they face.",
+  "answers": {
+    "lifespan": "Emperor penguins typically live 15–20 years in the wild, and some individuals are thought to live considerably longer. Adult survival is high, at around 95 percent a year in good conditions. Chicks fare far worse: many die of cold or starvation, or drown when sea ice breaks up before they have grown waterproof feathers.",
+    "weight": "Adult emperor penguins weigh 22–45 kg (49–99 lb). The range is wide because weight changes dramatically through the year. A male may start the breeding season near 38 kg and lose about 40 percent of that during roughly four months of fasting through courtship and incubation.",
+    "size": "Emperor penguins stand 1.0–1.2 m (3.3–3.9 ft) tall, about the height of a six-year-old child. They are the largest living penguins, a little taller and roughly twice as heavy as the closely related king penguin. Males and females are similar in size.",
+    "speed": "Emperor penguins normally swim at 6–9 km/h (4–6 mph), and they can go faster in short bursts. To leave the water they release air trapped in their feathers, which cuts drag and lets them rocket upward onto the ice. On land they walk slowly or toboggan on their bellies.",
+    "gestation": "An emperor penguin egg hatches after about 65 days of incubation, all of it done by the male. He holds the single egg on top of his feet beneath a warm fold of skin, huddling with other males through the Antarctic winter, while the female feeds at sea. She returns around hatching time to take over.",
+    "diet": "Emperor penguins are fish eaters that feed mainly on Antarctic silverfish, along with krill and squid. They hunt on deep dives, commonly 100–200 m and lasting three to six minutes. The deepest recorded dive was 565 m and the longest lasted about 32 minutes, records for any bird.",
+    "habitat": "Emperor penguins live only in Antarctica, breeding on stable sea ice attached to the coast and feeding in the surrounding Southern Ocean. Colonies usually form in places sheltered by ice cliffs or icebergs. The ice must last from April until December, long enough for the chicks to grow up.",
+    "conservation": "The emperor penguin is listed as Near Threatened on the IUCN Red List, with a decreasing population of roughly 256,500 breeding pairs. The main threat is loss of sea ice as the climate warms; early ice break-up has caused total breeding failure at several colonies. The United States listed the species as threatened under the Endangered Species Act in 2022."
+  },
+  "funFacts": [
+    "Emperor penguins are the deepest-diving birds: one was recorded at 565 m (1,854 ft), and the longest known dive lasted about 32 minutes.",
+    "Huddling males take turns on the cold outer edge, and the whole huddle slowly shuffles so that every bird gets time in the warm center.",
+    "Scientists have found new emperor penguin colonies from space, by spotting the brown guano stains on the ice in satellite images.",
+    "Emperor penguins build no nest at all. The egg, and later the chick, sits on the parent's feet, covered by a feathered fold of skin called a brood pouch.",
+    "A male eats nothing for about four months while he courts, mates and incubates, surviving on body fat alone."
+  ],
+  "relatedAnimals": ["wandering-albatross", "atlantic-puffin", "ostrich", "orca", "polar-bear", "harbor-seal"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How do emperor penguins survive the cold?", "answer": "Emperor penguins have dense, overlapping feathers, a thick layer of fat, and blood vessels arranged to recycle heat in their flippers and legs. In winter, thousands of males pack into tight huddles and rotate positions, which can cut each bird's heat loss by about half."},
+    {"question": "Do polar bears eat emperor penguins?", "answer": "No. Polar bears live in the Arctic and emperor penguins live in Antarctica, at opposite ends of the Earth, so the two never meet in the wild. The emperor penguin's main predators are leopard seals and orcas at sea, and giant petrels and skuas that take chicks."},
+    {"question": "What is the difference between an emperor penguin and a king penguin?", "answer": "Emperor penguins are larger, at up to 1.2 m and 45 kg, with pale yellow neck patches, and they breed on Antarctic sea ice in winter. King penguins reach about 95 cm and 16 kg, have bright orange patches and breed on sub-Antarctic islands such as South Georgia."},
+    {"question": "How many emperor penguins are left?", "answer": "A 2020 satellite survey estimated about 256,500 breeding pairs in 61 known colonies around Antarctica, and a few more colonies have been found since. Models predict steep declines this century if sea ice continues to shrink, and some colonies have already suffered complete breeding failures."},
+    {"question": "Do emperor penguins mate for life?", "answer": "No. Emperor penguins are faithful to one partner within a breeding season, but most choose a different mate the following year. Studies have found that only about 15 percent of pairs reunite, probably because there is little time to wait for last year's partner."}
+  ],
+  "meta": {
+    "title": "Emperor Penguin Facts: Height, Weight, Diet & Lifespan",
+    "description": "Emperor penguins stand 1.0–1.2 m (3.3–3.9 ft) tall, weigh 22–45 kg and live 15–20 years. Swim speed, record 565 m dives, breeding and sea-ice threats.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Aptenodytes%20forsteri&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Aptenodytes_forsteri/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Aptenodytes_forsteri"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Emperor_penguin"}
+    ]
+  }
+}

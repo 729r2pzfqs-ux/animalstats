@@ -1,0 +1,64 @@
+{
+  "slug": "brown-rat",
+  "commonName": "Brown Rat",
+  "scientificName": "Rattus norvegicus",
+  "alternateNames": ["Norway rat", "Common rat", "Sewer rat", "Street rat", "Fancy rat"],
+  "nameSingular": "brown rat",
+  "namePlural": "brown rats",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Rodentia", "family": "Muridae", "genus": "Rattus", "species": "R. norvegicus"},
+  "facts": {
+    "lifespan": {"min": 1, "max": 2, "unit": "years", "context": "in the wild; most live less than a year", "display": "1–2 years"},
+    "lifespanCaptivity": {"min": 2, "max": 3, "unit": "years", "context": "pet and laboratory rats; occasionally 4", "display": "2–3 years"},
+    "weight": {"min": 200, "max": 500, "unit": "g", "context": "adults; males are larger than females", "display": "200–500 g (7–18 oz)"},
+    "height": {"min": 20, "max": 28, "unit": "cm", "label": "Body length", "display": "20–28 cm (8–11 in)"},
+    "speed": {"min": 13, "max": 13, "unit": "km/h", "verb": "run", "context": "short dashes; commonly cited estimate", "display": "about 13 km/h (8 mph)"},
+    "gestationPeriod": {"min": 21, "max": 24, "unit": "days", "label": "Gestation", "display": "21–24 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Almost anything: grain, seeds, fruit, garbage, pet food, meat scraps, eggs, insects, snails, fish, and the chicks and eggs of ground-nesting birds. Cereals are preferred where available.",
+    "habitat": ["Cities and sewers", "Farms", "Garbage dumps", "Riverbanks", "Coasts"],
+    "range": "Thought to have originated in northern China and Mongolia; now found on every continent except Antarctica, especially in towns, ports and farmland in temperate regions.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The brown rat, also called the Norway rat, is the common rat of cities, sewers and farms and one of the most widespread mammals on Earth. Despite the name it has nothing to do with Norway; it probably originated in northern China and reached Europe in the 1700s, then spread worldwide on ships. It is a stocky, burrowing rat, larger and heavier than the black rat, with a blunt muzzle, small ears and a tail shorter than its body. Brown rats are intelligent, social and wary of new objects. Pet 'fancy' rats and laboratory rats are domesticated forms of this species.",
+  "answers": {
+    "lifespan": "Brown rats live about 1–2 years in the wild, and most die before their first birthday. Pet and laboratory rats usually live 2–3 years and occasionally reach four. Predators, poison, traps, disease and fighting account for the short lives of wild rats.",
+    "weight": "Adult brown rats weigh 200–500 g (7–18 oz). Males average around 350 g and females around 250 g. Rats heavier than 500 g are unusual in the wild, and stories of cat-sized sewer rats are exaggerations, although well-fed pet males can reach 700–800 g.",
+    "size": "A brown rat has a head-and-body length of 20–28 cm (8–11 in), plus a scaly tail of 17–23 cm that is slightly shorter than the body. A shorter tail, smaller ears and a blunter nose distinguish it from the slimmer black rat.",
+    "speed": "Brown rats are commonly said to run at about 13 km/h (8 mph) in short dashes. They are better known as swimmers and climbers: they can tread water for days in laboratory tests, swim through sewer pipes and jump about 1 m horizontally.",
+    "gestation": "A brown rat is pregnant for 21–24 days. Litters usually contain 6–12 pups, and a female can mate again within hours of giving birth, producing up to five or more litters a year. Young rats can breed at about five weeks old in good conditions.",
+    "diet": "Brown rats are omnivores that eat almost anything, including grain, garbage, meat, eggs, insects and fish, and they need water daily. They are cautious about unfamiliar food and sample tiny amounts first, which is why they are hard to poison.",
+    "habitat": "Brown rats live wherever people provide food and shelter: sewers, basements, warehouses, farms, docks and dumps on every continent except Antarctica. They are burrowers that prefer ground level and damp places, and in mild climates they also live along riverbanks, ditches and coasts.",
+    "conservation": "Brown rats are listed as Least Concern on the IUCN Red List and are abundant worldwide. They are a serious pest and one of the most damaging invasive species on islands, where they eat seabird eggs and chicks. Eradications have cleared them from islands such as South Georgia and Campbell Island."
+  },
+  "funFacts": [
+    "Rats make ultrasonic chirps when they are tickled or playing, which researchers have compared to laughter.",
+    "A brown rat's incisors grow about 10–12 cm a year and are hard enough to gnaw through wood, plastic, lead pipe and soft concrete.",
+    "Laboratory experiments have shown that rats will free a trapped companion even when they could have a chocolate treat to themselves instead.",
+    "The oft-quoted claim that there is one rat per person in cities is a myth; careful estimates for New York put the figure at far fewer.",
+    "Alberta, Canada, has kept itself essentially free of breeding brown rats since the 1950s through a government control program."
+  ],
+  "relatedAnimals": ["house-mouse", "hamster", "guinea-pig", "capybara", "naked-mole-rat", "gray-squirrel"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do rats make good pets?", "answer": "Yes, domesticated fancy rats are widely regarded as good pets. They are intelligent, clean, affectionate and can learn their names and simple tricks. They should be kept in same-sex pairs or groups because they are very social. The main drawback is a short lifespan of two to three years."},
+    {"question": "What is the difference between a brown rat and a black rat?", "answer": "The brown rat is larger and stockier, with a blunt nose, small ears and a tail shorter than its body, and it lives in burrows and sewers. The black rat is slimmer, with big ears and a tail longer than its body, and it prefers climbing into roofs and trees."},
+    {"question": "What diseases do brown rats carry?", "answer": "Brown rats can spread leptospirosis (Weil's disease), salmonella, rat-bite fever and Seoul hantavirus through urine, droppings and bites. Bubonic plague was historically linked mainly to black rats and their fleas, though brown rats can also carry it."},
+    {"question": "Can rats come up through the toilet?", "answer": "Yes, occasionally. Brown rats live in sewers, swim well and can hold their breath for up to about three minutes, so they are able to travel up drainpipes and emerge in a toilet bowl. It is uncommon, and one-way valves fitted to the drain can prevent it."},
+    {"question": "How big can a brown rat get?", "answer": "A very large wild brown rat weighs about 500 g and measures up to about 50 cm including the tail. Reports of wild rats weighing a kilogram or more are generally not credible and often involve other species, such as nutria or African giant pouched rats."}
+  ],
+  "meta": {
+    "title": "Brown Rat (Norway Rat) Facts: Size, Lifespan & Diet",
+    "description": "Brown rats weigh 200–500 g (7–18 oz), measure 20–28 cm plus tail and live 1–2 years wild or 2–3 years as pets. Gestation, diet, habitat and pet rat facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Rattus%20norvegicus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Rattus_norvegicus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Rattus_norvegicus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Brown_rat"}
+    ]
+  }
+}

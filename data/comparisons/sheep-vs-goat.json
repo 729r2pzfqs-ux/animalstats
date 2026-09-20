@@ -1,0 +1,59 @@
+{
+  "slug": "sheep-vs-goat",
+  "summary": "The main difference between sheep and goats is how they feed: sheep are grazers that crop grass close to the ground, while goats are browsers that prefer leaves, twigs, shrubs and weeds. Sheep usually have woolly coats, tails that hang down and a strong flocking instinct. Goats have hair, short tails held upright, often a beard, and a more curious, independent nature.",
+  "differences": [
+    {
+      "title": "Feeding",
+      "text": "Sheep walk with heads down, grazing short grasses and clover. Goats eat with heads up, stretching or even standing on their hind legs to reach leaves, bark, brambles and vines, and they are often used to clear brush. Contrary to legend, goats do not eat tin cans, although they investigate objects by nibbling."
+    },
+    {
+      "title": "Tail",
+      "text": "The tail is the quickest way to tell them apart. A goat's tail is short and points upward unless the animal is sick, frightened or distressed. A sheep's tail hangs down. Sheep tails are naturally long and woolly in most breeds, but many farmers dock them short for hygiene reasons."
+    },
+    {
+      "title": "Coat",
+      "text": "Most sheep grow a thick fleece of wool that keeps growing and must be shorn, although 'hair sheep' breeds shed naturally. Most goats have a coat of straight hair that needs no shearing. Notable exceptions are Angora goats, which produce mohair, and cashmere goats, whose soft winter undercoat is combed out."
+    },
+    {
+      "title": "Horns and face",
+      "text": "When present, goat horns are usually narrower and grow upward and backward, while sheep horns tend to be thicker and curl in spirals at the sides of the head. Many goats, of both sexes, have beards, and some have wattles on the neck. Sheep have a groove dividing the upper lip, and goats do not."
+    },
+    {
+      "title": "Behavior",
+      "text": "Sheep have a powerful flocking instinct, bunch together when alarmed and become distressed when separated from the group, which is what makes herding with dogs possible. Goats are more independent, inquisitive and agile. They climb, jump and test fences constantly. Rams charge and butt heads with a run-up, while goats rear up on their hind legs first."
+    },
+    {
+      "title": "Genetics",
+      "text": "Sheep and goats are separate species in different genera, Ovis and Capra, and they have different chromosome numbers: 54 in sheep and 60 in goats. That gap is a major barrier to crossbreeding. Male goats also produce a strong, musky odor in the breeding season, which rams lack."
+    }
+  ],
+  "similarities": "Sheep and goats are close relatives in the subfamily Caprinae of the family Bovidae. Both are cloven-hoofed ruminants with a four-chambered stomach, no upper front teeth, and horizontal, rectangular pupils that give a wide field of view. Both were among the first livestock domesticated, around 10,000 years ago in the Near East, and provide milk, meat, fiber and hides.",
+  "howToTell": [
+    "Look at the tail: up means goat, and down means sheep.",
+    "A beard under the chin almost always means goat, not sheep.",
+    "A thick woolly fleece suggests a sheep, while a sleek coat of straight hair suggests a goat.",
+    "Animals reaching up into bushes or climbing on objects are goats; animals grazing head-down in a tight group are sheep."
+  ],
+  "faq": [
+    {
+      "question": "Can sheep and goats interbreed?",
+      "answer": "Rarely. Matings do happen when the two are kept together, but because sheep have 54 chromosomes and goats 60, pregnancies usually fail or the young are stillborn. A few live hybrids, often called geep, have been confirmed by genetic testing, with 57 chromosomes."
+    },
+    {
+      "question": "Are goats smarter than sheep?",
+      "answer": "Goats are more exploratory and better at puzzle-style tasks, and they will look to humans for help with a problem, much as dogs do. Sheep are often underestimated. They can recognize and remember dozens of individual sheep and human faces for years. The two simply have different strengths and temperaments."
+    },
+    {
+      "question": "Is lamb or mutton from sheep or goats?",
+      "answer": "Lamb and mutton both come from sheep: lamb from young animals and mutton from adults. Goat meat is called chevon, or cabrito when it is from a kid. In South Asia and parts of the Caribbean, however, 'mutton' on a menu frequently means goat."
+    },
+    {
+      "question": "Can sheep and goats live together?",
+      "answer": "Yes, they can share pasture, and because one grazes and the other browses, they compete little for food. There are cautions. Sheep are very sensitive to copper, so goat feed and minerals can poison them. The two also share many internal parasites."
+    }
+  ],
+  "meta": {
+    "title": "Sheep vs Goat: Tails, Coats, Diet and Differences",
+    "description": "Sheep are woolly grazers with tails that hang down; goats are hairy browsers with upright tails and beards. They have 54 and 60 chromosomes."
+  }
+}

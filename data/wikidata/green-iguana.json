@@ -1,0 +1,22 @@
+{
+  "slug": "green-iguana",
+  "commonName": "Green Iguana",
+  "scientificName": "Iguana iguana",
+  "classSlug": "reptiles",
+  "aliases": [
+    "iguana"
+  ],
+  "qid": "Q215376",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Green iguana",
+  "taxonomy": {
+    "species": "Iguana iguana",
+    "genus": "Iguana",
+    "family": "Iguanidae",
+    "order": "Squamata",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

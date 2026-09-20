@@ -1,0 +1,64 @@
+{
+  "slug": "hedgehog",
+  "commonName": "European Hedgehog",
+  "scientificName": "Erinaceus europaeus",
+  "alternateNames": ["West European hedgehog", "Common hedgehog", "Hedgehog"],
+  "nameSingular": "European hedgehog",
+  "namePlural": "European hedgehogs",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Eulipotyphla", "family": "Erinaceidae", "genus": "Erinaceus", "species": "E. europaeus"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 5, "unit": "years", "context": "in the wild; average 2–3 years, rarely 7 or more", "display": "2–5 years"},
+    "lifespanCaptivity": {"min": 8, "max": 10, "unit": "years", "context": "maximum in human care", "display": "up to 8–10 years"},
+    "weight": {"min": 600, "max": 1200, "unit": "g", "context": "adults; heaviest in fall before hibernation", "display": "600–1,200 g (1.3–2.6 lb)"},
+    "height": {"min": 20, "max": 30, "unit": "cm", "label": "Body length", "display": "20–30 cm (8–12 in)"},
+    "speed": {"min": 7, "max": 7, "unit": "km/h", "verb": "run", "context": "short bursts; approximate figure", "display": "about 7 km/h (4 mph)"},
+    "gestationPeriod": {"min": 31, "max": 35, "unit": "days", "label": "Gestation", "display": "31–35 days"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Beetles, caterpillars, earthworms, earwigs, millipedes, slugs and snails, with occasional birds' eggs, nestlings, frogs, carrion and fallen fruit. Gardens also supply cat food and specialist hedgehog food.",
+    "habitat": ["Hedgerows", "Woodland edges", "Grassland", "Farmland", "Gardens and parks"],
+    "range": "Western and central Europe from Iberia, Italy, Britain and Ireland north to southern Scandinavia and east to northwestern Russia; introduced to New Zealand.",
+    "conservationStatus": "Near Threatened",
+    "iucnCategory": "NT",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The European hedgehog is a small nocturnal mammal whose back and sides are covered with around 5,000–7,000 sharp spines, which are modified hairs. When threatened it rolls into a tight ball, pulled closed by a ring of muscle, leaving nothing but spines exposed. Hedgehogs are solitary and travel 1–2 km a night searching for beetles, worms and other invertebrates in hedgerows, pastures and gardens. They hibernate through the winter in nests of leaves. This is the wild hedgehog of western Europe; the pet 'African pygmy hedgehog' is a different, smaller species.",
+  "answers": {
+    "lifespan": "European hedgehogs live 2–5 years in the wild, with an average of 2–3 years, and can reach 8–10 years in human care. Up to half die before or during their first hibernation, and road traffic, badgers, garden hazards and starvation take many adults.",
+    "weight": "Adult European hedgehogs weigh 600–1,200 g (1.3–2.6 lb). Weight varies hugely with the season: hedgehogs fatten up in fall, sometimes to nearly 2 kg, and may lose a third of their body weight during hibernation. A youngster needs to weigh roughly 450–600 g to survive winter.",
+    "size": "A European hedgehog is 20–30 cm (8–12 in) long with a short tail of 2–3 cm hidden under the spines. Its legs are longer than they look, about 10 cm, but are usually concealed by the skirt of fur along the flanks.",
+    "speed": "European hedgehogs can run at roughly 7 km/h (4 mph) in short bursts, though exact measurements are scarce. They usually amble slowly while foraging but cover a lot of ground, often 1–2 km, and up to 3 km for males, in a single night.",
+    "gestation": "A European hedgehog is pregnant for 31–35 days. Litters of four or five hoglets are born mainly in June and July, blind and with soft white spines that emerge within hours. The young leave the nest at three to four weeks and are independent by about six weeks.",
+    "diet": "European hedgehogs are insectivores that eat mostly beetles, caterpillars, earthworms, earwigs and slugs. They also take eggs, carrion and fallen fruit. Milk and bread should never be offered because hedgehogs are lactose intolerant; meaty cat food and water are safe.",
+    "habitat": "European hedgehogs live in hedgerows, woodland edges, pastures, parks and gardens across western and central Europe. They avoid dense conifer forest, wetlands and high mountains, and suburban gardens are now among their most important habitats.",
+    "conservation": "European hedgehogs were moved from Least Concern to Near Threatened on the IUCN Red List in 2024, and the population is decreasing. Intensive farming, loss of hedgerows, pesticides, road deaths and fenced-off gardens are blamed. Rural numbers in Britain have fallen especially sharply since 2000."
+  },
+  "funFacts": [
+    "An adult European hedgehog carries roughly 5,000–7,000 spines, each lasting about a year before it is shed and replaced.",
+    "During hibernation a hedgehog's heart rate drops from around 190 beats a minute to about 20, and its body temperature falls close to that of its surroundings.",
+    "Hedgehogs 'self-anoint': on meeting a strong new smell they chew up a frothy saliva and lick it onto their spines, for reasons still not understood.",
+    "Hedgehogs have some natural resistance to adder venom, although a bite can still kill them.",
+    "Introduced hedgehogs are pests in New Zealand and on Scotland's Uist islands, where they eat the eggs of ground-nesting birds."
+  ],
+  "relatedAnimals": ["armadillo", "house-mouse", "brown-rat", "european-hare", "red-fox", "naked-mole-rat"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do hedgehogs make good pets?", "answer": "European hedgehogs are wild, legally protected animals in much of Europe and should not be kept as pets. The pet hedgehogs sold in North America and elsewhere are African pygmy hedgehogs, a different species, and even those are illegal in some US states and cities."},
+    {"question": "Do hedgehogs hibernate?", "answer": "Yes. European hedgehogs hibernate from roughly November to March or April, depending on the weather, in a nest of leaves called a hibernaculum. They wake briefly several times during winter and sometimes move nests, so seeing one on a mild winter night is not unusual."},
+    {"question": "What should you feed a wild hedgehog?", "answer": "Offer meat-based cat or dog food, dry cat biscuits or specialist hedgehog food, along with a shallow dish of water. Do not give milk, which causes diarrhea, or bread, which has little nutritional value. Mealworms should only ever be an occasional treat."},
+    {"question": "Can hedgehogs shoot their spines?", "answer": "No. Hedgehogs cannot shoot or throw their spines, and the spines are not barbed or poisonous. They stay firmly attached, unlike a porcupine's quills, and work as armor when the hedgehog rolls into a ball."},
+    {"question": "Why are hedgehogs declining?", "answer": "Hedgehogs are declining because of intensive farming, hedgerow removal, pesticide use that reduces their insect prey, road deaths and gardens sealed off by solid fences. Cutting a 13 cm gap under garden fences to create 'hedgehog highways' is one widely promoted way to help."}
+  ],
+  "meta": {
+    "title": "European Hedgehog Facts: Lifespan, Size, Diet & Habitat",
+    "description": "European hedgehogs weigh 600–1,200 g, measure 20–30 cm and live 2–5 years in the wild. Diet, hibernation, spines, gestation and Near Threatened status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Erinaceus%20europaeus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Erinaceus_europaeus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Erinaceus_europaeus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/European_hedgehog"}
+    ]
+  }
+}

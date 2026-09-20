@@ -1,0 +1,23 @@
+{
+  "slug": "american-alligator",
+  "commonName": "American Alligator",
+  "scientificName": "Alligator mississippiensis",
+  "classSlug": "reptiles",
+  "aliases": [
+    "alligator",
+    "gator"
+  ],
+  "qid": "Q193327",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "American alligator",
+  "taxonomy": {
+    "species": "Alligator mississippiensis",
+    "genus": "Alligator",
+    "family": "Alligatoridae",
+    "order": "Crocodilia",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "cheetah",
+  "commonName": "Cheetah",
+  "scientificName": "Acinonyx jubatus",
+  "alternateNames": ["Hunting leopard", "African cheetah", "Asiatic cheetah"],
+  "nameSingular": "cheetah",
+  "namePlural": "cheetahs",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Felidae", "genus": "Acinonyx", "species": "A. jubatus"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 12, "unit": "years", "context": "in the wild; males often live only about 8 years", "display": "10–12 years"},
+    "lifespanCaptivity": {"min": 12, "max": 17, "unit": "years", "context": "in human care; a few reach 20", "display": "12–17 years"},
+    "weight": {"min": 21, "max": 65, "unit": "kg", "context": "adults; males are slightly heavier than females", "display": "21–65 kg (46–143 lb)"},
+    "height": {"min": 67, "max": 94, "unit": "cm", "label": "Shoulder height", "display": "67–94 cm (26–37 in)"},
+    "speed": {"min": 93, "max": 104, "unit": "km/h", "verb": "run", "context": "reliably measured top speeds over short sprints; often-quoted figures of 112–120 km/h are estimates", "display": "93–104 km/h (58–65 mph)"},
+    "gestationPeriod": {"min": 90, "max": 95, "unit": "days", "label": "Gestation", "display": "about 93 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Small to medium antelopes such as Thomson's gazelles, springbok and impala, along with hares, young wildebeest and ground birds; male coalitions can bring down larger prey.",
+    "habitat": ["Savanna", "Grassland", "Open woodland", "Semi-desert"],
+    "range": "Fragmented populations in southern and eastern Africa, with strongholds in Namibia, Botswana, Kenya and Tanzania, plus a tiny remnant of Asiatic cheetahs in Iran.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing",
+    "population": "about 6,500 mature individuals"
+  },
+  "description": "The cheetah is the fastest land animal, a slender, long-legged cat built for explosive sprints rather than strength. A flexible spine, enlarged nostrils, heart and lungs, a long tail for steering and semi-retractable claws that grip like running spikes all serve speed. Black tear lines run from the inner corners of its eyes to its mouth, and its coat has solid round spots rather than a leopard's rosettes. Unlike other big African cats it hunts mainly by day and cannot roar, but it purrs and chirps. Cheetahs have very low genetic diversity and have disappeared from about 90 percent of their historic range.",
+  "answers": {
+    "lifespan": "Cheetahs live 10–12 years in the wild and typically 12–17 years in zoos. Wild males often survive only about eight years because of fights over territory. Cub mortality is extremely high in some areas, with lions and hyenas killing most cubs before they are three months old.",
+    "weight": "Adult cheetahs weigh 21–65 kg (46–143 lb), with males slightly heavier than females. That is lighter than a leopard of similar height, because the cheetah trades muscle bulk for a lean, greyhound-like frame. Cubs weigh just 150–300 g at birth.",
+    "size": "A cheetah stands 67–94 cm (26–37 in) tall at the shoulder. Head-and-body length is 1.1–1.5 m, and the tail adds another 60–80 cm. Its long legs, deep chest and narrow waist make it the tallest and leanest of the medium-sized cats.",
+    "speed": "The highest reliably measured cheetah speeds are 93–104 km/h (58–65 mph). Figures of 112–120 km/h (70–75 mph) are widely quoted but are estimates. A cheetah can reach about 97 km/h in roughly three seconds, yet most chases last under a minute and cover only a few hundred meters.",
+    "gestation": "A cheetah is pregnant for about 93 days, roughly three months. Litters usually contain three to five cubs, which are born with a long silvery mantle of fur along the back that may help camouflage them. The mother raises them alone and moves them often.",
+    "diet": "Cheetahs are carnivores that mainly hunt small and medium-sized antelopes, such as Thomson's gazelles, springbok and impala, as well as hares and birds. They trip prey at speed and kill with a throat bite. They eat quickly because lions, hyenas and leopards steal a sizable share of their kills.",
+    "habitat": "Cheetahs live in open savanna, grassland, open woodland and semi-desert in southern and eastern Africa, where they have room to sprint and enough cover to stalk. Most live outside protected areas on farmland and ranches. A few dozen Asiatic cheetahs at most survive in central Iran.",
+    "conservation": "The cheetah is listed as Vulnerable on the IUCN Red List, with about 6,500 mature individuals and a decreasing population. Habitat loss, conflict with livestock farmers, loss of prey and the illegal trade in cubs as pets are the main threats. Some scientists have argued it should be listed as Endangered."
+  },
+  "funFacts": [
+    "A cheetah named Sarah at the Cincinnati Zoo ran 100 meters in 5.95 seconds in 2012, a top speed of about 98 km/h (61 mph).",
+    "Cheetahs cannot roar; they purr, chirp like birds to call cubs, and make a stuttering call when excited.",
+    "A cheetah's claws do not fully retract, so they work like the spikes on a sprinter's shoes.",
+    "During a sprint a cheetah covers 6–7 m (20–23 ft) with each stride and spends more than half the time with all four feet off the ground.",
+    "All living cheetahs are so genetically similar that skin grafts between unrelated individuals are typically not rejected."
+  ],
+  "relatedAnimals": ["leopard", "lion", "cougar", "pronghorn", "thomsons-gazelle", "springbok"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How fast can a cheetah go from 0 to 60 mph?", "answer": "A cheetah can accelerate from a standstill to about 97 km/h (60 mph) in roughly three seconds, comparable to a high-performance sports car. Studies of wild cheetahs show that their acceleration and ability to brake and turn sharply matter more in a hunt than outright top speed."},
+    {"question": "What is the difference between a cheetah and a leopard?", "answer": "Cheetahs have solid black spots, black tear lines on the face, a slim body and long legs, and they hunt by day using speed. Leopards have rosettes, no tear lines and a stockier, stronger build, hunt mostly at night and drag kills into trees."},
+    {"question": "Are cheetahs dangerous to humans?", "answer": "Cheetahs pose very little danger to people. There are no verified records of a wild cheetah killing a human. They are timid compared with other large cats and usually flee, which is one reason they were historically tamed and used for hunting."},
+    {"question": "How many cheetahs are left in the wild?", "answer": "About 6,500 mature cheetahs remain in the wild, and a 2016 study put the total including adolescents at around 7,100. They occupy only about 10 percent of their historic range, and the largest population lives across Namibia, Botswana and neighboring countries."},
+    {"question": "Why do cheetahs have black tear marks?", "answer": "The black lines running from a cheetah's eyes to its mouth are thought to cut glare from the sun, much like the dark paint athletes wear under their eyes. That would help a predator that hunts in bright daylight on open plains."}
+  ],
+  "meta": {
+    "title": "How Fast Is a Cheetah? Speed, Size & Lifespan Facts",
+    "description": "Cheetahs sprint at a measured 93–104 km/h (58–65 mph), weigh 21–65 kg and live 10–12 years in the wild. Diet, habitat, gestation and conservation status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Acinonyx%20jubatus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Acinonyx_jubatus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Acinonyx_jubatus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Cheetah"}
+    ]
+  }
+}

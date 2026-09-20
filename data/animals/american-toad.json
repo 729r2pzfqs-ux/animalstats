@@ -1,0 +1,64 @@
+{
+  "slug": "american-toad",
+  "commonName": "American Toad",
+  "scientificName": "Anaxyrus americanus",
+  "alternateNames": ["Eastern American toad", "Hop toad", "Bufo americanus"],
+  "nameSingular": "American toad",
+  "namePlural": "American toads",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Amphibia", "classSlug": "amphibians", "order": "Anura", "family": "Bufonidae", "genus": "Anaxyrus", "species": "A. americanus"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 10, "unit": "years", "context": "in the wild; most die within a year or two, but survivors can reach about 10", "display": "2–10 years"},
+    "lifespanCaptivity": {"min": 10, "max": 30, "unit": "years", "context": "in human care; one toad reportedly reached 36", "display": "10–30 years"},
+    "weight": {"min": 20, "max": 60, "unit": "g", "context": "approximate adult weight; females are larger than males", "display": "about 20–60 g (0.7–2 oz)"},
+    "height": {"min": 5, "max": 9, "unit": "cm", "label": "Body length", "display": "5–9 cm (2–3.5 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 3, "max": 12, "unit": "days", "label": "Egg development", "display": "3–12 days to hatch"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Beetles, ants, crickets, moths, slugs, earthworms, spiders and other invertebrates, caught with a sticky tongue; large toads use their front feet to push bigger prey into the mouth. Tadpoles graze on algae.",
+    "habitat": ["Deciduous forest", "Gardens and yards", "Fields and meadows", "Shallow breeding ponds"],
+    "range": "Eastern North America, from Manitoba, the Hudson Bay region and the Maritime provinces south to northern Georgia, Mississippi and eastern Oklahoma.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The American toad is the common \"garden toad\" of eastern North America, a squat brown, gray or reddish amphibian covered in warts. It can be told from similar toads by its dark spots, each usually containing just one or two large warts. It lives almost anywhere with moist hiding places, insects to eat and shallow water for breeding, including suburban yards. By day it hides under logs, stones and porches; at night it hunts. In spring males gather at ponds and give a long, musical trill that can last up to 30 seconds. It spends winter dug in below the frost line.",
+  "answers": {
+    "lifespan": "American toads live 2–10 years in the wild and 10–30 years in captivity. Most wild toads die in their first year or two, eaten by snakes, birds and mammals, but survivors can reach about 10. One captive toad is reported to have lived 36 years.",
+    "weight": "An adult American toad weighs roughly 20–60 g (0.7–2 oz). Females are larger and heavier than males, especially in spring when they are carrying eggs. Published weights are scarce, so this range is approximate; size is more often reported as body length.",
+    "size": "American toads are 5–9 cm (2–3.5 in) long from snout to vent, and the largest on record was about 11 cm. Females are bigger than males. Newly transformed toadlets are tiny, only around 1 cm long, and often leave ponds in large numbers.",
+    "speed": null,
+    "gestation": "American toad eggs hatch in 3–12 days, depending on water temperature. The female lays 4,000–8,000 eggs in two long jelly strings wound around underwater plants. The small black tadpoles transform into toadlets in roughly 40–70 days.",
+    "diet": "American toads are insectivores that eat beetles, ants, slugs, earthworms, spiders and almost any small invertebrate that moves. A single toad can eat up to about 1,000 insects in a day, which makes toads welcome visitors in gardens.",
+    "habitat": "American toads live in forests, fields, parks and gardens across eastern North America. They need three things: shallow, fish-free water for breeding, dense cover or loose soil to hide in, and plenty of insects. They tolerate suburban and farmed landscapes better than most amphibians.",
+    "conservation": "The American toad is listed as Least Concern on the IUCN Red List, with a stable population. It is one of the most common amphibians in its range. Local declines are linked to pesticide use, road deaths during spring migrations and the loss of small breeding ponds."
+  },
+  "funFacts": [
+    "The male's breeding call is a high, musical trill lasting 6 to 30 seconds, and each male in a chorus sings at a slightly different pitch.",
+    "Large glands behind the eyes ooze a bitter, milky toxin, but eastern hognose snakes are immune and specialize in eating toads.",
+    "American toads do not drink; they absorb water through a patch of thin skin on the belly.",
+    "A toad sheds its skin every few weeks while growing and eats the old skin as it comes off.",
+    "In winter American toads dig backward into the soil with their hind feet and hibernate below the frost line."
+  ],
+  "relatedAnimals": ["cane-toad", "american-bullfrog", "eastern-newt", "red-eyed-tree-frog", "goliath-frog"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can you get warts from touching a toad?", "answer": "No. Human warts are caused by a virus, the human papillomavirus, and have nothing to do with toads. A toad's bumps are simply skin glands. You should still wash your hands after handling one, because the skin toxin irritates eyes and mouths."},
+    {"question": "Are American toads poisonous to dogs?", "answer": "Mildly. An American toad's skin toxin usually causes drooling, foaming, pawing at the mouth and sometimes vomiting in a dog that mouths one, but it is rarely life-threatening. Rinse the dog's mouth with water and call a vet. Cane toads and Colorado River toads are far more dangerous."},
+    {"question": "What is the difference between a frog and a toad?", "answer": "Toads are a kind of frog. True toads, family Bufonidae, generally have dry, warty skin, stout bodies, short legs for hopping and poison glands behind the eyes. Typical frogs have smooth, moist skin and long legs for leaping, and stay closer to water."},
+    {"question": "Can you keep an American toad as a pet?", "answer": "Yes, where local law allows it. American toads are hardy and can become quite tame. They need a secure tank with several centimeters of moist soil to burrow in, a shallow water dish, hiding places and live insects. With good care they can live well over 10 years."},
+    {"question": "Where do American toads go in the winter?", "answer": "American toads hibernate underground. In autumn they dig backward into loose soil, often 30 cm to a meter deep, to get below the frost line, because they cannot survive freezing. They re-emerge in spring when the ground thaws and head for breeding ponds."}
+  ],
+  "meta": {
+    "title": "American Toad Facts: Size, Lifespan, Diet & Habitat",
+    "description": "American toads are 5–9 cm (2–3.5 in) long and live 2–10 years in the wild, up to 30 in captivity. Eggs hatch in 3–12 days. Diet, toxin and habitat facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Anaxyrus%20americanus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Anaxyrus_americanus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Anaxyrus_americanus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/American_toad"}
+    ]
+  }
+}

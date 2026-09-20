@@ -1,0 +1,64 @@
+{
+  "slug": "tiger-shark",
+  "commonName": "Tiger Shark",
+  "scientificName": "Galeocerdo cuvier",
+  "alternateNames": ["Sea tiger"],
+  "nameSingular": "tiger shark",
+  "namePlural": "tiger sharks",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Chondrichthyes", "classSlug": "fish", "order": "Carcharhiniformes", "family": "Galeocerdonidae", "genus": "Galeocerdo", "species": "G. cuvier"},
+  "facts": {
+    "lifespan": {"min": 30, "max": 50, "unit": "years", "context": "estimated from growth rings in vertebrae; not precisely known", "display": "an estimated 30–50 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 385, "max": 635, "unit": "kg", "context": "adults; exceptional females exceed 900 kg", "display": "385–635 kg (850–1,400 lb)"},
+    "height": {"min": 3, "max": 4.3, "unit": "m", "label": "Length", "display": "3–4.3 m (10–14 ft)"},
+    "speed": {"min": 32, "max": 32, "unit": "km/h", "verb": "swim", "context": "commonly cited estimate for short bursts; it normally cruises at 3–4 km/h", "display": "about 32 km/h (20 mph)"},
+    "gestationPeriod": {"min": 390, "max": 480, "unit": "days", "label": "Gestation", "display": "13–16 months"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "The broadest diet of any shark: fish, sea turtles, seabirds, sea snakes, rays, smaller sharks, seals, dolphins, squid, crustaceans and carrion such as whale carcasses, plus indigestible garbage swallowed by mistake.",
+    "habitat": ["Coastal seas", "Coral reefs", "Estuaries and harbors", "Open ocean"],
+    "range": "Tropical and warm-temperate seas worldwide, especially around central Pacific islands such as Hawaii, the Caribbean, the western Atlantic, the Indian Ocean and northern Australia.",
+    "conservationStatus": "Near Threatened",
+    "iucnCategory": "NT",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The tiger shark is a large, blunt-nosed predator of warm seas, named for the dark vertical bars on its sides that are bold in young sharks and fade with age. It is one of the biggest predatory sharks, with large females exceeding 5 m. Its heavily serrated, cockscomb-shaped teeth can saw through turtle shell and bone, and it eats a wider range of food than any other shark. Tiger sharks are mostly solitary and nocturnal, moving inshore at night to feed, and they migrate long distances between tropical and temperate waters.",
+  "answers": {
+    "lifespan": "Tiger sharks are estimated to live 30–50 years, based on growth rings in their vertebrae, but their maximum lifespan is not well established. They mature at roughly 7–10 years old. Only a few very large aquariums have kept tiger sharks, and they seldom do well in captivity.",
+    "weight": "Adult tiger sharks usually weigh 385–635 kg (850–1,400 lb). Females are the larger sex, and exceptional individuals over 5 m long have weighed more than 900 kg (2,000 lb). The all-tackle angling record is 810 kg (1,785 lb), set by a shark caught off Australia.",
+    "size": "Adult tiger sharks are typically 3–4.3 m (10–14 ft) long. Large females can exceed 5 m (16.5 ft), which puts the tiger shark among the largest predatory sharks alongside the great white and the Greenland shark. Newborn pups are about 50–75 cm long.",
+    "speed": "Tiger sharks are usually quoted as reaching about 32 km/h (20 mph) in short bursts, although this has not been measured rigorously. Tagged tiger sharks cruise slowly, at around 3–4 km/h, and rely on stealth and camouflage rather than speed to get close to prey.",
+    "gestation": "Tiger sharks are pregnant for 13–16 months. Unlike their close relatives the requiem sharks, tiger shark embryos develop without a placenta, hatching from eggs inside the mother and feeding on yolk and uterine fluid. Litters are large, usually 10–80 pups, and females are thought to breed once every three years.",
+    "diet": "Tiger sharks are carnivores with the most varied diet of any shark, eating fish, sea turtles, seabirds, sea snakes, rays, other sharks, seals, dolphins, squid and carrion. They also swallow trash: license plates, tires and cans have been found in their stomachs, earning them the nickname garbage can of the sea.",
+    "habitat": "Tiger sharks live in tropical and warm-temperate seas worldwide. They favor murky coastal water, reef slopes, lagoons, harbors and river mouths but also cross open ocean, and they range from the surface to about 350 m, sometimes much deeper. Many populations move to cooler latitudes in summer and return to the tropics in winter.",
+    "conservation": "The tiger shark is listed as Near Threatened on the IUCN Red List, with a decreasing population. It is caught for its fins, skin and liver oil, taken as bycatch, and killed in shark control programs in places such as Australia and South Africa. Its large litters make it somewhat more resilient than many big sharks."
+  },
+  "funFacts": [
+    "Tiger shark teeth are identical in both jaws, notched and serrated like a cockscomb, and can cut through the shell of an adult sea turtle.",
+    "Off Hawaii, tiger sharks time their visits to French Frigate Shoals to the weeks when young albatrosses make their first clumsy flights over the lagoon.",
+    "The stripes that give the species its name are strongest in juveniles and often nearly disappear in large adults.",
+    "In Shark Bay, Australia, the mere presence of tiger sharks changes where dugongs and turtles graze, which protects seagrass meadows from overgrazing.",
+    "Native Hawaiian tradition regards some tiger sharks as aumakua, ancestral guardian spirits."
+  ],
+  "relatedAnimals": ["great-white-shark", "bull-shark", "hammerhead-shark", "whale-shark", "green-sea-turtle", "greenland-shark"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are tiger sharks dangerous to humans?", "answer": "Yes. Tiger sharks rank second only to great whites in the number of recorded unprovoked bites on people, and a significant share have been fatal. They are large, curious, hunt in shallow water and are not fussy eaters. Even so, attacks are rare relative to how often people and tiger sharks share the water."},
+    {"question": "Why are they called tiger sharks?", "answer": "Tiger sharks are named for the dark vertical stripes and blotches along their flanks, which look like a tiger's pattern. The markings are boldest in juveniles and fade as the shark grows, so very large adults can look almost plain gray."},
+    {"question": "What is the difference between a tiger shark and a great white shark?", "answer": "Great whites are heavier, prefer cooler water, have a pointed snout and triangular teeth, and are partly warm-blooded. Tiger sharks live in warmer seas, have a blunt, squared-off snout, striped sides and notched teeth, swim more slowly and eat a much wider range of prey."},
+    {"question": "Do tiger sharks really eat garbage?", "answer": "Yes. Tiger sharks investigate and swallow almost anything, and stomach contents have included license plates, tires, bottles, cans, nails and pieces of boats. This is a side effect of their unselective scavenging, and they can evert their stomachs to get rid of indigestible items."},
+    {"question": "Which is bigger, a tiger shark or a bull shark?", "answer": "The tiger shark is much bigger. Adult tiger sharks are typically 3–4.3 m long and 385–635 kg, while bull sharks are 2.1–3.4 m and usually 90–230 kg. Bull sharks are stockier for their length and are better known for entering rivers."}
+  ],
+  "meta": {
+    "title": "Tiger Shark Facts: Size, Diet, Lifespan & Habitat",
+    "description": "Tiger sharks grow 3–4.3 m (10–14 ft), weigh 385–635 kg and live an estimated 30–50 years. Pregnancy lasts 13–16 months. Diet, range and danger to people.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Galeocerdo%20cuvier&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Galeocerdo_cuvier/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Tiger_shark"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q188212"}
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "bumblebee",
+  "commonName": "Buff-Tailed Bumblebee",
+  "scientificName": "Bombus terrestris",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "bumblebee"
+  ],
+  "qid": "Q752274",
+  "iucnStatus": null,
+  "wikipedia": "Bombus terrestris",
+  "taxonomy": {
+    "species": "Bombus terrestris",
+    "genus": "Bombus",
+    "family": "Apidae",
+    "order": "Hymenoptera",
+    "class": "Insecta",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

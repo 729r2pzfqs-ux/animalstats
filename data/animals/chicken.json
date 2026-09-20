@@ -1,0 +1,64 @@
+{
+  "slug": "chicken",
+  "commonName": "Chicken",
+  "scientificName": "Gallus gallus",
+  "alternateNames": ["Domestic chicken", "Hen", "Rooster", "Gallus gallus domesticus"],
+  "nameSingular": "chicken",
+  "namePlural": "chickens",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Galliformes", "family": "Phasianidae", "genus": "Gallus", "species": "G. gallus"},
+  "facts": {
+    "lifespan": {"min": 5, "max": 10, "unit": "years", "context": "backyard and pet birds; commercial birds are slaughtered far younger", "display": "5–10 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 1.5, "max": 4, "unit": "kg", "context": "adult standard breeds; bantams are under 1 kg and the largest breeds exceed 5 kg", "display": "1.5–4 kg (3.3–8.8 lb)"},
+    "height": {"min": 40, "max": 70, "unit": "cm", "label": "Height", "display": "40–70 cm (16–28 in)"},
+    "speed": {"min": 14, "max": 14, "unit": "km/h", "verb": "run", "context": "short dashes on the ground; chickens fly only a few meters at a time", "display": "about 14 km/h (9 mph)"},
+    "gestationPeriod": {"min": 21, "max": 21, "unit": "days", "label": "Incubation", "display": "21 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Seeds, grains, grass and other greens, plus insects, worms, slugs and occasionally small lizards or mice; farmed birds are fed formulated grain-and-protein feed.",
+    "habitat": ["Farmland", "Backyards", "Villages", "Forest edge (wild ancestor)"],
+    "range": "Kept by people worldwide on every continent except Antarctica; the wild ancestor, the red junglefowl, is native to South and Southeast Asia.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "The chicken is the domesticated form of the red junglefowl, a pheasant-like bird of South and Southeast Asian forests, and many authorities class it as the subspecies Gallus gallus domesticus. Domesticated several thousand years ago, it is now the most numerous bird on Earth, raised for meat and eggs on every inhabited continent. Hundreds of breeds exist, from bantams weighing a few hundred grams to heavy breeds such as the Brahma and Jersey Giant. Chickens are social birds that form a stable dominance hierarchy, the original pecking order. Males are called roosters or cocks, females hens, and young birds chicks.",
+  "answers": {
+    "lifespan": "Chickens live 5–10 years when kept as backyard or pet birds. Heritage breeds tend to outlast high-production hybrids, which are prone to reproductive problems after a few years of heavy laying. Commercial birds never approach these ages: meat chickens are usually slaughtered at five to seven weeks and laying hens at around 18 months to two years.",
+    "weight": "An adult chicken of a standard breed weighs 1.5–4 kg (3.3–8.8 lb). Roosters are heavier than hens of the same breed. Bantams often weigh well under 1 kg, while giant breeds such as the Jersey Giant and Brahma can exceed 5 kg. Modern meat chickens reach about 2–3 kg in only six weeks.",
+    "size": "Most chickens stand 40–70 cm (16–28 in) tall, depending on breed and sex. Bantams are smaller, and tall, upright breeds such as the Malay can approach 90 cm. Roosters look larger than hens thanks to their bigger combs, longer tail feathers and more upright stance.",
+    "speed": "A chicken can run at about 14 km/h (9 mph) in short dashes. Chickens are poor fliers: heavy bodies and small wings limit them to bursts of a few meters, enough to clear a fence or reach a roost. Lighter breeds fly better than heavy meat breeds, which may barely leave the ground.",
+    "gestation": "Chicken eggs hatch after 21 days of incubation. The hen, or an incubator, keeps the eggs at about 37.5 °C (99.5 °F) and turns them several times a day. Chicks hatch covered in down with their eyes open and can walk and peck for food within hours.",
+    "diet": "Chickens are omnivores that eat seeds, grains, greens, insects, worms and almost any small animal they can catch. Free-ranging birds spend much of the day scratching the ground for food. They swallow grit, which sits in the gizzard and grinds food because chickens have no teeth.",
+    "habitat": "Chickens live wherever people keep them, from backyard coops to large commercial farms, on every continent except Antarctica. Their wild ancestor, the red junglefowl, lives in forest edges, scrub and bamboo thickets from India across Southeast Asia. Feral chickens thrive in places such as Hawaii's Kauai and Key West.",
+    "conservation": "The chicken is a domesticated animal, so it is not assessed by the IUCN Red List. Its wild ancestor, the red junglefowl, is listed as Least Concern, although interbreeding with domestic and feral chickens is steadily diluting pure wild populations. Many traditional chicken breeds are rare and monitored by livestock conservation groups."
+  },
+  "funFacts": [
+    "Chickens are the most numerous birds on Earth: by FAO counts there are well over 20 billion alive at any one time, several for every person.",
+    "The phrase 'pecking order' comes from chickens; it was coined in the 1920s by a Norwegian zoologist describing the dominance ranks in a flock.",
+    "A hen does not need a rooster to lay eggs. Without a rooster the eggs are simply unfertilized and will never hatch.",
+    "High-producing laying hens can lay around 300 eggs a year, while their red junglefowl ancestors lay only about a dozen.",
+    "Chickens see in color and can detect ultraviolet light, which helps them judge the health of chicks and spot food."
+  ],
+  "relatedAnimals": ["wild-turkey", "peacock", "mallard", "pigeon", "canada-goose"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can chickens fly?", "answer": "Only a little. Most chickens can flutter a few meters, enough to get over a fence or up to a roost, but they cannot sustain flight. Light breeds and bantams fly best, and heavy meat breeds often cannot get off the ground at all."},
+    {"question": "How many eggs does a chicken lay a day?", "answer": "A hen lays at most one egg a day, because forming an egg takes roughly 24–26 hours. Good laying breeds produce five or six eggs a week at their peak, adding up to 250–300 a year, and output drops as the hen ages or when day length shortens."},
+    {"question": "What is the difference between a hen and a rooster?", "answer": "A hen is an adult female chicken and a rooster is an adult male. Roosters are larger, with bigger combs and wattles, pointed neck and saddle feathers, long tail feathers and leg spurs, and they crow. Hens are smaller and plainer and lay the eggs."},
+    {"question": "Do chickens need a rooster to lay eggs?", "answer": "No. Hens lay eggs on their own whether or not a rooster is present. A rooster is only needed if you want fertilized eggs that can hatch into chicks. The eggs sold in shops are almost always unfertilized."},
+    {"question": "Are chickens related to dinosaurs?", "answer": "Yes. All birds are living theropod dinosaurs, the group that included Tyrannosaurus rex, and the chicken is one of the most-studied examples. Protein fragments recovered from a T. rex fossil were found to match those of chickens and ostriches more closely than those of living reptiles."}
+  ],
+  "meta": {
+    "title": "Chicken Facts: Lifespan, Weight, Eggs, Speed & Diet",
+    "description": "Chickens live 5–10 years as backyard birds, weigh 1.5–4 kg (3.3–8.8 lb), run about 14 km/h and hatch after 21 days. Diet, breeds, eggs and origin.",
+    "sources": [
+      {"name": "Wikipedia: Chicken", "url": "https://en.wikipedia.org/wiki/Chicken"},
+      {"name": "Wikipedia: Red junglefowl", "url": "https://en.wikipedia.org/wiki/Red_junglefowl"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Gallus_gallus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Gallus_gallus"}
+    ]
+  }
+}

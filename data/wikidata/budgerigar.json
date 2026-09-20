@@ -1,0 +1,28 @@
+{
+  "slug": "budgerigar",
+  "commonName": "Budgerigar",
+  "scientificName": "Melopsittacus undulatus",
+  "classSlug": "birds",
+  "aliases": [
+    "budgie",
+    "parakeet"
+  ],
+  "qid": "Q121221",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Budgerigar",
+  "taxonomy": {
+    "species": "Melopsittacus undulatus",
+    "genus": "Melopsittacus",
+    "family": "Psittacidae",
+    "order": "Psittaciformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "2.15",
+      "unit": "g",
+      "sex": null
+    }
+  ]
+}

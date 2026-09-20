@@ -1,0 +1,64 @@
+{
+  "slug": "american-crow",
+  "commonName": "American Crow",
+  "scientificName": "Corvus brachyrhynchos",
+  "alternateNames": ["Crow", "Common crow"],
+  "nameSingular": "American crow",
+  "namePlural": "American crows",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Passeriformes", "family": "Corvidae", "genus": "Corvus", "species": "C. brachyrhynchos"},
+  "facts": {
+    "lifespan": {"min": 7, "max": 8, "unit": "years", "context": "in the wild; the oldest banded wild bird was at least 17", "display": "7–8 years"},
+    "lifespanCaptivity": {"min": 20, "max": 30, "unit": "years", "context": "in human care", "display": "20–30 years"},
+    "weight": {"min": 316, "max": 620, "unit": "g", "context": "adults; males are slightly larger", "display": "316–620 g (11–22 oz)"},
+    "height": {"min": 40, "max": 53, "unit": "cm", "label": "Length", "display": "40–53 cm (16–21 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 16, "max": 18, "unit": "days", "label": "Incubation", "display": "16–18 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Earthworms, insects, seeds, grain, nuts and fruit, plus eggs and nestlings, mice, frogs, clams, carrion and garbage. Crows eat almost anything and adjust quickly to new food sources.",
+    "habitat": ["Farmland", "Open woodland", "Towns and cities", "Parks", "Shorelines"],
+    "range": "Most of the United States and southern Canada; northern birds migrate south in winter. Absent from the driest southwestern deserts.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The American crow is the all-black, loudly cawing bird found across most of the United States and southern Canada, from farm fields and forests to city centers. It is a highly intelligent and social member of the crow family: crows recognize individual human faces, use simple tools, and live in extended family groups in which older offspring help their parents raise new chicks. In winter they gather in communal night roosts that can hold tens of thousands or more birds. American crows are very susceptible to West Nile virus, which killed large numbers after it reached North America in 1999.",
+  "answers": {
+    "lifespan": "American crows live about 7–8 years on average in the wild and can reach 20–30 years in captivity. About half of young crows die in their first year. The oldest banded wild American crow on record was at least 17 years and 5 months old.",
+    "weight": "An adult American crow weighs 316–620 g (11–22 oz), with most birds around 450 g, or about one pound. Males are slightly heavier than females. A common raven, by comparison, weighs two to three times as much.",
+    "size": "American crows are 40–53 cm (16–21 in) long with a wingspan of 85–100 cm (33–39 in). Nearly half of the length is tail. They are about one-third smaller than a common raven and have a fan-shaped rather than wedge-shaped tail.",
+    "speed": null,
+    "gestation": "American crow eggs hatch after 16–18 days of incubation. The female lays three to six pale blue-green, brown-blotched eggs in a bulky stick nest high in a tree and does the incubating, while her mate and helper offspring bring food. The young fledge at about five weeks.",
+    "diet": "American crows are omnivores that eat insects, earthworms, seeds, grain, nuts, fruit, eggs, small animals, carrion and garbage. They forage mostly on the ground. Crows drop nuts and shellfish onto hard surfaces to crack them, and they cache extra food to eat later.",
+    "habitat": "American crows live in open and semi-open country with scattered trees across most of North America: farmland, woodland edges, parks, suburbs, cities, landfills and shorelines. They avoid unbroken forest and true desert. Northern breeders move south for winter, when crows form huge communal roosts, often in cities.",
+    "conservation": "The American crow is listed as Least Concern on the IUCN Red List, with a population in the tens of millions. West Nile virus caused sharp regional declines after 1999, because almost all infected crows die, but the species remains abundant and widespread. It is legally hunted in some states."
+  },
+  "funFacts": [
+    "In a University of Washington study, crows remembered the face of a researcher who had trapped them for years and taught other crows to mob that face.",
+    "American crows are cooperative breeders: young birds often stay with their parents for several years and help feed the next broods.",
+    "Winter crow roosts can hold tens of thousands of birds, and some historic roosts were estimated at more than a million.",
+    "Crows gather noisily around a dead crow. Research suggests these so-called funerals help them learn about new dangers in that place.",
+    "Crows have been seen placing hard nuts on roads so that passing cars crack them open."
+  ],
+  "relatedAnimals": ["common-raven", "pigeon", "american-robin", "red-tailed-hawk", "african-grey-parrot", "great-horned-owl"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is a group of crows called?", "answer": "A group of crows is called a murder. The term comes from late medieval English lists of fanciful collective nouns and probably reflects the crow's old association with death and battlefields. Ornithologists simply say flock, or roost for the large gatherings crows form on winter nights."},
+    {"question": "How can you tell a crow from a raven?", "answer": "An American crow is smaller, has a fan-shaped tail and a slimmer bill, flaps steadily and gives a clear caw. A common raven is nearly hawk-sized with a heavy bill, shaggy throat and wedge-shaped tail, often soars, and makes a deep, hoarse croak."},
+    {"question": "Do crows remember human faces?", "answer": "Yes. Experiments in Seattle showed that American crows recognize and remember individual human faces for years. Crows that were trapped by a person wearing a particular mask scolded and mobbed that mask long afterward, and crows that had never been trapped learned to do the same."},
+    {"question": "Do crows bring gifts to people who feed them?", "answer": "There are many credible reports of crows leaving small objects such as beads, buttons and bits of metal where people regularly feed them. Scientists have not studied this formally, so it is unclear whether the crows intend the objects as gifts or an exchange."},
+    {"question": "Are crows good or bad to have around?", "answer": "Mostly good. Crows eat large numbers of crop-damaging insects and grubs and clean up carrion and waste. They can also raid crops, garbage and the nests of smaller birds, and big winter roosts are noisy and messy. They rarely pose any danger to people or pets."}
+  ],
+  "meta": {
+    "title": "American Crow Facts: Lifespan, Size, Diet & Intelligence",
+    "description": "American crows live 7–8 years in the wild, weigh 316–620 g and measure 40–53 cm (16–21 in). What crows eat, how smart they are and crow vs raven.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Corvus%20brachyrhynchos&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Corvus_brachyrhynchos/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Corvus_brachyrhynchos"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/American_crow"}
+    ]
+  }
+}

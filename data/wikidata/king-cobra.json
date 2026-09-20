@@ -1,0 +1,22 @@
+{
+  "slug": "king-cobra",
+  "commonName": "King Cobra",
+  "scientificName": "Ophiophagus hannah",
+  "classSlug": "reptiles",
+  "aliases": [
+    "cobra"
+  ],
+  "qid": "Q48186",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "King cobra",
+  "taxonomy": {
+    "species": "Ophiophagus hannah",
+    "genus": "Ophiophagus",
+    "family": "Elapidae",
+    "order": "Squamata",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

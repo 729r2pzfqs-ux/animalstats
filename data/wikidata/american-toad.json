@@ -1,0 +1,22 @@
+{
+  "slug": "american-toad",
+  "commonName": "American Toad",
+  "scientificName": "Anaxyrus americanus",
+  "classSlug": "amphibians",
+  "aliases": [
+    "toad"
+  ],
+  "qid": "Q694496",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "American toad",
+  "taxonomy": {
+    "species": "Anaxyrus americanus",
+    "genus": "Anaxyrus",
+    "family": "Bufonidae",
+    "order": "Anura",
+    "class": "Amphibia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "gorilla",
+  "commonName": "Western Gorilla",
+  "scientificName": "Gorilla gorilla",
+  "alternateNames": ["Gorilla", "Western lowland gorilla", "Cross River gorilla"],
+  "nameSingular": "western gorilla",
+  "namePlural": "western gorillas",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Primates", "family": "Hominidae", "genus": "Gorilla", "species": "G. gorilla"},
+  "facts": {
+    "lifespan": {"min": 35, "max": 40, "unit": "years", "context": "in the wild", "display": "35–40 years"},
+    "lifespanCaptivity": {"min": 40, "max": 50, "unit": "years", "context": "in human care; a few have passed 60", "display": "40–50 years"},
+    "weight": {"min": 68, "max": 180, "unit": "kg", "context": "adults; females 68–90 kg, silverback males 136–180 kg", "display": "68–180 kg (150–400 lb)"},
+    "height": {"min": 1.2, "max": 1.8, "unit": "m", "label": "Height", "display": "1.2–1.8 m (4–6 ft)"},
+    "speed": {"min": 32, "max": 40, "unit": "km/h", "verb": "run", "context": "short charges on all fours; estimated, rarely measured", "display": "32–40 km/h (20–25 mph)"},
+    "gestationPeriod": {"min": 250, "max": 270, "unit": "days", "label": "Gestation", "display": "about 8.5 months (257 days)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Fruit when it is in season, plus leaves, shoots, stems, pith and bark from well over a hundred plant species; termites and ants are eaten regularly but form a tiny share of the diet.",
+    "habitat": ["Lowland rainforest", "Swamp forest", "Secondary forest", "Montane forest"],
+    "range": "Western equatorial Africa: Gabon, Republic of the Congo, Cameroon, Central African Republic, Equatorial Guinea and Angola's Cabinda enclave, with Cross River gorillas on the Nigeria–Cameroon border.",
+    "conservationStatus": "Critically Endangered",
+    "iucnCategory": "CR",
+    "populationTrend": "Decreasing",
+    "population": "roughly 300,000–360,000 western lowland gorillas and fewer than 300 Cross River gorillas"
+  },
+  "description": "Gorillas are the largest living primates, and the western gorilla is the more numerous of the two gorilla species; the other is the eastern gorilla, which includes the mountain gorilla. This page covers the western gorilla, whose western lowland subspecies is the gorilla seen in almost every zoo. It also includes the very rare Cross River gorilla. Western gorillas are slightly smaller and browner than eastern gorillas, often with a reddish crown. They live in stable family groups led by a mature silverback male, walk on their knuckles, build a fresh sleeping nest each night and share about 98 percent of their DNA with humans.",
+  "answers": {
+    "lifespan": "Western gorillas live 35–40 years in the wild and commonly 40–50 years in zoos. A few zoo gorillas have lived past 60. In the wild, infant mortality is high, and disease, especially Ebola, along with poaching, cuts many adult lives short.",
+    "weight": "Adult western gorillas weigh 68–180 kg (150–400 lb). Females weigh 68–90 kg, while mature silverback males weigh roughly twice as much at 136–180 kg. Zoo males can grow considerably heavier than wild ones, and eastern gorillas average slightly larger than western gorillas.",
+    "size": "A western gorilla stands 1.2–1.8 m (4–6 ft) tall when upright, with adult males at the top of that range and females around 1.2–1.5 m. A silverback's arm span can reach about 2.4 m, noticeably greater than its height, and its chest is far broader than a human's.",
+    "speed": "Gorillas are estimated to run at 32–40 km/h (20–25 mph) over short distances. They move on all fours when running, and such bursts are mostly seen in silverback bluff charges. Gorilla speed has rarely been measured, so treat the figure as approximate.",
+    "gestation": "A gorilla pregnancy lasts about 8.5 months, or roughly 257 days, close to the length of a human pregnancy. Females usually have one infant at a time, weighing about 2 kg, and give birth only every four to six years, which makes populations slow to recover.",
+    "diet": "Western gorillas are herbivores that eat fruit, leaves, shoots, stems and bark. They eat far more fruit than mountain gorillas and travel farther each day to find it, falling back on leaves and woody plants in the dry season. They also eat termites and ants.",
+    "habitat": "Western gorillas live in the lowland rainforests and swamp forests of western equatorial Africa, mainly in Gabon, the Republic of the Congo and Cameroon. They regularly visit swampy forest clearings, called bais, to feed on mineral-rich water plants. Cross River gorillas occupy hilly forest on the Nigeria–Cameroon border.",
+    "conservation": "The western gorilla is listed as Critically Endangered on the IUCN Red List, and its population is decreasing. Although a few hundred thousand remain, numbers are falling fast because of poaching for bushmeat, Ebola outbreaks that have killed large shares of some populations, and logging and mining."
+  },
+  "funFacts": [
+    "The scientific name of the western lowland gorilla subspecies is Gorilla gorilla gorilla.",
+    "Every gorilla has a unique pattern of wrinkles on its nose, and researchers use these nose prints to identify individuals.",
+    "Adult males develop a saddle of silver-gray hair on the back at around 12–13 years old, which is why they are called silverbacks.",
+    "Gorillas build a new nest of bent branches and leaves to sleep in every evening, on the ground or in trees.",
+    "Wild western gorillas have been seen using tools, including a female who tested the depth of a swamp pool with a stick before wading in."
+  ],
+  "relatedAnimals": ["chimpanzee", "bonobo", "orangutan", "mandrill", "japanese-macaque"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How strong is a gorilla?", "answer": "A silverback gorilla is far stronger than any human, though exact figures are uncertain because strength has never been properly measured. Popular claims of lifting around 800 kg are not based on experiments. What is documented is that gorillas easily snap thick bamboo and tear apart banana trees."},
+    {"question": "Are gorillas dangerous to humans?", "answer": "Gorillas are generally calm and shy, and attacks on people are rare. A silverback defending his group will roar, beat his chest and charge, but most charges are bluffs that stop short. Serious injuries usually involve gorillas that were surprised, cornered or provoked."},
+    {"question": "How many gorillas are left in the world?", "answer": "Roughly 300,000–360,000 western lowland gorillas are thought to remain, along with fewer than 300 Cross River gorillas. Eastern gorillas are far rarer: only a few thousand Grauer's gorillas and just over 1,000 mountain gorillas survive."},
+    {"question": "Why do gorillas beat their chests?", "answer": "Chest beating is a signal, not just a threat. Males cup their hands and drum on the chest to advertise their size and condition to rivals and females; research shows that bigger males produce deeper sounds. It can carry more than a kilometer through forest."},
+    {"question": "What is the difference between a western gorilla and a mountain gorilla?", "answer": "Western gorillas live in lowland rainforest in west-central Africa, have shorter brownish-gray hair and eat lots of fruit. Mountain gorillas, a subspecies of the eastern gorilla, live at high altitude in Rwanda, Uganda and the DR Congo, have long black hair and eat mainly leaves and stems."}
+  ],
+  "meta": {
+    "title": "Gorilla Facts: Western Gorilla Size, Weight & Lifespan",
+    "description": "Western gorillas weigh 68–180 kg (150–400 lb), stand 1.2–1.8 m tall and live 35–40 years in the wild. Diet, strength, habitat and conservation status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Gorilla%20gorilla&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Gorilla_gorilla/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Gorilla_gorilla"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Western_gorilla"}
+    ]
+  }
+}

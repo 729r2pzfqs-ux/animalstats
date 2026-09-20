@@ -1,0 +1,62 @@
+{
+  "slug": "pig",
+  "commonName": "Pig",
+  "scientificName": "Sus domesticus",
+  "alternateNames": ["Domestic pig", "Hog", "Swine", "Sus scrofa domesticus"],
+  "nameSingular": "pig",
+  "namePlural": "pigs",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Suidae", "genus": "Sus", "species": "S. domesticus"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 20, "unit": "years", "context": "natural lifespan; farmed pigs are usually slaughtered at about six months", "display": "15–20 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 140, "max": 300, "unit": "kg", "context": "mature farm breeds; large boars can exceed 350 kg, miniature breeds are far lighter", "display": "140–300 kg (310–660 lb)"},
+    "height": {"min": 0.6, "max": 0.9, "unit": "m", "label": "Shoulder height", "display": "0.6–0.9 m (2–3 ft)"},
+    "speed": {"min": 17, "max": 17, "unit": "km/h", "verb": "run", "context": "short bursts; commonly cited figure for domestic pigs", "display": "about 17 km/h (11 mph)"},
+    "gestationPeriod": {"min": 112, "max": 115, "unit": "days", "label": "Gestation", "display": "about 114 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Almost anything edible: roots, tubers, fruit, nuts, grass, fungi, insects, worms, eggs and carrion when foraging; farmed pigs are fed mainly grain and soybean-based rations.",
+    "habitat": ["Farms", "Farmland", "Woodland", "Wetlands (feral)"],
+    "range": "Farmed worldwide, with about half of all pigs in China; feral populations thrive in the Americas, Australia and on many islands.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "The pig is a stout, even-toed hoofed mammal domesticated from the wild boar at least 9,000 years ago, independently in Anatolia and in China. It has a sensitive disc-shaped snout for rooting in soil, four toes on each foot and a sparse coat of bristles. Pigs are widely regarded as among the most intelligent domestic animals, able to learn tasks, use mirrors and remember food locations. They are raised chiefly for pork, and close to a billion are alive at any one time. Escaped pigs readily turn feral and are destructive invasive animals in many regions.",
+  "answers": {
+    "lifespan": "Pigs can live 15–20 years when kept as pets or in sanctuaries. Farmed pigs have much shorter lives, since most are slaughtered at about five to six months old, and breeding sows are usually kept for only three to five years.",
+    "weight": "A mature farm pig weighs 140–300 kg (310–660 lb), and large boars can exceed 350 kg. Pigs raised for pork are slaughtered at around 110–130 kg, long before they are fully grown. So-called miniature or teacup pigs still typically reach 30–70 kg as adults.",
+    "size": "Adult domestic pigs stand 0.6–0.9 m (2–3 ft) tall at the shoulder. Body length is usually 0.9–1.8 m, depending on breed and age. Miniature breeds such as the Vietnamese pot-bellied pig are shorter, at about 35–50 cm.",
+    "speed": "A domestic pig can run at about 17 km/h (11 mph) over a short distance. Heavy farm breeds tire quickly, while leaner feral pigs and their wild boar relatives are considerably faster and more agile.",
+    "gestation": "A sow is pregnant for about 114 days, remembered by farmers as three months, three weeks and three days. Litters are large, typically 8–14 piglets in modern breeds, and a sow can produce two litters a year. Piglets weigh around 1–1.5 kg at birth.",
+    "diet": "Pigs are omnivores and will eat almost anything edible. Foraging pigs root for tubers, roots, worms and insects and also eat fruit, nuts, grass, eggs and carrion. Farmed pigs are fed grain-based rations, usually corn or barley with soybean meal, balanced for fast growth.",
+    "habitat": "Domestic pigs live on farms worldwide, from indoor commercial units to free-range woodland and pasture systems. Feral pigs occupy forests, scrub, swamps and farmland, provided there is water and cover. Pigs have few sweat glands, so they wallow in mud to keep cool and protect their skin.",
+    "conservation": "The pig is a domesticated animal with no IUCN Red List status, and close to a billion are alive at any time. Its ancestor, the wild boar, is listed as Least Concern. Feral pigs are an invasive species in the United States, Australia and elsewhere, damaging crops and native ecosystems."
+  },
+  "funFacts": [
+    "Pigs roll in mud because they have very few working sweat glands; the mud cools them and protects against sunburn and insects.",
+    "A pig's sense of smell is so keen that pigs were traditionally used to find truffles buried underground.",
+    "In experiments, pigs have learned to move a cursor on a screen with a joystick to earn food rewards.",
+    "Pig heart valves have been used to replace human heart valves for decades.",
+    "Feral pigs in the United States are estimated to number in the millions and cause extensive crop damage each year."
+  ],
+  "relatedAnimals": ["wild-boar", "warthog", "cow", "sheep", "goat", "hippopotamus"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are pigs smart?", "answer": "Yes. Pigs perform well on tests of learning and memory, often comparably to dogs. They can learn their names, solve mazes, use mirrors to locate hidden food and operate simple joystick tasks, and they form complex social relationships."},
+    {"question": "What is the difference between a pig, a hog and a boar?", "answer": "All are the same animal. 'Pig' is the general term, and in US farming 'hog' usually means a larger pig of about 54 kg (120 lb) or more. A boar is an uncastrated male, a sow is an adult female, and wild boar is the wild ancestor species."},
+    {"question": "Do mini pigs stay small?", "answer": "Not as small as often advertised. Miniature breeds such as pot-bellied pigs commonly reach 30–70 kg or more as adults and keep growing for several years. 'Teacup' pigs are usually piglets or underfed animals, and many are abandoned when they grow."},
+    {"question": "Do pigs sweat?", "answer": "Barely. Pigs have few functional sweat glands, so the phrase 'sweating like a pig' is misleading. They cool down by wallowing in mud or water, lying on cool ground and seeking shade, and they are vulnerable to heat stress."},
+    {"question": "What is a baby pig called?", "answer": "A baby pig is called a piglet. A young female that has not yet had a litter is a gilt, a castrated male is a barrow, and a group of piglets born together is a litter or farrow."}
+  ],
+  "meta": {
+    "title": "Pig Facts: Lifespan, Weight, Gestation, Diet & Speed",
+    "description": "Pigs can live 15–20 years, weigh 140–300 kg (310–660 lb) when mature and are pregnant for about 114 days. Size, speed, diet and domestic pig facts.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Pig"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q125459958"}
+    ]
+  }
+}

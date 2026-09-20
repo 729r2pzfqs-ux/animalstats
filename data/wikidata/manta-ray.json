@@ -1,0 +1,22 @@
+{
+  "slug": "manta-ray",
+  "commonName": "Giant Manta Ray",
+  "scientificName": "Mobula birostris",
+  "classSlug": "fish",
+  "aliases": [
+    "manta"
+  ],
+  "qid": "Q321976",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Giant oceanic manta ray",
+  "taxonomy": {
+    "species": "Mobula birostris",
+    "genus": "Mobula",
+    "family": "Myliobatidae",
+    "order": "Myliobatiformes",
+    "class": "Chondrichthyes",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

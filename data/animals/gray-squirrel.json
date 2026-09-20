@@ -1,0 +1,64 @@
+{
+  "slug": "gray-squirrel",
+  "commonName": "Eastern Gray Squirrel",
+  "scientificName": "Sciurus carolinensis",
+  "alternateNames": ["Grey squirrel", "Gray squirrel"],
+  "nameSingular": "eastern gray squirrel",
+  "namePlural": "eastern gray squirrels",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Rodentia", "family": "Sciuridae", "genus": "Sciurus", "species": "S. carolinensis"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 6, "unit": "years", "context": "in the wild; adults that survive their first year average about 6, record about 12", "display": "2–6 years"},
+    "lifespanCaptivity": {"min": 15, "max": 20, "unit": "years", "context": "in human care", "display": "15–20 years"},
+    "weight": {"min": 400, "max": 600, "unit": "g", "context": "adults; heavier in the north and in fall", "display": "400–600 g (14–21 oz)"},
+    "height": {"min": 23, "max": 30, "unit": "cm", "label": "Body length", "display": "23–30 cm (9–12 in)"},
+    "speed": {"min": 32, "max": 32, "unit": "km/h", "verb": "run", "context": "short dashes; commonly cited estimate", "display": "about 32 km/h (20 mph)"},
+    "gestationPeriod": {"min": 44, "max": 44, "unit": "days", "label": "Gestation", "display": "about 44 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Mainly acorns, hickory nuts, walnuts, beechnuts, seeds, tree buds, flowers, fungi and fruit, with occasional insects, bird eggs and nestlings, plus birdseed and scraps in towns.",
+    "habitat": ["Deciduous forest", "Mixed woodland", "Parks", "Suburban gardens"],
+    "range": "Native to the eastern United States and southeastern Canada; introduced to the western US and Canada, Britain, Ireland, Italy and South Africa.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The eastern gray squirrel is a tree squirrel native to the hardwood forests of eastern North America and the familiar squirrel of parks and backyards there. It is gray above and white below with a large bushy tail, though all-black and, rarely, white individuals are common in some cities. Gray squirrels are active by day, do not hibernate, and spend the fall burying thousands of nuts one at a time, which makes them important planters of oaks and hickories. They nest in tree cavities and leafy balls called dreys. Introduced to Britain, Ireland and Italy, they have displaced the native red squirrel across large areas.",
+  "answers": {
+    "lifespan": "Eastern gray squirrels live 2–6 years in the wild and 15–20 years in human care. Most die in their first year, which pulls the average at birth down to only one or two years, but an adult that survives can expect around six, and the wild record is about 12 years.",
+    "weight": "Adult eastern gray squirrels weigh 400–600 g (14–21 oz). Males and females are the same size. Squirrels in the northern part of the range are heavier, and all squirrels put on extra fat in the fall before winter.",
+    "size": "An eastern gray squirrel has a head-and-body length of 23–30 cm (9–12 in), and the bushy tail adds another 19–25 cm. The tail is used for balance, as a blanket and sunshade, and as a signal flag to other squirrels.",
+    "speed": "Eastern gray squirrels can run at about 32 km/h (20 mph) in short dashes, according to commonly cited estimates. When chased they zigzag and spiral around tree trunks, and they can leap gaps of 2–3 m between branches.",
+    "gestation": "An eastern gray squirrel is pregnant for about 44 days. Females can have two litters a year, in late winter and midsummer, of two to four young each. The kits are born hairless and blind, open their eyes at about four weeks and are weaned at around ten weeks.",
+    "diet": "Eastern gray squirrels are omnivores that eat mostly acorns, nuts, seeds, buds, fungi and fruit, along with occasional insects, eggs and nestlings. Each squirrel buries several thousand nuts every fall in scattered caches and finds them again using memory and smell.",
+    "habitat": "Eastern gray squirrels live in mature deciduous and mixed forests, especially those with oak, hickory, walnut and beech, across the eastern United States and southern Canada. They thrive equally well in city parks, campuses, cemeteries and suburban yards with large trees.",
+    "conservation": "Eastern gray squirrels are listed as Least Concern on the IUCN Red List, and the population is increasing. In Britain, Ireland and Italy they are a harmful invasive species that outcompetes native red squirrels and spreads squirrelpox, a virus that is usually fatal to reds."
+  },
+  "funFacts": [
+    "Gray squirrels practice 'deceptive caching': when they are being watched they pretend to bury a nut and then hide it somewhere else.",
+    "A squirrel can rotate its hind ankles 180 degrees, which lets it hang by its hind feet and run down tree trunks head-first.",
+    "Forgotten caches sprout, making gray squirrels one of the most important natural planters of oak and hickory trees.",
+    "Black squirrels are the same species; their dark coat comes from a pigment gene variant and is common in parts of Ontario, Michigan and Ohio.",
+    "Gray squirrels often bite out the embryo of white oak acorns before burying them, which stops the acorns from sprouting and spoiling."
+  ],
+  "relatedAnimals": ["beaver", "brown-rat", "house-mouse", "raccoon", "european-hare", "red-tailed-hawk"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do gray squirrels hibernate?", "answer": "No. Eastern gray squirrels stay active all winter. They rely on buried nuts and body fat, and they hole up in a drey or tree cavity for a few days during very cold or stormy weather, sometimes sharing the nest with other squirrels for warmth."},
+    {"question": "Why are gray squirrels a problem in the UK?", "answer": "Gray squirrels were introduced to Britain from North America in the 1870s and have replaced native red squirrels over most of England and Wales. They outcompete reds for food, carry squirrelpox virus that kills reds but not grays, and damage trees by stripping bark."},
+    {"question": "Do squirrels remember where they bury their nuts?", "answer": "Largely, yes. Studies show that gray squirrels use spatial memory to relocate their own caches and recover them more often than caches made by other squirrels. Smell helps at close range. They still fail to retrieve a substantial share, which is how new trees get planted."},
+    {"question": "Are black squirrels a different species?", "answer": "No. In eastern North America most black squirrels are simply a melanistic color form of the eastern gray squirrel. The dark coat is caused by a variant of a pigment gene, and black and gray individuals can be born in the same litter."},
+    {"question": "Do squirrels carry rabies?", "answer": "Almost never. Squirrels and other small rodents are very rarely found to be infected with rabies and are not known to have transmitted it to humans in the United States. A squirrel bite should still be cleaned well because of the risk of ordinary bacterial infection."}
+  ],
+  "meta": {
+    "title": "Eastern Gray Squirrel Facts: Lifespan, Size & Diet",
+    "description": "Eastern gray squirrels weigh 400–600 g (14–21 oz), measure 23–30 cm plus tail and live 2–6 years in the wild. Diet, nut caching, gestation and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Sciurus%20carolinensis&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Sciurus_carolinensis/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Sciurus_carolinensis"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Eastern_gray_squirrel"}
+    ]
+  }
+}

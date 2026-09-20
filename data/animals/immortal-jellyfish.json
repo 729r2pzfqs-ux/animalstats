@@ -1,0 +1,117 @@
+{
+  "slug": "immortal-jellyfish",
+  "commonName": "Immortal Jellyfish",
+  "scientificName": "Turritopsis dohrnii",
+  "alternateNames": [
+    "Benjamin Button jellyfish"
+  ],
+  "nameSingular": "immortal jellyfish",
+  "namePlural": "immortal jellyfish",
+  "article": "an",
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Hydrozoa",
+    "classSlug": "invertebrates",
+    "order": "Anthoathecata",
+    "family": "Oceaniidae",
+    "genus": "Turritopsis",
+    "species": "T. dohrnii"
+  },
+  "facts": {
+    "lifespan": {
+      "min": 1,
+      "max": 3,
+      "unit": "months",
+      "context": "approximate span of a single medusa stage without rejuvenation; because the life cycle can restart, no maximum lifespan is known",
+      "display": "about 1–3 months per medusa stage; no known upper limit with rejuvenation"
+    },
+    "lifespanCaptivity": null,
+    "weight": null,
+    "height": {
+      "min": 4.5,
+      "max": 4.5,
+      "unit": "mm",
+      "label": "Body length",
+      "display": "about 4.5 mm (0.18 in) bell diameter"
+    },
+    "speed": null,
+    "gestationPeriod": null
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Tiny zooplankton such as copepods, larvae and fish eggs, caught with stinging tentacles; laboratory colonies are usually raised on newly hatched brine shrimp.",
+    "habitat": [
+      "Coastal waters",
+      "Harbors",
+      "Temperate and tropical seas"
+    ],
+    "range": "First described from the Mediterranean Sea and also well known from Japan; now reported from temperate and tropical coasts worldwide, probably spread in ships' ballast water.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The immortal jellyfish is a tiny hydrozoan, smaller than a pea, that is famous for being able to reverse its own life cycle. Like other hydrozoans it has a bottom-living polyp stage that buds off free-swimming medusae. Uniquely, when a medusa of this species is starved, injured or simply grows old, it can shrink into a blob of tissue, settle on the bottom and turn back into a young polyp colony, which then buds off new, genetically identical medusae. In that narrow sense it is 'biologically immortal'. In the sea, most individuals are simply eaten or die of disease like any other plankton.",
+  "answers": {
+    "lifespan": "There is no fixed lifespan for the immortal jellyfish: a single medusa normally lasts only weeks to a few months, but it can revert to a polyp and start its life cycle again. Medusae mature in about 18–30 days, depending on temperature. In a Japanese laboratory one lineage was taken through ten rejuvenation cycles in two years. 'Immortal' does not mean unkillable; in the wild most are eaten or die of disease.",
+    "weight": null,
+    "size": "A fully grown immortal jellyfish is only about 4.5 mm (0.18 in) across, roughly as tall as it is wide and smaller than a pea. Newly released medusae are about 1 mm in diameter with just eight tentacles, while adults carry 80–90 tentacles around the rim of the bell.",
+    "speed": null,
+    "gestation": null,
+    "diet": "Immortal jellyfish are carnivores that eat tiny zooplankton, including copepods, larvae and fish eggs. They catch prey with stinging cells on their tentacles and digest it in a bright red stomach that is visible through the transparent bell. In laboratories they are fed newly hatched brine shrimp.",
+    "habitat": "Immortal jellyfish live in coastal seawater in temperate and tropical regions. The species was first described from the Mediterranean and is well studied in Japan, and genetically matching animals have since been found off Panama, Florida, Spain and elsewhere, most likely carried around the world in the ballast water of ships.",
+    "conservation": "The immortal jellyfish has not been evaluated for the IUCN Red List, and nothing suggests it is threatened. It is spreading rather than declining: researchers have described its quiet, worldwide expansion through shipping as a 'silent invasion', because the animal is so small and inconspicuous that it goes unnoticed."
+  },
+  "funFacts": [
+    "When stressed, an immortal jellyfish medusa absorbs its own bell and tentacles, sinks to the bottom as a cyst-like blob and within days grows into a new polyp.",
+    "The reversal involves transdifferentiation, in which specialized cells change directly into other cell types, a process of great interest to researchers studying aging and regeneration.",
+    "Its ability to reverse its life cycle was first reported by scientists in the 1990s, working with specimens from the Mediterranean.",
+    "Medusae produced after a reversal are genetic copies of the original, so what persists is arguably the genetic individual rather than one continuous body.",
+    "Its genome was sequenced and compared with a close, non-rejuvenating relative in a study published in 2022, highlighting extra copies of genes linked to DNA repair."
+  ],
+  "relatedAnimals": [
+    "moon-jellyfish",
+    "ocean-quahog",
+    "greenland-shark",
+    "naked-mole-rat",
+    "axolotl",
+    "galapagos-tortoise"
+  ],
+  "appearsInLists": [],
+  "faq": [
+    {
+      "question": "Is the immortal jellyfish really immortal?",
+      "answer": "Only in a limited, biological sense. It can repeatedly revert from the adult medusa stage to the juvenile polyp stage, so it has no known built-in age limit. It can still be eaten, infected or killed by bad conditions, and in the ocean most individuals die that way."
+    },
+    {
+      "question": "How does the immortal jellyfish reverse its aging?",
+      "answer": "When damaged, starved or old, the medusa shrinks, reabsorbs its tentacles and settles on the bottom as a ball of tissue. Its cells then change type, a process called transdifferentiation, and rebuild a polyp, which later buds off new young medusae."
+    },
+    {
+      "question": "Can an immortal jellyfish die?",
+      "answer": "Yes. Immortal jellyfish are eaten by predators, killed by disease and die when conditions are too harsh for the reversal to work. The rejuvenation trick protects against aging and some injuries, not against being swallowed by a fish."
+    },
+    {
+      "question": "How big is the immortal jellyfish?",
+      "answer": "It is tiny: an adult medusa is only about 4.5 mm across, smaller than the nail on your little finger. Newly budded medusae are about 1 mm wide. You could easily overlook one in a glass of seawater."
+    },
+    {
+      "question": "Could the immortal jellyfish help humans live longer?",
+      "answer": "Not directly. Scientists study it to understand how cells can change identity and how genes for DNA repair and telomere maintenance support rejuvenation. That knowledge may inform aging and regenerative medicine, but no treatment has come from it, and human biology is vastly more complex."
+    }
+  ],
+  "meta": {
+    "title": "Immortal Jellyfish: Is It Really Immortal? Facts & Size",
+    "description": "The immortal jellyfish is just 4.5 mm (0.18 in) wide and can revert from adult to polyp, restarting its life cycle. How it works, lifespan and diet.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Turritopsis_dohrnii"
+      },
+      {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q3322541"
+      }
+    ]
+  }
+}

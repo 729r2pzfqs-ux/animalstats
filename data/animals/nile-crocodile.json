@@ -1,0 +1,64 @@
+{
+  "slug": "nile-crocodile",
+  "commonName": "Nile Crocodile",
+  "scientificName": "Crocodylus niloticus",
+  "alternateNames": ["African crocodile", "Common crocodile"],
+  "nameSingular": "Nile crocodile",
+  "namePlural": "Nile crocodiles",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Crocodilia", "family": "Crocodylidae", "genus": "Crocodylus", "species": "C. niloticus"},
+  "facts": {
+    "lifespan": {"min": 45, "max": 60, "unit": "years", "context": "estimated in the wild", "display": "45–60 years (estimated)"},
+    "lifespanCaptivity": {"min": 50, "max": 80, "unit": "years", "context": "in human care", "display": "50–80 years"},
+    "weight": {"min": 225, "max": 750, "unit": "kg", "context": "adult males; females are considerably smaller", "display": "225–750 kg (500–1,650 lb)"},
+    "height": {"min": 3, "max": 5, "unit": "m", "label": "Length", "display": "3–5 m (10–16 ft)"},
+    "speed": {"min": 30, "max": 35, "unit": "km/h", "verb": "swim", "context": "short bursts", "display": "30–35 km/h (19–22 mph)"},
+    "gestationPeriod": {"min": 80, "max": 90, "unit": "days", "label": "Incubation", "display": "80–90 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mainly fish, but adults also ambush antelope, wildebeest, zebra, warthogs, young hippos, birds and other crocodiles at the water's edge, and readily scavenge carcasses. Hatchlings eat insects, frogs and small fish.",
+    "habitat": ["Rivers", "Lakes", "Freshwater marshes", "Estuaries", "Mangrove swamps"],
+    "range": "Most of sub-Saharan Africa, the Nile basin north to Lake Nasser in Egypt, and western Madagascar.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The Nile crocodile is Africa's largest freshwater predator and the second-largest living reptile after the saltwater crocodile. It is found in rivers, lakes and marshes across most of sub-Saharan Africa and in Madagascar. Nile crocodiles are patient ambush hunters, famous for seizing wildebeest and zebra at river crossings in the Serengeti and Masai Mara, although fish make up most of the diet. They are also unusually attentive parents for reptiles: females guard the nest for three months and carry hatchlings to the water in their mouths. The species is responsible for more attacks on people than any other crocodilian.",
+  "answers": {
+    "lifespan": "Nile crocodiles are estimated to live 45–60 years in the wild and can reach 50–80 years in captivity. Few wild crocodiles survive that long: the great majority of eggs and hatchlings are eaten by monitor lizards, birds, fish and other predators. Adults have no natural enemies apart from people, hippos and each other.",
+    "weight": "Adult male Nile crocodiles typically weigh 225–750 kg (500–1,650 lb). Females are considerably smaller, often under 250 kg. Very large old males can approach 1,000 kg, but animals of that size are now rare because big crocodiles were heavily hunted for their skins.",
+    "size": "Adult Nile crocodiles are 3–5 m (10–16 ft) long. Males commonly reach 3.5–5 m, while females are usually 2.2–3.8 m. Specimens over 6 m have been reported historically, but none of that size has been reliably measured in recent times.",
+    "speed": "Nile crocodiles swim at up to 30–35 km/h (19–22 mph) in short bursts, driven by their muscular tails. On land they can manage a quick rush of roughly 12–14 km/h over a few meters. They rely on surprise, not speed, approaching prey almost fully submerged.",
+    "gestation": "Nile crocodile eggs incubate for 80–90 days. The female digs a hole in a sandy bank, lays about 25–80 eggs and guards the nest throughout. When the young start calling from inside the eggs, she digs them out and carries them to the water in her mouth.",
+    "diet": "Nile crocodiles are carnivores that eat mostly fish, along with whatever mammals, birds and reptiles come within reach at the water's edge. Large adults take wildebeest, zebra, antelope and even young hippos. Thanks to a slow metabolism, a big crocodile can go for months between large meals.",
+    "habitat": "Nile crocodiles live in rivers, lakes, marshes, dams and estuaries across most of sub-Saharan Africa, along the Nile and in western Madagascar. They bask on sandbanks by day to warm up. Similar crocodiles in West and Central Africa are now classed as a separate species, the West African crocodile.",
+    "conservation": "The Nile crocodile is listed as Least Concern on the IUCN Red List, with a broadly stable population. It was hunted heavily for leather from the 1940s to the 1960s and recovered under protection and regulated ranching. Current threats are habitat loss, pollution, entanglement in fishing nets and killing in retaliation for attacks."
+  },
+  "funFacts": [
+    "The sex of a Nile crocodile is set by nest temperature: eggs kept at about 31–34 °C hatch as males, while cooler or hotter eggs become females.",
+    "Mother Nile crocodiles gently roll unhatched eggs in their mouths to help the babies break out.",
+    "Ancient Egyptians worshipped a crocodile-headed god, Sobek, and mummified thousands of crocodiles.",
+    "Nile crocodiles swallow stones, called gastroliths, which may help with digestion or buoyancy.",
+    "During the Mara River crossings, Nile crocodiles feed heavily for a few weeks and can then go months with little or no food."
+  ],
+  "relatedAnimals": ["saltwater-crocodile", "american-alligator", "hippopotamus", "blue-wildebeest", "komodo-dragon", "plains-zebra"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are Nile crocodiles dangerous to humans?", "answer": "Yes. The Nile crocodile is thought to kill more people than any other crocodilian, with estimates of several hundred deaths a year across Africa, although many attacks go unreported. Most victims are people fishing, bathing, washing clothes or collecting water at the river's edge."},
+    {"question": "What is the difference between a Nile crocodile and a saltwater crocodile?", "answer": "Saltwater crocodiles are larger on average and live from India to Australia, often in tidal and coastal waters. Nile crocodiles live in Africa, mainly in fresh water. Salties have a pair of ridges running from the eyes down the snout and fewer armor plates on the neck."},
+    {"question": "Can a Nile crocodile kill a hippo?", "answer": "Rarely an adult. Adult hippos are far too large and aggressive, and they sometimes kill crocodiles that come too close to their calves. Nile crocodiles do take unguarded hippo calves and feed on hippo carcasses, and the two species mostly tolerate each other."},
+    {"question": "How strong is a Nile crocodile's bite?", "answer": "Extremely strong, among the strongest of any living animal. Crocodilian bite force rises with body size, and the similar-sized saltwater crocodile holds the measured record at about 3,700 pounds of force. The muscles that open the jaws are weak, however, so the mouth can be held shut with modest force."},
+    {"question": "Are there Nile crocodiles in Florida?", "answer": "A few have been found. Between 2000 and 2014 at least three crocodiles captured in southern Florida were confirmed by DNA tests to be Nile crocodiles, probably escaped or released captive animals. There is no evidence of an established breeding population."}
+  ],
+  "meta": {
+    "title": "Nile Crocodile Facts: Size, Weight, Speed & Lifespan",
+    "description": "Nile crocodiles grow 3–5 m (10–16 ft), weigh 225–750 kg and live 45–60 years in the wild. Diet, habitat, nesting, danger to humans and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Crocodylus%20niloticus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Crocodylus_niloticus/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Nile_crocodile"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q168745"}
+    ]
+  }
+}

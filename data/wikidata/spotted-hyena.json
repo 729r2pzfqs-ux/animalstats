@@ -1,0 +1,28 @@
+{
+  "slug": "spotted-hyena",
+  "commonName": "Spotted Hyena",
+  "scientificName": "Crocuta crocuta",
+  "classSlug": "mammals",
+  "aliases": [
+    "hyena"
+  ],
+  "qid": "Q178089",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Spotted hyena",
+  "taxonomy": {
+    "species": "Crocuta crocuta",
+    "genus": "Crocuta",
+    "family": "Hyaenidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "110",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

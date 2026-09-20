@@ -1,0 +1,64 @@
+{
+  "slug": "coyote",
+  "commonName": "Coyote",
+  "scientificName": "Canis latrans",
+  "alternateNames": ["Prairie wolf", "Brush wolf", "American jackal", "Song dog"],
+  "nameSingular": "coyote",
+  "namePlural": "coyotes",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Canidae", "genus": "Canis", "species": "C. latrans"},
+  "facts": {
+    "lifespan": {"min": 6, "max": 8, "unit": "years", "context": "in the wild; up to about 14", "display": "6–8 years"},
+    "lifespanCaptivity": {"min": 13, "max": 18, "unit": "years", "context": "in human care; the record is about 21", "display": "13–18 years"},
+    "weight": {"min": 7, "max": 21, "unit": "kg", "context": "adults; males slightly heavier, and northeastern coyotes are the largest", "display": "7–21 kg (15–46 lb)"},
+    "height": {"min": 58, "max": 66, "unit": "cm", "label": "Shoulder height", "display": "58–66 cm (23–26 in)"},
+    "speed": {"min": 56, "max": 64, "unit": "km/h", "verb": "run", "context": "top speed when chasing prey or fleeing", "display": "56–64 km/h (35–40 mph)"},
+    "gestationPeriod": {"min": 60, "max": 63, "unit": "days", "label": "Gestation", "display": "60–63 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Mostly rabbits, hares, mice, voles and ground squirrels, plus deer fawns, birds, reptiles, insects, carrion, and a large seasonal share of fruit and berries; urban coyotes also eat garbage and pet food.",
+    "habitat": ["Prairie", "Desert", "Forest", "Farmland", "Urban areas"],
+    "range": "Nearly all of North and Central America, from Alaska and most of Canada through the entire contiguous United States and Mexico to Panama.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The coyote is a medium-sized wild dog native to North America, smaller and more lightly built than its close relative the gray wolf. Originally an animal of open prairies and deserts, it has expanded enormously since the 1800s as forests were cleared and wolves were eliminated, and it now lives from Alaska to Panama and in most major US cities. Coyotes are adaptable omnivores that hunt alone, in pairs or in small family groups. They are known for their yips and howls, reflected in the scientific name Canis latrans, 'barking dog'. In eastern North America many coyotes carry some wolf and dog ancestry.",
+  "answers": {
+    "lifespan": "Coyotes live 6–8 years in the wild on average, though some reach 14, and 13–18 years in captivity. Most wild coyotes die young: in hunted or urban populations the majority do not survive their first year or two, with shooting, trapping and vehicle collisions the main causes of death.",
+    "weight": "Adult coyotes weigh 7–21 kg (15–46 lb). Males are slightly heavier than females, and size varies with region: desert coyotes in the Southwest and Mexico are smallest, while eastern coyotes, which carry some wolf ancestry, are the largest. Thick fur often makes them look heavier than they are.",
+    "size": "A coyote stands 58–66 cm (23–26 in) tall at the shoulder. Head-and-body length is about 1–1.35 m (3.3–4.4 ft) including a bushy 30–40 cm tail. That makes a coyote roughly the size of a medium dog, and about half the height and a third of the weight of a gray wolf.",
+    "speed": "Coyotes can run at 56–64 km/h (35–40 mph), making them one of the fastest North American carnivores. That is quick enough to catch jackrabbits in the open. They are also good jumpers and swimmers, and they can trot for long distances when traveling across their territory.",
+    "gestation": "Coyote pregnancy lasts 60–63 days. Coyotes mate between January and March, and pups are born in spring in a den. Litters average about six pups but grow larger where coyote numbers are low or food is abundant. Both parents, and sometimes older siblings, help feed the pups.",
+    "diet": "Coyotes are omnivores that eat mostly small mammals such as rabbits, mice, voles and ground squirrels. They also take fawns, birds, snakes, insects and carrion, and fruit can form a big part of the diet in late summer and fall. In cities they add garbage, fallen fruit, pet food and occasionally cats.",
+    "habitat": "Coyotes live in almost every habitat in North and Central America, from Alaska to Panama. They were originally animals of prairies and deserts but now thrive in forests, mountains, farmland, suburbs and the centers of large cities such as Chicago and Los Angeles.",
+    "conservation": "The coyote is listed as Least Concern on the IUCN Red List, and its population is increasing. Its range has expanded greatly over the past two centuries despite intensive control programs. Coyotes compensate for persecution by breeding younger and having larger litters, which makes their numbers very hard to reduce."
+  },
+  "funFacts": [
+    "The name comes from 'coyotl', the word for the animal in Nahuatl, the language of the Aztecs.",
+    "Coyotes have been observed hunting alongside American badgers: the badger digs rodents out while the coyote catches those that bolt.",
+    "A pair of coyotes howling can sound like a much larger group, because each animal rapidly varies its pitch.",
+    "Since about 1900 coyotes have spread from the western plains to every US state except Hawaii, and south as far as Panama.",
+    "Eastern coyotes carry a share of wolf and domestic dog DNA and are sometimes nicknamed 'coywolves'."
+  ],
+  "relatedAnimals": ["gray-wolf", "dog", "red-fox", "bobcat", "raccoon", "african-wild-dog"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are coyotes dangerous to humans?", "answer": "Coyotes are rarely dangerous to people. Attacks are uncommon and usually cause minor injuries; only two fatal attacks have been confirmed in the United States and Canada. Most incidents involve coyotes that have lost their fear of people after being fed. They are a real risk to unattended cats and small dogs."},
+    {"question": "What should you do if you see a coyote?", "answer": "Do not run. Wildlife agencies recommend 'hazing': stand tall, wave your arms, shout and, if needed, throw small objects toward the coyote until it leaves. Keep small pets leashed or indoors, and never feed coyotes, because feeding is the main cause of bold behavior."},
+    {"question": "What is the difference between a coyote and a wolf?", "answer": "Coyotes are far smaller, at 7–21 kg against 23–65 kg for a gray wolf. A coyote has a narrow, pointed muzzle, tall pointed ears and slender legs, and carries its tail low when running. Wolves have broad muzzles, shorter rounded ears, large feet and a much heavier build."},
+    {"question": "Why do coyotes howl at night?", "answer": "Coyotes howl and yip to keep in contact with family members and to advertise their territory to other coyotes. They are most active between dusk and dawn, so that is when they are heard most often. Howling is not a sign that they have made a kill."},
+    {"question": "Can coyotes breed with dogs?", "answer": "Yes. Coyotes can interbreed with domestic dogs, producing fertile hybrids sometimes called coydogs, and with wolves. Such hybrids are uncommon in the wild because the breeding seasons and social behavior of coyotes and dogs differ, but traces of dog and wolf ancestry are widespread in eastern coyotes."}
+  ],
+  "meta": {
+    "title": "Coyote Facts: Size, Speed, Lifespan, Diet & Range",
+    "description": "Coyotes weigh 7–21 kg (15–46 lb), stand about 60 cm at the shoulder, run up to 64 km/h (40 mph) and live 6–8 years in the wild. Diet, range and behavior.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Canis%20latrans&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Canis_latrans/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Canis_latrans"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Coyote"}
+    ]
+  }
+}

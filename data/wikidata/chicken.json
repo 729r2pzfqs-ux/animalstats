@@ -1,0 +1,34 @@
+{
+  "slug": "chicken",
+  "commonName": "Chicken",
+  "scientificName": "Gallus gallus",
+  "classSlug": "birds",
+  "aliases": [
+    "hen",
+    "rooster"
+  ],
+  "qid": "Q184774",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Red junglefowl",
+  "taxonomy": {
+    "species": "Gallus gallus",
+    "genus": "Gallus",
+    "family": "Phasianidae",
+    "order": "Galliformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "844",
+      "unit": "g",
+      "sex": "male"
+    },
+    {
+      "property": "mass",
+      "amount": "500",
+      "unit": "g",
+      "sex": "female"
+    }
+  ]
+}

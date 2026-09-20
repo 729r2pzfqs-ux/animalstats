@@ -1,0 +1,65 @@
+{
+  "slug": "andean-condor",
+  "commonName": "Andean Condor",
+  "scientificName": "Vultur gryphus",
+  "alternateNames": ["Condor", "Cóndor andino"],
+  "nameSingular": "Andean condor",
+  "namePlural": "Andean condors",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Cathartiformes", "family": "Cathartidae", "genus": "Vultur", "species": "V. gryphus"},
+  "facts": {
+    "lifespan": {"min": 50, "max": 50, "unit": "years", "context": "in the wild; an estimate, since few wild birds have been tracked for life", "display": "about 50 years"},
+    "lifespanCaptivity": {"min": 70, "max": 79, "unit": "years", "context": "in human care; the record is a male that died in 2010 at about 79", "display": "70 years or more"},
+    "weight": {"min": 8, "max": 15, "unit": "kg", "context": "adults; males 11–15 kg, females 8–11 kg", "display": "8–15 kg (18–33 lb)"},
+    "height": {"min": 2.7, "max": 3.2, "unit": "m", "label": "Wingspan", "display": "2.7–3.2 m (8.9–10.5 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 54, "max": 58, "unit": "days", "label": "Incubation", "display": "54–58 days"}
+  },
+  "ecology": {
+    "diet": "Scavenger",
+    "dietDetails": "Carcasses of large animals: llamas, alpacas, guanacos, deer, cattle, sheep and horses inland, and dead seals, sea lions, whales and seabirds on the coast. Condors occasionally take eggs or newborn animals.",
+    "habitat": ["High mountains", "Alpine grassland", "Coastal cliffs", "Desert", "Open steppe"],
+    "range": "The Andes and adjacent Pacific coast of South America, from Venezuela and Colombia south through Ecuador, Peru, Bolivia, Chile and Argentina to Tierra del Fuego.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing",
+    "population": "about 6,700 mature individuals"
+  },
+  "description": "The Andean condor is a giant South American vulture and, by combined weight and wingspan, the largest flying bird in the world. Adults are black with a white ruff around the base of the neck and large white patches on the wings; the bare head is dull red, and males carry a fleshy comb on top. Unusually for a bird of prey, the male is larger than the female. Condors soar for hours on mountain winds and thermals while searching for carcasses. The species is a national symbol of several Andean countries, but it breeds very slowly and is declining across much of its range.",
+  "answers": {
+    "lifespan": "Andean condors are thought to live about 50 years in the wild and can exceed 70 years in captivity. The record holder, a male named Thaao at Beardsley Zoo in Connecticut, died in 2010 at about 79. Such long lives go with very slow breeding: condors first nest at five to eight years old.",
+    "weight": "Adult Andean condors weigh 8–15 kg (18–33 lb). Males weigh 11–15 kg and females 8–11 kg, which is the reverse of most birds of prey, where females are bigger. Only a few flying birds, such as the largest bustards and swans, are as heavy.",
+    "size": "The Andean condor has a wingspan of 2.7–3.2 m (8.9–10.5 ft), the largest of any land bird. Body length is 1.0–1.3 m (3.3–4.3 ft). Only the wandering albatross and a few other albatrosses and pelicans have longer wings.",
+    "speed": null,
+    "gestation": "Andean condor eggs hatch after 54–58 days of incubation. The pair lays a single bluish-white egg on a bare cliff ledge or in a small cave, and both parents incubate. The chick flies at about six months but stays with its parents for up to two years, so pairs breed only every other year.",
+    "diet": "Andean condors are scavengers that feed on the carcasses of large mammals such as llamas, guanacos, deer, cattle and sheep, and on dead seals and whales along the coast. A condor can eat several kilograms at one meal and then go days without food. Their feet are too weak to carry prey.",
+    "habitat": "Andean condors live in the Andes mountains and along the Pacific coast of South America, from Venezuela to Tierra del Fuego. They favor open, windy country up to 5,000 m (16,000 ft), including alpine grasslands, cliffs and deserts, where they can spot carcasses and find rising air for soaring.",
+    "conservation": "The Andean condor is listed as Vulnerable on the IUCN Red List, with about 6,700 mature individuals and a decreasing trend. The biggest threat is poisoning, both from poisoned carcasses set out for pumas and foxes and from lead ammunition fragments. Because a pair raises at most one chick every two years, losses are slow to recover."
+  },
+  "funFacts": [
+    "A condor fitted with a flight recorder in Argentina soared for more than five hours and about 170 km without flapping its wings once.",
+    "Andean condors flap for only around 1 percent of their flight time, mostly during takeoff.",
+    "The Andean condor is a national symbol of Bolivia, Chile, Colombia and Ecuador and appears on several of their coats of arms.",
+    "A condor's bare head is an adaptation for hygiene, and the skin flushes brighter red or yellow when the bird is excited.",
+    "Unlike almost all other birds of prey, male Andean condors are larger than females, and only males have the fleshy crest on the head."
+  ],
+  "relatedAnimals": ["wandering-albatross", "bald-eagle", "golden-eagle", "llama", "alpaca", "mute-swan"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is the Andean condor the largest flying bird in the world?", "answer": "By combined weight and wingspan, yes. It weighs up to 15 kg with a wingspan up to about 3.2 m. The wandering albatross has a longer wingspan, up to about 3.5 m, and some bustards and swans can be heavier, but no other flying bird matches the condor on both measures."},
+    {"question": "What is the difference between an Andean condor and a California condor?", "answer": "The Andean condor lives in South America, is slightly heavier, and has a white neck ruff, white upper-wing patches and a comb on the male's head. The California condor of western North America has a pinkish-orange head, white patches under the wings, and is Critically Endangered with only a few hundred birds."},
+    {"question": "Do Andean condors attack live animals or people?", "answer": "Andean condors are scavengers and almost never kill healthy animals. They occasionally take newborn or dying livestock and seabird eggs, which has given them an undeserved reputation among some ranchers. They do not attack people; their feet are built for walking, not grasping."},
+    {"question": "How many Andean condors are left?", "answer": "The IUCN estimates about 6,700 mature Andean condors remain, and the number is falling. The species is rarest in the northern Andes of Venezuela, Colombia and Ecuador, where only small populations survive, and most numerous in Argentina and Chile."},
+    {"question": "How high can an Andean condor fly?", "answer": "Andean condors routinely soar at 3,000–5,000 m (10,000–16,000 ft) above sea level in the high Andes, and they have been reported higher. They rely on thermals and winds deflected upward by mountain slopes to gain height with almost no flapping."}
+  ],
+  "meta": {
+    "title": "Andean Condor Wingspan, Weight, Lifespan & Facts",
+    "description": "The Andean condor has a 2.7–3.2 m (8.9–10.5 ft) wingspan, weighs 8–15 kg and lives about 50 years in the wild. Diet, habitat and conservation status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Vultur%20gryphus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Vultur_gryphus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Vultur_gryphus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Andean_condor"}
+    ]
+  }
+}

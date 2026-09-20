@@ -1,0 +1,64 @@
+{
+  "slug": "praying-mantis",
+  "commonName": "European Mantis",
+  "scientificName": "Mantis religiosa",
+  "alternateNames": ["Praying mantis", "European praying mantis"],
+  "nameSingular": "European mantis",
+  "namePlural": "European mantises",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Insecta", "classSlug": "invertebrates", "order": "Mantodea", "family": "Mantidae", "genus": "Mantis", "species": "M. religiosa"},
+  "facts": {
+    "lifespan": {"min": 6, "max": 8, "unit": "months", "context": "from hatching in spring to death in autumn; the adult stage lasts about 2–3 months, and eggs overwinter before that", "display": "6–8 months after hatching (about 1 year including the egg)"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 1, "max": 4, "unit": "g", "context": "adults, approximate; egg-laden females are heaviest and males much lighter", "display": "roughly 1–4 g (0.04–0.14 oz)"},
+    "height": {"min": 6, "max": 9, "unit": "cm", "label": "Body length", "display": "6–9 cm (2.4–3.5 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 210, "max": 270, "unit": "days", "label": "Egg development", "display": "about 7–9 months (eggs overwinter)"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Live insects and spiders caught by ambush, including grasshoppers, crickets, flies, moths, butterflies and bees. Small nymphs start on aphids and tiny flies, and mantises will also eat each other.",
+    "habitat": ["Meadows", "Grassland", "Scrub", "Field margins", "Gardens"],
+    "range": "Southern and central Europe, much of Africa and temperate and tropical Asia; introduced to North America in 1899 and now widespread in the northern United States and southern Canada.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The European mantis is the original praying mantis, the species that gave the group its name for the way it holds its spiked forelegs folded as if in prayer. It is a green or brown ambush predator of sunny, grassy places, waiting motionless before striking prey in a fraction of a second. A black-ringed spot on the inside of each foreleg base sets it apart from similar mantises. It has one generation a year: eggs overwinter in a hardened foam case, nymphs hatch in late spring, and the adults die with the first cold weather. It was accidentally introduced to North America in 1899.",
+  "answers": {
+    "lifespan": "A European mantis lives about 6–8 months after hatching, or roughly a year counting the winter it spends as an egg. Nymphs hatch in late spring, molt about six to eight times and become adults in mid to late summer. Adults survive two to three months and are killed by the first hard frosts, so no adults overwinter in cold climates.",
+    "weight": "Adult European mantises weigh roughly 1–4 g (0.04–0.14 oz). Females heavy with eggs are at the top of that range and are usually too bulky to fly, while the slimmer males weigh much less and fly readily, especially at night in search of mates.",
+    "size": "European mantises are 6–9 cm (2.4–3.5 in) long. Females measure about 7–9 cm and males about 6–7 cm, and females are noticeably broader in the abdomen. Both sexes have long wings that cover the abdomen, and they come in green and brown color forms that match their surroundings.",
+    "speed": null,
+    "gestation": "European mantis eggs take about 7–9 months to hatch, because they are laid in early autumn and pass the winter in diapause. The female whips up a foam that hardens into a tough case called an ootheca, holding roughly 100–200 eggs. The nymphs all emerge together in late spring once temperatures rise.",
+    "diet": "European mantises eat live insects and spiders, which they grab with a lightning-fast strike of their spiked forelegs. Typical prey includes grasshoppers, crickets, flies, moths and bees. They are generalists that eat helpful pollinators as readily as pests, and they are cannibals at every stage of life.",
+    "habitat": "European mantises live in warm, sunny, open habitats with tall grass or shrubs: meadows, dry grassland, scrub, vineyards, field margins and gardens. The species ranges across southern and central Europe, Africa and Asia, and has spread northward in Europe in recent decades. In North America it is common in the Northeast and Great Lakes region.",
+    "conservation": "The European mantis is listed as Least Concern on the IUCN Red List. It is widespread and has been expanding northward in central Europe as summers warm, though it is legally protected in some countries, including Germany, where it was long considered rare. Intensive farming and pesticide use are the main local threats."
+  },
+  "funFacts": [
+    "A mantis can turn its head about 180 degrees to look over its shoulder, something very few insects can do.",
+    "Mantises have a single ear, located in a groove on the underside of the thorax, which detects the ultrasonic calls of hunting bats.",
+    "The European mantis is the official state insect of Connecticut, despite being an introduced species there.",
+    "The strike of a mantis's forelegs takes well under a tenth of a second, too fast for the human eye to follow.",
+    "Mantises have stereo vision and judge the distance to prey in 3D, which researchers confirmed by fitting them with tiny 3D glasses."
+  ],
+  "relatedAnimals": ["dragonfly", "ladybug", "asian-giant-hornet", "black-widow", "veiled-chameleon", "hummingbird"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do female praying mantises really eat the males?", "answer": "Sometimes, but not usually. Field studies of the European mantis suggest the female eats the male in well under a third of matings, most often when she is hungry. Males approach cautiously to lower the risk, and a male can even finish mating after losing his head."},
+    {"question": "Can a praying mantis hurt you?", "answer": "No. Mantises have no venom and do not sting. A large one may pinch with its spiny forelegs or give a small nip if handled roughly, but it cannot cause any real injury. They are safe to pick up gently."},
+    {"question": "Is it illegal to kill a praying mantis?", "answer": "Not in the United States. The idea that killing a mantis carries a fine is a long-running myth; no federal or state law protects them. In parts of Europe, including Germany, the European mantis is a protected species and may not be caught or killed."},
+    {"question": "Are praying mantises good for the garden?", "answer": "Only partly. Mantises do eat pests such as grasshoppers and flies, but they are indiscriminate and also eat bees, butterflies and other beneficial insects. They do not control aphids or other small pests well, so they are of limited use as pest control."},
+    {"question": "Can you keep a praying mantis as a pet?", "answer": "Yes. Mantises are popular, low-maintenance pets that need a ventilated enclosure about three times their body length in height, twigs to hang from when molting, light misting and live insects to eat. They must be housed alone, and they live less than a year."}
+  ],
+  "meta": {
+    "title": "European Mantis (Praying Mantis) Facts: Size, Lifespan, Diet",
+    "description": "European mantises grow 6–9 cm long and live 6–8 months after hatching, with eggs overwintering for 7–9 months. Diet, habitat, mating and pet care facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Mantis%20religiosa&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Mantis_religiosa/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/European_mantis"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q268319"}
+    ]
+  }
+}

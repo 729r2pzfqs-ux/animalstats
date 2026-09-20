@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% set title = "Page Not Found | AnimalStats" %}
+{% set description = "That page does not exist. Search for an animal or browse by class." %}
+{% block main %}
+<div class="wrap py-10 text-center">
+  <h1 class="text-3xl font-extrabold">This page has gone extinct</h1>
+  <p class="prose-p mt-2">We could not find it. Search for an animal above, or start from a class.</p>
+  <div class="mt-6 flex flex-wrap justify-center gap-2">{% for c in classes %}<a href="{{ c.url }}" class="chip">{{ icon(c.icon, 'w-4 h-4') }} {{ c.name }}</a>{% endfor %}</div>
+</div>
+{% endblock %}

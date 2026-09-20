@@ -1,0 +1,20 @@
+{
+  "slug": "greenland-shark",
+  "commonName": "Greenland Shark",
+  "scientificName": "Somniosus microcephalus",
+  "classSlug": "fish",
+  "aliases": [],
+  "qid": "Q370444",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Greenland shark",
+  "taxonomy": {
+    "species": "Somniosus microcephalus",
+    "genus": "Somniosus",
+    "family": "Somniosidae",
+    "order": "Squaliformes",
+    "class": "Chondrichthyes",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

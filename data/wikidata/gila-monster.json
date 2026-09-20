@@ -1,0 +1,20 @@
+{
+  "slug": "gila-monster",
+  "commonName": "Gila Monster",
+  "scientificName": "Heloderma suspectum",
+  "classSlug": "reptiles",
+  "aliases": [],
+  "qid": "Q207058",
+  "iucnStatus": "Near Threatened",
+  "wikipedia": "Gila monster",
+  "taxonomy": {
+    "species": "Heloderma suspectum",
+    "genus": "Heloderma",
+    "family": "Helodermatidae",
+    "order": "Squamata",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

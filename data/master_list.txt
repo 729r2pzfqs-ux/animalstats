@@ -1,0 +1,221 @@
+# slug | Common Name | Scientific name (as used for Wikidata P225 lookup) | search aliases (comma-separated, optional)
+[mammals]
+cat | Cat | Felis catus | house cat, domestic cat, kitten
+dog | Dog | Canis familiaris | domestic dog, puppy
+horse | Horse | Equus caballus | pony, stallion, mare
+rabbit | Rabbit | Oryctolagus cuniculus | european rabbit, bunny, domestic rabbit
+hamster | Hamster | Mesocricetus auratus | syrian hamster, golden hamster
+guinea-pig | Guinea Pig | Cavia porcellus | cavy
+cow | Cow | Bos taurus | cattle, bull, domestic cattle
+pig | Pig | Sus domesticus | domestic pig, hog, swine
+goat | Goat | Capra hircus | domestic goat
+sheep | Sheep | Ovis aries | domestic sheep, lamb
+donkey | Donkey | Equus asinus | ass, burro
+llama | Llama | Lama glama |
+alpaca | Alpaca | Vicugna pacos |
+dromedary-camel | Dromedary Camel | Camelus dromedarius | camel, arabian camel
+bactrian-camel | Bactrian Camel | Camelus bactrianus | two-humped camel
+african-elephant | African Elephant | Loxodonta africana | african bush elephant, elephant, savanna elephant
+asian-elephant | Asian Elephant | Elephas maximus | indian elephant, elephant
+lion | Lion | Panthera leo | african lion
+tiger | Tiger | Panthera tigris | bengal tiger, siberian tiger
+leopard | Leopard | Panthera pardus | panther
+jaguar | Jaguar | Panthera onca |
+snow-leopard | Snow Leopard | Panthera uncia |
+cheetah | Cheetah | Acinonyx jubatus |
+cougar | Cougar | Puma concolor | mountain lion, puma
+bobcat | Bobcat | Lynx rufus |
+grizzly-bear | Grizzly Bear | Ursus arctos horribilis | brown bear, grizzly
+polar-bear | Polar Bear | Ursus maritimus |
+black-bear | American Black Bear | Ursus americanus | black bear
+giant-panda | Giant Panda | Ailuropoda melanoleuca | panda, panda bear
+red-panda | Red Panda | Ailurus fulgens |
+gray-wolf | Gray Wolf | Canis lupus | wolf, grey wolf, timber wolf
+coyote | Coyote | Canis latrans |
+red-fox | Red Fox | Vulpes vulpes | fox
+arctic-fox | Arctic Fox | Vulpes lagopus |
+fennec-fox | Fennec Fox | Vulpes zerda |
+african-wild-dog | African Wild Dog | Lycaon pictus | painted dog
+spotted-hyena | Spotted Hyena | Crocuta crocuta | hyena
+white-tailed-deer | White-Tailed Deer | Odocoileus virginianus | deer, whitetail
+red-deer | Red Deer | Cervus elaphus | deer, stag
+moose | Moose | Alces alces |
+reindeer | Reindeer | Rangifer tarandus | caribou
+elk | Elk | Cervus canadensis | wapiti
+giraffe | Giraffe | Giraffa camelopardalis |
+okapi | Okapi | Okapia johnstoni |
+hippopotamus | Hippopotamus | Hippopotamus amphibius | hippo
+white-rhinoceros | White Rhinoceros | Ceratotherium simum | rhino, white rhino
+black-rhinoceros | Black Rhinoceros | Diceros bicornis | rhino, black rhino
+plains-zebra | Plains Zebra | Equus quagga | zebra
+american-bison | American Bison | Bison bison | buffalo, bison
+african-buffalo | African Buffalo | Syncerus caffer | cape buffalo
+blue-wildebeest | Blue Wildebeest | Connochaetes taurinus | wildebeest, gnu
+pronghorn | Pronghorn | Antilocapra americana | pronghorn antelope
+springbok | Springbok | Antidorcas marsupialis |
+thomsons-gazelle | Thomson's Gazelle | Eudorcas thomsonii | gazelle
+warthog | Common Warthog | Phacochoerus africanus | warthog
+wild-boar | Wild Boar | Sus scrofa | boar, feral hog
+gorilla | Western Gorilla | Gorilla gorilla | gorilla, western lowland gorilla
+chimpanzee | Chimpanzee | Pan troglodytes | chimp
+bonobo | Bonobo | Pan paniscus |
+orangutan | Bornean Orangutan | Pongo pygmaeus | orangutan
+ring-tailed-lemur | Ring-Tailed Lemur | Lemur catta | lemur
+mandrill | Mandrill | Mandrillus sphinx |
+japanese-macaque | Japanese Macaque | Macaca fuscata | snow monkey
+blue-whale | Blue Whale | Balaenoptera musculus | whale
+humpback-whale | Humpback Whale | Megaptera novaeangliae |
+sperm-whale | Sperm Whale | Physeter macrocephalus |
+bowhead-whale | Bowhead Whale | Balaena mysticetus |
+orca | Orca | Orcinus orca | killer whale
+bottlenose-dolphin | Bottlenose Dolphin | Tursiops truncatus | dolphin
+beluga-whale | Beluga Whale | Delphinapterus leucas | beluga
+narwhal | Narwhal | Monodon monoceros |
+harbor-seal | Harbor Seal | Phoca vitulina | seal, common seal
+california-sea-lion | California Sea Lion | Zalophus californianus | sea lion
+walrus | Walrus | Odobenus rosmarus |
+sea-otter | Sea Otter | Enhydra lutris | otter
+manatee | West Indian Manatee | Trichechus manatus | manatee, sea cow
+red-kangaroo | Red Kangaroo | Osphranter rufus | kangaroo
+koala | Koala | Phascolarctos cinereus | koala bear
+wombat | Common Wombat | Vombatus ursinus | wombat
+tasmanian-devil | Tasmanian Devil | Sarcophilus harrisii |
+platypus | Platypus | Ornithorhynchus anatinus | duck-billed platypus
+raccoon | Raccoon | Procyon lotor |
+striped-skunk | Striped Skunk | Mephitis mephitis | skunk
+beaver | North American Beaver | Castor canadensis | beaver
+capybara | Capybara | Hydrochoerus hydrochaeris |
+hedgehog | European Hedgehog | Erinaceus europaeus | hedgehog
+sloth | Brown-Throated Sloth | Bradypus variegatus | sloth, three-toed sloth
+giant-anteater | Giant Anteater | Myrmecophaga tridactyla | anteater
+armadillo | Nine-Banded Armadillo | Dasypus novemcinctus | armadillo
+meerkat | Meerkat | Suricata suricatta |
+honey-badger | Honey Badger | Mellivora capensis | ratel
+wolverine | Wolverine | Gulo gulo |
+european-hare | European Hare | Lepus europaeus | hare, brown hare
+gray-squirrel | Eastern Gray Squirrel | Sciurus carolinensis | squirrel
+house-mouse | House Mouse | Mus musculus | mouse
+brown-rat | Brown Rat | Rattus norvegicus | rat, norway rat
+naked-mole-rat | Naked Mole-Rat | Heterocephalus glaber |
+vampire-bat | Common Vampire Bat | Desmodus rotundus | bat
+[birds]
+chicken | Chicken | Gallus gallus | hen, rooster
+bald-eagle | Bald Eagle | Haliaeetus leucocephalus | eagle
+golden-eagle | Golden Eagle | Aquila chrysaetos | eagle
+red-tailed-hawk | Red-Tailed Hawk | Buteo jamaicensis | hawk
+peregrine-falcon | Peregrine Falcon | Falco peregrinus | falcon
+barn-owl | Barn Owl | Tyto alba | owl
+great-horned-owl | Great Horned Owl | Bubo virginianus | owl
+snowy-owl | Snowy Owl | Bubo scandiacus | owl
+african-grey-parrot | African Grey Parrot | Psittacus erithacus | parrot, grey parrot
+budgerigar | Budgerigar | Melopsittacus undulatus | budgie, parakeet
+scarlet-macaw | Scarlet Macaw | Ara macao | macaw, parrot
+cockatiel | Cockatiel | Nymphicus hollandicus |
+ostrich | Common Ostrich | Struthio camelus | ostrich
+emu | Emu | Dromaius novaehollandiae |
+emperor-penguin | Emperor Penguin | Aptenodytes forsteri | penguin
+wandering-albatross | Wandering Albatross | Diomedea exulans | albatross
+greater-flamingo | Greater Flamingo | Phoenicopterus roseus | flamingo
+mute-swan | Mute Swan | Cygnus olor | swan
+mallard | Mallard | Anas platyrhynchos | duck
+canada-goose | Canada Goose | Branta canadensis | goose
+wild-turkey | Wild Turkey | Meleagris gallopavo | turkey
+peacock | Indian Peafowl | Pavo cristatus | peacock, peahen
+common-raven | Common Raven | Corvus corax | raven
+american-crow | American Crow | Corvus brachyrhynchos | crow
+hummingbird | Ruby-Throated Hummingbird | Archilochus colubris | hummingbird
+american-robin | American Robin | Turdus migratorius | robin
+northern-cardinal | Northern Cardinal | Cardinalis cardinalis | cardinal
+pigeon | Rock Pigeon | Columba livia | pigeon, rock dove
+andean-condor | Andean Condor | Vultur gryphus | condor
+common-swift | Common Swift | Apus apus | swift
+kiwi | North Island Brown Kiwi | Apteryx mantelli | kiwi
+toco-toucan | Toco Toucan | Ramphastos toco | toucan
+atlantic-puffin | Atlantic Puffin | Fratercula arctica | puffin
+[reptiles]
+green-sea-turtle | Green Sea Turtle | Chelonia mydas | turtle, sea turtle
+leatherback-sea-turtle | Leatherback Sea Turtle | Dermochelys coriacea | leatherback, sea turtle
+red-eared-slider | Red-Eared Slider | Trachemys scripta | pet turtle, turtle, slider
+galapagos-tortoise | Galápagos Tortoise | Chelonoidis niger | tortoise, giant tortoise
+sulcata-tortoise | African Spurred Tortoise | Centrochelys sulcata | sulcata, tortoise
+saltwater-crocodile | Saltwater Crocodile | Crocodylus porosus | crocodile, saltie
+nile-crocodile | Nile Crocodile | Crocodylus niloticus | crocodile
+american-alligator | American Alligator | Alligator mississippiensis | alligator, gator
+king-cobra | King Cobra | Ophiophagus hannah | cobra
+indian-cobra | Indian Cobra | Naja naja | cobra, spectacled cobra
+black-mamba | Black Mamba | Dendroaspis polylepis | mamba
+burmese-python | Burmese Python | Python bivittatus | python
+ball-python | Ball Python | Python regius | royal python, python
+reticulated-python | Reticulated Python | Malayopython reticulatus | python
+green-anaconda | Green Anaconda | Eunectes murinus | anaconda
+boa-constrictor | Boa Constrictor | Boa constrictor | boa
+rattlesnake | Western Diamondback Rattlesnake | Crotalus atrox | rattlesnake
+komodo-dragon | Komodo Dragon | Varanus komodoensis |
+green-iguana | Green Iguana | Iguana iguana | iguana
+bearded-dragon | Central Bearded Dragon | Pogona vitticeps | bearded dragon
+leopard-gecko | Leopard Gecko | Eublepharis macularius | gecko
+veiled-chameleon | Veiled Chameleon | Chamaeleo calyptratus | chameleon
+gila-monster | Gila Monster | Heloderma suspectum |
+tuatara | Tuatara | Sphenodon punctatus |
+[amphibians]
+american-bullfrog | American Bullfrog | Lithobates catesbeianus | frog, bullfrog
+red-eyed-tree-frog | Red-Eyed Tree Frog | Agalychnis callidryas | tree frog, frog
+golden-poison-frog | Golden Poison Frog | Phyllobates terribilis | poison dart frog
+goliath-frog | Goliath Frog | Conraua goliath |
+american-toad | American Toad | Anaxyrus americanus | toad
+cane-toad | Cane Toad | Rhinella marina | toad
+axolotl | Axolotl | Ambystoma mexicanum |
+chinese-giant-salamander | Chinese Giant Salamander | Andrias davidianus | giant salamander
+fire-salamander | Fire Salamander | Salamandra salamandra | salamander
+eastern-newt | Eastern Newt | Notophthalmus viridescens | newt
+[fish]
+goldfish | Goldfish | Carassius auratus |
+betta | Betta Fish | Betta splendens | siamese fighting fish
+koi | Koi | Cyprinus rubrofuscus | koi carp
+guppy | Guppy | Poecilia reticulata |
+clownfish | Ocellaris Clownfish | Amphiprion ocellaris | clownfish, nemo
+great-white-shark | Great White Shark | Carcharodon carcharias | shark
+hammerhead-shark | Great Hammerhead Shark | Sphyrna mokarran | hammerhead
+whale-shark | Whale Shark | Rhincodon typus |
+tiger-shark | Tiger Shark | Galeocerdo cuvier |
+bull-shark | Bull Shark | Carcharhinus leucas |
+greenland-shark | Greenland Shark | Somniosus microcephalus |
+manta-ray | Giant Manta Ray | Mobula birostris | manta
+bluefin-tuna | Atlantic Bluefin Tuna | Thunnus thynnus | tuna
+sailfish | Indo-Pacific Sailfish | Istiophorus platypterus | sailfish
+swordfish | Swordfish | Xiphias gladius |
+atlantic-salmon | Atlantic Salmon | Salmo salar | salmon
+rainbow-trout | Rainbow Trout | Oncorhynchus mykiss | trout
+piranha | Red-Bellied Piranha | Pygocentrus nattereri | piranha
+electric-eel | Electric Eel | Electrophorus electricus |
+seahorse | Lined Seahorse | Hippocampus erectus | seahorse
+ocean-sunfish | Ocean Sunfish | Mola mola | mola
+beluga-sturgeon | Beluga Sturgeon | Huso huso | sturgeon
+largemouth-bass | Largemouth Bass | Micropterus salmoides | bass
+[invertebrates]
+monarch-butterfly | Monarch Butterfly | Danaus plexippus | butterfly
+luna-moth | Luna Moth | Actias luna | moth
+honey-bee | Western Honey Bee | Apis mellifera | bee, honeybee
+bumblebee | Buff-Tailed Bumblebee | Bombus terrestris | bumblebee
+common-wasp | Common Wasp | Vespula vulgaris | wasp, yellowjacket
+asian-giant-hornet | Asian Giant Hornet | Vespa mandarinia | murder hornet, hornet
+black-garden-ant | Black Garden Ant | Lasius niger | ant
+ladybug | Seven-Spot Ladybug | Coccinella septempunctata | ladybird, ladybug
+praying-mantis | European Mantis | Mantis religiosa | praying mantis
+dragonfly | Emperor Dragonfly | Anax imperator | dragonfly
+housefly | Housefly | Musca domestica | fly
+mosquito | Yellow Fever Mosquito | Aedes aegypti | mosquito
+black-widow | Southern Black Widow | Latrodectus mactans | black widow spider
+goliath-birdeater | Goliath Birdeater | Theraphosa blondi | tarantula
+emperor-scorpion | Emperor Scorpion | Pandinus imperator | scorpion
+common-octopus | Common Octopus | Octopus vulgaris | octopus
+giant-squid | Giant Squid | Architeuthis dux | squid
+garden-snail | Garden Snail | Cornu aspersum | snail
+earthworm | Common Earthworm | Lumbricus terrestris | earthworm, nightcrawler
+american-lobster | American Lobster | Homarus americanus | lobster
+japanese-spider-crab | Japanese Spider Crab | Macrocheira kaempferi | spider crab
+moon-jellyfish | Moon Jellyfish | Aurelia aurita | jellyfish
+immortal-jellyfish | Immortal Jellyfish | Turritopsis dohrnii |
+ocean-quahog | Ocean Quahog | Arctica islandica | quahog clam
+giant-clam | Giant Clam | Tridacna gigas | clam
+common-starfish | Common Starfish | Asterias rubens | starfish, sea star

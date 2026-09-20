@@ -1,0 +1,64 @@
+{
+  "slug": "red-tailed-hawk",
+  "commonName": "Red-Tailed Hawk",
+  "scientificName": "Buteo jamaicensis",
+  "alternateNames": ["Red-tail", "Chickenhawk", "Harlan's hawk"],
+  "nameSingular": "red-tailed hawk",
+  "namePlural": "red-tailed hawks",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Accipitriformes", "family": "Accipitridae", "genus": "Buteo", "species": "B. jamaicensis"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 15, "unit": "years", "context": "wild birds that survive their first years; the oldest banded wild bird was at least 30", "display": "10–15 years"},
+    "lifespanCaptivity": {"min": 20, "max": 29, "unit": "years", "context": "in human care", "display": "20–29 years"},
+    "weight": {"min": 0.7, "max": 1.5, "unit": "kg", "context": "adults; females average about 25% heavier than males", "display": "0.7–1.5 kg (1.5–3.3 lb)"},
+    "height": {"min": 1.1, "max": 1.4, "unit": "m", "label": "Wingspan", "display": "1.1–1.4 m (3.6–4.6 ft)"},
+    "speed": {"min": 32, "max": 64, "unit": "km/h", "verb": "fly", "context": "level flight; hunting dives can reach about 190 km/h (120 mph)", "display": "32–64 km/h (20–40 mph)"},
+    "gestationPeriod": {"min": 28, "max": 35, "unit": "days", "label": "Incubation", "display": "28–35 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mostly small mammals such as voles, mice, rats, ground squirrels, rabbits and hares; also snakes, lizards, pheasants, starlings and other birds, large insects and some carrion.",
+    "habitat": ["Open country", "Farmland", "Woodland edge", "Desert", "Cities and roadsides"],
+    "range": "North and Central America, from central Alaska and Canada south through the United States and Mexico to Panama, and across the Caribbean islands.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The red-tailed hawk is the most common and widespread large hawk in North America, the bird most people see perched on a roadside pole or circling over a field. It is a stocky, broad-winged buteo, and most adults have the brick-red upper tail that gives the species its name, along with a pale chest crossed by a band of dark streaks. Plumage varies a great deal across roughly a dozen subspecies, from nearly white Krider's hawks to almost black Harlan's hawks. Red-tails are adaptable hunters of rodents and rabbits and are the hawk most often flown by falconers in the United States.",
+  "answers": {
+    "lifespan": "Red-tailed hawks that survive their first years typically live 10–15 years in the wild, and 20–29 years in human care. Many die young, so the average lifespan of all hatched birds is far shorter. The oldest banded wild red-tail on record was at least 30 years old when it was found in Michigan.",
+    "weight": "Adult red-tailed hawks weigh 0.7–1.5 kg (1.5–3.3 lb). Females are about a quarter heavier than males, averaging roughly 1.2 kg against about 1 kg. They look heavier than they are: even a big female weighs less than a small house cat.",
+    "size": "A red-tailed hawk has a wingspan of 1.1–1.4 m (3.6–4.6 ft) and a body length of 45–65 cm (18–26 in). It is one of the largest Buteo hawks in North America, second only to the ferruginous hawk in weight, and females are larger than males.",
+    "speed": "Red-tailed hawks fly at 32–64 km/h (20–40 mph) in level flight. When they fold their wings and dive on prey they are much faster, reaching about 190 km/h (120 mph). They often hunt from a perch, or hang nearly motionless in a headwind, a behavior known as kiting.",
+    "gestation": "Red-tailed hawk eggs hatch after 28–35 days of incubation. The female lays one to five eggs, usually two or three, and does most of the sitting while the male delivers food. Chicks leave the nest about six to seven weeks after hatching and stay near their parents for weeks longer.",
+    "diet": "Red-tailed hawks are carnivores that eat mainly small mammals, especially voles, mice, rats, ground squirrels and rabbits. They also take snakes, lizards, medium-sized birds, large insects and carrion. Most prey weighs well under 1 kg, and the hawk usually spots it from a high perch before gliding down.",
+    "habitat": "Red-tailed hawks live in almost every open habitat in North and Central America, including fields, prairies, deserts, woodland edges, roadsides and city parks. They need open ground for hunting and tall perches or nest sites such as trees, cliffs, towers and building ledges. Only dense unbroken forest and high Arctic tundra are avoided.",
+    "conservation": "The red-tailed hawk is listed as Least Concern, and its population is increasing. It has benefited from forest clearance, roadsides and utility poles, which create hunting perches over open ground. Like all native raptors it is protected in the United States under the Migratory Bird Treaty Act. Rodent poison, collisions and shooting are the main human-caused deaths."
+  },
+  "funFacts": [
+    "The hoarse, descending scream of the red-tailed hawk is the stock sound Hollywood uses for almost any eagle or hawk on screen.",
+    "Pale Male, a red-tailed hawk that nested on a Fifth Avenue apartment building beside Central Park from the early 1990s, became one of the world's most famous wild birds.",
+    "Young red-tails have brown, banded tails; the red tail feathers only grow in during the molt in their second year.",
+    "Courting pairs sometimes clasp talons in mid-air and spiral toward the ground before pulling apart.",
+    "It is the species most apprentice falconers in the United States start with, because it is common, hardy and trains readily."
+  ],
+  "relatedAnimals": ["bald-eagle", "golden-eagle", "peregrine-falcon", "great-horned-owl", "american-crow"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can a red-tailed hawk pick up a dog or cat?", "answer": "It is very unlikely. A red-tailed hawk weighs only 0.7–1.5 kg and cannot carry much more than about half of its own weight, so anything heavier than a small rabbit is safe from being carried off. Very small pets and backyard poultry can occasionally be attacked on the ground."},
+    {"question": "What does a red-tailed hawk sound like?", "answer": "The call is a hoarse, raspy scream lasting two to three seconds, often written as 'kee-eeeee-arr', and usually given while soaring. It is the sound films and adverts commonly dub over footage of bald eagles, whose own call is much weaker."},
+    {"question": "How do you identify a red-tailed hawk?", "answer": "Look for a bulky hawk with broad, rounded wings, a short tail that is rusty red above in adults, and a pale underside with a band of dark streaks across the belly. In flight, a dark bar on the leading edge of the inner wing is the most reliable mark."},
+    {"question": "Do red-tailed hawks mate for life?", "answer": "Usually. Red-tailed hawk pairs tend to stay together for years and defend the same territory, often reusing or rebuilding the same nest. If one bird dies, the survivor generally accepts a new mate quickly, sometimes within the same breeding season."},
+    {"question": "Do red-tailed hawks eat chickens?", "answer": "Sometimes. The old nickname 'chickenhawk' comes from occasional attacks on free-ranging poultry, but studies of their diet show that rodents and rabbits make up the great majority of their food. Covered runs are the simplest protection, and killing or trapping hawks is illegal in the United States."}
+  ],
+  "meta": {
+    "title": "Red-Tailed Hawk Facts: Size, Wingspan, Speed & Lifespan",
+    "description": "Red-tailed hawks weigh 0.7–1.5 kg (1.5–3.3 lb), span 1.1–1.4 m and fly 32–64 km/h, diving at about 190 km/h. Lifespan, diet, call and identification.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Buteo%20jamaicensis&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Buteo_jamaicensis/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Buteo_jamaicensis"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Red-tailed_hawk"}
+    ]
+  }
+}

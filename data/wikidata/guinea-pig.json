@@ -1,0 +1,35 @@
+{
+  "slug": "guinea-pig",
+  "commonName": "Guinea Pig",
+  "scientificName": "Cavia porcellus",
+  "classSlug": "mammals",
+  "aliases": [
+    "cavy"
+  ],
+  "qid": "Q79803",
+  "iucnStatus": null,
+  "wikipedia": "Guinea pig",
+  "taxonomy": {
+    "species": "Cavia porcellus",
+    "genus": "Cavia",
+    "family": "Caviidae",
+    "order": "Rodentia",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "lifeExpectancy",
+      "amount": "5",
+      "unit": "year",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "72",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

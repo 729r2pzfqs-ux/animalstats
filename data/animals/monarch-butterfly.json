@@ -1,0 +1,64 @@
+{
+  "slug": "monarch-butterfly",
+  "commonName": "Monarch Butterfly",
+  "scientificName": "Danaus plexippus",
+  "alternateNames": ["Monarch", "Milkweed butterfly", "Wanderer"],
+  "nameSingular": "monarch butterfly",
+  "namePlural": "monarch butterflies",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Insecta", "classSlug": "invertebrates", "order": "Lepidoptera", "family": "Nymphalidae", "genus": "Danaus", "species": "D. plexippus"},
+  "facts": {
+    "lifespan": {"min": 0.5, "max": 9, "unit": "months", "context": "adult butterflies; summer generations live 2–6 weeks, the migratory generation 6–9 months", "display": "2–6 weeks (summer adults) to 6–9 months (migratory generation)"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 0.25, "max": 0.75, "unit": "g", "context": "adults; about 0.5 g on average", "display": "0.25–0.75 g (0.009–0.026 oz)"},
+    "height": {"min": 8.9, "max": 10.2, "unit": "cm", "label": "Wingspan", "display": "8.9–10.2 cm (3.5–4 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 3, "max": 5, "unit": "days", "label": "Egg development", "display": "3–5 days"}
+  },
+  "ecology": {
+    "diet": "Nectarivore",
+    "dietDetails": "Adults drink nectar from milkweed, goldenrod, asters, clover and many other flowers. Caterpillars eat only milkweed leaves, storing the plants' toxic cardenolides, which make both caterpillar and butterfly distasteful to birds.",
+    "habitat": ["Meadows", "Prairie", "Farmland and roadsides", "Gardens", "Mountain fir forest (winter)"],
+    "range": "North America from southern Canada to Mexico, plus Central and northern South America, the Caribbean, Hawaii, Australia, New Zealand, and parts of Spain, Portugal and the Atlantic islands.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The monarch is a large orange-and-black butterfly best known for one of the longest insect migrations on Earth. Each fall, monarchs from the eastern United States and Canada fly as far as 4,000 km to a few mountain forests in central Mexico, while western monarchs winter along the California coast. No single butterfly makes the round trip: it takes three to five generations to complete the yearly cycle. The bright colors warn predators that monarchs are toxic, thanks to chemicals the caterpillars take in from milkweed, the only plants they can eat.",
+  "answers": {
+    "lifespan": "Most adult monarch butterflies live just 2–6 weeks, but the migratory generation that emerges in late summer lives 6–9 months. Those late-season butterflies delay breeding, fly to Mexico or coastal California, rest through the winter and start north again in spring. Before becoming an adult, a monarch spends about a month as an egg, caterpillar and chrysalis.",
+    "weight": "An adult monarch butterfly weighs 0.25–0.75 g (0.009–0.026 oz), or about half a gram on average. That is less than a paperclip. Migrating monarchs fatten up on fall nectar, and the stored fat has to fuel both the flight south and several months of winter.",
+    "size": "Monarch butterflies have a wingspan of 8.9–10.2 cm (3.5–4 in). Males are slightly larger than females and have a small black scent spot on each hindwing, along with thinner wing veins. A full-grown caterpillar reaches about 5 cm (2 in) before it forms its green, gold-dotted chrysalis.",
+    "speed": null,
+    "gestation": "Monarch eggs hatch in 3–5 days, usually about 4. Females lay eggs one at a time on the underside of milkweed leaves and can lay several hundred over their lives. The caterpillar then feeds for roughly two weeks and spends 8–15 days as a chrysalis before the butterfly emerges.",
+    "diet": "Adult monarchs feed on flower nectar, while monarch caterpillars eat only milkweed. Adults visit milkweed, goldenrod, asters, thistles and many garden flowers. The caterpillars store toxic cardenolides from milkweed in their bodies, and that chemical defense carries over into the adult butterfly.",
+    "habitat": "Monarchs live in open country with milkweed and flowers: meadows, prairies, roadsides, farmland and gardens across North America. In winter, eastern monarchs cluster in high-altitude oyamel fir forests in central Mexico, and western monarchs gather in tree groves along the California coast. Non-migratory populations live in warm regions such as Florida, Hawaii and Australia.",
+    "conservation": "As a species, the monarch is listed as Least Concern on the IUCN Red List, but the migratory subspecies of North America is assessed separately as Vulnerable. Overwintering counts have fallen steeply since the 1990s. The main threats are loss of milkweed and nectar plants, pesticide use, logging at the Mexican wintering sites and climate extremes."
+  },
+  "funFacts": [
+    "Eastern monarchs fly up to about 4,000 km (2,500 miles) to reach wintering forests in Mexico that they have never seen before.",
+    "It takes three to five generations of monarchs to complete one full year's migration cycle north and back south again.",
+    "Monarchs navigate using a sun compass that is time-corrected by circadian clocks located in their antennae.",
+    "The viceroy butterfly looks almost identical to the monarch. Both are distasteful to birds, so each species benefits from the shared warning pattern.",
+    "Wintering monarchs cluster so densely on fir trees in Mexico that branches can bend under their combined weight."
+  ],
+  "relatedAnimals": ["luna-moth", "honey-bee", "bumblebee", "hummingbird", "dragonfly", "ladybug"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are monarch butterflies poisonous?", "answer": "Monarchs are poisonous to eat but harmless to touch. Their bodies contain cardenolides taken from milkweed during the caterpillar stage, which can make birds vomit and teach them to avoid orange-and-black butterflies. They pose no danger to people, though pets should not eat them or milkweed."},
+    {"question": "Are monarch butterflies endangered?", "answer": "The species as a whole is not endangered, but the migratory North American subspecies is listed as Vulnerable by the IUCN. In December 2024 the U.S. Fish and Wildlife Service proposed listing the monarch as threatened under the Endangered Species Act because of long-term declines."},
+    {"question": "Where do monarch butterflies go in the winter?", "answer": "Monarchs east of the Rocky Mountains fly to a handful of oyamel fir forests in the mountains of central Mexico, mainly in Michoacán and the State of Mexico. Monarchs west of the Rockies winter in tree groves along the California coast, from around Mendocino County south to Baja California."},
+    {"question": "What is the difference between a monarch and a viceroy butterfly?", "answer": "A viceroy is smaller and has a black line running across each hindwing that the monarch lacks. Viceroys also fly with quicker, more fluttery wingbeats, while monarchs glide with their wings held in a shallow V. The two species are not closely related."},
+    {"question": "How can I help monarch butterflies?", "answer": "Plant milkweed that is native to your region, since it is the only food monarch caterpillars can eat, along with nectar flowers that bloom from spring through fall. Avoiding insecticides in the garden also helps, because they kill caterpillars as well as pests."}
+  ],
+  "meta": {
+    "title": "Monarch Butterfly Facts: Lifespan, Size, Migration & Diet",
+    "description": "Monarch butterflies live 2–6 weeks, or 6–9 months for the migratory generation, and have a 9–10 cm wingspan. Diet, habitat, migration and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Danaus%20plexippus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Danaus_plexippus/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Monarch_butterfly"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q212398"}
+    ]
+  }
+}

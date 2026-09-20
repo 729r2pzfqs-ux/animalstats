@@ -1,0 +1,65 @@
+{
+  "slug": "beluga-whale",
+  "commonName": "Beluga Whale",
+  "scientificName": "Delphinapterus leucas",
+  "alternateNames": ["Beluga", "White whale", "Sea canary"],
+  "nameSingular": "beluga whale",
+  "namePlural": "beluga whales",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Monodontidae", "genus": "Delphinapterus", "species": "D. leucas"},
+  "facts": {
+    "lifespan": {"min": 35, "max": 50, "unit": "years", "context": "in the wild; newer tooth-layer studies suggest some reach 70–80 years", "display": "35–50 years (possibly up to 70–80)"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 700, "max": 1600, "unit": "kg", "context": "adults; females 700–1,200 kg, males 1,100–1,600 kg", "display": "700–1,600 kg (1,540–3,530 lb)"},
+    "height": {"min": 3, "max": 5.5, "unit": "m", "label": "Length", "display": "3–5.5 m (10–18 ft)"},
+    "speed": {"min": 22, "max": 22, "unit": "km/h", "verb": "swim", "context": "short bursts; normally swims at 3–9 km/h", "display": "up to 22 km/h (14 mph)"},
+    "gestationPeriod": {"min": 365, "max": 460, "unit": "days", "label": "Gestation", "display": "12–15 months (usually about 14)"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Fish such as Arctic cod, capelin, herring, smelt, salmon and flounder, along with squid, octopus, shrimp, crabs, clams and marine worms, often sucked up from the seabed.",
+    "habitat": ["Arctic coastal waters", "Estuaries and river mouths", "Pack ice edge", "Deep offshore basins"],
+    "range": "Arctic and subarctic waters around Alaska, Canada, Greenland, Svalbard and Russia, with isolated southern populations in Cook Inlet, the St. Lawrence estuary and the Sea of Okhotsk.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown",
+    "population": "about 136,000 mature individuals"
+  },
+  "description": "The beluga is a small, stocky, all-white toothed whale of Arctic and subarctic seas. Calves are born gray and turn white by about five to eight years of age. Belugas have no dorsal fin, which lets them swim beneath sea ice, and a bulging, flexible forehead called the melon that changes shape as they produce sounds. Unlike most whales, they have unfused neck vertebrae and can turn and nod their heads. Their constant chirps, whistles and clicks earned them the nickname sea canary. The beluga's only close relative is the narwhal, and both are cetaceans, now grouped within the even-toed hoofed mammals.",
+  "answers": {
+    "lifespan": "Beluga whales live an estimated 35–50 years in the wild, and some may reach 70–80. The higher figure comes from research showing that belugas lay down one growth layer in their teeth per year, not two as once assumed, which doubled earlier age estimates. Belugas in aquariums have generally had shorter lives than wild ones.",
+    "weight": "Adult beluga whales weigh 700–1,600 kg (1,540–3,530 lb). Males weigh 1,100–1,600 kg and females 700–1,200 kg. As much as 40 percent of that weight is blubber, which can be 10–15 cm thick and insulates the whale in water close to freezing.",
+    "size": "Beluga whales are 3–5.5 m (10–18 ft) long: males typically measure 3.5–5.5 m and females 3–4.1 m. That makes them one of the smaller whales, similar in length to a large car. Newborn calves are about 1.5 m long.",
+    "speed": "Belugas are slow swimmers that usually travel at 3–9 km/h and can reach about 22 km/h (14 mph) for short periods. They are highly maneuverable instead, and they are among the few whales able to swim backward.",
+    "gestation": "A beluga whale is pregnant for roughly 12–15 months, with most estimates near 14 months. The single calf is born in late spring or summer, often in warmer, shallow estuaries. It nurses for about two years, and females typically give birth every three years.",
+    "diet": "Beluga whales are carnivores that eat fish, squid, octopus, crabs, shrimp, clams and worms. Arctic cod, capelin and salmon are key prey. Their teeth are not suited to chewing, so they use suction to pull prey into the mouth and swallow it whole, often feeding along the seabed.",
+    "habitat": "Beluga whales live in cold Arctic and subarctic waters. In summer many gather by the hundreds or thousands in shallow bays, estuaries and river mouths, sometimes swimming far upstream. In winter they move to the edge of the pack ice or into areas of open water within it.",
+    "conservation": "The beluga whale is listed as Least Concern on the IUCN Red List, with roughly 136,000 mature individuals. Several isolated populations are in serious trouble, including Alaska's Cook Inlet belugas, which number only a few hundred, and the St. Lawrence estuary population. Threats include pollution, noise, shipping, hunting in some regions and shrinking sea ice."
+  },
+  "funFacts": [
+    "Belugas can change the shape of the melon on their forehead by moving air around their sinuses, which helps them focus echolocation sounds.",
+    "Beluga whales molt each summer, rubbing against gravel in shallow estuaries to shed the old yellowish outer layer of skin.",
+    "A captive beluga named NOC learned to imitate the rhythm and pitch of human speech so well that a diver thought someone had told him to get out of the tank.",
+    "Belugas have been tracked diving deeper than 800 m (2,600 ft) in the deep basins of the Arctic Ocean.",
+    "The name beluga comes from the Russian word for white."
+  ],
+  "relatedAnimals": ["narwhal", "bottlenose-dolphin", "orca", "bowhead-whale", "polar-bear", "walrus"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why are beluga whales white?", "answer": "White skin is camouflage among sea ice, helping belugas hide from their main predators, polar bears and orcas. Calves are born dark gray or brownish and lighten gradually, becoming pure white at around five to eight years old."},
+    {"question": "Is a beluga whale a dolphin?", "answer": "No. Belugas are toothed whales, like dolphins, but they belong to a different family, Monodontidae, which they share only with the narwhal. Their rounded forehead and lack of a dorsal fin set them apart from true dolphins."},
+    {"question": "Are beluga whales friendly to humans?", "answer": "Belugas are curious, sociable and often approach boats and divers, and there are no records of wild belugas seriously harming people. They are still large wild animals, and in many places it is illegal to approach or disturb them."},
+    {"question": "Are beluga whales related to beluga sturgeon and caviar?", "answer": "No. Beluga caviar comes from the beluga sturgeon, a large fish of the Caspian and Black Sea basins. The whale and the fish share only a name, which comes from the Russian word for white."},
+    {"question": "What eats beluga whales?", "answer": "Orcas and polar bears are the beluga's natural predators. Polar bears catch belugas that become trapped at small breathing holes in the ice, and orcas hunt them in open water. Arctic Indigenous communities also hunt belugas for food under regulated quotas."}
+  ],
+  "meta": {
+    "title": "Beluga Whale Facts: Size, Lifespan, Diet & Habitat",
+    "description": "Beluga whales grow 3–5.5 m (10–18 ft), weigh 700–1,600 kg and live 35–50 years or more. Why they are white, what they eat and where Arctic belugas live.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Delphinapterus%20leucas&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Delphinapterus_leucas/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Delphinapterus_leucas"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Beluga_whale"}
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }}</title>
+<meta name="description" content="{{ description }}">
+{% if noindex %}<meta name="robots" content="noindex">
+{% endif %}
+<link rel="canonical" href="{{ canonical }}">
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {
+  'analytics_storage': 'denied',
+  'ad_storage': 'denied',
+  'ad_user_data': 'denied',
+  'ad_personalization': 'denied',
+  'wait_for_update': 500,
+  'region': ['BE','BG','CZ','DK','DE','EE','IE','GR','ES','FR','HR','IT','CY','LV','LT','LU','HU','MT','NL','AT','PL','PT','RO','SI','SK','FI','SE','GB','CH','IS','LI','NO']
+});
+gtag('consent', 'default', {
+  'analytics_storage': 'granted',
+  'ad_storage': 'granted',
+  'ad_user_data': 'granted',
+  'ad_personalization': 'granted'
+});
+</script>
+<script>
+/* Third-party tags load after first paint, in this order: AdSense, then the gtag loader, then Ahrefs.
+   Consent defaults above are already in the dataLayer; dataLayer/gtag are not re-declared. */
+(function () {
+  function add(src, attrs) {
+    var s = document.createElement('script');
+    s.async = true; s.src = src;
+    for (var k in attrs) s.setAttribute(k, attrs[k]);
+    document.head.appendChild(s);
+  }
+  function tags() {
+{% if site.adsense_client %}
+    add('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense_client }}', { crossorigin: 'anonymous' });
+{% endif %}
+{% if site.ga4_id %}
+    add('https://www.googletagmanager.com/gtag/js?id={{ site.ga4_id }}', {});
+    gtag('js', new Date()); gtag('config', '{{ site.ga4_id }}');
+{% endif %}
+{% if site.ahrefs_key %}
+    add('https://analytics.ahrefs.com/analytics.js', { 'data-key': '{{ site.ahrefs_key }}' });
+{% endif %}
+  }
+  if (document.readyState === 'complete') setTimeout(tags, 0);
+  else window.addEventListener('load', function () { setTimeout(tags, 0); });
+})();
+</script>
+<meta property="og:type" content="{{ og_type|default('article') }}">
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:image" content="{{ site.url }}/og-default.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#047857">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<style>{{ css }}</style>
+{% for block in schema %}{{ jsonld(block) }}
+{% endfor %}
+</head>
+<body class="flex min-h-screen flex-col">
+<header class="sticky top-0 z-40 border-b border-slate-200 bg-white/95 backdrop-blur">
+  <div class="wrap flex h-14 items-center gap-3">
+    <a href="/" class="flex shrink-0 items-center gap-2 font-extrabold tracking-tight text-slate-900">
+      <span class="flex h-8 w-8 items-center justify-center rounded-lg bg-emerald-700 text-white">{{ icon('paw-print', 'w-5 h-5') }}</span>
+      <span class="text-lg">Animal<span class="text-emerald-700">Stats</span></span>
+    </a>
+    <div class="relative ml-auto w-full max-w-xs" data-search>
+      <label class="sr-only" for="q-top">Search animals</label>
+      <span class="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-slate-400">{{ icon('search', 'w-4 h-4') }}</span>
+      <input id="q-top" type="search" autocomplete="off" placeholder="Search an animal…" class="h-10 w-full rounded-full border border-slate-300 bg-slate-50 pl-9 pr-3 text-base outline-none focus:border-emerald-600 focus:bg-white focus:ring-2 focus:ring-emerald-100">
+      <div class="absolute left-0 right-0 top-full z-50 mt-1 hidden max-h-[70vh] overflow-auto rounded-xl border border-slate-200 bg-white shadow-lg" data-results role="listbox"></div>
+    </div>
+  </div>
+</header>
+
+{% if crumbs and crumbs|length > 1 %}
+<nav aria-label="Breadcrumb" class="wrap pt-4 text-sm text-slate-500">
+  <ol class="flex flex-wrap items-center gap-1">
+  {% for name, href in crumbs %}
+    {% if not loop.last %}<li><a href="{{ href }}" class="hover:text-emerald-700 hover:underline">{{ name }}</a></li><li aria-hidden="true">{{ icon('chevron-right', 'w-3.5 h-3.5') }}</li>
+    {% else %}<li aria-current="page" class="font-medium text-slate-700">{{ name }}</li>{% endif %}
+  {% endfor %}
+  </ol>
+</nav>
+{% endif %}
+
+<main class="flex-1 pb-12">
+{% block main %}{% endblock %}
+</main>
+
+<footer class="border-t border-slate-200 bg-white">
+  <div class="wrap py-8 text-sm text-slate-600">
+    <div class="grid grid-cols-2 gap-x-6 gap-y-1.5 sm:grid-cols-3">
+      {% for c in classes %}<a href="{{ c.url }}" class="hover:text-emerald-700 hover:underline">{{ c.name }}</a>
+      {% endfor %}
+      {% for l in lists[:6] %}<a href="{{ l.url }}" class="hover:text-emerald-700 hover:underline">{{ l.title }}</a>
+      {% endfor %}
+    </div>
+    <div class="mt-6 flex flex-wrap gap-x-5 gap-y-2 border-t border-slate-100 pt-5">
+      <a href="/animals/" class="hover:text-emerald-700 hover:underline">All animals A–Z</a>
+      <a href="/lists/" class="hover:text-emerald-700 hover:underline">Rankings</a>
+      <a href="/compare/" class="hover:text-emerald-700 hover:underline">Comparisons</a>
+      <a href="/facts/" class="hover:text-emerald-700 hover:underline">Fact charts</a>
+      <a href="/about/" class="hover:text-emerald-700 hover:underline">About &amp; sources</a>
+      <a href="/privacy/" class="hover:text-emerald-700 hover:underline">Privacy</a>
+    </div>
+    <p class="mt-5 text-xs leading-relaxed text-slate-500">Figures are typical adult ranges compiled from published sources and vary between individuals, populations and sources. Conservation status follows the IUCN Red List and may change with new assessments. © {{ year }} AnimalStats.</p>
+  </div>
+</footer>
+<script src="/js/search.js" defer></script>
+</body>
+</html>

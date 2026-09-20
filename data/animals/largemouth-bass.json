@@ -1,0 +1,64 @@
+{
+  "slug": "largemouth-bass",
+  "commonName": "Largemouth Bass",
+  "scientificName": "Micropterus salmoides",
+  "alternateNames": ["Black bass", "Bigmouth bass", "Bucketmouth", "Green bass"],
+  "nameSingular": "largemouth bass",
+  "namePlural": "largemouth bass",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Centrarchiformes", "family": "Centrarchidae", "genus": "Micropterus", "species": "M. salmoides"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 16, "unit": "years", "context": "in the wild; northern fish grow more slowly and live longest", "display": "10–16 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 0.5, "max": 4.5, "unit": "kg", "context": "adults; the world record is 10.1 kg", "display": "0.5–4.5 kg (1–10 lb)"},
+    "height": {"min": 30, "max": 60, "unit": "cm", "label": "Length", "display": "30–60 cm (12–24 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 2, "max": 5, "unit": "days", "label": "Egg development", "display": "2–5 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Adults eat smaller fish such as shad, bluegill, minnows and young bass, along with crayfish, frogs, snakes, large insects and occasionally small birds or mammals; fry begin on zooplankton and insects.",
+    "habitat": ["Lakes", "Ponds", "Reservoirs", "Slow rivers", "Swamps"],
+    "range": "Native to eastern and central North America, from the Great Lakes and St. Lawrence basin to the Gulf Coast and northern Mexico; introduced across the rest of North America and to every continent except Antarctica.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The largemouth bass is an olive-green freshwater predator with a dark, blotchy stripe along each side and a jaw that extends back past the eye, the feature that separates it from the smallmouth bass. Despite the name it is not a true bass but the largest member of the sunfish family. It is an ambush hunter of warm, weedy lakes, ponds and slow rivers, and as an adult it is usually the top predator in its water. It is the most popular game fish in the United States, the focus of a multibillion-dollar sport-fishing industry, and has been stocked so widely that it is invasive on several continents.",
+  "answers": {
+    "lifespan": "Largemouth bass typically live 10–16 years in the wild. Fish in cool northern lakes grow slowly and live longest, while bass in warm southern waters grow fast and often die by about 10. The oldest known individuals, aged from ear bones, were in their early twenties.",
+    "weight": "Adult largemouth bass usually weigh 0.5–4.5 kg (1–10 lb), and anything over 3.6 kg (8 lb) is considered a trophy in most waters. The world record is 10.12 kg (22 lb 4 oz), set by George Perry in Georgia in 1932 and tied in 2009 by a fish from Japan's Lake Biwa. Females grow larger than males.",
+    "size": "Adult largemouth bass are typically 30–60 cm (12–24 in) long, and the maximum recorded is about 75 cm (29.5 in), with some reports a little longer. Females outgrow males, so nearly all bass over about 40 cm are female. Bass in the southern United States, especially Florida, reach the largest sizes.",
+    "speed": null,
+    "gestation": "Largemouth bass eggs hatch in 2–5 days, faster in warmer water. In spring, when the water reaches about 15–18 °C, the male fans out a saucer-shaped nest in the shallows, the female lays a few thousand to tens of thousands of eggs, and the male guards the eggs and then the fry for several weeks.",
+    "diet": "Largemouth bass are carnivores. Adults eat mostly fish such as shad, bluegill and minnows, plus crayfish, frogs, snakes and almost any other animal they can fit into their very large mouths, including ducklings and mice. They hunt by ambush from weeds, docks and sunken wood, striking mainly at dawn and dusk.",
+    "habitat": "Largemouth bass live in warm, clear, weedy lakes, ponds, reservoirs, swamps and slow-moving rivers, usually in water less than 6 m deep. They prefer temperatures of about 25–30 °C and stay close to cover such as vegetation, logs and docks. They tolerate slightly brackish water but avoid strong current.",
+    "conservation": "The largemouth bass is listed as Least Concern on the IUCN Red List, and its population is stable and carefully managed for sport fishing. The concern is the harm it does elsewhere: introduced largemouth bass have wiped out native fish and amphibians in places such as Japan, southern Africa, Spain and Central America."
+  },
+  "funFacts": [
+    "A largemouth bass can swallow prey up to about half its own body length, thanks to a mouth that opens wider than its body.",
+    "The 1932 world record of 22 lb 4 oz stood alone for 77 years until Manabu Kurita caught a bass of essentially the same weight in Japan in 2009.",
+    "The largemouth bass is an official state fish of Georgia, Mississippi, Alabama and Florida, a sign of how central it is to fishing in the American South.",
+    "Male bass guard their newly hatched fry for weeks, herding them into a tight school, even though they may later eat some of them.",
+    "Studies show bass learn to avoid lures they have been caught on, and heavily fished lakes can become noticeably harder to fish."
+  ],
+  "relatedAnimals": ["rainbow-trout", "atlantic-salmon", "american-bullfrog", "american-alligator", "koi", "piranha"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between largemouth and smallmouth bass?", "answer": "On a largemouth bass the upper jaw extends past the back of the eye, the two dorsal fins are almost separate, and there is a dark horizontal stripe along the side. A smallmouth bass has a jaw that stops below the eye, vertical bars on a bronze body, and prefers cooler, clearer, rockier water."},
+    {"question": "What is the world record largemouth bass?", "answer": "The world record largemouth bass weighed 10.12 kg (22 lb 4 oz). George Perry caught it in Montgomery Lake, Georgia, on June 2, 1932. In July 2009 Manabu Kurita landed a bass of 22 lb 5 oz from Lake Biwa in Japan, which is recognized as a tie."},
+    {"question": "Is a largemouth bass really a bass?", "answer": "Not in the strict sense. The largemouth bass belongs to the sunfish family, Centrarchidae, alongside bluegill and crappie, and is one of the black basses. True basses, such as striped bass and European sea bass, belong to different families."},
+    {"question": "Are largemouth bass good to eat?", "answer": "Yes. Largemouth bass have white, firm, mild flesh, and smaller fish from clean, cool water taste best. Most anglers release them because the species is valued as a sport fish, and bass from weedy or muddy water can have a slightly grassy flavor."},
+    {"question": "What is the best time of day to catch largemouth bass?", "answer": "Largemouth bass feed most actively in low light, so early morning and the hour or two around dusk are usually best, along with overcast days. In hot summer weather they often retreat to deeper or shaded water at midday and may feed at night."}
+  ],
+  "meta": {
+    "title": "Largemouth Bass Facts: Size, Lifespan, Diet & Record",
+    "description": "Largemouth bass live 10–16 years, grow 30–60 cm (12–24 in) and weigh 0.5–4.5 kg; the world record is 10.12 kg (22 lb 4 oz). Diet, habitat and spawning.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Micropterus%20salmoides&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Micropterus_salmoides/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Micropterus_salmoides"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Largemouth_bass"}
+    ]
+  }
+}

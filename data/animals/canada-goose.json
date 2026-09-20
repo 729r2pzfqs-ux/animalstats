@@ -1,0 +1,64 @@
+{
+  "slug": "canada-goose",
+  "commonName": "Canada Goose",
+  "scientificName": "Branta canadensis",
+  "alternateNames": ["Canadian goose", "Honker"],
+  "nameSingular": "Canada goose",
+  "namePlural": "Canada geese",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Anseriformes", "family": "Anatidae", "genus": "Branta", "species": "B. canadensis"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 24, "unit": "years", "context": "in the wild; banded birds have passed 30", "display": "10–24 years"},
+    "lifespanCaptivity": {"min": 20, "max": 30, "unit": "years", "context": "in human care", "display": "20–30 years"},
+    "weight": {"min": 2.4, "max": 6.5, "unit": "kg", "context": "adults; varies widely by subspecies, and males are larger", "display": "2.4–6.5 kg (5.3–14.3 lb)"},
+    "height": {"min": 1.27, "max": 1.85, "unit": "m", "label": "Wingspan", "display": "1.27–1.85 m (4.2–6.1 ft)"},
+    "speed": {"min": 64, "max": 64, "unit": "km/h", "verb": "fly", "context": "cruising level flight on migration; faster with a tailwind", "display": "about 64 km/h (40 mph)"},
+    "gestationPeriod": {"min": 24, "max": 28, "unit": "days", "label": "Incubation", "display": "24–28 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Grasses, sedges, clover and aquatic plants in spring and summer; seeds, berries and waste grain such as corn, wheat and soybeans in fall and winter. Insects and small aquatic animals are eaten only occasionally.",
+    "habitat": ["Lakes", "Rivers", "Marshes", "Farmland", "Parks and lawns"],
+    "range": "Breeds across Canada, Alaska and the northern United States and winters south to Mexico; introduced to Britain, northern Europe and New Zealand.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The Canada goose is a large North American waterbird with a black head and neck, a white chinstrap, a brown body and a loud honking call. Its V-shaped migrating flocks are one of the best-known signs of the changing seasons. Size varies greatly among its subspecies, from birds of about 2.5 kg to the giant Canada goose, which can exceed 6 kg. Once reduced by hunting and habitat loss, it rebounded dramatically in the twentieth century and now thrives on lawns, golf courses and reservoirs, where non-migratory flocks are often considered a nuisance. The smaller, similar-looking cackling goose was split off as a separate species in 2004.",
+  "answers": {
+    "lifespan": "Canada geese live 10–24 years in the wild and can reach about 30 years in captivity. Adults have few natural predators, so hunting is the main cause of death for many populations. A few banded wild geese have been recovered at more than 30 years old.",
+    "weight": "An adult Canada goose weighs 2.4–6.5 kg (5.3–14.3 lb), depending on sex and subspecies. Males (ganders) are about 10 percent heavier than females. The giant Canada goose of the Midwest is the largest form, with big males occasionally exceeding 8 kg.",
+    "size": "Canada geese have a wingspan of 1.27–1.85 m (4.2–6.1 ft) and a body length of 75–110 cm (30–43 in). Northern-breeding subspecies are generally smaller than southern ones. The look-alike cackling goose is smaller still, with a stubbier bill and shorter neck.",
+    "speed": "Canada geese cruise at about 64 km/h (40 mph) in level flight during migration. With a strong tailwind they can travel at roughly 100 km/h (60 mph) over the ground and cover 2,400 km (1,500 miles) in a day. Flying in a V saves energy for the birds behind the leader.",
+    "gestation": "Canada goose eggs hatch after 24–28 days of incubation. The female lays two to eight eggs in a down-lined ground nest near water and incubates alone while the male guards her. Goslings leave the nest within a day, swimming and feeding themselves, and fly at about two to three months.",
+    "diet": "Canada geese are herbivores that graze on grasses, sedges and clover and eat aquatic plants, seeds, berries and waste grain. A goose can spend half the day feeding. Their taste for short, fertilized grass is exactly why lawns, parks and golf courses attract them.",
+    "habitat": "Canada geese live near fresh water across North America: lakes, rivers, marshes, tundra ponds, farm fields, and city parks and lawns. They breed from Alaska and northern Canada to the central United States, and migratory populations winter as far south as Mexico. Introduced populations live in Britain, Scandinavia and New Zealand.",
+    "conservation": "The Canada goose is listed as Least Concern on the IUCN Red List, with a population of several million that is increasing. It is protected under the Migratory Bird Treaty Act in the United States but legally hunted in regulated seasons, and resident urban flocks are actively managed in many areas."
+  },
+  "funFacts": [
+    "Geese flying in a V take turns at the front; birds behind get lift from the wingtip vortices of the bird ahead and use less energy.",
+    "The giant Canada goose subspecies was believed extinct by the 1950s until a flock was identified in Rochester, Minnesota, in 1962.",
+    "Canada geese usually pair for life and return to nest in the area where they hatched, often year after year.",
+    "Adults molt all their flight feathers at once in early summer and cannot fly for several weeks, which coincides with raising their flightless goslings.",
+    "Broods often merge into large groups of goslings called crèches, watched over by just a few adults."
+  ],
+  "relatedAnimals": ["mallard", "mute-swan", "wild-turkey", "bald-eagle", "greater-flamingo", "american-crow"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is it Canada goose or Canadian goose?", "answer": "The correct common name is Canada goose, and the plural is Canada geese. \"Canadian goose\" is widely used in everyday speech but is not the official name. The species is named for the country where much of the population breeds, not for its nationality."},
+    {"question": "Why do Canada geese fly in a V formation?", "answer": "Flying in a V saves energy and helps the flock stay in contact. Each bird positions itself in the upwash from the wingtip of the bird ahead, which reduces the effort needed to stay aloft. The lead position is the hardest, so birds rotate through it."},
+    {"question": "Are Canada geese aggressive?", "answer": "They can be during nesting season, from about March to June. A goose defending a nest or goslings will hiss, spread its wings and charge, and may bite or strike with its wings. Injuries are usually minor and mostly come from people falling while backing away."},
+    {"question": "Do Canada geese mate for life?", "answer": "Yes, in most cases. Canada geese typically choose a mate at two to three years old and stay together for life, remaining side by side all year. If one bird dies, the survivor usually finds a new mate, sometimes within the same season."},
+    {"question": "Is it illegal to kill a Canada goose?", "answer": "In the United States and Canada, Canada geese are protected migratory birds, so harming them, their nests or eggs without authorization is illegal. They may be hunted legally during regulated seasons with the proper licenses, and agencies issue permits to control problem flocks."}
+  ],
+  "meta": {
+    "title": "Canada Goose Facts: Size, Lifespan, Flight Speed & Diet",
+    "description": "Canada geese weigh 2.4–6.5 kg, have a wingspan up to 1.85 m (6.1 ft), live 10–24 years and cruise at about 64 km/h. Diet, migration and nesting facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Branta%20canadensis&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Branta_canadensis/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Branta_canadensis"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Canada_goose"}
+    ]
+  }
+}

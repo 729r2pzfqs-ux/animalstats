@@ -1,0 +1,65 @@
+{
+  "slug": "orca",
+  "commonName": "Orca",
+  "scientificName": "Orcinus orca",
+  "alternateNames": ["Killer whale", "Blackfish"],
+  "nameSingular": "orca",
+  "namePlural": "orcas",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Delphinidae", "genus": "Orcinus", "species": "O. orca"},
+  "facts": {
+    "lifespan": {"min": 30, "max": 50, "unit": "years", "context": "wild averages: males about 30 years, females about 50; females can reach 80–90", "display": "30–50 years (females up to 80–90)"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 3000, "max": 6000, "unit": "kg", "context": "adults; females 3,000–4,000 kg, males often over 6,000 kg, with the largest near 10,000 kg", "display": "3,000–6,000 kg (6,600–13,200 lb)"},
+    "height": {"min": 5, "max": 8, "unit": "m", "label": "Length", "display": "5–8 m (16–26 ft)"},
+    "speed": {"min": 56, "max": 56, "unit": "km/h", "verb": "swim", "context": "short bursts; cruising speed is about 5–10 km/h", "display": "up to 56 km/h (35 mph)"},
+    "gestationPeriod": {"min": 455, "max": 550, "unit": "days", "label": "Gestation", "display": "15–18 months"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Varies by population: some eat only fish such as salmon or herring, others hunt seals, sea lions, porpoises, dolphins and whales, and some take sharks, rays, squid, penguins and other seabirds.",
+    "habitat": ["Coastal waters", "Open ocean", "Polar seas", "Fjords and straits"],
+    "range": "Every ocean from the Arctic to Antarctica, the widest range of any marine mammal, with the highest densities in cold, productive coastal waters.",
+    "conservationStatus": "Data Deficient",
+    "iucnCategory": "DD",
+    "populationTrend": "Unknown",
+    "population": "at least 50,000 worldwide"
+  },
+  "description": "The orca, or killer whale, is the largest member of the dolphin family and the ocean's top predator, with no natural enemies of its own. It is unmistakable: jet black above and white below, with a white patch behind each eye, a gray saddle behind the dorsal fin and, in adult males, a straight dorsal fin up to 1.8 m tall. Orcas live in stable family pods led by older females, and different populations, called ecotypes, have their own diets, hunting methods and dialects of calls. Like all whales and dolphins, orcas are cetaceans, now classified within the even-toed hoofed mammals.",
+  "answers": {
+    "lifespan": "In the wild, female orcas live about 50 years on average and can reach 80–90, while males average about 30 years and rarely exceed 50–60. Those figures come from the long-studied populations of the northeast Pacific. Captive orcas have generally died younger, and their life expectancy compared with wild orcas remains disputed.",
+    "weight": "Adult orcas typically weigh 3,000–6,000 kg (6,600–13,200 lb). Females weigh 3,000–4,000 kg, and adult males commonly exceed 6,000 kg. The largest males on record weighed close to 10,000 kg. Newborn calves already weigh around 180 kg.",
+    "size": "Orcas are 5–8 m (16–26 ft) long: females usually measure 5–7 m and males 6–8 m, with the largest male recorded at 9.8 m. A male's triangular dorsal fin can stand 1.8 m tall, about twice the height of a female's curved fin.",
+    "speed": "Orcas can swim at up to 56 km/h (35 mph) in short bursts, which puts them among the fastest marine mammals. They usually cruise at 5–10 km/h, and pods commonly travel 100 km or more in a day while searching for prey.",
+    "gestation": "An orca pregnancy lasts 15–18 months, the longest known of any dolphin or whale. A single calf, about 2.4 m long, is born tail first and nurses for one to two years. Females give birth roughly every five years and stop reproducing at around 40, then live on for decades.",
+    "diet": "Orcas are carnivores, and as a species they eat everything from herring to blue whales. Individual populations are specialists, however. Resident orcas of the northeast Pacific eat mostly Chinook salmon, Bigg's orcas hunt marine mammals, and some groups off South Africa and Australia target sharks for their livers.",
+    "habitat": "Orcas live in all the world's oceans, from polar pack ice to tropical seas, and are the most widely distributed mammal after humans. They are most abundant in cold coastal waters such as those off Norway, Iceland, Alaska, British Columbia, Patagonia and Antarctica.",
+    "conservation": "The orca is listed as Data Deficient on the IUCN Red List, because it may actually comprise several species or subspecies that need separate assessments. At least 50,000 exist worldwide. Some populations are in serious trouble: the Southern Resident orcas of the Pacific Northwest number only about 75 and are endangered."
+  },
+  "funFacts": [
+    "Orcas are among the few animals besides humans whose females go through menopause; grandmothers lead pods and improve the survival of their grandchildren.",
+    "Antarctic orcas swim side by side to create waves that wash seals off ice floes.",
+    "Each pod has its own dialect of calls, which calves learn from their mothers and relatives.",
+    "Orcas off South Africa have been documented killing great white sharks and eating only the fat-rich liver.",
+    "The name killer whale probably comes from an old Spanish term meaning whale killer, given by sailors who saw orcas hunting large whales."
+  ],
+  "relatedAnimals": ["bottlenose-dolphin", "great-white-shark", "blue-whale", "sperm-whale", "beluga-whale", "harbor-seal"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are orcas whales or dolphins?", "answer": "Both, depending on how you use the words. Orcas are the largest species in the oceanic dolphin family, Delphinidae. Dolphins are themselves toothed whales, so an orca is a dolphin and a whale at the same time, just as a lion is both a cat and a carnivore."},
+    {"question": "Do orcas attack humans?", "answer": "There is no confirmed case of a wild orca killing a person, and attacks in the wild are almost unknown. Captive orcas have killed four people. Since 2020 a group of orcas off Spain and Portugal has rammed and damaged boat rudders, sinking several yachts without harming the crews."},
+    {"question": "Can an orca kill a great white shark?", "answer": "Yes. Orcas have been filmed and documented killing great white sharks off South Africa, California and Australia, often flipping the shark over to immobilize it and then eating the liver. Great whites have been shown to abandon an area for months after orcas appear."},
+    {"question": "Why are orcas called killer whales?", "answer": "Early sailors saw them hunting large whales and called them whale killers, and the words were later reversed in English. The genus name Orcinus is also grim, relating to Orcus, a Roman god of the underworld. Many people now prefer the name orca."},
+    {"question": "How many orcas are left in the world?", "answer": "The usual minimum estimate is about 50,000 orcas worldwide, with roughly half of them around Antarctica. There is no precise global count. Some local populations are tiny, including the Southern Residents near Seattle and Vancouver, with about 75 animals."}
+  ],
+  "meta": {
+    "title": "Orca (Killer Whale) Facts: Size, Speed, Diet & Lifespan",
+    "description": "Orcas grow 5–8 m long, weigh 3,000–6,000 kg and swim at up to 56 km/h (35 mph). Wild females average 50 years, males 30. Diet, pods and gestation facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Orcinus%20orca&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Orcinus_orca/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Orcinus_orca"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Orca"}
+    ]
+  }
+}

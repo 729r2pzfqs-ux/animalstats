@@ -1,0 +1,64 @@
+{
+  "slug": "cat",
+  "commonName": "Cat",
+  "scientificName": "Felis catus",
+  "alternateNames": ["Domestic cat", "House cat", "Kitten"],
+  "nameSingular": "cat",
+  "namePlural": "cats",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Felidae", "genus": "Felis", "species": "F. catus"},
+  "facts": {
+    "lifespan": {"min": 12, "max": 18, "unit": "years", "context": "pet cats; indoor cats live longest, free-roaming and feral cats far shorter", "display": "12–18 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 3.5, "max": 5, "unit": "kg", "context": "typical adults; large breeds such as the Maine Coon can exceed 8 kg", "display": "3.5–5 kg (8–11 lb)"},
+    "height": {"min": 23, "max": 25, "unit": "cm", "label": "Shoulder height", "display": "23–25 cm (9–10 in)"},
+    "speed": {"min": 48, "max": 48, "unit": "km/h", "verb": "run", "context": "short sprints", "display": "48 km/h (30 mph)"},
+    "gestationPeriod": {"min": 63, "max": 65, "unit": "days", "label": "Gestation", "display": "63–65 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "An obligate carnivore that needs animal protein and nutrients such as taurine; pets eat meat-based cat food, while hunting cats take mice, voles, small birds, lizards and insects.",
+    "habitat": ["Homes", "Urban areas", "Farmland", "Scrub and woodland edges"],
+    "range": "Worldwide alongside people on every continent except Antarctica, with feral populations on many islands.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "The cat is a small domesticated carnivore descended from the African wildcat, which began living alongside farming communities in the Near East roughly 10,000 years ago. Cats were valued for killing rodents and have changed far less from their wild ancestor than dogs have. They are solitary hunters with retractable claws, excellent night vision, sharp hearing and a flexible spine that helps them twist in mid-air and land on their feet. Hundreds of millions of cats now live worldwide as pets, farm cats and feral animals, and free-roaming cats are a serious threat to birds and small wildlife in many regions.",
+  "answers": {
+    "lifespan": "Pet cats live 12–18 years on average, and many reach their early twenties. Indoor cats live longest because they avoid traffic, fights and infectious disease, while unowned feral cats often survive only a few years. The oldest cat on record, Creme Puff of Texas, lived to 38.",
+    "weight": "A healthy adult cat weighs 3.5–5 kg (8–11 lb). Small breeds such as the Singapura can weigh under 3 kg, while big breeds such as the Maine Coon and Ragdoll often reach 6–8 kg or more. Males are usually heavier than females, and obesity is common in indoor pets.",
+    "size": "A cat stands about 23–25 cm (9–10 in) tall at the shoulder. Head-and-body length averages around 46 cm (18 in), with a tail of roughly 30 cm (12 in). Size varies by breed, but far less than it does in dogs.",
+    "speed": "A cat can run at about 48 km/h (30 mph) over a short distance. Cats are sprinters and ambush hunters rather than endurance runners, so they tire within seconds. They can also jump roughly five to six times their own body length.",
+    "gestation": "A cat is pregnant for 63–65 days, or about nine weeks. Litters usually contain three to five kittens, which are born blind and deaf and open their eyes after a week or so. Females can become pregnant from about four to six months old and may have several litters a year.",
+    "diet": "Cats are obligate carnivores and must eat meat. They need nutrients found in animal tissue, including taurine, arachidonic acid and preformed vitamin A, and cannot thrive on a vegetarian diet. Pet cats eat commercial cat food, while hunting cats catch mice, voles, small birds, reptiles and insects.",
+    "habitat": "Cats live wherever people do, on every continent except Antarctica. Most are pets in homes and gardens, but farm and feral cats occupy cities, farmland, scrub, woodland edges and remote islands. Their wild ancestor, the African wildcat, comes from dry, open country in Africa and the Near East.",
+    "conservation": "The cat is a domesticated animal and is not assessed by the IUCN Red List. The global population is in the hundreds of millions. Cats are a conservation concern for other species: free-roaming and feral cats kill very large numbers of birds and small mammals and have contributed to island extinctions."
+  },
+  "funFacts": [
+    "Cats sleep for roughly 12–16 hours a day and are most active around dawn and dusk.",
+    "A cat's purr is produced by rapid twitching of muscles in the larynx, and cats purr when content but sometimes also when injured or stressed.",
+    "Cats cannot taste sweetness because the gene for a key sweet-taste receptor is broken in the cat family.",
+    "Adult cats rarely meow at each other; meowing is used mostly to communicate with people.",
+    "A falling cat uses its righting reflex to rotate its body in mid-air so that it lands feet first."
+  ],
+  "relatedAnimals": ["dog", "lion", "tiger", "bobcat", "rabbit"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How old is a cat in human years?", "answer": "A one-year-old cat is roughly equal to a 15-year-old person, and a two-year-old cat to a 24-year-old. After that, each cat year is usually counted as about four human years, so a 10-year-old cat is comparable to a person in their mid-fifties."},
+    {"question": "Why do cats purr?", "answer": "Cats purr mainly when they are relaxed and content, such as when being stroked or nursing kittens. They also purr when frightened, in pain or giving birth, so purring seems to be a general self-soothing and communication signal rather than simply a sign of happiness."},
+    {"question": "What is a group of cats called?", "answer": "A group of cats is called a clowder, and a group of kittens born together is a litter. Although cats hunt alone, feral cats often form loose colonies of related females around a reliable food source."},
+    {"question": "Do indoor cats live longer than outdoor cats?", "answer": "Yes. Indoor cats commonly live 12–18 years or more, while cats that roam freely face cars, fights, predators, poisons and infectious diseases, and tend to die years earlier. Unowned feral cats have the shortest lives of all."},
+    {"question": "Can cats see in the dark?", "answer": "Cats cannot see in total darkness, but they need only about one-sixth of the light humans do. Large pupils, many rod cells and a reflective layer behind the retina called the tapetum lucidum give them excellent vision in dim light."}
+  ],
+  "meta": {
+    "title": "Cat Facts: Lifespan, Weight, Speed & Gestation",
+    "description": "Pet cats live 12–18 years, weigh 3.5–5 kg (8–11 lb), sprint at 48 km/h and are pregnant for about 9 weeks. Diet, size and more facts about Felis catus.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Felis_catus"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Felis_catus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Felis_catus"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q20980826"}
+    ]
+  }
+}

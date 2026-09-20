@@ -1,0 +1,63 @@
+{
+  "slug": "bumblebee",
+  "commonName": "Buff-Tailed Bumblebee",
+  "scientificName": "Bombus terrestris",
+  "alternateNames": ["Large earth bumblebee", "Bumble bee"],
+  "nameSingular": "buff-tailed bumblebee",
+  "namePlural": "buff-tailed bumblebees",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Insecta", "classSlug": "invertebrates", "order": "Hymenoptera", "family": "Apidae", "genus": "Bombus", "species": "B. terrestris"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 6, "unit": "weeks", "context": "adult workers; queens live about a year, including winter hibernation", "display": "2–6 weeks (workers); queens about 1 year"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 0.1, "max": 0.9, "unit": "g", "context": "approximate; workers about 0.1–0.35 g, queens about 0.6–0.9 g", "display": "0.1–0.9 g (0.004–0.03 oz)"},
+    "height": {"min": 11, "max": 23, "unit": "mm", "label": "Body length", "display": "11–23 mm (0.4–0.9 in)"},
+    "speed": {"min": 11, "max": 16, "unit": "km/h", "verb": "fly", "context": "typical foraging flight, about 3–4.5 m/s; approximate", "display": "11–16 km/h (7–10 mph)"},
+    "gestationPeriod": {"min": 4, "max": 6, "unit": "days", "label": "Egg development", "display": "4–6 days"}
+  },
+  "ecology": {
+    "diet": "Nectarivore",
+    "dietDetails": "Nectar for energy and pollen for protein, gathered from a very wide range of wild flowers, garden plants and crops such as clover, lavender, fruit blossom and tomato. Larvae are fed pollen and nectar.",
+    "habitat": ["Grassland", "Farmland", "Gardens and parks", "Woodland edges", "Scrub"],
+    "range": "Europe, North Africa and western Asia; introduced to New Zealand, Tasmania, Japan and Chile, from where it has spread into Argentina.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The buff-tailed bumblebee is one of the largest and most common bumblebees in Europe, named for the dull yellow-buff tip of the queen's abdomen. It is a social insect with an annual cycle: a queen emerges from hibernation in early spring, founds a nest underground, often in an old rodent burrow, and raises a colony that can grow to several hundred workers. New queens and males are produced in summer, and only mated new queens survive the winter. The species is reared commercially on a huge scale to pollinate greenhouse tomatoes and other crops.",
+  "answers": {
+    "lifespan": "Buff-tailed bumblebee workers live about 2–6 weeks as adults, while queens live about a year. A queen's year includes six months or more of hibernation underground. The colony itself is annual: the old queen, workers and males all die by autumn, leaving only newly mated queens to start again the following spring.",
+    "weight": "Buff-tailed bumblebees weigh roughly 0.1–0.9 g (0.004–0.03 oz). Workers vary widely in size within one nest, from about 0.1 to 0.35 g, and queens are far heavier at about 0.6–0.9 g. A forager can carry a load of pollen and nectar that is a large fraction of her own weight.",
+    "size": "Buff-tailed bumblebees are 11–23 mm (0.4–0.9 in) long. Workers measure 11–17 mm, males 14–16 mm and queens 20–23 mm, making the queen one of the biggest bumblebees in Europe. Workers have a whiter tail than the queen, which makes them hard to separate from white-tailed bumblebees.",
+    "speed": "Bumblebees typically fly at about 11–16 km/h (7–10 mph) while foraging. Tracking studies show they can travel faster over longer distances, and workers of this species regularly forage more than a kilometer from the nest. Their wings beat at roughly 130–200 times per second.",
+    "gestation": "Buff-tailed bumblebee eggs hatch in about 4–6 days. The larvae feed on pollen and nectar for around two weeks, then spin cocoons and pupate for about two more. In total it takes four to five weeks to go from egg to adult, and the queen incubates the first brood with her own body heat.",
+    "diet": "Buff-tailed bumblebees eat nectar and pollen from a wide variety of flowers. They have fairly short tongues, so they prefer open or shallow flowers, and they often bite holes at the base of deep flowers to steal nectar without pollinating them. Unlike honey bees, they store only a few days' worth of food.",
+    "habitat": "Buff-tailed bumblebees live in flower-rich lowland habitats, including grassland, farmland, woodland edges, parks and gardens, across Europe, North Africa and western Asia. They nest underground, frequently in abandoned mouse or vole burrows. In mild cities of southern Britain, some colonies now stay active through the winter.",
+    "conservation": "The buff-tailed bumblebee has no global IUCN assessment, so it is treated here as Not Evaluated; the European regional Red List rates it Least Concern. It is one of the few bumblebees doing well. Where it has been introduced, notably South America and Japan, it is an invasive species that harms native bumblebees."
+  },
+  "funFacts": [
+    "Bumblebees perform buzz pollination, vibrating their flight muscles to shake pollen loose from flowers such as tomato, which honey bees cannot do.",
+    "Commercially reared buff-tailed bumblebee colonies are shipped around the world to pollinate greenhouse tomatoes.",
+    "Bumblebees can warm their flight muscles by shivering, which lets them fly in cooler weather than most other bees.",
+    "In laboratory experiments, buff-tailed bumblebees learned to pull strings and roll small balls to earn a sugar reward, and other bees learned by watching them.",
+    "The claim that science says bumblebees should not be able to fly is a myth; their wings generate lift with small air vortices rather than acting like fixed airplane wings."
+  ],
+  "relatedAnimals": ["honey-bee", "common-wasp", "asian-giant-hornet", "monarch-butterfly", "black-garden-ant"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do bumblebees sting?", "answer": "Female bumblebees, meaning queens and workers, can sting, and because the stinger is smooth they can sting more than once without dying. They are not aggressive and usually sting only when squeezed or when the nest is disturbed. Males have no stinger."},
+    {"question": "Do bumblebees make honey?", "answer": "Not in any amount people could harvest. Bumblebees store small quantities of nectar in wax pots inside the nest, enough to last the colony a few days of bad weather. Because the colony dies each autumn, there is no need for large winter stores."},
+    {"question": "Where do bumblebees nest?", "answer": "Buff-tailed bumblebees nest underground, most often in old mouse or vole burrows, and sometimes under sheds, decking or compost heaps. A mature nest can hold several hundred workers. The nest is used for one season only and is abandoned by autumn."},
+    {"question": "What should I do with a bumblebee that cannot fly?", "answer": "A grounded bumblebee is often just cold or short of energy. Moving it onto a flower is usually enough. As a last resort, a drop of plain white sugar mixed half and half with water can give it a boost; do not offer honey, which may carry bee diseases."},
+    {"question": "How many bees are in a bumblebee colony?", "answer": "Buff-tailed bumblebee colonies are among the largest of any bumblebee and can reach 300–400 workers, occasionally more. That is still tiny compared with a honey bee hive, which can contain 20,000–60,000 bees in summer."}
+  ],
+  "meta": {
+    "title": "Buff-Tailed Bumblebee Facts: Lifespan, Size, Sting & Diet",
+    "description": "Buff-tailed bumblebee workers live 2–6 weeks and queens about a year. They measure 11–23 mm and fly 11–16 km/h. Nesting, diet, sting and status.",
+    "sources": [
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Bombus_terrestris/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bombus_terrestris"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q752274"}
+    ]
+  }
+}

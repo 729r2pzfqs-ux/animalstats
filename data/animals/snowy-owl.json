@@ -1,0 +1,65 @@
+{
+  "slug": "snowy-owl",
+  "commonName": "Snowy Owl",
+  "scientificName": "Bubo scandiacus",
+  "alternateNames": ["Arctic owl", "Great white owl", "Polar owl"],
+  "nameSingular": "snowy owl",
+  "namePlural": "snowy owls",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Strigiformes", "family": "Strigidae", "genus": "Bubo", "species": "B. scandiacus"},
+  "facts": {
+    "lifespan": {"min": 9, "max": 10, "unit": "years", "context": "average in the wild; the oldest banded wild bird was nearly 24", "display": "about 10 years"},
+    "lifespanCaptivity": {"min": 20, "max": 28, "unit": "years", "context": "in human care", "display": "20–28 years"},
+    "weight": {"min": 1.6, "max": 3, "unit": "kg", "context": "adults; females are heavier than males", "display": "1.6–3 kg (3.5–6.6 lb)"},
+    "height": {"min": 1.25, "max": 1.5, "unit": "m", "label": "Wingspan", "display": "1.25–1.5 m (4.1–4.9 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 31, "max": 33, "unit": "days", "label": "Incubation", "display": "about 32 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Chiefly lemmings and voles on the breeding grounds; also Arctic hares, ptarmigan, ducks, geese, seabirds and fish, and in winter rabbits, rats, grebes and other waterbirds.",
+    "habitat": ["Arctic tundra", "Coastal dunes and marshes", "Prairies and farmland (winter)", "Airfields (winter)"],
+    "range": "Breeds on Arctic tundra around the North Pole in Alaska, Canada, Greenland, Scandinavia and Russia; winters south to southern Canada, the northern United States, northern Europe and Central Asia.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing",
+    "population": "about 14,000–28,000 mature individuals (IUCN estimate)"
+  },
+  "description": "The snowy owl is a large white owl of the Arctic tundra, with yellow eyes, a rounded head without ear tufts and thickly feathered feet. Old males can be almost pure white, while females and young birds are marked with dark bars. Unlike most owls it is often active in daylight, a necessity in the continuous light of the Arctic summer. Its breeding success follows the boom-and-bust cycles of lemmings, and in some winters large numbers move south into southern Canada and the northern United States in events called irruptions. It is the heaviest owl in North America.",
+  "answers": {
+    "lifespan": "Snowy owls live about 10 years on average in the wild and 20–28 years in human care. The oldest banded wild bird on record was close to 24 years old. Young owls wintering far south of the Arctic often die from starvation, vehicle and aircraft collisions, or electrocution.",
+    "weight": "Snowy owls weigh 1.6–3 kg (3.5–6.6 lb), making them the heaviest owls in North America. Females are heavier than males, averaging a little over 2 kg against about 1.8 kg. Dense plumage that extends to the toes adds bulk and insulation against Arctic cold.",
+    "size": "A snowy owl has a wingspan of 1.25–1.5 m (4.1–4.9 ft) and a body length of 52–71 cm (20–28 in). Females are larger than males. In North America it is about the same length as the great horned owl but heavier, and only the great gray owl is longer.",
+    "speed": null,
+    "gestation": "Snowy owl eggs hatch after about 32 days of incubation. The female lays 3–11 eggs in a shallow scrape on a tundra mound, with clutch size depending on how many lemmings are available, and she alone incubates while the male brings food. In years when lemmings are scarce, pairs may not breed at all.",
+    "diet": "Snowy owls are carnivores that feed mainly on lemmings and voles, and one adult may eat more than 1,600 lemmings in a year. They are also capable hunters of larger prey, including ptarmigan, ducks, geese, seabirds and Arctic hares. In winter they take whatever is available, from rats to grebes.",
+    "habitat": "Snowy owls breed on open, treeless Arctic tundra around the top of the world, nesting on low ridges and mounds with a wide view. In winter many move south to landscapes that resemble tundra: prairies, farm fields, lake shores, coastal dunes, marshes and airports. They perch on the ground, fence posts or buildings.",
+    "conservation": "The snowy owl is listed as Vulnerable on the IUCN Red List, and its population is decreasing. It was moved up from Least Concern in 2017, when new estimates put the global population far below the roughly 200,000 once assumed. Threats include climate-driven changes to lemming cycles and tundra habitat, plus collisions and electrocution on wintering grounds."
+  },
+  "funFacts": [
+    "Hedwig, Harry Potter's owl, is a snowy owl. She is female in the story, but the nearly pure white birds used in the films were males.",
+    "Snowy owls hunt by day as well as by night, because the Arctic summer has 24 hours of daylight.",
+    "Their feet are covered in dense feathers right down to the claws, like built-in snow boots.",
+    "In irruption winters, snowy owls have turned up as far south as Florida, Texas and Bermuda.",
+    "Clutch size tracks the food supply: a pair may lay eleven eggs in a lemming boom and none at all after a crash."
+  ],
+  "relatedAnimals": ["great-horned-owl", "barn-owl", "arctic-fox", "polar-bear", "peregrine-falcon", "reindeer"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are snowy owls endangered?", "answer": "Snowy owls are classed as Vulnerable, one step below Endangered, on the IUCN Red List. The 2017 assessment estimated only about 14,000–28,000 mature birds worldwide, far fewer than previously thought, and the trend is downward. They are legally protected in the United States and Canada."},
+    {"question": "Why are snowy owls white?", "answer": "White plumage camouflages snowy owls against snow and pale tundra. Males grow whiter with age, and some old males are almost unmarked. Females and young birds keep dark barring, which helps conceal a female sitting on a ground nest among rocks and patchy snow."},
+    {"question": "Where can you see a snowy owl in the United States?", "answer": "In winter, look in open country across the northern states, especially the Great Lakes shores, the northern Great Plains, New England beaches and airports. Numbers vary widely from year to year. In irruption winters, such as 2013–2014, birds appear much farther south than usual."},
+    {"question": "How can you tell a male snowy owl from a female?", "answer": "Adult males are whiter, often with only a few dark flecks, while females have heavy dark barring on the back, wings and belly and are larger. Young males can look like females, so very white birds are reliably male but barred birds are harder to sex."},
+    {"question": "Do snowy owls hoot?", "answer": "Yes. Males give a deep, hoarse, booming 'hoo, hoo' on the breeding grounds that can carry several kilometers across open tundra. Away from the nest snowy owls are mostly silent, though they bark, cackle and clap their bills when threatened."}
+  ],
+  "meta": {
+    "title": "Snowy Owl Facts: Size, Weight, Lifespan, Diet & Range",
+    "description": "Snowy owls weigh 1.6–3 kg (3.5–6.6 lb), have a 1.25–1.5 m wingspan and live about 10 years in the wild. Arctic diet, irruptions and Vulnerable status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Bubo%20scandiacus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Bubo_scandiacus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Bubo_scandiacus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Snowy_owl"}
+    ]
+  }
+}

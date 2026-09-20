@@ -1,0 +1,64 @@
+{
+  "slug": "american-robin",
+  "commonName": "American Robin",
+  "scientificName": "Turdus migratorius",
+  "alternateNames": ["Robin", "Robin redbreast"],
+  "nameSingular": "American robin",
+  "namePlural": "American robins",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Passeriformes", "family": "Turdidae", "genus": "Turdus", "species": "T. migratorius"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 6, "unit": "years", "context": "in the wild; average is about 2 years, and the banding record is nearly 14", "display": "2–6 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 59, "max": 94, "unit": "g", "context": "adults; average about 77 g", "display": "59–94 g (2.1–3.3 oz)"},
+    "height": {"min": 20, "max": 28, "unit": "cm", "label": "Length", "display": "20–28 cm (8–11 in)"},
+    "speed": {"min": 32, "max": 58, "unit": "km/h", "verb": "fly", "context": "level flight, including migration", "display": "32–58 km/h (20–36 mph)"},
+    "gestationPeriod": {"min": 12, "max": 14, "unit": "days", "label": "Incubation", "display": "12–14 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Earthworms, beetle grubs, caterpillars, snails and other invertebrates in spring and summer; mostly fruit and berries such as juniper, holly, dogwood, sumac and crabapple in fall and winter.",
+    "habitat": ["Lawns and gardens", "Woodland", "Parks", "Farmland", "Mountain forest"],
+    "range": "Breeds across North America from Alaska and Canada to Mexico; many winter in the southern United States, Mexico and the Caribbean.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The American robin is a large North American thrush with a gray-brown back, dark head, broken white eye ring and warm orange-red breast. It is one of the continent's most abundant and familiar birds, often seen running and stopping across lawns as it hunts earthworms, and its caroling song at dawn is a classic sign of spring. European settlers named it after the much smaller, unrelated European robin because of the similar breast color. Robins can raise two or three broods a year, and the female's unmarked blue eggs gave their name to the color robin's-egg blue.",
+  "answers": {
+    "lifespan": "American robins live about 2 years on average in the wild, and birds that get through their first year often live 5–6 years. Only around a quarter of fledglings survive to November of their first year. The oldest known wild robin was 13 years and 11 months old.",
+    "weight": "An adult American robin weighs 59–94 g (2.1–3.3 oz), with an average of about 77 g. Males and females are similar in weight. It is the largest thrush in North America and weighs roughly four times as much as a European robin.",
+    "size": "American robins are 20–28 cm (8–11 in) long with a wingspan of 31–41 cm (12–16 in). Bird guides often use the robin as a size reference: bigger than a sparrow or bluebird, smaller than a crow. Males are on average slightly larger and more richly colored.",
+    "speed": "American robins fly at about 32–58 km/h (20–36 mph) in level flight. Migrating flocks travel mostly by day and tend to move north in spring as the average daily temperature reaches about 2–3°C (around 37°F), when the ground thaws and worms become available.",
+    "gestation": "American robin eggs hatch after 12–14 days of incubation. The female builds a mud-and-grass cup nest, lays three to five sky-blue eggs and incubates them herself. Both parents feed the chicks, which leave the nest about 13 days after hatching. Pairs commonly raise two or three broods a season.",
+    "diet": "American robins are omnivores that eat earthworms, insects and snails in spring and summer and mostly fruit and berries in fall and winter. Invertebrates make up around 40 percent of the yearly diet and fruit about 60 percent. They find worms mainly by sight, tilting the head to look.",
+    "habitat": "American robins live almost anywhere in North America with open ground for feeding and trees or shrubs for nesting: lawns, parks, farmland, woodlands, mountain forests and tundra edges. They breed from Alaska to Mexico. In winter many move south or gather in flocks in wooded areas with fruit.",
+    "conservation": "The American robin is listed as Least Concern on the IUCN Red List, with a population estimated in the hundreds of millions and increasing. Because robins feed on lawns, they are vulnerable to pesticide poisoning and were an early indicator of DDT's harm in the 1950s and 1960s."
+  },
+  "funFacts": [
+    "The American robin is the state bird of Connecticut, Michigan and Wisconsin.",
+    "Robins that eat fermented berries in late winter, or large amounts of honeysuckle berries, sometimes become intoxicated and stumble around.",
+    "Winter roosts of American robins can contain tens of thousands to a quarter of a million birds.",
+    "The female shapes the inside of the nest by pressing her body into wet mud, then lines it with fine dry grass.",
+    "Robins are among the first birds to sing at dawn and the last to stop at dusk, and they often sing at night near street lights."
+  ],
+  "relatedAnimals": ["northern-cardinal", "american-crow", "hummingbird", "pigeon", "earthworm", "common-swift"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do American robins migrate or stay for the winter?", "answer": "Both. Most robins from Canada and the northern United States move south in fall, but many stay in the north all winter. They are less visible because they leave lawns, form flocks, stop singing and feed on berries in woods rather than on worms."},
+    {"question": "Why are robin eggs blue?", "answer": "Robin eggs are blue because of biliverdin, a pigment deposited on the shell as the egg forms in the female. Research suggests brighter blue eggs signal a healthier female, and male robins have been found to feed chicks more diligently when the eggs were more vividly colored."},
+    {"question": "What is the difference between an American robin and a European robin?", "answer": "They are unrelated birds that share only a reddish breast. The American robin is a 25 cm thrush with a gray back and brick-orange belly. The European robin is a 14 cm Old World flycatcher with an orange face and breast. Colonists named the American bird after the one from home."},
+    {"question": "Can robins hear worms underground?", "answer": "Robins find worms mainly by sight, spotting the tip of a worm in its burrow or tiny movements of soil. Experiments suggest they can also use hearing to detect worms moving just below the surface. The familiar head tilt is mostly to aim one eye at the ground."},
+    {"question": "How long do baby robins stay in the nest?", "answer": "Baby robins stay in the nest for about 13 days after hatching. When they leave, they cannot fly well and spend up to two more weeks on the ground and in low branches while the parents, mainly the father, keep feeding them. A fledgling on the ground usually does not need rescuing."}
+  ],
+  "meta": {
+    "title": "American Robin Facts: Lifespan, Size, Eggs, Diet & Range",
+    "description": "American robins weigh 59–94 g, measure 20–28 cm (8–11 in) and live about 2 years on average, up to 14. Eggs, nesting, migration and diet explained.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Turdus%20migratorius&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Turdus_migratorius/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Turdus_migratorius"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/American_robin"}
+    ]
+  }
+}

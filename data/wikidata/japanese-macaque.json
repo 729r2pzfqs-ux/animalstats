@@ -1,0 +1,40 @@
+{
+  "slug": "japanese-macaque",
+  "commonName": "Japanese Macaque",
+  "scientificName": "Macaca fuscata",
+  "classSlug": "mammals",
+  "aliases": [
+    "snow monkey"
+  ],
+  "qid": "Q191781",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Japanese macaque",
+  "taxonomy": {
+    "species": "Macaca fuscata",
+    "genus": "Macaca",
+    "family": "Cercopithecidae",
+    "order": "Primates",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "14",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "180",
+      "unit": "day",
+      "sex": null
+    },
+    {
+      "property": "height",
+      "amount": "95",
+      "unit": "cm",
+      "sex": null
+    }
+  ]
+}

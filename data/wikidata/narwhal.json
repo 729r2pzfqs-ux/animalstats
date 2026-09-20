@@ -1,0 +1,31 @@
+{
+  "slug": "narwhal",
+  "commonName": "Narwhal",
+  "scientificName": "Monodon monoceros",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q159426",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Narwhal",
+  "taxonomy": {
+    "species": "Monodon monoceros",
+    "genus": "Monodon",
+    "family": "Monodontidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "80",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "1",
+      "unit": "year",
+      "sex": null
+    }
+  ]
+}

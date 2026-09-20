@@ -1,0 +1,35 @@
+{
+  "slug": "asian-elephant",
+  "commonName": "Asian Elephant",
+  "scientificName": "Elephas maximus",
+  "classSlug": "mammals",
+  "aliases": [
+    "indian elephant",
+    "elephant"
+  ],
+  "qid": "Q133006",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Asian elephant",
+  "taxonomy": {
+    "species": "Elephas maximus",
+    "genus": "Elephas",
+    "family": "Elephantidae",
+    "order": "Proboscidea",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "95",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "22",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

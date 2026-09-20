@@ -1,0 +1,64 @@
+{
+  "slug": "manatee",
+  "commonName": "West Indian Manatee",
+  "scientificName": "Trichechus manatus",
+  "alternateNames": ["Manatee", "Sea cow", "Florida manatee", "Antillean manatee", "American manatee"],
+  "nameSingular": "West Indian manatee",
+  "namePlural": "West Indian manatees",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Sirenia", "family": "Trichechidae", "genus": "Trichechus", "species": "T. manatus"},
+  "facts": {
+    "lifespan": {"min": 30, "max": 40, "unit": "years", "context": "potential in the wild; many die younger from boat strikes and cold stress", "display": "30–40 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 400, "max": 600, "unit": "kg", "context": "typical adults; the largest exceed 1,500 kg", "display": "400–600 kg (880–1,320 lb)"},
+    "height": {"min": 2.7, "max": 3.5, "unit": "m", "label": "Length", "display": "2.7–3.5 m (8.9–11.5 ft)"},
+    "speed": {"min": 24, "max": 24, "unit": "km/h", "verb": "swim", "context": "short bursts; normally cruises at 5–8 km/h", "display": "up to 24 km/h (15 mph)"},
+    "gestationPeriod": {"min": 365, "max": 425, "unit": "days", "label": "Gestation", "display": "12–14 months"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Seagrasses such as turtle grass and manatee grass, freshwater plants like hydrilla and water hyacinth, algae and mangrove leaves; an adult eats around 4–10 percent of its body weight in plants daily.",
+    "habitat": ["Shallow coastal waters", "Estuaries", "Rivers and canals", "Warm springs", "Seagrass beds"],
+    "range": "Warm coastal and inland waters from the southeastern United States, mainly Florida, through the Gulf of Mexico, Caribbean and Central America to northeastern Brazil.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The West Indian manatee is a large, slow-moving, plant-eating marine mammal of warm, shallow waters in the western Atlantic, and the biggest of the three living manatee species. This page covers the whole species, which has two subspecies: the Florida manatee and the Antillean manatee of the Caribbean and Central and South America. Manatees have gray, wrinkled skin, a paddle-shaped tail, two front flippers with fingernail-like nails, and a flexible, bristly upper lip for gathering plants. Despite the nickname sea cow, their closest living relatives are elephants and hyraxes. They move freely between salt, brackish and fresh water but cannot tolerate cold.",
+  "answers": {
+    "lifespan": "West Indian manatees can live 30–40 years in the wild, and some may reach 50 or 60. Many die far younger, however, because of boat collisions, cold stress, toxic red tides and starvation. The longevity record belongs to Snooty, a captive Florida manatee who died in 2017 aged 69.",
+    "weight": "Adult West Indian manatees typically weigh 400–600 kg (880–1,320 lb). Females tend to be larger than males, and the heaviest individuals on record exceeded 1,500 kg. In spite of their rounded shape they carry relatively little insulating fat, which is one reason they are so sensitive to cold.",
+    "size": "West Indian manatees are usually 2.7–3.5 m (8.9–11.5 ft) long, averaging about 3 m, and the largest reach roughly 4 m. Newborn calves measure 1.2–1.4 m and weigh about 30 kg. Florida manatees are, on average, larger than Antillean manatees.",
+    "speed": "Manatees normally swim at a leisurely 5–8 km/h (3–5 mph) but can reach about 24 km/h (15 mph) in short bursts. They spend most of the day feeding and resting, and their slow pace at the surface is the main reason they are so often hit by boats.",
+    "gestation": "A West Indian manatee is pregnant for 12–14 months. She usually has a single calf, with twins being rare, and the calf nurses underwater from teats behind her flippers for one to two years. Females give birth only every two to five years, so populations grow slowly.",
+    "diet": "West Indian manatees are herbivores that graze on seagrass, freshwater plants, algae and mangrove leaves, eating more than 60 plant species. An adult consumes around 4–10 percent of its body weight each day and feeds for six to eight hours. Its molars are replaced continually as sand wears them down.",
+    "habitat": "West Indian manatees live in warm, shallow coastal waters, estuaries, lagoons, rivers and canals from Florida to Brazil, usually in water 1–5 m deep. They need water above about 20 degrees Celsius, so Florida manatees crowd into natural springs and power plant outflows every winter.",
+    "conservation": "The West Indian manatee is listed as Vulnerable on the IUCN Red List, and both of its subspecies are assessed as Endangered. Threats include boat strikes, loss of seagrass, entanglement, red tides and hunting in parts of the Caribbean. In Florida, more than 1,100 manatees died in 2021, many from starvation after pollution killed seagrass in the Indian River Lagoon."
+  },
+  "funFacts": [
+    "Manatees have only six neck vertebrae rather than the seven found in almost all other mammals, so they must turn the whole body to look around.",
+    "Their teeth are all molars that move slowly forward along the jaw like a conveyor belt and are replaced from behind throughout life.",
+    "Manatees control their buoyancy partly by storing and releasing intestinal gas.",
+    "Columbus recorded seeing three mermaids off Hispaniola in 1493 and noted they were not as beautiful as painted; they were almost certainly manatees.",
+    "A resting manatee can stay underwater for up to about 20 minutes, but it surfaces every three to five minutes when active."
+  ],
+  "relatedAnimals": ["african-elephant", "asian-elephant", "hippopotamus", "bottlenose-dolphin", "walrus", "american-alligator"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are manatees dangerous?", "answer": "No. Manatees are gentle plant-eaters with no biting front teeth and no aggressive behavior toward people, and no attack on a human has ever been recorded. The danger runs the other way: boats, pollution and harassment by people harm manatees."},
+    {"question": "Is it illegal to touch a manatee?", "answer": "In the United States, yes, in practice. Manatees are protected by the Marine Mammal Protection Act, the Endangered Species Act and the Florida Manatee Sanctuary Act, which prohibit harassing, feeding, chasing or disturbing them. Violations can bring heavy fines and even jail time."},
+    {"question": "How many manatees are left?", "answer": "Florida's wildlife agency estimates that the state holds somewhere in the region of 8,000–12,000 manatees. The Antillean subspecies is more scattered and less well counted, and is thought to number only a few thousand across the Caribbean, Central America and South America."},
+    {"question": "What is the difference between a manatee and a dugong?", "answer": "Manatees have a rounded, paddle-shaped tail and live in the Atlantic basin, in both fresh and salt water. Dugongs have a fluked tail like a dolphin's and a downturned snout, grow small tusks, and live only in salt water in the Indian and western Pacific oceans."},
+    {"question": "Why are manatees called sea cows?", "answer": "Manatees are called sea cows because they are large, slow, peaceful animals that spend their days grazing on underwater vegetation, much as cattle graze pasture. They are not related to cows; their nearest living relatives are elephants and hyraxes."}
+  ],
+  "meta": {
+    "title": "Manatee Facts: West Indian Manatee Size, Diet & Lifespan",
+    "description": "West Indian manatees weigh 400–600 kg (880–1,320 lb), grow 2.7–3.5 m long and can live 30–40 years. Diet, speed, gestation, habitat and threats in Florida.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Trichechus%20manatus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Trichechus_manatus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Trichechus_manatus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/West_Indian_manatee"}
+    ]
+  }
+}

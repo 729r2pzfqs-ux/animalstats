@@ -1,0 +1,38 @@
+{
+  "slug": "red-panda",
+  "commonName": "Red Panda",
+  "scientificName": "Ailurus fulgens",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q41960",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Red panda",
+  "taxonomy": {
+    "species": "Ailurus fulgens",
+    "genus": "Ailurus",
+    "family": "Ailuridae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "120",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "4.95",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "135",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

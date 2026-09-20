@@ -1,0 +1,65 @@
+{
+  "slug": "pigeon",
+  "commonName": "Rock Pigeon",
+  "scientificName": "Columba livia",
+  "alternateNames": ["Pigeon", "Rock dove", "Feral pigeon", "Common pigeon", "Homing pigeon"],
+  "nameSingular": "rock pigeon",
+  "namePlural": "rock pigeons",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Columbiformes", "family": "Columbidae", "genus": "Columba", "species": "C. livia"},
+  "facts": {
+    "lifespan": {"min": 3, "max": 6, "unit": "years", "context": "feral and wild birds", "display": "3–6 years"},
+    "lifespanCaptivity": {"min": 10, "max": 15, "unit": "years", "context": "domestic pigeons in human care; some pass 20", "display": "10–15 years"},
+    "weight": {"min": 238, "max": 380, "unit": "g", "context": "adults", "display": "238–380 g (8.4–13.4 oz)"},
+    "height": {"min": 29, "max": 37, "unit": "cm", "label": "Length", "display": "29–37 cm (11–15 in)"},
+    "speed": {"min": 60, "max": 80, "unit": "km/h", "verb": "fly", "context": "sustained level flight; racing pigeons average more with a tailwind", "display": "60–80 km/h (37–50 mph)"},
+    "gestationPeriod": {"min": 17, "max": 19, "unit": "days", "label": "Incubation", "display": "17–19 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Seeds and grain such as corn, wheat, barley and peas, plus some fruit, leaves and the occasional invertebrate. City pigeons also rely heavily on bread, popcorn and other discarded human food.",
+    "habitat": ["Cities and towns", "Sea cliffs", "Rocky gorges", "Farmland", "Bridges and buildings"],
+    "range": "Native to Europe, North Africa and western and southern Asia; feral populations now live in cities on every continent except Antarctica.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The rock pigeon, also called the rock dove, is the wild ancestor of all domestic and city pigeons. Wild birds nest on sea cliffs and in rocky gorges from Europe to South Asia and are pale gray with two black wing bars, an iridescent green-purple neck and a white rump. People domesticated the species at least 5,000 years ago for food, message carrying and sport, and escaped birds founded the feral flocks that now live in towns worldwide, where building ledges stand in for cliffs. Feral pigeons come in many colors. Pure wild-type rock pigeons are becoming scarce because they interbreed with feral birds.",
+  "answers": {
+    "lifespan": "Feral and wild rock pigeons usually live 3–6 years, while domestic pigeons commonly live 10–15 years in captivity. City life is hard on them: predators such as peregrine falcons, disease, cars and poor food keep average lifespans short. Well-kept racing and fancy pigeons occasionally live beyond 20 years.",
+    "weight": "An adult rock pigeon weighs 238–380 g (8.4–13.4 oz). Males are slightly heavier than females, averaging close to 300 g. Some domestic breeds raised for meat, such as the King pigeon, weigh two to three times as much.",
+    "size": "Rock pigeons are 29–37 cm (11–15 in) long with a wingspan of 62–72 cm (24–28 in). They are plump, small-headed birds with short legs. Males are slightly bigger and have a thicker neck with more iridescence, but the sexes look very similar.",
+    "speed": "Rock pigeons fly at about 60–80 km/h (37–50 mph) in sustained level flight. Trained racing pigeons average around 80–97 km/h over long races and have been timed at well over 100 km/h with strong tailwinds. Racing birds can cover 600–1,000 km in a day.",
+    "gestation": "Rock pigeon eggs hatch after 17–19 days of incubation. The female lays two white eggs on a flimsy nest of twigs on a ledge, and both parents share incubation. Chicks, called squabs, fledge at about four weeks. Where food is plentiful, pairs can breed year-round and raise five or more broods.",
+    "diet": "Rock pigeons eat mainly seeds and grain, along with some fruit and green plant material, so they are primarily herbivores. City pigeons supplement this with bread, fries and other scraps. Unlike most birds, pigeons can drink by sucking water up continuously with the bill held down.",
+    "habitat": "Wild rock pigeons live on sea cliffs, in caves and in rocky mountain gorges near open country across Europe, North Africa and Asia. Feral pigeons use buildings, bridges and barns as artificial cliffs and live in cities, towns and farmland on every continent except Antarctica.",
+    "conservation": "The rock pigeon is listed as Least Concern on the IUCN Red List, with a global population in the hundreds of millions. The trend is listed as decreasing, and the main concern is genetic: truly wild rock pigeons are disappearing through interbreeding with feral birds. Feral flocks are controlled as pests in many cities."
+  },
+  "funFacts": [
+    "A homing pigeon named Cher Ami was awarded the French Croix de Guerre for delivering a message that helped save nearly 200 trapped American soldiers in 1918, despite being badly wounded.",
+    "Both male and female pigeons feed their chicks crop milk, a fat- and protein-rich secretion produced in the lining of the crop.",
+    "Pigeons navigate home using the sun, the Earth's magnetic field, smells and visual landmarks such as roads.",
+    "In experiments, pigeons learned to tell paintings by Monet from paintings by Picasso, and to recognize all 26 letters of the alphabet.",
+    "Charles Darwin bred fancy pigeons, and their variety features prominently in the first chapter of On the Origin of Species.",
+    "You rarely see baby pigeons because squabs stay in the nest until they are nearly adult-sized, at about four weeks."
+  ],
+  "relatedAnimals": ["american-crow", "peregrine-falcon", "chicken", "american-robin", "mallard", "brown-rat"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a pigeon and a dove?", "answer": "There is no scientific difference. Pigeons and doves belong to the same family, Columbidae, and the names are used loosely: larger species tend to be called pigeons and smaller ones doves. The rock pigeon is also called the rock dove, and white release doves are usually white domestic pigeons."},
+    {"question": "Do pigeons carry diseases?", "answer": "Pigeons can carry organisms that cause histoplasmosis, cryptococcosis and psittacosis, mostly spread through dust from dried droppings. The risk to the general public from casual contact is low. People cleaning large accumulations of droppings should wear a mask and gloves and dampen the material first."},
+    {"question": "How do homing pigeons find their way home?", "answer": "Homing pigeons use several cues together: a sun compass, sensitivity to the Earth's magnetic field, a map of smells carried on the wind, and familiar landmarks near home. They only fly one way, back to their loft, so messages had to be sent by birds carried to the starting point."},
+    {"question": "Why do pigeons bob their heads?", "answer": "Pigeons bob their heads to stabilize their vision. The head thrusts forward and then stays fixed in space while the body catches up, which keeps the image of the surroundings steady on the eye. Pigeons walking on a treadmill, where the scene does not move, stop bobbing."},
+    {"question": "Do pigeons mate for life?", "answer": "Largely, yes. Rock pigeons are monogamous, and a pair typically stays together for as long as both birds live, sharing nest building, incubation and chick feeding. If one bird dies, the survivor will usually take a new mate."}
+  ],
+  "meta": {
+    "title": "Rock Pigeon Facts: How Long Do Pigeons Live? Size & Speed",
+    "description": "Rock pigeons live 3–6 years in the wild and 10–15 in captivity, weigh 238–380 g and fly at 60–80 km/h. Diet, homing ability, nesting and pigeon vs dove.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Columba%20livia&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Columba_livia/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Columba_livia"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Rock_dove"}
+    ]
+  }
+}

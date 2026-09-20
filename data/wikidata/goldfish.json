@@ -1,0 +1,20 @@
+{
+  "slug": "goldfish",
+  "commonName": "Goldfish",
+  "scientificName": "Carassius auratus",
+  "classSlug": "fish",
+  "aliases": [],
+  "qid": "Q123141",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Goldfish",
+  "taxonomy": {
+    "species": "Carassius auratus",
+    "genus": "Carassius",
+    "family": "Cyprinidae",
+    "order": "Cypriniformes",
+    "class": "Actinopteri",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

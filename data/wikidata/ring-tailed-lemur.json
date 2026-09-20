@@ -1,0 +1,35 @@
+{
+  "slug": "ring-tailed-lemur",
+  "commonName": "Ring-Tailed Lemur",
+  "scientificName": "Lemur catta",
+  "classSlug": "mammals",
+  "aliases": [
+    "lemur"
+  ],
+  "qid": "Q185385",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Ring-tailed lemur",
+  "taxonomy": {
+    "species": "Lemur catta",
+    "genus": "Lemur",
+    "family": "Lemuridae",
+    "order": "Primates",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "60",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "133",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "bull-shark",
+  "commonName": "Bull Shark",
+  "scientificName": "Carcharhinus leucas",
+  "alternateNames": ["Zambezi shark", "Lake Nicaragua shark", "River whaler"],
+  "nameSingular": "bull shark",
+  "namePlural": "bull sharks",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Chondrichthyes", "classSlug": "fish", "order": "Carcharhiniformes", "family": "Carcharhinidae", "genus": "Carcharhinus", "species": "C. leucas"},
+  "facts": {
+    "lifespan": {"min": 12, "max": 16, "unit": "years", "context": "commonly cited wild figure; some ageing studies suggest 25 years or more", "display": "12–16 years"},
+    "lifespanCaptivity": {"min": 30, "max": 30, "unit": "years", "context": "maximum recorded in aquariums", "display": "up to about 30 years"},
+    "weight": {"min": 90, "max": 230, "unit": "kg", "context": "adults; females average about 130 kg and males about 95 kg", "display": "90–230 kg (200–500 lb)"},
+    "height": {"min": 2.1, "max": 3.4, "unit": "m", "label": "Length", "display": "2.1–3.4 m (7–11 ft)"},
+    "speed": {"min": 40, "max": 40, "unit": "km/h", "verb": "swim", "context": "commonly cited estimate for short bursts; not rigorously measured", "display": "about 40 km/h (25 mph)"},
+    "gestationPeriod": {"min": 300, "max": 330, "unit": "days", "label": "Gestation", "display": "10–11 months"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mainly bony fish, along with stingrays, smaller sharks including young bull sharks, sea turtles, dolphins, birds, crustaceans and, in rivers, the occasional land mammal taken at the water's edge.",
+    "habitat": ["Shallow coastal seas", "Estuaries", "Rivers", "Freshwater lakes"],
+    "range": "Warm coastal waters worldwide and far up large rivers, including the Mississippi, Amazon, Zambezi, Ganges and Brisbane rivers, and in Lake Nicaragua.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The bull shark is a stocky, blunt-snouted requiem shark of warm, shallow coasts, best known for its ability to live in fresh water. Special adaptations in its kidneys, liver and a gland near the tail let it adjust the salt balance of its body, so it can travel thousands of kilometers up rivers and spend years in lakes. Females give birth in estuaries and river mouths, where the pups are safer from larger sharks. Its name comes from its thick build and its habit of head-butting prey before biting. Because it hunts in murky shallows close to people, it is considered one of the most dangerous sharks.",
+  "answers": {
+    "lifespan": "Bull sharks are usually said to live 12–16 years in the wild, with females outliving males. That figure is conservative: more recent ageing studies suggest wild bull sharks can pass 25 years, and individuals in aquariums have lived to about 30. Growth is slow, and females in some populations do not breed until they are well into their teens.",
+    "weight": "Adult bull sharks weigh 90–230 kg (200–500 lb). Females are larger, averaging about 130 kg, compared with about 95 kg for males. The heaviest reliably recorded bull sharks have weighed around 315 kg (700 lb). For its length the bull shark is one of the bulkiest sharks.",
+    "size": "Adult bull sharks are 2.1–3.4 m (7–11 ft) long. Females average about 2.4 m and males about 2.25 m, and the largest females reach roughly 3.5–4 m. The body is unusually thick and the snout short and broad, shorter than the width of the mouth. Pups are 55–80 cm long at birth.",
+    "speed": "Bull sharks are commonly said to reach about 40 km/h (25 mph) in short bursts, though this figure is an estimate rather than a measured speed. They normally cruise slowly along the bottom and use a sudden burst, often with a head-butt, to catch prey in murky water.",
+    "gestation": "Bull sharks are pregnant for 10–11 months. Embryos are nourished through a yolk-sac placenta, and a litter holds 1–13 live pups. Females move into estuaries, river mouths and coastal lagoons to give birth, and the young stay in these low-salinity nurseries for several years.",
+    "diet": "Bull sharks are carnivores that eat mostly bony fish, plus stingrays, small sharks, sea turtles, dolphins, birds and crustaceans. They are opportunists and hunt in murky water using a bump-and-bite technique, ramming prey before biting. Young bull sharks are themselves eaten by larger bull sharks.",
+    "habitat": "Bull sharks live in warm, shallow coastal waters worldwide, usually less than 30 m deep, and are the shark most at home in fresh water. They have been found about 4,000 km up the Amazon in Peru and as far up the Mississippi as Illinois, and a population lives in Lake Nicaragua.",
+    "conservation": "The bull shark is listed as Vulnerable on the IUCN Red List, with a decreasing population. Living close to shore exposes it to commercial and recreational fishing, bycatch, shark control nets, pollution and the loss of estuary nurseries. Its fins, meat, skin and liver oil are all traded."
+  },
+  "funFacts": [
+    "Bull sharks have been caught in the Mississippi River as far north as Alton, Illinois, about 1,100 km (700 miles) from the sea.",
+    "A group of bull sharks lived for about 17 years in a lake on a golf course near Brisbane, Australia, after floods washed them in during the 1990s.",
+    "The sharks of Lake Nicaragua were once thought to be a separate freshwater species; tagging showed they are bull sharks that move to and from the Caribbean along the San Juan River.",
+    "Bull sharks in fresh water produce far more dilute urine, up to 20 times as much, to get rid of the excess water their bodies absorb.",
+    "Some researchers believe bull sharks were responsible for some of the 1916 Jersey Shore attacks, several of which took place in a tidal creek."
+  ],
+  "relatedAnimals": ["tiger-shark", "great-white-shark", "hammerhead-shark", "saltwater-crocodile", "nile-crocodile", "whale-shark"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can bull sharks live in fresh water?", "answer": "Yes. Bull sharks are the best-known sharks able to live in fresh water for long periods. Their kidneys, liver and rectal gland adjust how much salt and urea the body retains, letting them move between sea, river and lake. Some individuals spend years in fresh water, though they breed in brackish or salt water."},
+    {"question": "Are bull sharks the most dangerous sharks?", "answer": "Many experts consider bull sharks among the most dangerous sharks to people. They rank third in recorded unprovoked bites after great whites and tiger sharks, and they hunt in shallow, murky water near beaches, river mouths and harbors where people swim. Attacks are still rare overall."},
+    {"question": "How far up rivers do bull sharks go?", "answer": "Bull sharks have been recorded about 4,000 km up the Amazon at Iquitos in Peru and roughly 1,100 km up the Mississippi at Alton, Illinois. They also travel far up the Zambezi, Ganges and many Australian rivers, and reach Lake Nicaragua by way of the San Juan River."},
+    {"question": "Why are they called bull sharks?", "answer": "Bull sharks get their name from their stocky, muscular build, their short, blunt snout and their aggressive, unpredictable behavior. They also tend to head-butt prey before biting it, much like a charging bull."},
+    {"question": "Do bull sharks have the strongest bite of any shark?", "answer": "Pound for pound, possibly. A 2012 study calculated that a large bull shark's bite force, close to 6,000 newtons at the back of the jaw, was the highest for its body size among the sharks tested. Bigger species such as great whites still bite harder in absolute terms."}
+  ],
+  "meta": {
+    "title": "Bull Shark Facts: Size, Lifespan & Freshwater Habitat",
+    "description": "Bull sharks grow 2.1–3.4 m (7–11 ft), weigh 90–230 kg and live 12–16 years or more. Pregnancy lasts 10–11 months. How they survive in rivers and lakes.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Carcharhinus%20leucas&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Carcharhinus_leucas/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Carcharhinus_leucas"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bull_shark"}
+    ]
+  }
+}

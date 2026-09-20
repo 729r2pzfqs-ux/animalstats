@@ -1,0 +1,64 @@
+{
+  "slug": "budgerigar",
+  "commonName": "Budgerigar",
+  "scientificName": "Melopsittacus undulatus",
+  "alternateNames": ["Budgie", "Parakeet", "Shell parakeet", "Common parakeet"],
+  "nameSingular": "budgerigar",
+  "namePlural": "budgerigars",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Psittaciformes", "family": "Psittaculidae", "genus": "Melopsittacus", "species": "M. undulatus"},
+  "facts": {
+    "lifespan": {"min": 5, "max": 10, "unit": "years", "context": "typical for pet birds; wild lifespans are poorly documented and thought to be shorter", "display": "5–10 years"},
+    "lifespanCaptivity": {"min": 5, "max": 10, "unit": "years", "context": "as pets; well-cared-for birds occasionally reach 15 or more", "display": "5–10 years"},
+    "weight": {"min": 30, "max": 40, "unit": "g", "context": "wild-type and ordinary pet birds; large English show budgies weigh 45–65 g", "display": "30–40 g (1.1–1.4 oz)"},
+    "height": {"min": 18, "max": 20, "unit": "cm", "label": "Length", "display": "18–20 cm (7–8 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 18, "max": 21, "unit": "days", "label": "Incubation", "display": "18–21 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Almost entirely the seeds of native grasses such as spinifex and Mitchell grass, along with other seeds picked from the ground, and ripening cereal crops where available.",
+    "habitat": ["Arid and semi-arid grassland", "Open scrubland", "Open woodland", "Farmland near water"],
+    "range": "The drier interior of mainland Australia, away from the coasts, Cape York and Tasmania; kept as a pet worldwide, and feral flocks were once established in Florida.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The budgerigar, known as the budgie or, in the United States, simply the parakeet, is a small, long-tailed, seed-eating parrot from the dry interior of Australia. Wild birds are always light green with a yellow face and black scalloped markings on the head, back and wings; the blues, whites, yellows and grays seen in pet shops come from more than 150 years of selective breeding. Budgerigars are nomadic, following rain and seeding grasses in flocks that can number in the tens of thousands. Cheap, hardy, sociable and able to mimic speech, the budgie is among the most popular pets in the world.",
+  "answers": {
+    "lifespan": "Pet budgerigars typically live 5–10 years, and well-cared-for birds occasionally reach 15 or more. Lifespans in the wild are poorly documented but are thought to be shorter because of predators and drought. In captivity the main things that shorten a budgie's life are seed-only diets, obesity, tumors and lack of exercise.",
+    "weight": "A budgerigar weighs 30–40 g (1.1–1.4 oz), about as much as a slice of bread. That applies to wild birds and ordinary pet-type budgies. English or show budgies, bred for size and fluffy head feathers, are considerably bigger at 45–65 g.",
+    "size": "Budgerigars are 18–20 cm (7–8 in) long, including the long, tapering tail, with a wingspan of about 30 cm (12 in). English show budgies are larger, at around 21–25 cm. Males and females are the same size and are told apart by the color of the cere above the beak.",
+    "speed": null,
+    "gestation": "Budgerigar eggs hatch after 18–21 days of incubation. The hen lays four to eight eggs, one every other day, in a tree hollow or nest box, and starts incubating early, so the chicks hatch a day or two apart. The young leave the nest at about four to five weeks old.",
+    "diet": "Wild budgerigars are herbivores that eat almost nothing but grass seeds, mainly from spinifex, Mitchell grass and other native grasses, picked from the ground. They must drink regularly, so flocks stay within reach of water. Pet budgies do best on pellets or a quality seed mix plus leafy greens and other fresh vegetables.",
+    "habitat": "Wild budgerigars live in the open, dry interior of Australia, in grassland, scrub and lightly wooded country, usually within flying distance of water. They are nomads that move hundreds of kilometers to follow rainfall and fresh grass seed. They nest in hollows of eucalyptus trees, often along creek beds.",
+    "conservation": "The budgerigar is listed as Least Concern on the IUCN Red List, and its wild population is thought to be increasing. Farm dams and stock troughs have added reliable water across inland Australia, which has probably helped the species. Numbers rise and crash naturally with rainfall and drought, and captive birds number in the millions worldwide."
+  },
+  "funFacts": [
+    "A pet budgie named Puck, from California, holds the Guinness World Record for the largest vocabulary of any bird: 1,728 words.",
+    "All wild budgerigars are green and yellow. Blue, white, gray and violet budgies exist only through selective breeding in captivity.",
+    "You can usually sex an adult budgie by its cere, the fleshy band above the beak: blue in males, brown or whitish in females.",
+    "After good rains, wild budgerigars gather in swirling flocks of tens of thousands of birds that move like a single cloud.",
+    "Budgerigar plumage glows under ultraviolet light, and the birds use this fluorescence when choosing mates."
+  ],
+  "relatedAnimals": ["cockatiel", "african-grey-parrot", "scarlet-macaw", "emu", "pigeon"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is a budgie the same as a parakeet?", "answer": "Yes and no. 'Parakeet' is a general word for any small, long-tailed parrot, and there are dozens of parakeet species. The budgerigar is one of them, and in the United States it is the bird people almost always mean when they say parakeet."},
+    {"question": "Can budgies talk?", "answer": "Yes. Budgerigars are among the best talking birds for their size, although their voices are fast, quiet and high-pitched. Males generally learn more words than females, and single birds that get daily one-to-one attention from a young age tend to talk the most."},
+    {"question": "How can you tell if a budgie is male or female?", "answer": "Look at the cere, the band of skin around the nostrils. In most adult males it is smooth and bright blue; in adult females it is pale blue-white, tan or crusty brown, turning darker brown in breeding condition. Young birds and some color varieties are harder to judge."},
+    {"question": "Do budgies need a companion?", "answer": "Budgerigars are flock birds and are generally happier with company. A single budgie can do well if its owner spends plenty of time with it every day, but a bird left alone for long hours is better off with another budgie as a cage mate."},
+    {"question": "Where do budgies come from?", "answer": "Budgerigars are native to the dry inland of Australia, where they have lived for millions of years. The naturalist John Gould brought live birds to Britain in 1840, captive breeding took off within a few decades, and the budgie quickly became a favorite cage bird worldwide."}
+  ],
+  "meta": {
+    "title": "Budgerigar (Budgie) Lifespan, Size, Weight & Diet",
+    "description": "Budgies live 5–10 years as pets, weigh 30–40 g (1.1–1.4 oz) and are 18–20 cm long. Wild budgerigar diet, Australian habitat, talking ability and care facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Melopsittacus%20undulatus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Melopsittacus_undulatus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Melopsittacus_undulatus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Budgerigar"}
+    ]
+  }
+}

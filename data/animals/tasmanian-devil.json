@@ -1,0 +1,64 @@
+{
+  "slug": "tasmanian-devil",
+  "commonName": "Tasmanian Devil",
+  "scientificName": "Sarcophilus harrisii",
+  "alternateNames": ["Devil", "Purinina"],
+  "nameSingular": "Tasmanian devil",
+  "namePlural": "Tasmanian devils",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Dasyuromorphia", "family": "Dasyuridae", "genus": "Sarcophilus", "species": "S. harrisii"},
+  "facts": {
+    "lifespan": {"min": 5, "max": 6, "unit": "years", "context": "in the wild; fewer in areas with facial tumor disease", "display": "5–6 years"},
+    "lifespanCaptivity": {"min": 7, "max": 8, "unit": "years", "context": "in human care", "display": "7–8 years"},
+    "weight": {"min": 4, "max": 12, "unit": "kg", "context": "adults; males average about 8 kg, females about 6 kg", "display": "4–12 kg (9–26 lb)"},
+    "height": {"min": 30, "max": 30, "unit": "cm", "label": "Shoulder height", "display": "about 30 cm (12 in)"},
+    "speed": {"min": 13, "max": 25, "unit": "km/h", "verb": "run", "context": "about 13 km/h over short distances; up to 25 km/h has been reported", "display": "13–25 km/h (8–15 mph)"},
+    "gestationPeriod": {"min": 21, "max": 21, "unit": "days", "label": "Gestation", "display": "about 21 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mostly carrion, especially dead wallabies, wombats, possums and livestock, plus live prey such as small mammals, birds, frogs, reptiles and insects. Devils eat nearly the whole carcass, including fur and bones.",
+    "habitat": ["Dry eucalyptus forest", "Coastal woodland", "Heathland", "Farmland edges"],
+    "range": "Wild only on the island of Tasmania, Australia; a small fenced population has been reintroduced to mainland New South Wales.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The Tasmanian devil is the largest living carnivorous marsupial, a stocky, black, dog-sized predator and scavenger found in the wild only in Tasmania. It died out on the Australian mainland around 3,000 years ago. Devils are nocturnal and mostly solitary, but several may gather at a carcass, where their screeches, growls and gaping displays gave the animal its name. For its size the devil has one of the strongest bites of any living mammal, letting it crush bone. Since the 1990s a contagious cancer called devil facial tumor disease has wiped out most of the wild population.",
+  "answers": {
+    "lifespan": "Tasmanian devils live about 5–6 years in the wild and 7–8 years in human care. In areas affected by devil facial tumor disease most animals now die by the age of two or three, often after breeding only once, which has cut the natural lifespan sharply.",
+    "weight": "Adult Tasmanian devils weigh 4–12 kg (9–26 lb). Males average about 8 kg and females about 6 kg. Devils store fat in their tails, so a plump tail is a good sign that an animal is healthy and well fed.",
+    "size": "A Tasmanian devil stands about 30 cm (12 in) at the shoulder. Head-and-body length is 52–80 cm, with a tail of roughly 23–30 cm. The head and neck are unusually large for the body, which is what gives the devil its powerful bite.",
+    "speed": "Tasmanian devils run at about 13 km/h (8 mph) over short distances, and speeds up to 25 km/h (15 mph) have been reported. They are built for endurance rather than sprinting and may travel 10–20 km in a night with a rolling, loping gait while searching for food.",
+    "gestation": "A Tasmanian devil is pregnant for about 21 days. The mother gives birth to 20–40 rice-grain-sized young, but she has only four teats, so at most four survive. The joeys stay in the pouch for about four months and are weaned at around nine or ten months.",
+    "diet": "Tasmanian devils are carnivores that live mainly on carrion, such as dead wallabies, wombats and possums, and also hunt small animals. They can eat up to 40 percent of their body weight in a single meal and consume bones, fur and organs alike.",
+    "habitat": "Tasmanian devils live throughout Tasmania, in dry eucalyptus forest, coastal woodland, heath and the edges of farmland. They are scarcer in dense wet rainforest and at high altitudes. They shelter by day in dens such as hollow logs, caves and old wombat burrows.",
+    "conservation": "Tasmanian devils are listed as Endangered on the IUCN Red List, and the population is decreasing. Devil facial tumor disease, a cancer spread by biting, has cut numbers by well over half since 1996. Disease-free insurance populations and road-kill reduction are central to recovery work."
+  },
+  "funFacts": [
+    "Devil facial tumor disease is one of only a handful of known contagious cancers; the tumor cells themselves pass from animal to animal through bites.",
+    "Relative to body size, the Tasmanian devil's bite is among the strongest of any living mammal, enough to crush bone.",
+    "A mother gives birth to as many as 40 young, but only the first four to reach a teat can survive.",
+    "A healthy devil stores fat in its tail, just as many other carnivorous marsupials do.",
+    "When stressed, devils release a strong odor, and their ears flush red when they are agitated."
+  ],
+  "relatedAnimals": ["wombat", "koala", "red-kangaroo", "platypus", "honey-badger", "wolverine"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are Tasmanian devils dangerous to humans?", "answer": "Not really. Tasmanian devils are shy and avoid people, and they do not attack humans unprovoked. They can deliver a serious bite if handled or cornered, so wild devils should be left alone, but they pose no real threat to people."},
+    {"question": "Why are they called Tasmanian devils?", "answer": "Early European settlers named them devils after hearing their unearthly screams, coughs and growls at night and seeing their black fur, red ears and wide, tooth-filled gape. Most of the noise is ritual bluff used to settle feeding disputes without serious fights."},
+    {"question": "How many Tasmanian devils are left?", "answer": "Wild numbers have fallen by well over half since facial tumor disease appeared in 1996, and estimates of what remains range from about 10,000 to 25,000 animals. Several hundred more live in disease-free insurance populations in zoos, reserves and on Maria Island."},
+    {"question": "What is devil facial tumor disease?", "answer": "Devil facial tumor disease is a contagious cancer that spreads when devils bite one another. Tumors grow around the mouth and face until the animal can no longer feed, and it usually dies within months. Some wild populations are now showing signs of evolving resistance."},
+    {"question": "Do Tasmanian devils really spin like the cartoon?", "answer": "No. The whirling tornado of the Looney Tunes character Taz is pure invention. Real devils do not spin; they walk and lope on all fours, though an agitated devil may turn in tight circles."}
+  ],
+  "meta": {
+    "title": "Tasmanian Devil Facts: Size, Bite, Lifespan & Diet",
+    "description": "Tasmanian devils weigh 4–12 kg (9–26 lb), stand about 30 cm tall and live just 5–6 years in the wild. Diet, bite, facial tumor disease and Endangered status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Sarcophilus%20harrisii&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Sarcophilus_harrisii/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Sarcophilus_harrisii"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Tasmanian_devil"}
+    ]
+  }
+}

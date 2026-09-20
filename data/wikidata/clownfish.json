@@ -1,0 +1,23 @@
+{
+  "slug": "clownfish",
+  "commonName": "Ocellaris Clownfish",
+  "scientificName": "Amphiprion ocellaris",
+  "classSlug": "fish",
+  "aliases": [
+    "clownfish",
+    "nemo"
+  ],
+  "qid": "Q1126155",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Ocellaris clownfish",
+  "taxonomy": {
+    "species": "Amphiprion ocellaris",
+    "genus": "Amphiprion",
+    "family": "Pomacentridae",
+    "order": "Blenniiformes",
+    "class": "Actinopteri",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

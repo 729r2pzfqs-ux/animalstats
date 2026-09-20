@@ -1,0 +1,65 @@
+{
+  "slug": "black-rhinoceros",
+  "commonName": "Black Rhinoceros",
+  "scientificName": "Diceros bicornis",
+  "alternateNames": ["Black rhino", "Hook-lipped rhinoceros"],
+  "nameSingular": "black rhinoceros",
+  "namePlural": "black rhinoceroses",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Perissodactyla", "family": "Rhinocerotidae", "genus": "Diceros", "species": "D. bicornis"},
+  "facts": {
+    "lifespan": {"min": 30, "max": 40, "unit": "years", "context": "in the wild", "display": "30–40 years"},
+    "lifespanCaptivity": {"min": 35, "max": 45, "unit": "years", "context": "in human care", "display": "35–45 years"},
+    "weight": {"min": 800, "max": 1400, "unit": "kg", "context": "adults; males and females are similar in size", "display": "800–1,400 kg (1,760–3,090 lb)"},
+    "height": {"min": 1.4, "max": 1.8, "unit": "m", "label": "Shoulder height", "display": "1.4–1.8 m (4.6–5.9 ft)"},
+    "speed": {"min": 55, "max": 55, "unit": "km/h", "verb": "run", "context": "short charges", "display": "55 km/h (34 mph)"},
+    "gestationPeriod": {"min": 450, "max": 480, "unit": "days", "label": "Gestation", "display": "15–16 months (450–480 days)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "A browser that eats leaves, twigs, shoots and thorny branches of a wide variety of shrubs and small trees, especially acacias and euphorbias, plus herbs, succulents and fruit.",
+    "habitat": ["Bushland", "Savanna", "Open woodland", "Semi-desert"],
+    "range": "Scattered protected areas in eastern and southern Africa; most live in South Africa, Namibia, Kenya and Zimbabwe, with smaller reintroduced populations in neighboring countries.",
+    "conservationStatus": "Critically Endangered",
+    "iucnCategory": "CR",
+    "populationTrend": "Increasing",
+    "population": "about 6,500 in the wild"
+  },
+  "description": "The black rhinoceros is the smaller of Africa's two rhino species, a browser with a pointed, prehensile upper lip that it uses like a finger to grasp twigs and leaves. It is gray rather than black, carries two keratin horns and holds its head higher than the grazing white rhino. Black rhinos are mostly solitary and have a reputation for being nervous and quick to charge, partly because of their poor eyesight. Poaching for horn caused one of the steepest declines of any large mammal, a fall of more than 95 percent between 1960 and the mid-1990s. Intensive protection has since more than doubled numbers, but the species remains Critically Endangered.",
+  "answers": {
+    "lifespan": "Black rhinos live 30–40 years in the wild and 35–45 years in captivity. Adults have no regular predators other than humans, although lions and spotted hyenas sometimes kill calves. Poaching is the leading unnatural cause of death, and fights between rhinos cause a notable share of natural deaths.",
+    "weight": "Adult black rhinos weigh 800–1,400 kg (1,760–3,090 lb), with males and females similar in size. That is roughly half the weight of a white rhino. Calves weigh about 35–50 kg at birth and can follow their mothers within a few days.",
+    "size": "A black rhino stands 1.4–1.8 m (4.6–5.9 ft) tall at the shoulder and is 3–3.75 m (10–12 ft) long. The front horn is typically about 50 cm (20 in) long, though horns over 1 m have been recorded, and the rear horn is shorter. Some individuals grow a small third horn.",
+    "speed": "Black rhinos can charge at about 55 km/h (34 mph), and they are surprisingly agile, able to turn sharply at speed. They rely on hearing and smell more than sight, and many charges are bluffs by an animal trying to work out what has startled it.",
+    "gestation": "A black rhino is pregnant for 15–16 months, or about 450–480 days. The female gives birth to a single calf, which nurses for up to two years and stays with her for two to four years. Females have a calf only every two and a half to four years, so populations recover slowly.",
+    "diet": "Black rhinos are herbivores that browse on woody plants. They eat leaves, twigs and thorny branches from well over 200 plant species, with a preference for acacias, and cut stems off at a neat angle with their cheek teeth. They can go several days without water in arid areas.",
+    "habitat": "Black rhinos live in bushland, savanna, open woodland and semi-desert in eastern and southern Africa, wherever there are plenty of shrubs to browse, plus water and mud wallows. Nearly all now live in protected reserves and conservancies, mainly in South Africa, Namibia, Kenya and Zimbabwe.",
+    "conservation": "The black rhino is listed as Critically Endangered on the IUCN Red List. Numbers collapsed from an estimated 100,000 in 1960 to about 2,400 in the mid-1990s because of poaching. Protection and translocations have raised the population to about 6,500, and it is slowly increasing. The western subspecies was declared extinct in 2011."
+  },
+  "funFacts": [
+    "Black rhinos are not black: they are gray, and they often take on the color of the local mud they wallow in.",
+    "The pointed upper lip is prehensile and works almost like a finger, curling around branches to pull them into the mouth.",
+    "Namibia's desert-adapted black rhinos survive in one of the driest places rhinos live, ranging over home areas of hundreds of square kilometers.",
+    "Oxpecker birds that ride on rhinos eat ticks and also raise the alarm; Swahili speakers call the bird 'askari wa kifaru', the rhino's guard.",
+    "Black rhinos are sometimes airlifted upside down by helicopter, hanging by their ankles, to move them quickly to new reserves."
+  ],
+  "relatedAnimals": ["white-rhinoceros", "african-elephant", "hippopotamus", "plains-zebra", "african-buffalo", "horse"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How many black rhinos are left?", "answer": "About 6,500 black rhinos remain in the wild, up from a low of roughly 2,400 in the mid-1990s. Most live in South Africa, Namibia, Kenya and Zimbabwe. Three subspecies survive; a fourth, the western black rhino, was declared extinct in 2011."},
+    {"question": "Why is it called a black rhino if it is gray?", "answer": "The name probably arose simply to distinguish it from the white rhino, and perhaps from the dark mud that often coats its skin. Both African rhinos are actually gray. The more reliable difference is the mouth: the black rhino has a hooked lip, the white rhino a wide square one."},
+    {"question": "Are black rhinos aggressive?", "answer": "Black rhinos have a reputation for being more aggressive and unpredictable than white rhinos. They see poorly and may charge at unfamiliar sounds and smells, including vehicles. Many charges are bluffs, but a rhino weighing over a tonne moving at 55 km/h is extremely dangerous."},
+    {"question": "Why are black rhinos critically endangered?", "answer": "The main reason is poaching for their horns, which are in demand in parts of Asia for traditional remedies and as status symbols. Poaching wiped out more than 95 percent of black rhinos between 1960 and 1995. Habitat loss and slow breeding add to the problem."},
+    {"question": "What do black rhinos eat?", "answer": "Black rhinos are browsers, not grazers. They feed on leaves, shoots, twigs and thorny branches of shrubs and small trees, especially acacias, along with herbs and succulents. They feed mostly in the cooler hours of the evening, night and early morning."}
+  ],
+  "meta": {
+    "title": "Black Rhino Facts: Size, Weight, Speed & How Many Left",
+    "description": "Black rhinos weigh 800–1,400 kg (1,760–3,090 lb), stand 1.4–1.8 m tall and charge at 55 km/h (34 mph). About 6,500 survive. Diet, lifespan and threats.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Diceros%20bicornis&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Diceros_bicornis/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Diceros_bicornis"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Black_rhinoceros"}
+    ]
+  }
+}

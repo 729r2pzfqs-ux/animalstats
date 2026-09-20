@@ -1,0 +1,64 @@
+{
+  "slug": "goat",
+  "commonName": "Goat",
+  "scientificName": "Capra hircus",
+  "alternateNames": ["Domestic goat", "Billy goat", "Nanny goat", "Capra aegagrus hircus"],
+  "nameSingular": "goat",
+  "namePlural": "goats",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Bovidae", "genus": "Capra", "species": "C. hircus"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 18, "unit": "years", "context": "with good care; does usually outlive bucks", "display": "15–18 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 20, "max": 140, "unit": "kg", "context": "depends on breed, from pygmy goats to large Boer and Saanen bucks", "display": "20–140 kg (44–310 lb)"},
+    "height": {"min": 40, "max": 90, "unit": "cm", "label": "Shoulder height", "display": "40–90 cm (16–35 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 145, "max": 155, "unit": "days", "label": "Gestation", "display": "about 150 days (5 months)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "A browser that prefers leaves, twigs, shrubs, vines and weeds over grass, and also eats hay and grain on farms; goats sample many plants but do not eat tin cans or rubbish.",
+    "habitat": ["Farmland", "Scrub", "Mountains", "Dry grassland"],
+    "range": "Kept worldwide, especially in Asia and Africa, which hold the great majority of the world's goats; feral herds live on many islands and in Australia.",
+    "conservationStatus": "Domesticated",
+    "iucnCategory": "DOM",
+    "populationTrend": "Stable"
+  },
+  "description": "The goat is a sure-footed, horned ruminant and one of the oldest domesticated animals, bred from the wild bezoar ibex in the mountains of western Asia around 10,000 years ago. Goats are raised for milk, meat, skins and fiber such as mohair and cashmere, and they thrive on sparse, steep or dry land where cattle would struggle. There are more than 300 breeds and over a billion goats worldwide. They are curious, agile climbers with horizontal, rectangular pupils that give a wide field of view, and both sexes of many breeds carry beards and horns.",
+  "answers": {
+    "lifespan": "Goats live 15–18 years with good care. Does generally live longer than bucks, and wethers, which are castrated males, often live longest of all. Heavily used dairy and breeding animals tend to have shorter lives, commonly around 10–12 years.",
+    "weight": "Adult goats weigh 20–140 kg (44–310 lb) depending on breed. Pygmy and Nigerian Dwarf goats weigh roughly 20–35 kg, standard dairy does such as Saanens and Alpines 60–80 kg, and big Boer bucks can reach 110–140 kg. Bucks are heavier than does.",
+    "size": "Goats stand 40–90 cm (16–35 in) tall at the shoulder. Pygmy goats measure about 40–58 cm, while large dairy breeds such as the Saanen and Nubian reach 80–90 cm or slightly more.",
+    "speed": null,
+    "gestation": "A goat is pregnant for about 150 days, or five months, with a normal range of 145–155 days. Twins are the most common litter size, single kids and triplets are also frequent, and kids can stand and nurse within minutes of birth.",
+    "diet": "Goats are herbivores and natural browsers. Given a choice they eat leaves, shrubs, brambles, vines and weeds at head height before they eat grass, which is why they are used to clear brush. Their reputation for eating anything comes from their habit of investigating objects with their lips.",
+    "habitat": "Domestic goats live on farms and rangeland worldwide and cope especially well with dry, rocky and mountainous terrain. About 90 percent are kept in Asia and Africa. Feral goats have established themselves on many islands and across parts of Australia, where they damage native vegetation.",
+    "conservation": "The goat is a domesticated animal with no IUCN Red List status, and there are more than a billion worldwide. Its wild ancestor, the bezoar or wild goat (Capra aegagrus), is listed as Near Threatened. Feral goats are a major threat to native plants on islands such as the Galápagos."
+  },
+  "funFacts": [
+    "Goats have horizontal, rectangular pupils that give them a field of view of roughly 320–340 degrees.",
+    "In Morocco, goats climb argan trees to eat the fruit, sometimes standing on branches several meters above the ground.",
+    "Myotonic or 'fainting' goats stiffen and may topple over when startled because of a hereditary muscle condition; they do not lose consciousness.",
+    "Cashmere comes from the soft winter undercoat of goats, and mohair comes from the Angora goat.",
+    "Goats, like cattle, have no upper front teeth and bite against a hard dental pad."
+  ],
+  "relatedAnimals": ["sheep", "cow", "alpaca", "llama", "pig"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a goat and a sheep?", "answer": "Goats are browsers with tails that point up, and many have beards; sheep are grazers with hanging tails and woolly fleeces. Goats have 60 chromosomes and sheep 54, so hybrids are extremely rare. Goats are also more independent and curious."},
+    {"question": "What is a baby goat called?", "answer": "A baby goat is called a kid, and giving birth is called kidding. An adult female is a doe or nanny, an intact male is a buck or billy, and a castrated male is a wether."},
+    {"question": "Why do goats have rectangular pupils?", "answer": "Horizontal, rectangular pupils give goats a wide panoramic view of the ground around them, which helps a grazing prey animal spot predators. Their eyes also rotate as they lower their heads, keeping the pupils level with the horizon."},
+    {"question": "Do goats really eat everything?", "answer": "No. Goats are actually picky eaters and will refuse dirty or spoiled food. They explore unfamiliar things with their sensitive lips and tongue, which looks like eating, and they may chew paper labels, but they do not eat tin cans."},
+    {"question": "Do fainting goats really faint?", "answer": "Not truly. Myotonic goats have a genetic condition called myotonia congenita that makes their muscles lock for several seconds when they are startled. The goat stays fully conscious and gets back up once its muscles relax."}
+  ],
+  "meta": {
+    "title": "Goat Facts: How Long Goats Live, Size, Weight & Diet",
+    "description": "Goats live 15–18 years, weigh 20–140 kg by breed, stand 40–90 cm at the shoulder and are pregnant for about 150 days. Diet, habitat and more goat facts.",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Goat"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Capra_hircus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Capra_hircus"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q45320358"}
+    ]
+  }
+}

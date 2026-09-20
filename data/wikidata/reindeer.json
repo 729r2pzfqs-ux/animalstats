@@ -1,0 +1,28 @@
+{
+  "slug": "reindeer",
+  "commonName": "Reindeer",
+  "scientificName": "Rangifer tarandus",
+  "classSlug": "mammals",
+  "aliases": [
+    "caribou"
+  ],
+  "qid": "Q39624",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Reindeer",
+  "taxonomy": {
+    "species": "Rangifer tarandus",
+    "genus": "Rangifer",
+    "family": "Cervidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "228",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

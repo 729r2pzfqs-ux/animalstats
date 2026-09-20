@@ -1,0 +1,65 @@
+{
+  "slug": "bonobo",
+  "commonName": "Bonobo",
+  "scientificName": "Pan paniscus",
+  "alternateNames": ["Pygmy chimpanzee", "Gracile chimpanzee"],
+  "nameSingular": "bonobo",
+  "namePlural": "bonobos",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Primates", "family": "Hominidae", "genus": "Pan", "species": "P. paniscus"},
+  "facts": {
+    "lifespan": {"min": 30, "max": 40, "unit": "years", "context": "in the wild; estimated, as few wild bonobos have been followed for life", "display": "30–40 years (estimated)"},
+    "lifespanCaptivity": {"min": 40, "max": 50, "unit": "years", "context": "in human care; some have passed 50", "display": "40–50 years"},
+    "weight": {"min": 30, "max": 60, "unit": "kg", "context": "adults; females average about 33 kg, males about 45 kg", "display": "30–60 kg (66–132 lb)"},
+    "height": {"min": 1.0, "max": 1.2, "unit": "m", "label": "Height", "display": "1.0–1.2 m (3.3–3.9 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 230, "max": 240, "unit": "days", "label": "Gestation", "display": "about 8 months (240 days)"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Fruit makes up more than half the diet, supplemented by leaves, herb stems and pith, seeds, flowers and honey, plus insects, earthworms and occasionally small mammals such as duikers and squirrels.",
+    "habitat": ["Lowland rainforest", "Swamp forest", "Forest-savanna mosaic"],
+    "range": "Found only in the Democratic Republic of the Congo, in the forests of the central Congo Basin south of the Congo River.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing",
+    "population": "at least 15,000–20,000"
+  },
+  "description": "The bonobo is a great ape found only in the rainforests south of the Congo River in the Democratic Republic of the Congo. Along with the chimpanzee, it is the closest living relative of humans. Bonobos are about as tall as chimpanzees but more slender, with longer legs, a black face, pink lips and hair that parts down the middle of the head. Their societies are centered on females, who form strong alliances and outrank males. Bonobos are known for settling tension with social and sexual contact rather than violence, and lethal aggression has not been observed between wild bonobos.",
+  "answers": {
+    "lifespan": "Bonobos are thought to live 30–40 years in the wild and typically 40–50 years in zoos. Wild figures are estimates, because bonobos have been studied for less time than chimpanzees and their home has long been hard to reach. A few captive bonobos have lived well into their 50s.",
+    "weight": "Adult bonobos weigh 30–60 kg (66–132 lb). Females average about 33 kg and males about 45 kg. They weigh roughly the same as chimpanzees but look lighter, with a slimmer chest, narrower shoulders and a smaller head.",
+    "size": "A bonobo stands about 1.0–1.2 m (3.3–3.9 ft) tall when upright, with a head-and-body length of 70–83 cm. The old name pygmy chimpanzee is misleading, since bonobos are not much smaller than chimpanzees. Their legs are proportionally longer, and they walk upright more often.",
+    "speed": null,
+    "gestation": "A bonobo pregnancy lasts about eight months, or roughly 240 days. Females have their first infant at around 13–14 years old and then give birth to a single baby about every four to six years. Sons often stay close to their mothers for life.",
+    "diet": "Bonobos are omnivores that eat mostly fruit. They also rely heavily on the stems and pith of ground herbs, which are abundant year-round, plus leaves, seeds and flowers. They eat insects and occasionally catch small mammals such as forest antelopes, but hunt less than chimpanzees.",
+    "habitat": "Bonobos live only in the lowland rainforests and swamp forests of the central Congo Basin, south of the Congo River in the Democratic Republic of the Congo. The river, which apes do not swim across, separates them completely from chimpanzees and gorillas to the north.",
+    "conservation": "The bonobo is listed as Endangered on the IUCN Red List, with a decreasing population estimated at a minimum of 15,000–20,000. Poaching for bushmeat is the greatest threat, followed by forest loss and disease. Decades of conflict in the DR Congo have made protection difficult."
+  },
+  "funFacts": [
+    "Bonobos were only recognized as a separate species in 1929, from a skull in a Belgian museum that had been labeled as a young chimpanzee.",
+    "In bonobo society a male's rank depends heavily on his mother's rank, and mothers actively help their sons gain mating opportunities.",
+    "Bonobos share food with strangers; in experiments they chose to unlock a door and share a meal with an unfamiliar bonobo.",
+    "Kanzi, a captive bonobo, learned to communicate with hundreds of symbols on a keyboard and to understand spoken English sentences.",
+    "Bonobos and chimpanzees split from a common ancestor roughly one to two million years ago, around the time the Congo River became a barrier."
+  ],
+  "relatedAnimals": ["chimpanzee", "gorilla", "orangutan", "mandrill", "japanese-macaque"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a bonobo and a chimpanzee?", "answer": "Bonobos are slimmer and longer-legged, with dark faces from birth, pink lips and parted hair. Behaviorally, bonobo groups are led by females and are relatively peaceful, while chimpanzee groups are dominated by males, patrol territory and sometimes kill rivals. The two species live on opposite sides of the Congo River."},
+    {"question": "Are bonobos dangerous to humans?", "answer": "Bonobos are less aggressive than chimpanzees, and there are no well-documented cases of wild bonobos killing a person. They are still strong wild apes with large canine teeth, and captive bonobos have seriously bitten keepers, so they should not be considered safe."},
+    {"question": "How many bonobos are left?", "answer": "The IUCN gives a minimum estimate of 15,000–20,000 bonobos. The true number is uncertain because only part of their range has been surveyed. All wild bonobos live in one country, the Democratic Republic of the Congo, which makes the species especially vulnerable."},
+    {"question": "Why are bonobos so peaceful?", "answer": "One leading explanation is food. South of the Congo River there are no gorillas competing for ground plants, so bonobos can feed in larger, stable groups. That lets females stay together and form coalitions that keep male aggression in check."},
+    {"question": "How closely related are bonobos to humans?", "answer": "Bonobos and chimpanzees are equally our closest living relatives, each sharing about 98.7 percent of their DNA with humans. The human line separated from the line leading to both apes roughly six to eight million years ago."}
+  ],
+  "meta": {
+    "title": "Bonobo Facts: Lifespan, Size, Diet & Behavior",
+    "description": "Bonobos weigh 30–60 kg (66–132 lb), stand 1.0–1.2 m tall and live an estimated 30–40 years in the wild. Diet, habitat and how they differ from chimps.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Pan%20paniscus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Pan_paniscus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Pan_paniscus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bonobo"}
+    ]
+  }
+}

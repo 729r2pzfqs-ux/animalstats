@@ -1,0 +1,16 @@
+{
+  "slug": "tiger-shark",
+  "commonName": "Tiger Shark",
+  "scientificName": "Galeocerdo cuvier",
+  "classSlug": "fish",
+  "aliases": [],
+  "qid": "Q188212",
+  "iucnStatus": "Near Threatened",
+  "wikipedia": "Tiger shark",
+  "taxonomy": {
+    "species": "Galeocerdo cuvier",
+    "genus": "Galeocerdo",
+    "family": "Galeocerdonidae"
+  },
+  "quantities": []
+}

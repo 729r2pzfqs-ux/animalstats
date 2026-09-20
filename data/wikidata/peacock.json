@@ -1,0 +1,21 @@
+{
+  "slug": "peacock",
+  "commonName": "Indian Peafowl",
+  "scientificName": "Pavo cristatus",
+  "classSlug": "birds",
+  "aliases": [
+    "peacock",
+    "peahen"
+  ],
+  "qid": "Q61865",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Indian peafowl",
+  "taxonomy": {
+    "species": "Pavo cristatus",
+    "genus": "Pavo",
+    "family": "Phasianidae",
+    "order": "Galliformes",
+    "class": "Aves"
+  },
+  "quantities": []
+}

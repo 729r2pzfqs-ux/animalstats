@@ -1,0 +1,65 @@
+{
+  "slug": "bald-eagle",
+  "commonName": "Bald Eagle",
+  "scientificName": "Haliaeetus leucocephalus",
+  "alternateNames": ["American eagle", "White-headed eagle"],
+  "nameSingular": "bald eagle",
+  "namePlural": "bald eagles",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Accipitriformes", "family": "Accipitridae", "genus": "Haliaeetus", "species": "H. leucocephalus"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 30, "unit": "years", "context": "in the wild; the oldest banded wild bird was 38", "display": "20–30 years"},
+    "lifespanCaptivity": {"min": 35, "max": 50, "unit": "years", "context": "in human care", "display": "35–50 years"},
+    "weight": {"min": 3, "max": 6.3, "unit": "kg", "context": "adults; females are about 25% heavier than males, and Alaskan birds are the largest", "display": "3–6.3 kg (6.6–14 lb)"},
+    "height": {"min": 1.8, "max": 2.3, "unit": "m", "label": "Wingspan", "display": "1.8–2.3 m (5.9–7.5 ft)"},
+    "speed": {"min": 56, "max": 70, "unit": "km/h", "verb": "fly", "context": "level flight; dives are estimated at up to about 160 km/h (100 mph)", "display": "56–70 km/h (35–43 mph)"},
+    "gestationPeriod": {"min": 34, "max": 36, "unit": "days", "label": "Incubation", "display": "about 35 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mainly fish such as salmon, herring and catfish, plus waterfowl, gulls, rabbits and other small mammals; bald eagles also eat a great deal of carrion and steal prey from ospreys.",
+    "habitat": ["Lakes and reservoirs", "Rivers", "Coasts", "Wetlands", "Mature forest near water"],
+    "range": "North America, from Alaska and Canada through the contiguous United States to northern Mexico, with the densest populations in Alaska and British Columbia.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing",
+    "population": "about 316,700 birds in the lower 48 US states (US Fish and Wildlife Service, 2020), plus large Alaskan and Canadian populations"
+  },
+  "description": "The bald eagle is a large sea eagle found only in North America and has been the national emblem of the United States since 1782. Adults are unmistakable, with a white head and tail, dark brown body and a heavy yellow bill; young birds are mottled brown and take about five years to gain adult plumage. The name comes from an old sense of 'bald' meaning white-headed. Bald eagles live near open water, where they fish, scavenge and rob other birds of their catch. Pairs usually stay together for life and reuse enormous stick nests year after year.",
+  "answers": {
+    "lifespan": "Bald eagles typically live 20–30 years in the wild and can reach 35–50 years in human care. The oldest known wild bird, banded in New York State, was 38 when it was killed by a car in 2015. Mortality is highest in the first year, when young birds are still learning to hunt.",
+    "weight": "Adult bald eagles weigh 3–6.3 kg (6.6–14 lb). Females are about a quarter heavier than males, and size increases with latitude: Alaskan females are the largest, while Florida birds can weigh barely half as much. Despite the huge wingspan, hollow bones keep the skeleton lighter than the feathers.",
+    "size": "A bald eagle's wingspan is 1.8–2.3 m (5.9–7.5 ft), and the body is 70–102 cm (28–40 in) long from bill to tail. Females are larger than males. Among North American raptors, only the California condor is clearly bigger; the golden eagle is about the same size.",
+    "speed": "Bald eagles fly at about 56–70 km/h (35–43 mph) in level flight. In a dive they are much faster, with estimates of up to about 160 km/h (100 mph), though dive speeds are rarely measured precisely. They soar on thermals with wings held flat, which saves energy on long flights.",
+    "gestation": "Bald eagle eggs hatch after about 35 days of incubation. The female lays one to three eggs a few days apart, and both parents take turns sitting on them. Eaglets stay in the nest for 10–12 weeks before their first flight and depend on their parents for several more weeks.",
+    "diet": "Bald eagles are carnivores that eat mostly fish, snatched from near the surface with their talons. They also take ducks, coots, gulls, rabbits and muskrats, and they rely heavily on carrion in winter. They frequently harass ospreys in mid-air to make them drop their fish.",
+    "habitat": "Bald eagles live near large bodies of open water across North America, including coasts, rivers, lakes, reservoirs and marshes. They need tall, sturdy trees or cliffs for nesting and perching. In winter, northern birds gather where water stays ice-free, sometimes by the hundreds around salmon runs and below dams.",
+    "conservation": "The bald eagle is listed as Least Concern, and its population is increasing. Hunting, habitat loss and the pesticide DDT cut numbers in the lower 48 states to roughly 417 known nesting pairs in 1963. After DDT was banned in 1972, the species recovered and left the US endangered species list in 2007. Lead poisoning remains a threat."
+  },
+  "funFacts": [
+    "Bald eagles build the largest tree nests of any bird; a record nest in Florida was about 2.9 m wide, 6 m deep and weighed around two tonnes.",
+    "The piercing eagle scream used in films is usually a dubbed red-tailed hawk. Real bald eagles make a weak, high-pitched chittering call.",
+    "Young bald eagles are brown all over and do not get the white head and tail until they are about five years old.",
+    "During courtship, a pair may lock talons high in the air and cartwheel toward the ground, letting go just before they hit.",
+    "Bald eagles can swim: a bird that grabs a fish too heavy to lift will row to shore using its wings."
+  ],
+  "relatedAnimals": ["golden-eagle", "red-tailed-hawk", "peregrine-falcon", "andean-condor", "great-horned-owl"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why is it called a bald eagle?", "answer": "The bald eagle is not bald. The name comes from an older meaning of the word, 'white-headed' or 'marked with white', as in 'piebald'. The scientific name says the same thing: leucocephalus is Greek for 'white head'."},
+    {"question": "How much weight can a bald eagle carry?", "answer": "A bald eagle can lift roughly 1.5–2 kg (3–5 lb) in flight, less than half its own weight. Stories of eagles carrying off large dogs or children are not credible. Heavier prey is eaten on the ground or dragged, and oversized fish are sometimes towed to shore."},
+    {"question": "What is the difference between a bald eagle and a golden eagle?", "answer": "Adult bald eagles have a white head and tail and a large yellow bill, while golden eagles are dark brown with a golden nape and feathered legs. Bald eagles are sea eagles that live near water and eat fish and carrion; golden eagles hunt mammals in open, hilly country."},
+    {"question": "Do bald eagles mate for life?", "answer": "Generally, yes. Bald eagle pairs usually stay together for many years and return to the same nest each season, adding new sticks every year. If one partner dies or disappears, the survivor normally finds a new mate quickly."},
+    {"question": "Is it illegal to keep a bald eagle feather?", "answer": "In the United States, yes. The Bald and Golden Eagle Protection Act and the Migratory Bird Treaty Act make it illegal to possess eagle feathers, nests or eggs without a permit. Enrolled members of federally recognized tribes can obtain feathers legally for religious use."}
+  ],
+  "meta": {
+    "title": "Bald Eagle Facts: Wingspan, Lifespan, Speed & Diet",
+    "description": "Bald eagles have a 1.8–2.3 m (5.9–7.5 ft) wingspan, weigh 3–6.3 kg and live 20–30 years in the wild. Flight speed, diet, nesting and recovery.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Haliaeetus%20leucocephalus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Haliaeetus_leucocephalus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Haliaeetus_leucocephalus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bald_eagle"}
+    ]
+  }
+}

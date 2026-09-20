@@ -1,0 +1,22 @@
+{
+  "slug": "platypus",
+  "commonName": "Platypus",
+  "scientificName": "Ornithorhynchus anatinus",
+  "classSlug": "mammals",
+  "aliases": [
+    "duck-billed platypus"
+  ],
+  "qid": "Q15343",
+  "iucnStatus": "Near Threatened",
+  "wikipedia": "Platypus",
+  "taxonomy": {
+    "species": "Ornithorhynchus anatinus",
+    "genus": "Ornithorhynchus",
+    "family": "Ornithorhynchidae",
+    "order": "Monotremata",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "red-fox",
+  "commonName": "Red Fox",
+  "scientificName": "Vulpes vulpes",
+  "alternateNames": ["Fox", "Common fox", "Silver fox", "Cross fox"],
+  "nameSingular": "red fox",
+  "namePlural": "red foxes",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Canidae", "genus": "Vulpes", "species": "V. vulpes"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 5, "unit": "years", "context": "in the wild; potential lifespan is much longer", "display": "2–5 years"},
+    "lifespanCaptivity": {"min": 10, "max": 14, "unit": "years", "context": "in human care", "display": "10–14 years"},
+    "weight": {"min": 3, "max": 11, "unit": "kg", "context": "adults; males slightly heavier, northern foxes largest", "display": "3–11 kg (6.5–24 lb)"},
+    "height": {"min": 35, "max": 50, "unit": "cm", "label": "Shoulder height", "display": "35–50 cm (14–20 in)"},
+    "speed": {"min": 48, "max": 48, "unit": "km/h", "verb": "run", "context": "top speed in short bursts", "display": "48 km/h (30 mph)"},
+    "gestationPeriod": {"min": 49, "max": 58, "unit": "days", "label": "Gestation", "display": "about 52 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Mainly voles, mice, rabbits and other small mammals, plus birds, eggs, insects, earthworms, carrion and a lot of fruit and berries in season; urban foxes also eat discarded human food.",
+    "habitat": ["Woodland", "Farmland", "Grassland", "Tundra", "Urban areas"],
+    "range": "Most of the Northern Hemisphere: Europe, Asia, North Africa and North America, from the Arctic Circle to deserts; introduced to Australia in the 1800s.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The red fox is the largest of the true foxes and the most widely distributed wild member of the order Carnivora, found across Europe, Asia, North Africa and North America and introduced to Australia. It is a slender, long-legged canid with a pointed muzzle, black 'stockings', and a bushy white-tipped tail. Most are rusty red, but silver (black) and 'cross' color forms occur naturally. Red foxes are mainly solitary hunters of small rodents, which they catch with a distinctive high pounce. Their flexible diet and tolerance of people have made them common in farmland, suburbs and large cities such as London.",
+  "answers": {
+    "lifespan": "Red foxes usually live only 2–5 years in the wild, even though they can reach 10–14 years in captivity. Most wild foxes die young from road traffic, hunting and trapping, and diseases such as sarcoptic mange and rabies. In many populations, more than half of all foxes die in their first year.",
+    "weight": "Adult red foxes weigh 3–11 kg (6.5–24 lb), with most between 4 and 7 kg. Males, called dogs or tods, average 15–20 percent heavier than females, called vixens. Size increases toward the north, so foxes in northern Europe and Canada are larger than those in deserts and southern regions.",
+    "size": "A red fox stands 35–50 cm (14–20 in) tall at the shoulder. Head-and-body length is 45–90 cm (18–35 in), and the bushy tail, or brush, adds another 30–55 cm. The tail makes up about a third of the animal's total length and is used for balance, warmth and signaling.",
+    "speed": "Red foxes can run at about 48 km/h (30 mph) in short bursts. They are also agile jumpers able to clear fences around 2 meters high, and competent swimmers. When hunting, however, they rely less on speed than on stealth and a precise, high-arching pounce onto rodents.",
+    "gestation": "Red fox pregnancy lasts about 52 days, with a range of 49–58 days. Foxes mate in winter, and a litter of four to six kits, occasionally more, is born in an underground den in spring. The kits are born blind with dark gray fur and emerge from the den at about four to five weeks.",
+    "diet": "Red foxes are omnivores that eat mainly small mammals such as voles, mice and rabbits. They also eat birds, eggs, beetles, earthworms, carrion, and plenty of fruit and berries in late summer and fall. An adult needs roughly 0.5–1 kg of food a day and buries surplus food in scattered caches.",
+    "habitat": "Red foxes live in almost every habitat across Europe, Asia, North Africa and North America, and they were introduced to Australia. They do best in mixed landscapes of woodland, scrub and farmland, and they thrive in many cities. They are absent only from the most extreme deserts and the high Arctic.",
+    "conservation": "The red fox is listed as Least Concern on the IUCN Red List, with a stable population. It is abundant and has the widest natural range of any land carnivore. In Australia, where it was introduced in the 1800s, it is a serious invasive predator blamed for declines of native small mammals and birds."
+  },
+  "funFacts": [
+    "Red foxes hunt rodents under snow by listening, then leaping high and diving in headfirst; research suggests they may align these pounces using Earth's magnetic field.",
+    "Foxes have vertical, slit-shaped pupils like cats, which help them see well in dim light at dawn, dusk and night.",
+    "Silver foxes and cross foxes are not separate species but naturally occurring color forms of the red fox.",
+    "A long-running Russian experiment begun in 1959 bred foxes for tameness, and within a few decades produced animals with dog-like behavior, floppy ears and spotted coats.",
+    "The eerie screaming call often heard on winter nights is made by red foxes during the mating season."
+  ],
+  "relatedAnimals": ["arctic-fox", "fennec-fox", "coyote", "gray-wolf", "dog", "raccoon"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are red foxes dangerous to humans or pets?", "answer": "Red foxes pose very little danger to people. They are shy, weigh only a few kilograms and almost never attack. They can carry rabies in regions where it occurs, as well as mange. Foxes may take chickens, rabbits and guinea pigs kept outdoors, but they generally avoid adult cats and dogs."},
+    {"question": "Is a fox a cat or a dog?", "answer": "A fox is a member of the dog family, Canidae, along with wolves, coyotes and domestic dogs. Red foxes do have some cat-like traits, including vertical pupils, partly retractable claws, stalking and pouncing behavior and largely solitary hunting, but these evolved independently."},
+    {"question": "Do red foxes make good pets?", "answer": "No. Red foxes are wild animals with a strong musky odor, a habit of scent-marking with urine, and a need to dig and roam. Keeping them is illegal or requires a permit in many places. Even foxes from the Russian domestication project are demanding, expensive animals."},
+    {"question": "What sound does a fox make?", "answer": "Red foxes make more than 20 different calls. The most common are a sharp, repeated bark used to keep in contact and a loud, drawn-out scream heard mostly in the winter breeding season. They also make a chattering noise called gekkering during disputes and play."},
+    {"question": "What are male, female and baby foxes called?", "answer": "A male fox is called a dog, tod or reynard, a female is a vixen, and the young are kits, cubs or pups. A group of foxes is called a skulk or a leash, although adult red foxes usually forage alone."}
+  ],
+  "meta": {
+    "title": "Red Fox Facts: Size, Lifespan, Speed, Diet & Habitat",
+    "description": "Red foxes weigh 3–11 kg (6.5–24 lb), stand 35–50 cm tall, run about 48 km/h (30 mph) and usually live 2–5 years in the wild. Diet, habitat, kits and more.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Vulpes%20vulpes&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Vulpes_vulpes/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Vulpes_vulpes"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Red_fox"}
+    ]
+  }
+}

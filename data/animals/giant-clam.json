@@ -1,0 +1,64 @@
+{
+  "slug": "giant-clam",
+  "commonName": "Giant Clam",
+  "scientificName": "Tridacna gigas",
+  "alternateNames": ["True giant clam", "Pa'ua", "Taklobo"],
+  "nameSingular": "giant clam",
+  "namePlural": "giant clams",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Mollusca", "class": "Bivalvia", "classSlug": "invertebrates", "order": "Cardiida", "family": "Cardiidae", "genus": "Tridacna", "species": "T. gigas"},
+  "facts": {
+    "lifespan": {"min": 50, "max": 100, "unit": "years", "context": "estimated in the wild; some individuals may live longer", "display": "up to 100 years or more"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 100, "max": 250, "unit": "kg", "context": "large adults; the shell makes up most of the weight", "display": "100–250 kg (220–550 lb)"},
+    "height": {"min": 0.8, "max": 1.2, "unit": "m", "label": "Shell length", "display": "0.8–1.2 m (2.6–3.9 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 0.5, "max": 0.5, "unit": "days", "label": "Egg development", "display": "about 12 hours (0.5 days) from fertilization to hatching"}
+  },
+  "ecology": {
+    "diet": "Filter feeder",
+    "dietDetails": "Most of its energy comes from sugars made by symbiotic algae (zooxanthellae) living in its mantle; it supplements this by filtering phytoplankton and other particles from seawater.",
+    "habitat": ["Coral reef", "Reef flat", "Shallow lagoon"],
+    "range": "Shallow coral reefs of the tropical Indo-Pacific, from Myanmar, Thailand and Indonesia through the Philippines and northern Australia to Micronesia and the Solomon Islands; now extinct at many former sites.",
+    "conservationStatus": "Critically Endangered",
+    "iucnCategory": "CR",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The giant clam is the largest bivalve mollusk alive, with a fluted shell that can exceed a meter in length and a weight greater than two adult men. Once a larva settles on a reef it stays in that spot for life, resting hinge-down with its colorful fleshy mantle spread open to the sun. The mantle is packed with symbiotic algae that photosynthesize and supply most of the clam's food, which is why giant clams live only in clear, shallow, sunlit water. No two mantles have the same pattern. Overharvesting for meat, shells and the aquarium trade has wiped the species out across much of its range.",
+  "answers": {
+    "lifespan": "Giant clams can live up to 100 years or more in the wild. They grow quickly for a clam, adding several centimeters of shell a year when young, thanks to the energy supplied by their symbiotic algae. Growth bands in the shell allow ages to be estimated, but few very old individuals survive today because large clams were the first to be harvested.",
+    "weight": "Large giant clams weigh 100–250 kg (220–550 lb), and the heaviest on record, found off Ishigaki Island, Japan, in 1956, weighed about 333 kg (734 lb). The two thick shell valves account for most of that weight; the living tissue of a big clam is typically only a few tens of kilograms.",
+    "size": "Adult giant clams usually have shells 0.8–1.2 m (2.6–3.9 ft) long. The largest known shell, found off Sumatra around 1817, measures 137 cm (4.5 ft). The shell has four or five deep vertical folds, and when the clam is open the mantle spreads beyond the shell edges.",
+    "speed": null,
+    "gestation": "Giant clam eggs develop very fast: a fertilized egg hatches into a swimming larva in about 12 hours. The larva drifts for roughly a week or more before settling on the reef and taking up its symbiotic algae. Giant clams are hermaphrodites that release sperm first and then eggs into the water, and a big clam can shed hundreds of millions of eggs in one spawning.",
+    "diet": "Giant clams get most of their nutrition from symbiotic algae called zooxanthellae that live in their mantle tissue and share the sugars they make from sunlight. The clam also filter feeds, drawing water through a siphon and straining out phytoplankton. In effect it farms algae inside its own body.",
+    "habitat": "Giant clams live on shallow coral reefs and in lagoons of the tropical Indo-Pacific, usually in clear water less than 20 m (65 ft) deep where enough sunlight reaches their algae. They sit on sand or broken coral on reef flats, and adults are too heavy to be moved by waves.",
+    "conservation": "The giant clam is listed as Critically Endangered on the IUCN Red List following a 2024 reassessment; it was previously classed as Vulnerable. It has been wiped out at many sites by harvesting for meat, shells and carvings. International trade is regulated under CITES Appendix II, and hatchery-raised clams are being restocked in the Philippines, Palau and elsewhere."
+  },
+  "funFacts": [
+    "A giant clam's mantle contains iridescent cells that scatter sunlight deeper into its tissue, helping its algae photosynthesize while shielding the clam from excess radiation.",
+    "The pattern and color of every giant clam's mantle is unique, ranging through brown, gold, green and electric blue.",
+    "Giant clams have hundreds of simple pinhole eyes along the mantle edge that detect shadows and trigger the shell to close partway.",
+    "A single large giant clam can release around 500 million eggs in one spawning event.",
+    "Giant clam shells were historically used as baptismal fonts and holy-water basins in European churches, including Saint-Sulpice in Paris."
+  ],
+  "relatedAnimals": ["ocean-quahog", "common-octopus", "garden-snail", "clownfish", "common-starfish", "green-sea-turtle"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can a giant clam trap or eat a person?", "answer": "No. There is no verified record of a giant clam killing or trapping anyone. The shell closes slowly, large adults cannot even shut completely, and the clam closes to protect itself, not to catch prey. The 'man-eating clam' of old diving manuals and adventure stories is a myth."},
+    {"question": "What is the biggest giant clam ever found?", "answer": "The longest shell on record measures 137 cm (4.5 ft) and was found off Sumatra around 1817; the living animal was estimated at about 250 kg. The heaviest, found off Ishigaki Island, Japan, in 1956, weighed about 333 kg with a 115 cm shell."},
+    {"question": "Do giant clams make pearls?", "answer": "Yes, giant clams can produce pearls, but they are dull, porcelain-like and non-nacreous rather than lustrous. The famous Pearl of Lao Tzu, weighing about 6.4 kg, came from a giant clam taken in the Philippines in the 1930s."},
+    {"question": "Do giant clams move?", "answer": "Only when very young. Larvae swim and tiny juveniles can crawl with a foot, but once a giant clam settles and grows it stays in the same place for the rest of its life, held down by its own weight."},
+    {"question": "Why are giant clams endangered?", "answer": "Mainly because of overharvesting. Giant clams are easy to find and collect in shallow water, and they have been taken for their meat, especially the adductor muscle, for shells and carvings, and for aquariums. Reef degradation and coral bleaching events, which can also bleach clams, add to the pressure."}
+  ],
+  "meta": {
+    "title": "Giant Clam Facts: Size, Weight, Lifespan & Status",
+    "description": "Giant clams grow shells 0.8–1.2 m (up to 4.5 ft) long, weigh 100–250 kg and can live 100 years. Critically Endangered: diet, habitat, myths and threats.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Tridacna%20gigas&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Tridacna_gigas/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Giant_clam"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q751784"}
+    ]
+  }
+}

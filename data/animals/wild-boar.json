@@ -1,0 +1,64 @@
+{
+  "slug": "wild-boar",
+  "commonName": "Wild Boar",
+  "scientificName": "Sus scrofa",
+  "alternateNames": ["Wild pig", "Eurasian wild pig", "Wild swine", "Feral hog"],
+  "nameSingular": "wild boar",
+  "namePlural": "wild boar",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Suidae", "genus": "Sus", "species": "S. scrofa"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 14, "unit": "years", "context": "potential in the wild; where hunted, few live past 4–5 years", "display": "10–14 years"},
+    "lifespanCaptivity": {"min": 15, "max": 20, "unit": "years", "context": "in human care", "display": "15–20 years"},
+    "weight": {"min": 50, "max": 100, "unit": "kg", "context": "typical European adults; boars in eastern Europe and northeast Asia can exceed 200 kg", "display": "50–100 kg (110–220 lb)"},
+    "height": {"min": 55, "max": 110, "unit": "cm", "label": "Shoulder height", "display": "55–110 cm (22–43 in)"},
+    "speed": {"min": 40, "max": 40, "unit": "km/h", "verb": "run", "context": "top sprint", "display": "40 km/h (25 mph)"},
+    "gestationPeriod": {"min": 114, "max": 140, "unit": "days", "label": "Gestation", "display": "about 115 days (up to 140)"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Roots, tubers, bulbs, acorns, beechnuts, fruit and farm crops form the bulk of the diet, along with earthworms, insects, eggs, small vertebrates, fungi and carrion rooted out of the soil.",
+    "habitat": ["Deciduous forest", "Mixed woodland", "Marsh and reedbeds", "Scrub", "Farmland"],
+    "range": "Native across most of Europe, North Africa and Asia as far as Japan and Indonesia; introduced, often as feral hogs, to the Americas, Australia, New Zealand and many islands.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The wild boar is a stocky, bristly-coated wild pig and the ancestor of nearly all domestic pigs. It has a large wedge-shaped head, small eyes, a powerful snout for rooting and, in males, sharp lower tusks that grow throughout life. Native to Eurasia and North Africa, it is one of the most widely distributed mammals on Earth, helped by introductions to the Americas and Australia, where free-living populations are usually called feral hogs or feral swine and are often hybrids with escaped domestic pigs. Females and young live in groups called sounders, while adult males are mostly solitary.",
+  "answers": {
+    "lifespan": "Wild boar can live 10–14 years in the wild and up to about 20 years in captivity. In practice, most wild boar die much younger. In hunted populations, which includes most of Europe and North America, few animals survive beyond four or five years, and piglet mortality is high.",
+    "weight": "Adult wild boar typically weigh 50–100 kg (110–220 lb), with sows at the lower end and boars at the upper end. Size rises toward the north and east: males in eastern Europe and Russia often top 200 kg, and the largest boars in northeast Asia have been recorded near 300 kg.",
+    "size": "A wild boar stands 55–110 cm (22–43 in) tall at the shoulder and measures about 0.9–2 m in head-and-body length. Mediterranean and Southeast Asian boar are smallest, while the biggest animals live in Russia and northeast Asia. The lower tusks of adult males usually show 5–10 cm outside the gum.",
+    "speed": "Wild boar can run at about 40 km/h (25 mph) and are agile for their weight. They can also jump obstacles over a meter high and swim well, crossing rivers and even stretches of sea to reach islands.",
+    "gestation": "A wild boar sow is pregnant for about 115 days, often summed up as three months, three weeks and three days, though pregnancies of up to 140 days are reported. Litters usually contain four to six striped piglets, born in a nest of vegetation the sow builds.",
+    "diet": "Wild boar are omnivores and eat almost anything. Plants make up roughly 90 percent of the diet, especially roots, bulbs, acorns, beechnuts and crops such as corn. They also eat worms, insect larvae, eggs, small animals and carrion, finding most food by rooting through soil.",
+    "habitat": "Wild boar live in forests, scrub, reedbeds and farmland across Europe, Asia and North Africa, and as introduced animals on other continents. They need cover, water for drinking and wallowing, and ground soft enough to root in, and they avoid deep snow and open desert.",
+    "conservation": "The wild boar is listed as Least Concern on the IUCN Red List. It is abundant and expanding across much of Europe, and in countries where it has been introduced, such as the United States and Australia, it is treated as a destructive invasive species."
+  },
+  "funFacts": [
+    "Wild boar piglets are born with pale and dark brown stripes that camouflage them on the forest floor and fade after about four months.",
+    "A wild boar's sense of smell is sharp enough to find food buried well below the surface; its relatives, domestic pigs, were long used to hunt truffles.",
+    "Boars develop a layer of thick tissue over the shoulders, sometimes called a shield, that protects them during fights in the mating season.",
+    "Domestic pigs that escape can start to look like wild boar within a few generations, growing longer snouts, coarser hair and bigger tusks.",
+    "Wild boar have colonized the suburbs of cities such as Berlin, Barcelona, Rome and Hong Kong."
+  ],
+  "relatedAnimals": ["pig", "warthog", "hippopotamus", "gray-wolf", "red-deer", "black-bear"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are wild boar dangerous to humans?", "answer": "They can be. Wild boar usually avoid people, but a wounded or cornered boar, or a sow with piglets, may charge, and the tusks can cause serious leg and abdominal wounds. Attacks are uncommon and fatalities are rare. Vehicle collisions are the greater everyday risk."},
+    {"question": "What is the difference between a wild boar, a feral hog and a pig?", "answer": "They are all the same species, Sus scrofa. Wild boar are the original wild form, domestic pigs are their farm-bred descendants, and feral hogs are free-living animals descended from escaped domestic pigs, wild boar or crosses between the two."},
+    {"question": "Can you eat wild boar?", "answer": "Yes. Wild boar meat is widely eaten in Europe and Asia and is leaner and darker than pork. It must be cooked thoroughly, because wild boar can carry parasites such as Trichinella, as well as hepatitis E and other diseases, and many countries require testing."},
+    {"question": "Why are feral hogs a problem in the United States?", "answer": "Feral hogs root up crops, pastures and wetlands, compete with native wildlife, eat ground-nesting birds' eggs, and can spread diseases to livestock. The US Department of Agriculture estimates several million feral swine across roughly 35 states, causing damage worth well over a billion dollars each year."},
+    {"question": "What is a group of wild boar called?", "answer": "A group of wild boar is called a sounder. It is made up of related sows and their offspring and is typically led by an older female. Adult males leave the group and live alone except during the mating season."}
+  ],
+  "meta": {
+    "title": "Wild Boar Facts: Weight, Size, Speed, Diet & Lifespan",
+    "description": "Wild boar typically weigh 50–100 kg (110–220 lb), run at 40 km/h and can live 10–14 years. Size, tusks, diet, gestation and feral hog facts for Sus scrofa.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Sus%20scrofa&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Sus_scrofa/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Sus_scrofa"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Wild_boar"}
+    ]
+  }
+}

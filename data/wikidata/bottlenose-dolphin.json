@@ -1,0 +1,27 @@
+{
+  "slug": "bottlenose-dolphin",
+  "commonName": "Bottlenose Dolphin",
+  "scientificName": "Tursiops truncatus",
+  "classSlug": "mammals",
+  "aliases": [
+    "dolphin"
+  ],
+  "qid": "Q174199",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Common bottlenose dolphin",
+  "taxonomy": {
+    "species": "Tursiops truncatus",
+    "genus": "Tursiops",
+    "family": "Delphinidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "1",
+      "unit": "year",
+      "sex": null
+    }
+  ]
+}

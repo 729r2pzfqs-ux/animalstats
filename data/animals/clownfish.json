@@ -1,0 +1,64 @@
+{
+  "slug": "clownfish",
+  "commonName": "Ocellaris Clownfish",
+  "scientificName": "Amphiprion ocellaris",
+  "alternateNames": ["Clownfish", "False percula clownfish", "Common clownfish", "Clown anemonefish"],
+  "nameSingular": "clownfish",
+  "namePlural": "clownfish",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Blenniiformes", "family": "Pomacentridae", "genus": "Amphiprion", "species": "A. ocellaris"},
+  "facts": {
+    "lifespan": {"min": 6, "max": 10, "unit": "years", "context": "in the wild", "display": "6–10 years"},
+    "lifespanCaptivity": {"min": 10, "max": 20, "unit": "years", "context": "in well-kept marine aquariums", "display": "10–20 years"},
+    "weight": {"min": 10, "max": 25, "unit": "g", "context": "approximate adult weight; females are the largest fish in a group", "display": "about 10–25 g (0.35–0.9 oz)"},
+    "height": {"min": 8, "max": 11, "unit": "cm", "label": "Length", "display": "8–11 cm (3.1–4.3 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 6, "max": 8, "unit": "days", "label": "Egg development", "display": "6–8 days"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Zooplankton such as copepods and larval tunicates, plus algae, small crustaceans and scraps from the host anemone's meals; aquarium fish accept marine pellets, mysis and brine shrimp.",
+    "habitat": ["Coral reefs", "Sheltered lagoons", "Sea anemones"],
+    "range": "Eastern Indian Ocean and western Pacific, from the Andaman Sea through Southeast Asia and the Philippines to northern Australia and north to the Ryukyu Islands.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The ocellaris clownfish is the orange-and-white anemonefish made famous by the film Finding Nemo and the most widely kept marine aquarium fish. It lives on shallow Indo-Pacific reefs in a close partnership with a few species of sea anemone, sheltering among stinging tentacles that would kill most fish of its size. Each anemone is home to a strict hierarchy: one large breeding female, a smaller breeding male and several non-breeding juveniles. All clownfish are born male, and when the female dies the breeding male changes sex to replace her. The similar-looking orange clownfish, Amphiprion percula, is a separate species.",
+  "answers": {
+    "lifespan": "Ocellaris clownfish live 6–10 years in the wild and commonly 10–20 years in a well-kept aquarium. Protection from their host anemone gives them unusually long lives for such small reef fish, and field studies of close relatives suggest some wild anemonefish may survive for decades.",
+    "weight": "An adult ocellaris clownfish weighs only about 10–25 g (0.35–0.9 oz). The breeding female is the largest and heaviest fish in each group, the breeding male is noticeably smaller, and the non-breeding juveniles below them stay smaller still. Exact weights are seldom published, so this range is approximate.",
+    "size": "Ocellaris clownfish grow 8–11 cm (3.1–4.3 in) long, with 11 cm the maximum for a large female. Males are usually around 7–8 cm. Size within a group is tightly controlled by rank: each fish stays smaller than the one above it in the hierarchy to avoid being driven out.",
+    "speed": null,
+    "gestation": "Ocellaris clownfish eggs hatch in 6–8 days. The pair lays a few hundred to about 1,000 orange eggs on bare rock beside their anemone, and the male fans and guards them. Hatching happens shortly after dark, and the larvae drift in open water for one to two weeks before settling on a reef.",
+    "diet": "Ocellaris clownfish are omnivores that eat zooplankton, especially copepods, along with algae and small crustaceans. They also pick at leftovers from their host anemone's meals. In aquariums they are easy to feed and accept marine pellets, flakes, mysis shrimp and brine shrimp.",
+    "habitat": "Ocellaris clownfish live on shallow coral reefs and sheltered lagoons, usually less than 15 m deep, in the eastern Indian Ocean and western Pacific. They are found only in association with host sea anemones, mainly the magnificent, giant carpet and Merten's carpet anemones, and rarely stray more than a meter or so from them.",
+    "conservation": "The ocellaris clownfish is listed as Least Concern on the IUCN Red List. Local populations have been thinned by collection for the aquarium trade, and warming seas threaten the anemones and reefs they depend on through bleaching. Most clownfish sold today are captive-bred, which eases pressure on wild stocks."
+  },
+  "funFacts": [
+    "All clownfish hatch as males; when the dominant female dies, the breeding male changes sex and the largest juvenile becomes the new breeding male.",
+    "A layer of mucus on the clownfish's skin keeps its host anemone's stinging cells from firing, and the fish acclimates by touching the tentacles gradually.",
+    "Nemo from the 2003 film Finding Nemo resembles an ocellaris clownfish, though the species is often confused with the very similar orange clownfish, Amphiprion percula.",
+    "Clownfish communicate with popping and chirping sounds made by snapping their jaws, used to assert rank within the group.",
+    "The ocellaris clownfish was among the first marine ornamental fish to be bred commercially in captivity, and designer color strains are now common."
+  ],
+  "relatedAnimals": ["seahorse", "betta", "guppy", "goldfish", "moon-jellyfish"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why don't clownfish get stung by anemones?", "answer": "Clownfish are protected by a special mucus coating on their skin that prevents the anemone's stinging cells from firing. A fish meeting a new anemone acclimates by brushing against the tentacles repeatedly over minutes to hours. Without that coat, a clownfish would be stung like any other small fish."},
+    {"question": "Can clownfish change gender?", "answer": "Yes. Every clownfish starts life as a male. Each group has one female, the largest fish; if she dies, her mate changes sex and becomes the new female, a change that cannot be reversed. The biggest non-breeding juvenile then matures into the breeding male."},
+    {"question": "Is Nemo an ocellaris or a percula clownfish?", "answer": "Nemo looks most like an ocellaris clownfish, although the film's Great Barrier Reef setting matches the range of the orange clownfish, Amphiprion percula. The two species are nearly identical; percula usually has thicker black edges to its white bands and 10 dorsal spines rather than 11."},
+    {"question": "Do clownfish need an anemone in an aquarium?", "answer": "No. Captive ocellaris clownfish live long, healthy lives without an anemone, and many adopt a coral, a rock or a corner of the tank instead. Anemones are much harder to keep than the fish, so beginners are usually advised to skip them."},
+    {"question": "What do clownfish and anemones do for each other?", "answer": "The anemone gives the clownfish shelter from predators and a safe place to lay eggs. In return, the clownfish drives off anemone-eating fish such as butterflyfish, improves water flow through the tentacles, and fertilizes the anemone with its waste. Both do better together than apart."}
+  ],
+  "meta": {
+    "title": "Clownfish Facts: Lifespan, Size, Diet & Anemone Home",
+    "description": "Ocellaris clownfish live 6–10 years in the wild and 10–20 in aquariums, reach 8–11 cm and hatch from eggs in 6–8 days. Diet, anemones and sex change.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Amphiprion%20ocellaris&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Amphiprion_ocellaris/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Ocellaris_clownfish"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q1126155"}
+    ]
+  }
+}

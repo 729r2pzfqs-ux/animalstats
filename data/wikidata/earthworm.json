@@ -1,0 +1,23 @@
+{
+  "slug": "earthworm",
+  "commonName": "Common Earthworm",
+  "scientificName": "Lumbricus terrestris",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "earthworm",
+    "nightcrawler"
+  ],
+  "qid": "Q30092",
+  "iucnStatus": null,
+  "wikipedia": "Lumbricus terrestris",
+  "taxonomy": {
+    "species": "Lumbricus terrestris",
+    "genus": "Lumbricus",
+    "family": "Lumbricidae",
+    "order": "Crassiclitellata",
+    "class": "Clitellata",
+    "phylum": "Annelida",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

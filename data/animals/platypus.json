@@ -1,0 +1,65 @@
+{
+  "slug": "platypus",
+  "commonName": "Platypus",
+  "scientificName": "Ornithorhynchus anatinus",
+  "alternateNames": ["Duck-billed platypus", "Duckbill"],
+  "nameSingular": "platypus",
+  "namePlural": "platypuses",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Monotremata", "family": "Ornithorhynchidae", "genus": "Ornithorhynchus", "species": "O. anatinus"},
+  "facts": {
+    "lifespan": {"min": 6, "max": 12, "unit": "years", "context": "in the wild; a few tagged animals have passed 20", "display": "6–12 years"},
+    "lifespanCaptivity": {"min": 15, "max": 20, "unit": "years", "context": "in human care", "display": "15–20 years"},
+    "weight": {"min": 0.7, "max": 2.4, "unit": "kg", "context": "adults; males are larger than females", "display": "0.7–2.4 kg (1.5–5.3 lb)"},
+    "height": {"min": 40, "max": 60, "unit": "cm", "label": "Length", "display": "40–60 cm (16–24 in)"},
+    "speed": {"min": 3.6, "max": 3.6, "unit": "km/h", "verb": "swim", "context": "about 1 m/s at most; foraging speed is under half that", "display": "about 3.6 km/h (2.2 mph)"},
+    "gestationPeriod": {"min": 10, "max": 10, "unit": "days", "label": "Incubation", "display": "about 10 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Bottom-dwelling freshwater invertebrates: insect larvae such as caddisflies and mayflies, freshwater shrimp, yabbies (crayfish), worms and small mussels, found by touch and electroreception and carried to the surface in cheek pouches.",
+    "habitat": ["Freshwater streams", "Rivers", "Lakes", "Farm dams"],
+    "range": "Eastern Australia from far north Queensland's uplands to Victoria, throughout Tasmania, and an introduced population on Kangaroo Island in South Australia.",
+    "conservationStatus": "Near Threatened",
+    "iucnCategory": "NT",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The platypus is a semi-aquatic, egg-laying mammal from eastern Australia and one of only five living monotremes, the others being the four echidnas. It has a rubbery duck-like bill, a flat beaver-like tail, webbed feet and dense waterproof fur, a combination so odd that European scientists first suspected a hoax. The bill is a sense organ packed with receptors that detect touch and the faint electric fields of prey. Males carry a venomous spur on each hind ankle. Platypuses are mostly active at night and at dusk and dawn, and they rest in burrows dug into stream banks.",
+  "answers": {
+    "lifespan": "Platypuses typically live 6–12 years in the wild and 15–20 years in human care. A few tagged wild animals have been recaptured at more than 20 years old, so the potential lifespan is long for such a small mammal. Floods, drought, foxes and drowning in enclosed yabby traps kill many earlier.",
+    "weight": "Adult platypuses weigh 0.7–2.4 kg (1.5–5.3 lb). Males are clearly larger than females, and size also varies by region: platypuses in Tasmania and the cooler south are much heavier than those in tropical north Queensland.",
+    "size": "A platypus is 40–60 cm (16–24 in) long from bill tip to tail tip. Males average about 50 cm and females about 43 cm. The broad tail makes up roughly a quarter of the length and stores fat as an energy reserve.",
+    "speed": "A platypus swims at up to about 3.6 km/h (2.2 mph), or roughly 1 m per second, and usually forages at less than half that speed. It paddles with its front feet only, steering with the hind feet and tail, and a typical dive lasts 30–60 seconds.",
+    "gestation": "Platypus eggs hatch after about 10 days of incubation. Before that the eggs develop inside the mother for roughly four weeks. She lays one to three leathery eggs in a nesting burrow and curls around them; the hatchlings then drink milk for three to four months.",
+    "diet": "Platypuses are carnivores that eat bottom-dwelling invertebrates such as insect larvae, freshwater shrimp, yabbies and worms. They hunt with eyes, ears and nostrils shut, relying on the bill's electroreceptors. Adults have no teeth and grind food between horny pads, eating around 15–30 percent of their body weight daily.",
+    "habitat": "Platypuses live in freshwater streams, rivers, lakes and farm dams in eastern Australia and Tasmania. They need stable earth banks for burrows and a healthy supply of bottom-dwelling invertebrates, and they occur from warm lowland rivers to cold alpine streams.",
+    "conservation": "Platypuses are listed as Near Threatened on the IUCN Red List, and the population is decreasing. Threats include dams and water extraction, drought, land clearing, pollution, and drowning in fishing nets and enclosed yabby traps. Local declines and extinctions have been recorded in several river systems."
+  },
+  "funFacts": [
+    "The platypus is one of the very few venomous mammals: males have an ankle spur that delivers venom causing severe, long-lasting pain in humans.",
+    "Platypuses have no nipples; milk oozes from pores in the skin and the young lap it from the mother's fur.",
+    "Platypus fur glows blue-green under ultraviolet light, a discovery published in 2020.",
+    "The bill carries tens of thousands of electroreceptors and touch sensors, allowing the animal to hunt with its eyes closed.",
+    "When the first specimen reached Britain in 1799, some naturalists thought it was a fake sewn together from several animals.",
+    "Platypuses have ten sex chromosomes rather than the two found in most mammals."
+  ],
+  "relatedAnimals": ["beaver", "sea-otter", "koala", "wombat", "tasmanian-devil", "red-kangaroo"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is a platypus a mammal?", "answer": "Yes. The platypus is a mammal because it has fur, is warm-blooded and feeds its young on milk. It belongs to the monotremes, an ancient group of mammals that lay eggs instead of giving birth to live young."},
+    {"question": "Are platypuses venomous?", "answer": "Yes, male platypuses are venomous. Each hind ankle has a sharp spur connected to a venom gland that is most active in the breeding season. The venom is not known to have killed a person, but it causes severe swelling and pain that can last for weeks."},
+    {"question": "Do platypuses lay eggs?", "answer": "Yes. A female platypus lays one to three small, leathery eggs in a nesting burrow and incubates them for about 10 days by holding them between her belly and tail. The platypus and the echidnas are the only living mammals that lay eggs."},
+    {"question": "What is the plural of platypus?", "answer": "The standard English plural is platypuses, and platypus is also used for a group. 'Platypi' is a popular but mistaken form, because the word comes from Greek rather than Latin; the strictly Greek plural would be platypodes."},
+    {"question": "Can you keep a platypus as a pet?", "answer": "No. Platypuses are protected in Australia and cannot be kept as pets. They are very difficult to look after even for zoos, needing large volumes of clean water and huge amounts of live food, and only a handful of institutions worldwide hold them."}
+  ],
+  "meta": {
+    "title": "Platypus Facts: Size, Lifespan, Venom, Eggs & Diet",
+    "description": "Platypuses are 40–60 cm long, weigh 0.7–2.4 kg and live 6–12 years in the wild. Eggs hatch in about 10 days. Venom, diet, habitat and conservation status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Ornithorhynchus%20anatinus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Ornithorhynchus_anatinus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Ornithorhynchus_anatinus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Platypus"}
+    ]
+  }
+}

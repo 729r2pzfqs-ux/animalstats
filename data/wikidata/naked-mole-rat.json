@@ -1,0 +1,39 @@
+{
+  "slug": "naked-mole-rat",
+  "commonName": "Naked Mole-Rat",
+  "scientificName": "Heterocephalus glaber",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q276290",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Naked mole-rat",
+  "taxonomy": {
+    "species": "Heterocephalus glaber",
+    "genus": "Heterocephalus",
+    "family": "Bathyergidae",
+    "order": "Rodentia",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "1.5",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "33.9",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "70",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

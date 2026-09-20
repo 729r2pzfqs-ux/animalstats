@@ -1,0 +1,19 @@
+{
+  "slug": "mandrill",
+  "commonName": "Mandrill",
+  "scientificName": "Mandrillus sphinx",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q189868",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Mandrill",
+  "taxonomy": {
+    "species": "Mandrillus sphinx",
+    "genus": "Mandrillus",
+    "family": "Cercopithecidae",
+    "order": "Primates",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": []
+}

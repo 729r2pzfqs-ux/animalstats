@@ -1,0 +1,22 @@
+{
+  "slug": "wombat",
+  "commonName": "Common Wombat",
+  "scientificName": "Vombatus ursinus",
+  "classSlug": "mammals",
+  "aliases": [
+    "wombat"
+  ],
+  "qid": "Q752436",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Common wombat",
+  "taxonomy": {
+    "species": "Vombatus ursinus",
+    "genus": "Vombatus",
+    "family": "Vombatidae",
+    "order": "Diprotodontia",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

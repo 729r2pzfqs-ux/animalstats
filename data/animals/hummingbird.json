@@ -1,0 +1,65 @@
+{
+  "slug": "hummingbird",
+  "commonName": "Ruby-Throated Hummingbird",
+  "scientificName": "Archilochus colubris",
+  "alternateNames": ["Hummingbird", "Ruby-throat"],
+  "nameSingular": "ruby-throated hummingbird",
+  "namePlural": "ruby-throated hummingbirds",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Apodiformes", "family": "Trochilidae", "genus": "Archilochus", "species": "A. colubris"},
+  "facts": {
+    "lifespan": {"min": 3, "max": 5, "unit": "years", "context": "in the wild; the banding record is just over 9 years", "display": "3–5 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 2, "max": 6, "unit": "g", "context": "adults; about 3 g normally, up to 6 g when fattened for migration; females are slightly larger", "display": "2–6 g (0.07–0.21 oz)"},
+    "height": {"min": 7, "max": 9, "unit": "cm", "label": "Length", "display": "7–9 cm (2.8–3.5 in)"},
+    "speed": {"min": 40, "max": 48, "unit": "km/h", "verb": "fly", "context": "level flight; faster in courtship dives", "display": "40–48 km/h (25–30 mph)"},
+    "gestationPeriod": {"min": 12, "max": 14, "unit": "days", "label": "Incubation", "display": "12–14 days"}
+  },
+  "ecology": {
+    "diet": "Nectarivore",
+    "dietDetails": "Nectar from tubular red and orange flowers such as trumpet creeper, bee balm and jewelweed, plus sugar water from feeders and tree sap; small insects and spiders supply protein, especially for nestlings.",
+    "habitat": ["Deciduous woodland", "Forest edges", "Gardens", "Meadows", "Tropical dry forest (winter)"],
+    "range": "Breeds across eastern North America from southern Canada to the Gulf Coast; winters from southern Mexico to Panama.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The ruby-throated hummingbird is the only hummingbird that breeds in eastern North America and the species most people there mean when they say hummingbird. It is about the weight of a US penny, metallic green above and whitish below; adult males have a throat patch that flashes ruby red in good light and looks black in shade. Its wings beat around 50 times a second, letting it hover, fly backward and dart between flowers. Every fall it migrates to Mexico and Central America, and many birds make a nonstop flight of about 800 km across the Gulf of Mexico.",
+  "answers": {
+    "lifespan": "Ruby-throated hummingbirds usually live 3–5 years in the wild. Many die in their first year, and males tend to have shorter lives than females. The oldest known wild bird, a banded female, was 9 years and 1 month old. They are not kept in captivity under normal circumstances.",
+    "weight": "A ruby-throated hummingbird weighs 2–6 g (0.07–0.21 oz), and a typical adult is about 3 g, roughly the weight of a US penny. Females are slightly heavier than males. Before migration the birds nearly double their body weight in fat to fuel the long flight south.",
+    "size": "Ruby-throated hummingbirds are 7–9 cm (2.8–3.5 in) long with a wingspan of 8–11 cm (3.1–4.3 in). Females are a little larger than males and have longer bills. The legs are so short that the bird cannot walk or hop; it only perches and shuffles sideways.",
+    "speed": "Ruby-throated hummingbirds fly at about 40–48 km/h (25–30 mph) in normal level flight. They go faster during the male's U-shaped courtship dives. Their wings beat roughly 50 times per second, rotating at the shoulder so that both the forward and backward strokes produce lift.",
+    "gestation": "Ruby-throated hummingbird eggs hatch after 12–14 days of incubation. The female lays two white, pea-sized eggs in a walnut-sized nest made of plant down and spider silk and covered with lichen. She incubates and feeds the young entirely alone, and they fledge after 18–22 days.",
+    "diet": "Ruby-throated hummingbirds feed mainly on flower nectar and sugar water, along with small insects and spiders for protein. They favor red and orange tubular flowers and lick nectar with a forked tongue about 13 times per second. A hummingbird may visit hundreds of flowers each day.",
+    "habitat": "Ruby-throated hummingbirds breed in deciduous and mixed woodland, forest edges, orchards, meadows and gardens across eastern North America, from southern Canada to the Gulf Coast. They spend the winter in dry forests, scrub and plantations from southern Mexico to Panama, with a few remaining on the US Gulf Coast.",
+    "conservation": "The ruby-throated hummingbird is listed as Least Concern on the IUCN Red List, and surveys show its numbers increasing over recent decades. Backyard feeders and flower gardens benefit it. Risks include window collisions, outdoor cats, pesticides that reduce insect prey, and habitat loss on its wintering grounds."
+  },
+  "funFacts": [
+    "Many ruby-throats cross the Gulf of Mexico in a single nonstop flight of about 800 km (500 miles), which takes roughly 18–22 hours.",
+    "In flight a ruby-throat's heart can beat more than 1,200 times per minute.",
+    "On cold nights hummingbirds can enter torpor, dropping their body temperature and slowing their metabolism dramatically to save energy.",
+    "The nest is held together with spider silk, which lets it stretch as the two chicks grow.",
+    "The male's red throat is a structural color: from the wrong angle the same feathers look dull black.",
+    "Hummingbirds are the only birds that can truly fly backward."
+  ],
+  "relatedAnimals": ["common-swift", "northern-cardinal", "american-robin", "honey-bee", "monarch-butterfly", "toco-toucan"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the best sugar-to-water ratio for hummingbird feeders?", "answer": "Use one part plain white table sugar to four parts water, which is close to natural flower nectar. Do not add red dye, honey or artificial sweeteners. Clean the feeder and replace the solution every few days, more often in hot weather, to prevent mold and fermentation."},
+    {"question": "When do ruby-throated hummingbirds migrate?", "answer": "They arrive on the US Gulf Coast in late February and March and reach the northern states and Canada by May. Fall migration runs from August to October, with adult males leaving first. Leaving feeders up does not stop them from migrating; day length triggers their departure."},
+    {"question": "How fast do a hummingbird's wings beat?", "answer": "A ruby-throated hummingbird beats its wings about 50 times per second in normal flight, which produces the humming sound that gives the birds their name. The rate can rise much higher during the male's courtship display dives."},
+    {"question": "Do hummingbirds sleep?", "answer": "Yes. Hummingbirds sleep at night perched on a twig, and when it is cold or food is short they enter torpor, a deep energy-saving state. Body temperature can fall by more than half and the heart rate drops from hundreds of beats per minute to about 50."},
+    {"question": "How can you tell a male from a female ruby-throated hummingbird?", "answer": "Adult males have an iridescent ruby-red throat, a black chin and a forked, all-dark tail. Females have a plain whitish throat and a rounded tail with white tips on the outer feathers. Young males look like females in their first fall, sometimes with a few red throat spots."}
+  ],
+  "meta": {
+    "title": "Ruby-Throated Hummingbird Facts: Size, Speed & Lifespan",
+    "description": "Ruby-throated hummingbirds weigh just 2–6 g, measure 7–9 cm, fly at 40–48 km/h and live 3–5 years. Migration, diet, nesting and feeder tips.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Archilochus%20colubris&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Archilochus_colubris/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Archilochus_colubris"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Ruby-throated_hummingbird"}
+    ]
+  }
+}

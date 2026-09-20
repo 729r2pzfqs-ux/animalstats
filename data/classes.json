@@ -1,0 +1,20 @@
+[
+  {"slug": "mammals", "name": "Mammals", "singular": "mammal", "icon": "paw-print",
+   "blurb": "Warm-blooded, fur-bearing animals that nurse their young.",
+   "intro": "Mammals are warm-blooded vertebrates that have hair or fur and feed their young with milk. They range from bats weighing a few grams to the blue whale, the largest animal that has ever lived. Because they invest heavily in a small number of offspring, mammals tend to have long pregnancies and long lives for their size, and the numbers below show how closely lifespan, gestation and body weight track one another."},
+  {"slug": "birds", "name": "Birds", "singular": "bird", "icon": "bird",
+   "blurb": "Feathered, egg-laying vertebrates, including the fastest animals alive.",
+   "intro": "Birds are feathered, warm-blooded vertebrates that lay hard-shelled eggs. Flight shapes almost everything about them: hollow bones keep weights low, and the fastest animals on Earth are birds in a dive. Many birds also live far longer than mammals of the same size; large parrots and albatrosses routinely pass 50 years. Instead of gestation, bird pages give the incubation period from laying to hatching."},
+  {"slug": "reptiles", "name": "Reptiles", "singular": "reptile", "icon": "turtle",
+   "blurb": "Turtles, crocodilians, snakes and lizards.",
+   "intro": "Reptiles are cold-blooded, scaly vertebrates: turtles and tortoises, crocodilians, snakes, lizards and the tuatara. A slow metabolism lets many of them live a very long time and go weeks or months between meals. Giant tortoises are among the longest-lived land animals, and the largest crocodiles and snakes keep growing for most of their lives. Most lay eggs, so the figure given is incubation time; a few, such as boas and anacondas, give birth to live young."},
+  {"slug": "amphibians", "name": "Amphibians", "singular": "amphibian", "icon": "egg",
+   "blurb": "Frogs, toads, salamanders and newts.",
+   "intro": "Amphibians are cold-blooded vertebrates with moist, permeable skin that usually start life in water as larvae and transform into air-breathing adults. That thin skin makes them sensitive to pollution, disease and climate, and amphibians are the most threatened class of vertebrates. Sizes run from thumbnail-sized frogs to giant salamanders more than a meter long."},
+  {"slug": "fish", "name": "Fish", "singular": "fish", "icon": "fish",
+   "blurb": "Sharks, rays and bony fish, from goldfish to whale sharks.",
+   "intro": "Fish are gill-breathing aquatic vertebrates and include two very different groups here: cartilaginous sharks and rays, and bony fish. They hold several records, including the longest-lived vertebrate, the Greenland shark, and the largest fish, the whale shark. Swimming speeds are hard to measure in open water and older record claims are often exaggerated, so the speeds given are conservative, well-supported figures."},
+  {"slug": "invertebrates", "name": "Invertebrates", "singular": "invertebrate", "icon": "bug",
+   "blurb": "Insects, spiders, mollusks, crustaceans, jellyfish and more.",
+   "intro": "Invertebrates are animals without a backbone, which covers roughly 95 percent of all animal species: insects, arachnids, mollusks, crustaceans, worms, jellyfish and echinoderms. Their life cycles vary enormously, so lifespans range from a few weeks for a housefly to centuries for a deep-water clam. Many have never been assessed for the IUCN Red List, which is why conservation status is often listed as Not Evaluated."}
+]

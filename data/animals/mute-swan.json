@@ -1,0 +1,64 @@
+{
+  "slug": "mute-swan",
+  "commonName": "Mute Swan",
+  "scientificName": "Cygnus olor",
+  "alternateNames": ["Swan", "White swan"],
+  "nameSingular": "mute swan",
+  "namePlural": "mute swans",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Anseriformes", "family": "Anatidae", "genus": "Cygnus", "species": "C. olor"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 20, "unit": "years", "context": "in the wild, for birds that reach adulthood", "display": "10–20 years"},
+    "lifespanCaptivity": {"min": 20, "max": 30, "unit": "years", "context": "in human care", "display": "20–30 years"},
+    "weight": {"min": 8, "max": 12, "unit": "kg", "context": "adults; males (cobs) average about 11 kg, females (pens) about 9 kg", "display": "8–12 kg (18–26 lb)"},
+    "height": {"min": 2.0, "max": 2.4, "unit": "m", "label": "Wingspan", "display": "2.0–2.4 m (6.6–7.9 ft)"},
+    "speed": {"min": 80, "max": 80, "unit": "km/h", "verb": "fly", "context": "level flight; approximate figure", "display": "about 80 km/h (50 mph)"},
+    "gestationPeriod": {"min": 35, "max": 41, "unit": "days", "label": "Incubation", "display": "35–41 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Mostly underwater plants such as pondweeds, waterweed and algae, reached by dipping the long neck or upending, plus grasses and grain on land and small numbers of insects, snails and tadpoles.",
+    "habitat": ["Lakes", "Ponds", "Slow rivers", "Marshes", "Sheltered coasts"],
+    "range": "Native to Europe and temperate Asia; introduced to North America, South Africa, Australia, New Zealand and Japan.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Increasing"
+  },
+  "description": "The mute swan is the familiar white swan of European parks and lakes, recognized by its orange bill with a black knob at the base and the graceful S-curve of its neck. It is one of the heaviest birds capable of flight, with large males weighing 12 kg or more. Despite the name it is not silent: it hisses, snorts and grunts, and its wings make a loud throbbing sound in flight. Pairs usually stay together for years and defend their nesting territory aggressively. Native to Europe and Asia, it was introduced to North America, where it is now treated as an invasive species in several states.",
+  "answers": {
+    "lifespan": "Mute swans that survive to adulthood typically live 10–20 years in the wild and 20–30 years in captivity. Many cygnets die in their first year, and collisions with power lines, lead poisoning and severe winters are common causes of death in adults. Banded wild birds have reached their late twenties.",
+    "weight": "Adult mute swans weigh 8–12 kg (18–26 lb), which makes them one of the heaviest flying birds in the world. Males, called cobs, average about 11 kg and females, called pens, about 9 kg. Exceptional males have been weighed at more than 15 kg, but those are records.",
+    "size": "A mute swan has a wingspan of 2.0–2.4 m (6.6–7.9 ft) and a body length of 1.25–1.6 m (4.1–5.2 ft). On land it stands about 1.2 m tall. Males are larger than females and have a bigger black knob on the bill.",
+    "speed": "Mute swans fly at roughly 80 km/h (50 mph) in level flight, although measured speeds vary with wind. Because they are so heavy, they need a long runway, pattering across the water for many meters before lifting off. On water they paddle at only a few kilometers per hour.",
+    "gestation": "Mute swan eggs hatch after about 35–41 days of incubation. The female lays a clutch of usually four to seven eggs in a huge mound nest of reeds and does most of the sitting while the male stands guard. The gray, downy cygnets can swim within a day or two.",
+    "diet": "Mute swans are herbivores that eat mainly submerged aquatic plants such as pondweed, along with algae, grasses and grain. An adult can eat several kilograms of wet vegetation a day. They reach food up to about a meter below the surface by upending, and swallow small animals mostly by accident.",
+    "habitat": "Mute swans live on lakes, ponds, slow-flowing rivers, marshes and sheltered coastal bays with plenty of underwater plants. They are native across Europe and temperate Asia and have been introduced to North America, southern Africa, Australasia and Japan. Many northern populations move to ice-free water in winter.",
+    "conservation": "The mute swan is listed as Least Concern on the IUCN Red List, and its population is increasing. European numbers recovered strongly after protection and the phasing out of lead fishing weights. In North America, introduced mute swans are managed as an invasive species because they overgraze aquatic plants and drive off native waterfowl."
+  },
+  "funFacts": [
+    "Mute swans are not mute: they hiss, grunt and snort, and the rhythmic humming of their wingbeats in flight can be heard from a long distance.",
+    "A male swan is called a cob, a female is a pen and a young swan is a cygnet.",
+    "By long-standing tradition the British Crown can claim unmarked mute swans on open water, and an annual count on the River Thames called Swan Upping still takes place.",
+    "Mute swans usually pair for many years, and the classic heart shape made by two swans facing each other is part of their courtship display.",
+    "A threatened swan arches its wings over its back and surges forward with both feet paddling together, a display known as busking."
+  ],
+  "relatedAnimals": ["canada-goose", "mallard", "greater-flamingo", "wandering-albatross", "wild-turkey", "andean-condor"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are mute swans dangerous?", "answer": "Mute swans can be aggressive near their nests and cygnets, and a charging swan can knock over a child or capsize a small boat, so give them space. Serious injuries are rare, and the old claim that a swan can break a person's arm with its wing is largely a myth."},
+    {"question": "Do swans mate for life?", "answer": "Mostly, yes. Mute swan pairs commonly stay together for many years and often for life, and they reuse the same territory each season. Pairs do occasionally split after failed breeding, and a swan that loses its mate will usually find a new partner."},
+    {"question": "What is a baby swan called?", "answer": "A baby swan is called a cygnet. Mute swan cygnets hatch covered in gray or occasionally white down, swim within a day or two, often ride on a parent's back, and stay with their parents for several months until they are driven off before the next breeding season."},
+    {"question": "Why are they called mute swans?", "answer": "They are called mute because they are much quieter than other swans, such as the loudly trumpeting whooper and trumpeter swans. Mute swans still make sounds, including hisses, grunts and a soft snorting call, and their wings produce a loud throbbing hum in flight."},
+    {"question": "Are mute swans invasive in the United States?", "answer": "Yes. Mute swans were brought to North America from Europe in the late 1800s as ornamental birds and escaped. They now breed along the Atlantic coast and around the Great Lakes, where wildlife agencies control them because they eat large amounts of aquatic vegetation and displace native birds."}
+  ],
+  "meta": {
+    "title": "Mute Swan Facts: Weight, Wingspan, Lifespan & Diet",
+    "description": "Mute swans weigh 8–12 kg (18–26 lb), have a 2.0–2.4 m wingspan and live 10–20 years in the wild. Diet, habitat, nesting and behavior of Cygnus olor.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Cygnus%20olor&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Cygnus_olor/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Cygnus_olor"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Mute_swan"}
+    ]
+  }
+}

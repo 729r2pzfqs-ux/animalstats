@@ -1,0 +1,64 @@
+{
+  "slug": "leopard-gecko",
+  "commonName": "Leopard Gecko",
+  "scientificName": "Eublepharis macularius",
+  "alternateNames": ["Common leopard gecko", "Leo"],
+  "nameSingular": "leopard gecko",
+  "namePlural": "leopard geckos",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Squamata", "family": "Eublepharidae", "genus": "Eublepharis", "species": "E. macularius"},
+  "facts": {
+    "lifespan": {"min": 6, "max": 10, "unit": "years", "context": "estimated in the wild", "display": "6–10 years"},
+    "lifespanCaptivity": {"min": 15, "max": 20, "unit": "years", "context": "as a pet; some exceed 25 years", "display": "15–20 years"},
+    "weight": {"min": 45, "max": 80, "unit": "g", "context": "adults; males are heavier than females", "display": "45–80 g (1.6–2.8 oz)"},
+    "height": {"min": 18, "max": 28, "unit": "cm", "label": "Length", "display": "18–28 cm (7–11 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 35, "max": 90, "unit": "days", "label": "Incubation", "display": "35–90 days, depending on temperature"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Crickets, beetles, grasshoppers, caterpillars, spiders, scorpions and other invertebrates caught at night; large adults occasionally take smaller lizards or newborn rodents. Pets are fed crickets, roaches and mealworms dusted with calcium.",
+    "habitat": ["Rocky desert", "Dry grassland", "Arid scrub"],
+    "range": "Dry, rocky regions of Afghanistan, Pakistan, northwestern India and Iran, with records from Nepal.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The leopard gecko is a small, ground-dwelling lizard from the dry, rocky country of South Asia and one of the most commonly kept pet reptiles. Adults are yellow with dark leopard-like spots, while hatchlings are banded. Unlike most geckos, leopard geckos have movable eyelids and lack sticky toe pads, so they cannot climb glass or smooth walls. They hide in burrows and rock crevices by day and hunt insects at dusk and at night. Fat stored in the thick tail carries them through lean periods. Decades of captive breeding have produced dozens of color morphs.",
+  "answers": {
+    "lifespan": "Leopard geckos live 15–20 years as pets, and an estimated 6–10 years in the wild. They are unusually long-lived for small lizards, and a number of captive males have been documented beyond 25 years. Females that are bred heavily tend to have shorter lives.",
+    "weight": "Adult leopard geckos weigh 45–80 g (1.6–2.8 oz). Females usually weigh 45–70 g and males 60–80 g. Some selectively bred \"giant\" lines exceed 100 g. Hatchlings weigh only about 3 g. A plump tail about as wide as the neck indicates healthy weight.",
+    "size": "Adult leopard geckos are 18–28 cm (7–11 in) long including the tail. Females typically reach 18–20 cm and males 20–28 cm. Hatchlings are about 7–10 cm long and reach adult size in roughly 12–18 months.",
+    "speed": null,
+    "gestation": "Leopard gecko eggs hatch after 35–90 days, depending on incubation temperature. Females lay clutches of two eggs, several times per breeding season. Temperature also determines sex: eggs kept around 26–28 °C produce mostly females, while about 32 °C produces mostly males.",
+    "diet": "Leopard geckos are insectivores that eat crickets, beetles, spiders, scorpions and other invertebrates. They do not eat plants. Pet geckos are fed live crickets, roaches and mealworms that have been dusted with calcium and vitamin D3 to prevent metabolic bone disease.",
+    "habitat": "Leopard geckos live in dry, rocky grasslands and deserts of Afghanistan, Pakistan, northwestern India and Iran. They avoid loose sand, preferring hard-packed soil and rock with plenty of crevices. They spend the hot day underground and become active at dusk, when temperatures drop.",
+    "conservation": "The leopard gecko is listed as Least Concern on the IUCN Red List. It is widespread in its native range, though wild populations are not closely monitored. The pet trade relies almost entirely on captive-bred animals, which reduces pressure on wild geckos."
+  },
+  "funFacts": [
+    "Leopard geckos are among the few geckos with eyelids, so they can blink and close their eyes to sleep.",
+    "They lack the sticky toe pads of other geckos and have small claws instead, so they walk on the ground rather than up walls.",
+    "A threatened leopard gecko can drop its tail, which keeps wriggling to distract the predator; the regrown tail is shorter and smoother.",
+    "The sex of a leopard gecko is determined by egg incubation temperature rather than by sex chromosomes.",
+    "Leopard geckos eat their shed skin, which recycles nutrients and removes scent traces that could attract predators."
+  ],
+  "relatedAnimals": ["bearded-dragon", "veiled-chameleon", "green-iguana", "ball-python", "gila-monster"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are leopard geckos good pets for beginners?", "answer": "Yes. Leopard geckos are often recommended as a first reptile because they are small, hardy, quiet and usually tolerate gentle handling. They need a heated enclosure with hides, a moist hide for shedding and live insects. Owners should be ready for a pet that can live 15–20 years."},
+    {"question": "Do leopard geckos need a heat lamp or UVB?", "answer": "They need a heat source that provides a warm area of roughly 30–32 °C, from an overhead heater or a heat mat on a thermostat. They can survive without UVB if given vitamin D3 supplements, but many keepers and vets now recommend low-level UVB lighting."},
+    {"question": "Do leopard geckos bite?", "answer": "Rarely. Leopard geckos are gentle, and bites usually happen only when a gecko is frightened or mistakes a finger for food. Their teeth are tiny, so a bite feels like a pinch and seldom breaks the skin. Babies are more skittish than adults."},
+    {"question": "Can leopard geckos live together?", "answer": "It is safest to house leopard geckos alone. Two males will fight, a male will harass a female with constant breeding attempts, and even females can bully one another over food and hides. They are solitary in behavior and do not get lonely."},
+    {"question": "How often do leopard geckos eat?", "answer": "Adult leopard geckos eat every two to three days, while juveniles should be fed daily. A typical adult meal is about five to eight appropriately sized insects. Because they store fat in the tail, healthy adults can safely go a week or more without food."}
+  ],
+  "meta": {
+    "title": "Leopard Gecko Lifespan, Size & Weight: Key Facts",
+    "description": "Leopard geckos live 15–20 years as pets, reach 18–28 cm (7–11 in) and weigh 45–80 g. Diet, egg incubation, habitat and beginner pet care facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Eublepharis%20macularius&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Eublepharis_macularius/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Eublepharis_macularius"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Leopard_gecko"}
+    ]
+  }
+}

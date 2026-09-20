@@ -1,0 +1,59 @@
+{
+  "slug": "python-vs-anaconda",
+  "summary": "The main difference between pythons and anacondas is that pythons are Old World snakes that lay eggs, while anacondas are South American boas that give birth to live young. Both are nonvenomous constrictors. The reticulated python of Southeast Asia is the world's longest snake, and the semi-aquatic green anaconda, though shorter, is much thicker and is the world's heaviest.",
+  "differences": [
+    {
+      "title": "Family and range",
+      "text": "Pythons form the family Pythonidae and are native to Africa, Asia and Australia. Anacondas are four or so species of the genus Eunectes in the boa family, Boidae, and live only in tropical South America. The Burmese pythons now breeding in the Florida Everglades are an introduced population, descended from escaped or released pets."
+    },
+    {
+      "title": "Reproduction",
+      "text": "All pythons lay eggs. The female coils around her clutch to guard it, and some species, including the reticulated python, can twitch their muscles to generate heat and keep the eggs warm. Anacondas, like most boas, retain the eggs inside the body and give birth to fully formed young, usually in shallow water."
+    },
+    {
+      "title": "Length versus bulk",
+      "text": "The reticulated python is a long, relatively slender snake and holds the records for length. The green anaconda is built very differently, with enormous girth, so an anaconda can weigh roughly twice as much as a python of similar length. In both species, females grow much larger than males, especially in anacondas."
+    },
+    {
+      "title": "Habitat",
+      "text": "Green anacondas are semi-aquatic. They spend most of their time in swamps, flooded grasslands and slow rivers of the Amazon and Orinoco basins, where water supports their weight, and are sluggish on land. Reticulated pythons live in rainforests and woodlands, climb well when young, swim capably, and often turn up near villages and cities."
+    },
+    {
+      "title": "Head and pattern",
+      "text": "An anaconda's eyes and nostrils sit on top of its head, so it can watch and breathe while almost fully submerged. Its olive-green body is marked with large black oval blotches. The reticulated python has a bold, net-like pattern of diamonds in gold, black and tan, an iridescent sheen, and a row of heat-sensing pits along its lips."
+    },
+    {
+      "title": "Prey",
+      "text": "Green anacondas ambush animals at the water's edge, including capybaras, caimans, wading birds, deer and peccaries. Reticulated pythons take rats, civets, monkeys, pigs and occasionally deer, and those living near people eat poultry, cats and dogs. Both swallow prey whole, head first, and may go weeks or months between large meals."
+    }
+  ],
+  "similarities": "Pythons and anacondas are both giant, nonvenomous constrictors. Each seizes prey with backward-curving teeth, then wraps it in coils that tighten until blood flow stops, which kills much faster than suffocation. Both have flexible jaws for swallowing large animals whole, tiny spurs near the tail that are remnants of hind legs, and a patient, sit-and-wait hunting style.",
+  "howToTell": [
+    "Eyes and nostrils perched on top of the head indicate an anaconda.",
+    "Olive-green skin with big black oval spots means green anaconda; a net-like diamond pattern means reticulated python.",
+    "An extremely thick, heavy-bodied snake lying in water is more likely an anaconda.",
+    "In the wild, location decides it: South America for anacondas; Africa, Asia or Australia for pythons."
+  ],
+  "faq": [
+    {
+      "question": "Which is bigger, a python or an anaconda?",
+      "answer": "It depends on how you measure. The reticulated python is the longest snake in the world, while the green anaconda is the heaviest. An anaconda is far thicker than a python of the same length. The comparison table above shows typical measurements for each species."
+    },
+    {
+      "question": "Who would win a fight, a python or an anaconda?",
+      "answer": "There is no factual basis for a confident answer, because they live on different continents and would not naturally fight. A large female anaconda has a clear weight advantage, which matters most between constrictors. Both snakes eat other reptiles, but neither normally tackles prey as risky as another giant snake."
+    },
+    {
+      "question": "Can a python or an anaconda eat a human?",
+      "answer": "It is possible but extremely rare. A handful of well-documented cases from Indonesia, including incidents in 2017 and 2018, involved reticulated pythons swallowing adults. There are no equally well-verified cases for green anacondas, although a large one is physically capable of killing a person."
+    },
+    {
+      "question": "Are anacondas a type of python?",
+      "answer": "No. Anacondas are boas, members of the family Boidae, while pythons belong to a separate family, Pythonidae. The two groups look alike because they share an ancient ancestor and a similar way of life, but boas bear live young and pythons lay eggs."
+    }
+  ],
+  "meta": {
+    "title": "Python vs Anaconda: Length, Weight and Differences",
+    "description": "Pythons are egg-laying Old World snakes; anacondas are live-bearing South American boas. One is the longest snake, the other the heaviest."
+  }
+}

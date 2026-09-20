@@ -1,0 +1,22 @@
+{
+  "slug": "nile-crocodile",
+  "commonName": "Nile Crocodile",
+  "scientificName": "Crocodylus niloticus",
+  "classSlug": "reptiles",
+  "aliases": [
+    "crocodile"
+  ],
+  "qid": "Q168745",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Nile crocodile",
+  "taxonomy": {
+    "species": "Crocodylus niloticus",
+    "genus": "Crocodylus",
+    "family": "Crocodylidae",
+    "order": "Crocodilia",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

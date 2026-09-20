@@ -1,0 +1,35 @@
+{
+  "slug": "giant-anteater",
+  "commonName": "Giant Anteater",
+  "scientificName": "Myrmecophaga tridactyla",
+  "classSlug": "mammals",
+  "aliases": [
+    "anteater"
+  ],
+  "qid": "Q203033",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Giant anteater",
+  "taxonomy": {
+    "species": "Myrmecophaga tridactyla",
+    "genus": "Myrmecophaga",
+    "family": "Myrmecophagidae",
+    "order": "Pilosa",
+    "class": "Mammalia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "1.35",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "180",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

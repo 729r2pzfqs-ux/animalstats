@@ -1,0 +1,21 @@
+{
+  "slug": "grizzly-bear",
+  "commonName": "Grizzly Bear",
+  "scientificName": "Ursus arctos horribilis",
+  "classSlug": "mammals",
+  "aliases": [
+    "brown bear",
+    "grizzly"
+  ],
+  "qid": "Q171004",
+  "iucnStatus": null,
+  "wikipedia": "Grizzly bear",
+  "taxonomy": {
+    "species": "Ursus arctos",
+    "genus": "Ursus",
+    "family": "Ursidae",
+    "order": "Carnivora",
+    "class": "Mammalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "golden-poison-frog",
+  "commonName": "Golden Poison Frog",
+  "scientificName": "Phyllobates terribilis",
+  "classSlug": "amphibians",
+  "aliases": [
+    "poison dart frog"
+  ],
+  "qid": "Q963997",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Golden poison frog",
+  "taxonomy": {
+    "species": "Phyllobates terribilis",
+    "genus": "Phyllobates",
+    "family": "Dendrobatidae",
+    "order": "Anura",
+    "class": "Amphibia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

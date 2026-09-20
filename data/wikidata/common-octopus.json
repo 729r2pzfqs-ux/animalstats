@@ -1,0 +1,29 @@
+{
+  "slug": "common-octopus",
+  "commonName": "Common Octopus",
+  "scientificName": "Octopus vulgaris",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "octopus"
+  ],
+  "qid": "Q651361",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Common octopus",
+  "taxonomy": {
+    "species": "Octopus vulgaris",
+    "genus": "Octopus",
+    "family": "Octopodidae",
+    "order": "Octopoda",
+    "class": "Cephalopoda",
+    "phylum": "Mollusca",
+    "kingdom": "Animalia"
+  },
+  "quantities": [
+    {
+      "property": "lifeExpectancy",
+      "amount": "1.5",
+      "unit": "year",
+      "sex": null
+    }
+  ]
+}

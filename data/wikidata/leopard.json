@@ -1,0 +1,28 @@
+{
+  "slug": "leopard",
+  "commonName": "Leopard",
+  "scientificName": "Panthera pardus",
+  "classSlug": "mammals",
+  "aliases": [
+    "panther"
+  ],
+  "qid": "Q34706",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Leopard",
+  "taxonomy": {
+    "species": "Panthera pardus",
+    "genus": "Panthera",
+    "family": "Felidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "91",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

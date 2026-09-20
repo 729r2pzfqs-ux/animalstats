@@ -1,0 +1,65 @@
+{
+  "slug": "spotted-hyena",
+  "commonName": "Spotted Hyena",
+  "scientificName": "Crocuta crocuta",
+  "alternateNames": ["Laughing hyena", "Hyena", "Spotted hyaena"],
+  "nameSingular": "spotted hyena",
+  "namePlural": "spotted hyenas",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Hyaenidae", "genus": "Crocuta", "species": "C. crocuta"},
+  "facts": {
+    "lifespan": {"min": 12, "max": 20, "unit": "years", "context": "in the wild; a few reach about 25", "display": "12–20 years"},
+    "lifespanCaptivity": {"min": 20, "max": 25, "unit": "years", "context": "in human care; the record is about 41", "display": "20–25 years"},
+    "weight": {"min": 40, "max": 86, "unit": "kg", "context": "adults; females are about 10% heavier than males", "display": "40–86 kg (88–190 lb)"},
+    "height": {"min": 0.7, "max": 0.9, "unit": "m", "label": "Shoulder height", "display": "70–90 cm (28–35 in)"},
+    "speed": {"min": 60, "max": 60, "unit": "km/h", "verb": "run", "context": "top speed; can hold 40–50 km/h for several kilometers", "display": "60 km/h (37 mph)"},
+    "gestationPeriod": {"min": 110, "max": 110, "unit": "days", "label": "Gestation", "display": "about 110 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Wildebeest, zebra, gazelles, buffalo calves and other hoofed mammals, most of which they kill themselves; also carrion, bones, and smaller prey from birds and fish to insects.",
+    "habitat": ["Savanna", "Grassland", "Open woodland", "Semi-desert", "Mountain forest edge"],
+    "range": "Sub-Saharan Africa outside the dense Congo rainforest, from Senegal to Ethiopia and south to South Africa, with the largest numbers in East and southern Africa.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Decreasing",
+    "population": "an estimated 27,000–47,000"
+  },
+  "description": "The spotted hyena is the largest of the four hyena species and sub-Saharan Africa's most abundant large carnivore. Although often dismissed as a scavenger, it is a skilled hunter that kills most of its own food, and its massive jaws can crush and digest bone. Hyenas look dog-like but belong to their own family, which is more closely related to cats and mongooses. Spotted hyenas live in female-dominated clans of up to 80 or more animals with a strict hierarchy that cubs inherit from their mothers. Females are larger than males and have unusual, male-like external genitalia. Their whoops and 'laughs' are among the best-known sounds of the African night.",
+  "answers": {
+    "lifespan": "Spotted hyenas live about 12–20 years in the wild, and occasionally up to 25. In zoos they typically live 20–25 years, with a record of about 41 years. In the wild, the main causes of death are lions, fights with other hyenas, and people, through snares, poisoning and shooting.",
+    "weight": "Adult spotted hyenas weigh 40–86 kg (88–190 lb). Unusually for mammals, females are about 10 percent heavier than males. Size also varies by region: hyenas in southern Africa are larger than those in East Africa, where Serengeti adults typically weigh 40–65 kg.",
+    "size": "A spotted hyena stands 70–90 cm (28–35 in) tall at the shoulder. Head-and-body length is 0.95–1.65 m (3.1–5.4 ft), with a short 25–35 cm tail. The front legs are longer than the hind legs, giving the hyena its characteristic sloping back and rolling gait.",
+    "speed": "Spotted hyenas can run at about 60 km/h (37 mph). They are endurance hunters rather than sprinters: a hyena can maintain 40–50 km/h over several kilometers, wearing down wildebeest and zebra in long chases thanks to a very large heart for its body size.",
+    "gestation": "A spotted hyena is pregnant for about 110 days. She usually gives birth to one or two cubs, which are born with their eyes open and teeth already erupted. Females give birth through a narrow, elongated pseudo-penis, which makes first births risky. Cubs nurse for a year or more on very rich milk.",
+    "diet": "Spotted hyenas are carnivores that hunt wildebeest, zebra, gazelles and other hoofed animals. In many areas they kill 60–95 percent of what they eat rather than scavenging. They also steal kills, eat carrion, and consume skin and bones that other predators leave, digesting nearly all of a carcass.",
+    "habitat": "Spotted hyenas live in savannas, grasslands, open woodlands, semi-deserts and mountains across sub-Saharan Africa. They avoid dense rainforest and the driest deserts. Clans defend territories from about 40 to over 1,000 square km, depending on prey, and some hyenas live on the edges of towns, as in Harar, Ethiopia.",
+    "conservation": "The spotted hyena is listed as Least Concern on the IUCN Red List, with an estimated 27,000–47,000 animals, but numbers are decreasing. Outside protected areas hyenas are declining because of habitat loss, snaring, and poisoning and shooting in retaliation for livestock losses."
+  },
+  "funFacts": [
+    "Female spotted hyenas are larger than males and dominate them; even the lowest-ranking female outranks the highest-ranking male in most clans.",
+    "The famous 'laugh' is a giggle-like call made by a hyena that is excited, nervous or being chased off food by a superior.",
+    "Spotted hyena jaws can crack open giraffe leg bones, and their stomach acid dissolves bone, so their droppings turn chalk-white.",
+    "Despite looking like dogs, hyenas belong to the cat-like branch of carnivores, with mongooses and civets as close relatives.",
+    "Cubs are born with open eyes and functional teeth, and same-sex twins often fight fiercely within hours of birth."
+  ],
+  "relatedAnimals": ["lion", "african-wild-dog", "leopard", "cheetah", "meerkat", "blue-wildebeest"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why do hyenas laugh?", "answer": "The hyena 'laugh' is not amusement. It is a high-pitched giggle made when a spotted hyena is excited, frustrated or submissive, typically during squabbles over a carcass. Research suggests the pitch and rhythm carry information about the caller's age and social rank."},
+    {"question": "Are hyenas dogs or cats?", "answer": "Neither. Hyenas form their own family, Hyaenidae. Within the order Carnivora they belong to the cat-like branch, Feliformia, so they are more closely related to cats, mongooses and civets than to dogs, even though their build and hunting style look dog-like."},
+    {"question": "Are spotted hyenas dangerous to humans?", "answer": "Yes, they can be. Spotted hyenas are large, powerful predators, and attacks on people occur in parts of East and southern Africa, mostly at night on people sleeping outdoors. Such attacks are uncommon, and in most places hyenas avoid humans."},
+    {"question": "Do hyenas only scavenge?", "answer": "No. Spotted hyenas are capable hunters that kill the majority of their own food in most ecosystems studied, hunting alone for small prey and in groups for zebra and wildebeest. In some areas, such as Tanzania's Ngorongoro Crater, lions were found to steal kills from hyenas more often than the reverse."},
+    {"question": "Can a hyena kill a lion?", "answer": "A group of spotted hyenas can kill a lioness, a cub or a sick or old lion, and large groups regularly drive lionesses off kills. An adult male lion, however, is much larger than any hyena and is one of the main causes of hyena deaths."}
+  ],
+  "meta": {
+    "title": "Spotted Hyena Facts: Size, Bite, Speed, Clans & Diet",
+    "description": "Spotted hyenas weigh 40–86 kg (88–190 lb), run 60 km/h (37 mph) and live 12–20 years in the wild. Why they laugh, what they eat and how clans work.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Crocuta%20crocuta&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Crocuta_crocuta/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Crocuta_crocuta"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Spotted_hyena"}
+    ]
+  }
+}

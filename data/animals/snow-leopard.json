@@ -1,0 +1,64 @@
+{
+  "slug": "snow-leopard",
+  "commonName": "Snow Leopard",
+  "scientificName": "Panthera uncia",
+  "alternateNames": ["Ounce", "Ghost of the mountains", "Uncia uncia"],
+  "nameSingular": "snow leopard",
+  "namePlural": "snow leopards",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Felidae", "genus": "Panthera", "species": "P. uncia"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 13, "unit": "years", "context": "in the wild; poorly documented, estimates range up to 15–18 years", "display": "10–13 years"},
+    "lifespanCaptivity": {"min": 18, "max": 22, "unit": "years", "context": "in human care", "display": "up to 18–22 years"},
+    "weight": {"min": 22, "max": 55, "unit": "kg", "context": "adults; males are larger, occasionally reaching 75 kg", "display": "22–55 kg (49–121 lb)"},
+    "height": {"min": 56, "max": 60, "unit": "cm", "label": "Shoulder height", "display": "about 56–60 cm (22–24 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 90, "max": 105, "unit": "days", "label": "Gestation", "display": "90–105 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mainly wild mountain sheep and goats such as blue sheep (bharal), Siberian ibex and argali, plus marmots, pikas, hares and game birds; also takes domestic sheep, goats and young yaks.",
+    "habitat": ["Alpine meadows", "Rocky mountains", "Cliffs and ravines", "High-altitude steppe"],
+    "range": "High mountains of 12 countries in Central and South Asia, including the Himalayas, Tibetan Plateau, Pamirs, Tian Shan and Altai, mostly at 3,000–4,500 m.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing",
+    "population": "about 2,700–3,400 mature individuals"
+  },
+  "description": "The snow leopard is a medium-sized big cat of the high mountains of Central Asia, so elusive that it is often called the ghost of the mountains. Its thick, smoky-gray coat with dark rosettes blends into rock and snow, and its body is built for cold and steep ground: wide, fur-soled paws act like snowshoes, a large nasal cavity warms thin air, and a tail nearly as long as its body provides balance and doubles as a wrap against the cold. Despite its name it is more closely related to the tiger than to the leopard, and it cannot roar. It was downlisted from Endangered to Vulnerable in 2017.",
+  "answers": {
+    "lifespan": "Snow leopards are thought to live about 10–13 years in the wild and up to 18–22 years in zoos. Wild lifespan is hard to study in such remote terrain, and some sources give estimates of 15–18 years. Females first breed at around three to four years old.",
+    "weight": "Adult snow leopards weigh 22–55 kg (49–121 lb). Males are roughly a third heavier than females, and unusually large males have reached about 75 kg. That puts the snow leopard between a Eurasian lynx and a typical leopard in size.",
+    "size": "A snow leopard stands about 56–60 cm (22–24 in) tall at the shoulder. Head-and-body length is 75–150 cm, and the thick tail adds another 80–105 cm, the longest tail relative to body size of any big cat.",
+    "speed": null,
+    "gestation": "A snow leopard is pregnant for 90–105 days. Cubs are born in late spring or early summer, usually two or three to a litter, in a rocky den lined with the mother's fur. They remain with her for 18–22 months before dispersing.",
+    "diet": "Snow leopards are carnivores that mainly hunt wild mountain sheep and goats, especially blue sheep and Siberian ibex. They can kill prey up to three times their own weight and also eat marmots, pikas, hares and birds. A snow leopard needs a large kill roughly every 8–10 days.",
+    "habitat": "Snow leopards live in steep, rocky, high-altitude terrain across 12 countries of Central and South Asia, usually between 3,000 and 4,500 m and higher in the Himalayas. They favor cliffs, ridgelines and ravines above the tree line. China contains about 60 percent of their habitat.",
+    "conservation": "The snow leopard is listed as Vulnerable on the IUCN Red List, with an estimated 2,700–3,400 mature individuals and a decreasing trend. Threats include retaliatory killing by herders, poaching for fur and bones, declining wild prey, mining and roads, and climate change shrinking its alpine habitat."
+  },
+  "funFacts": [
+    "Snow leopards cannot roar; instead they make a soft puffing sound called a chuff, along with hisses, growls and yowls.",
+    "A snow leopard's tail is nearly as long as its body and is wrapped around its face like a scarf when it sleeps.",
+    "Snow leopards are reported to leap as far as about 15 m (50 ft) when chasing prey across broken slopes.",
+    "Their huge, fur-covered paws spread their weight on snow and give grip on rock.",
+    "Genetic studies show the snow leopard's closest living relative is the tiger, not the leopard."
+  ],
+  "relatedAnimals": ["leopard", "tiger", "cougar", "lion", "jaguar", "bobcat"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How many snow leopards are left in the wild?", "answer": "The IUCN estimates about 2,700–3,400 mature snow leopards, and total numbers including younger animals are often put at roughly 4,000–6,500. The figures are uncertain because the cats live at low densities in some of the most remote mountains on Earth."},
+    {"question": "Are snow leopards endangered?", "answer": "Snow leopards are classified as Vulnerable, one step below Endangered. The IUCN changed the listing from Endangered in 2017 after better population estimates, a decision some conservation groups disputed. The population is still considered to be declining."},
+    {"question": "Are snow leopards dangerous to humans?", "answer": "No. Snow leopards are among the least aggressive big cats, and there are no verified records of a wild snow leopard killing a person. They tend to retreat even when disturbed at a kill, although they do prey on livestock."},
+    {"question": "Can snow leopards roar?", "answer": "No. Although they belong to the genus Panthera with lions and tigers, snow leopards lack the specialized vocal-fold structure needed for roaring. They communicate with chuffing, growling, hissing, mewing and a loud wailing yowl during the mating season."},
+    {"question": "Which countries have snow leopards?", "answer": "Snow leopards live in 12 Asian countries: Afghanistan, Bhutan, China, India, Kazakhstan, Kyrgyzstan, Mongolia, Nepal, Pakistan, Russia, Tajikistan and Uzbekistan. China has the largest share of both habitat and animals, followed by Mongolia and India."}
+  ],
+  "meta": {
+    "title": "Snow Leopard Facts: Size, Lifespan, Habitat & Population",
+    "description": "Snow leopards weigh 22–55 kg (49–121 lb), live 10–13 years in the wild and number about 2,700–3,400 mature adults. Diet, habitat, gestation and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Panthera%20uncia&searchType=species"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Snow_leopard"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q30197"}
+    ]
+  }
+}

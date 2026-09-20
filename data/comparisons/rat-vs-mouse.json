@@ -1,0 +1,60 @@
+{
+  "slug": "rat-vs-mouse",
+  "summary": "The main difference between rats and mice is size. Rats are much larger and heavier, with a thick, scaly tail, a blunt snout and small ears relative to the head, while mice are small and slender, with large ears, a pointed snout and a thin tail. 'Rat' and 'mouse' are informal size labels, but the brown rat and house mouse belong to different genera.",
+  "differences": [
+    {
+      "title": "Size",
+      "text": "An adult brown rat is many times heavier than an adult house mouse and has a far longer body. The ones most easily confused are young rats and adult mice. A juvenile rat gives itself away with a head and hind feet that look too large for its body, while an adult mouse is delicately proportioned."
+    },
+    {
+      "title": "Head and ears",
+      "text": "A mouse has a small, triangular head with a pointed snout and large, rounded ears that look big for its face. A brown rat has a heavier, blunter, wedge-shaped head with smaller ears that would not cover the eyes if folded forward. The roof rat, the other common pest rat, has larger ears and a more pointed face."
+    },
+    {
+      "title": "Tail",
+      "text": "A rat's tail is thick, scaly and visibly ringed, and in the brown rat it is a bit shorter than the head and body. A house mouse's tail is thin, about as long as its body, and covered with fine hairs. Both use the tail for balance and to help regulate body temperature."
+    },
+    {
+      "title": "Droppings",
+      "text": "Droppings are often the first sign of an infestation and tell the two apart reliably. House mouse droppings are tiny, about the size of a grain of rice, with pointed ends, and are scattered widely. Brown rat droppings are several times larger, capsule-shaped with blunt ends, and tend to be found in clusters."
+    },
+    {
+      "title": "Behavior",
+      "text": "Mice are curious and investigate new objects quickly, which makes them easier to trap. Rats are wary of anything new in their surroundings and may avoid a trap or bait for days. Mice nest indoors close to food and nibble at many spots, while brown rats usually burrow outdoors or live in basements and sewers."
+    },
+    {
+      "title": "Classification",
+      "text": "The brown rat is Rattus norvegicus, and the house mouse is Mus musculus. Both belong to the family Muridae but to separate genera whose ancestors split more than ten million years ago. Many unrelated rodents are also called rats or mice simply because of their size, such as kangaroo rats, pack rats and deer mice."
+    }
+  ],
+  "similarities": "Rats and mice are both rodents in the family Muridae, with a single pair of ever-growing incisors in each jaw that must be worn down by gnawing. Both are nocturnal omnivores with poor eyesight, keen smell and sensitive whiskers, and both breed extremely quickly. Both have spread worldwide alongside humans, and domesticated strains of both are widely used in research and kept as pets.",
+  "howToTell": [
+    "Big ears and a pointed snout on a tiny body mean mouse; a blunt head with smaller ears means rat.",
+    "A thick, scaly tail is a rat's. A thin tail about as long as the body is a mouse's.",
+    "Oversized feet and head on a small rodent indicate a young rat, not a mouse.",
+    "Rice-sized pointed droppings come from mice; much larger, blunt droppings come from rats.",
+    "Gnaw marks and entry holes are larger for rats; mice squeeze through gaps about the width of a pencil."
+  ],
+  "faq": [
+    {
+      "question": "Can rats and mice interbreed?",
+      "answer": "No. Brown rats and house mice belong to different genera, and their chromosomes do not match: rats have 42 and mice have 40. They cannot produce offspring together. A mouse is not a baby rat, and a rat is not a grown-up mouse; they are entirely separate species."
+    },
+    {
+      "question": "Do rats kill mice?",
+      "answer": "Yes. Rats will kill and eat mice, a behavior scientists call muricide, and mice instinctively fear the smell of rats. For this reason the two seldom share the same part of a building. Having one does not guarantee the absence of the other, however, since they can occupy different floors or areas."
+    },
+    {
+      "question": "Which is worse to have in the house, rats or mice?",
+      "answer": "Both contaminate food, carry disease and chew wiring, but rats usually cause more structural damage because of their size and stronger jaws. Mice are more common indoors and multiply very fast, so small problems grow quickly. Either infestation is worth dealing with promptly."
+    },
+    {
+      "question": "Are rats smarter than mice?",
+      "answer": "Rats generally perform better on complex learning tasks and are easier to train, which is one reason they are favored in behavioral research. They show empathy-like behavior and learn to avoid traps. Mice are also capable learners, and the differences partly reflect which tests suit each species."
+    }
+  ],
+  "meta": {
+    "title": "Rat vs Mouse: Size, Tail, Droppings and Differences",
+    "description": "Rats are much larger than mice, with thick scaly tails and blunt snouts; mice are small with big ears, pointed snouts and thin tails. Learn more."
+  }
+}

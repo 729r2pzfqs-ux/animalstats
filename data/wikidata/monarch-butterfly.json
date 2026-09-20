@@ -1,0 +1,22 @@
+{
+  "slug": "monarch-butterfly",
+  "commonName": "Monarch Butterfly",
+  "scientificName": "Danaus plexippus",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "butterfly"
+  ],
+  "qid": "Q212398",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Monarch butterfly",
+  "taxonomy": {
+    "species": "Danaus plexippus",
+    "genus": "Danaus",
+    "family": "Nymphalidae",
+    "order": "Lepidoptera",
+    "class": "Insecta",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

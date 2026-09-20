@@ -1,0 +1,28 @@
+{
+  "slug": "african-buffalo",
+  "commonName": "African Buffalo",
+  "scientificName": "Syncerus caffer",
+  "classSlug": "mammals",
+  "aliases": [
+    "cape buffalo"
+  ],
+  "qid": "Q160042",
+  "iucnStatus": "Near Threatened",
+  "wikipedia": "African buffalo",
+  "taxonomy": {
+    "species": "Syncerus caffer",
+    "genus": "Syncerus",
+    "family": "Bovidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "340",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

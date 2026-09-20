@@ -1,0 +1,60 @@
+{
+  "slug": "bee-vs-wasp",
+  "summary": "The main difference between bees and wasps is diet: bees are vegetarians that feed their young on pollen and nectar, while wasps are predators and scavengers that feed their larvae on insects and other animal protein. That shapes their bodies. Bees are rounder and hairy to collect pollen; wasps are sleek and shiny with a narrow waist. Bees actually evolved from wasp ancestors.",
+  "differences": [
+    {
+      "title": "Body shape and hair",
+      "text": "Bees look plump and fuzzy. Their bodies are covered in branched hairs that trap pollen, and the western honey bee has flattened hind legs with pollen baskets. Wasps, such as the common wasp, have smooth, glossy bodies with few visible hairs, slender legs that dangle in flight, and a sharply pinched waist between thorax and abdomen."
+    },
+    {
+      "title": "Food",
+      "text": "Adult bees drink nectar and collect pollen as protein for their larvae, which makes them key pollinators. Adult wasps also sip sugary liquids, but they hunt caterpillars, flies and other insects or scavenge meat to feed their young. That is why wasps, not bees, pester picnics for both soda and sandwich meat in late summer."
+    },
+    {
+      "title": "Sting",
+      "text": "A honey bee worker has a barbed stinger that lodges in the elastic skin of mammals. It tears free with the venom sac, and the bee dies soon after. Wasps have smooth stingers and can sting repeatedly. Most other bees, including bumble bees, also have smooth stingers and can sting more than once."
+    },
+    {
+      "title": "Nests",
+      "text": "Honey bees build vertical combs of wax secreted from glands on their own abdomens, usually inside a cavity such as a hollow tree or a hive box. Common wasps build a gray, papery nest by chewing weathered wood into pulp, often underground, in a wall cavity or in an attic."
+    },
+    {
+      "title": "Colony life cycle",
+      "text": "A honey bee colony is perennial. The queen and thousands of workers survive winter by clustering together and eating stored honey, which is the reason they make it. A common wasp colony lasts a single season. In fall the workers and old queen die, and only newly mated queens hibernate to start fresh nests in spring."
+    },
+    {
+      "title": "Temperament",
+      "text": "Honey bees sting mainly in defense of the hive and are usually calm while foraging on flowers. Social wasps defend their nests vigorously and become more noticeable in late summer, when colonies peak and workers seek sugar. Most of the world's bee and wasp species are actually solitary and very unlikely to sting anyone."
+    }
+  ],
+  "similarities": "Bees and wasps belong to the same insect order, Hymenoptera, along with ants. Both have two pairs of wings hooked together in flight, a slender waist, and, in females only, a stinger that is a modified egg-laying organ. The familiar honey bees and yellowjacket wasps both live in colonies with a queen and sterile female workers, and both do valuable work: pollination and pest control.",
+  "howToTell": [
+    "Fuzzy and rounded means bee; smooth, shiny and narrow-waisted means wasp.",
+    "Common wasps are vivid yellow and black. Honey bees are duller, in amber-brown and dark bands.",
+    "An insect carrying yellow balls of pollen on its hind legs is a bee.",
+    "If it is interested in your meat, fish or sugary drink, it is almost certainly a wasp.",
+    "A papery gray nest belongs to wasps; wax honeycomb belongs to honey bees."
+  ],
+  "faq": [
+    {
+      "question": "Do wasps die after they sting?",
+      "answer": "No. Wasps have smooth stingers that slide out easily, so a single wasp can sting several times. It is honey bee workers that die after stinging people, because their barbed stinger gets stuck in skin and tears away from the bee's body."
+    },
+    {
+      "question": "Are wasps good for anything?",
+      "answer": "Yes. Wasps are important natural pest controllers, killing huge numbers of caterpillars, aphids and flies to feed their larvae. They also pollinate some plants while visiting flowers for nectar, and fig trees depend entirely on tiny fig wasps. Without wasps, many crop pests would be far more abundant."
+    },
+    {
+      "question": "Which sting is worse, a bee or a wasp?",
+      "answer": "For most people the two are similarly painful, causing sharp pain, redness and swelling for a day or so. The venoms are chemically different, so a person can be allergic to one and not the other. Anyone who has trouble breathing or widespread swelling after a sting needs emergency medical care."
+    },
+    {
+      "question": "Do wasps make honey?",
+      "answer": "Almost none do. Common wasps and other yellowjackets do not store food, because their colonies die off in winter. A few tropical species, notably the Mexican honey wasp, do store small amounts of honey, but honey production on a useful scale is unique to honey bees and stingless bees."
+    }
+  ],
+  "meta": {
+    "title": "Bee vs Wasp: Differences in Body, Sting and Behavior",
+    "description": "Bees are hairy vegetarians that feed on pollen and nectar; wasps are smooth, narrow-waisted predators that can sting repeatedly. Compare them."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "rabbit",
+  "commonName": "Rabbit",
+  "scientificName": "Oryctolagus cuniculus",
+  "alternateNames": ["European rabbit", "Domestic rabbit", "Bunny", "Coney"],
+  "nameSingular": "rabbit",
+  "namePlural": "rabbits",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Lagomorpha", "family": "Leporidae", "genus": "Oryctolagus", "species": "O. cuniculus"},
+  "facts": {
+    "lifespan": {"min": 8, "max": 12, "unit": "years", "context": "pet rabbits kept indoors with good care; wild rabbits rarely survive more than 1–2 years", "display": "8–12 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 1, "max": 7, "unit": "kg", "context": "domestic breeds from dwarfs to Flemish Giants; wild European rabbits weigh 1.2–2.5 kg", "display": "1–7 kg (2–15 lb)"},
+    "height": {"min": 34, "max": 50, "unit": "cm", "label": "Body length", "display": "34–50 cm (13–20 in)"},
+    "speed": {"min": 40, "max": 56, "unit": "km/h", "verb": "run", "context": "short zigzag sprints; published estimates vary", "display": "40–56 km/h (25–35 mph)"},
+    "gestationPeriod": {"min": 28, "max": 31, "unit": "days", "label": "Gestation", "display": "28–31 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Grasses, herbs, leaves, buds and bark in the wild; pet rabbits need unlimited grass hay plus leafy greens and a small amount of pellets. Rabbits re-eat soft droppings to extract more nutrients.",
+    "habitat": ["Grassland", "Scrub", "Farmland", "Woodland edges", "Homes"],
+    "range": "Native to Spain, Portugal and southwestern France; introduced across Europe, Australia, New Zealand, Chile and many islands, and kept as a pet and farm animal worldwide.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The rabbit covered here is the European rabbit, the single species from which every breed of pet and farm rabbit descends. It is a burrowing, social lagomorph, not a rodent, that lives in tunnel systems called warrens and is most active at dawn and dusk. Rabbits were domesticated in southern France around 1,400 years ago and now come in more than 300 breeds. The species has a split reputation: it is a destructive invasive pest in Australia and elsewhere, yet in its native Iberian range it has collapsed because of two introduced viral diseases and is listed as Endangered.",
+  "answers": {
+    "lifespan": "Pet rabbits live 8–12 years when kept indoors with a good diet and veterinary care. Smaller breeds tend to outlive giant breeds, and spayed or neutered rabbits live longer. Wild European rabbits have far shorter lives: most die in their first year, and few survive beyond one or two years.",
+    "weight": "Domestic rabbits weigh 1–7 kg (2–15 lb) depending on breed. A Netherland Dwarf weighs about 1 kg, a typical medium breed 2–4 kg, and a Flemish Giant 7 kg or more. Wild European rabbits are fairly uniform at 1.2–2.5 kg.",
+    "size": "A European rabbit measures 34–50 cm (13–20 in) from nose to rump, with ears about 6–8 cm long. Dwarf pet breeds are smaller, while giant breeds such as the Flemish Giant and Continental Giant can stretch to 75 cm or more.",
+    "speed": "A rabbit can sprint at roughly 40–56 km/h (25–35 mph), although published estimates vary. Rabbits rely on sudden acceleration and sharp zigzags to reach a burrow rather than on outrunning predators over distance. Hares, their long-legged relatives, are faster.",
+    "gestation": "A rabbit is pregnant for 28–31 days, about one month. Litters usually hold four to eight kits, born hairless and blind in a fur-lined nest. A doe can conceive again within hours of giving birth, which is why rabbit populations can grow so quickly.",
+    "diet": "Rabbits are strict herbivores that eat grass, herbs, leaves and bark. Pet rabbits should eat mostly grass hay, with leafy greens and a few pellets; carrots and fruit are sugary treats, not staples. Rabbits produce soft droppings called cecotropes and eat them to absorb vitamins and protein.",
+    "habitat": "Wild rabbits live in grassland, scrub, dunes, farmland and woodland edges with soft, well-drained soil for digging warrens. They are native to the Iberian Peninsula and southwestern France but have been introduced to every continent except Antarctica, and domestic rabbits live in homes and farms worldwide.",
+    "conservation": "The wild European rabbit is listed as Endangered on the IUCN Red List because populations in its native Iberian range have crashed. Myxomatosis and rabbit hemorrhagic disease are the main causes. Domestic rabbits are abundant, and introduced wild rabbits are a serious pest in Australia and New Zealand."
+  },
+  "funFacts": [
+    "A rabbit's teeth never stop growing, at roughly 2 mm a week, and are worn down by chewing fibrous food.",
+    "Happy rabbits leap and twist in the air, a behavior owners call a binky.",
+    "Rabbits are lagomorphs, not rodents; they have a second small pair of upper incisors tucked behind the front pair.",
+    "The decline of wild rabbits in Spain and Portugal has threatened the Iberian lynx and Spanish imperial eagle, which depend on them as prey.",
+    "Rabbits released in Australia in 1859 spread across most of the continent within about 50 years."
+  ],
+  "relatedAnimals": ["european-hare", "guinea-pig", "hamster", "cat", "capybara"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a rabbit and a hare?", "answer": "Hares are generally larger, with longer ears and legs, and live above ground, while rabbits dig burrows and live in groups. Baby hares are born furred with open eyes, whereas baby rabbits are born naked, blind and helpless."},
+    {"question": "Do rabbits make good pets?", "answer": "Rabbits can be rewarding pets, but they need more care than many people expect. They live 8–12 years, need space to run daily, a hay-based diet, companionship and specialist veterinary care, and most dislike being picked up, so they are not ideal for young children."},
+    {"question": "Are rabbits rodents?", "answer": "No. Rabbits belong to the order Lagomorpha, along with hares and pikas. Lagomorphs have four upper incisors instead of the two that rodents have, and the two groups split from a common ancestor tens of millions of years ago."},
+    {"question": "What is a baby rabbit called?", "answer": "A baby rabbit is called a kit or kitten, although many people say bunny. A female rabbit is a doe, a male is a buck, and a group of wild rabbits living together is a colony, which occupies a warren."},
+    {"question": "Can rabbits eat carrots?", "answer": "Rabbits can eat carrots, but only as an occasional treat because carrots are high in sugar. Wild rabbits do not dig up root vegetables. Around 80–90 percent of a pet rabbit's diet should be grass hay, which keeps teeth and digestion healthy."}
+  ],
+  "meta": {
+    "title": "Rabbit Facts: Lifespan, Size, Speed & Gestation",
+    "description": "Pet rabbits live 8–12 years, weigh 1–7 kg by breed and are pregnant for 28–31 days. Speed, diet, habitat and status of the European rabbit.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Oryctolagus%20cuniculus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Oryctolagus_cuniculus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Oryctolagus_cuniculus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/European_rabbit"}
+    ]
+  }
+}

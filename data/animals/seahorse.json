@@ -1,0 +1,64 @@
+{
+  "slug": "seahorse",
+  "commonName": "Lined Seahorse",
+  "scientificName": "Hippocampus erectus",
+  "alternateNames": ["Northern seahorse", "Spotted seahorse", "Seahorse"],
+  "nameSingular": "lined seahorse",
+  "namePlural": "lined seahorses",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Syngnathiformes", "family": "Syngnathidae", "genus": "Hippocampus", "species": "H. erectus"},
+  "facts": {
+    "lifespan": {"min": 1, "max": 4, "unit": "years", "context": "in the wild", "display": "1–4 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 5, "max": 20, "unit": "g", "context": "approximate adult weight; seahorses are rarely weighed", "display": "about 5–20 g (0.2–0.7 oz)"},
+    "height": {"min": 12, "max": 19, "unit": "cm", "label": "Length", "display": "12–19 cm (4.7–7.5 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 14, "max": 21, "unit": "days", "label": "Gestation", "display": "2–3 weeks (carried by the male)"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Tiny crustaceans such as copepods, amphipods and small shrimp, plus fish larvae and other zooplankton, sucked in whole through the tubular snout; seahorses have no teeth and no stomach.",
+    "habitat": ["Seagrass beds", "Mangroves", "Estuaries", "Sponge and coral reefs", "Floating sargassum"],
+    "range": "Western Atlantic Ocean from Nova Scotia south along the US coast, through the Gulf of Mexico and the Caribbean to Venezuela.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The lined seahorse is a medium-sized seahorse of the western Atlantic, named for the fine pale lines that trace its head and neck. Like all seahorses it is a true fish that swims upright, has bony armor plates instead of scales, a grasping tail and eyes that move independently. Its color varies from pale yellow and orange to brown or nearly black, and it can change shade to match its surroundings. Seahorses are famous for male pregnancy: the female places her eggs in the male's brood pouch, and he fertilizes, carries and gives birth to the young. Lined seahorses form pair bonds renewed by daily greeting dances.",
+  "answers": {
+    "lifespan": "Lined seahorses live about 1–4 years in the wild. With good care they can reach four or five years in aquariums, where this species is one of the most commonly kept and bred seahorses. In nature, most young are eaten within days of birth, and storms that tear up seagrass kill many adults.",
+    "weight": "An adult lined seahorse weighs only about 5–20 g (0.2–0.7 oz), roughly the weight of one to four US nickels. Seahorses are rarely weighed, so this range is approximate. A male looks much heavier when his brood pouch is swollen with hundreds of developing young.",
+    "size": "Lined seahorses are 12–19 cm (4.7–7.5 in) tall as adults, measured from the top of the head to the tip of the straightened tail. That makes them a mid-sized species: the dwarf seahorse is only about 2.5 cm, while the big-belly seahorse of Australia can reach 35 cm.",
+    "speed": null,
+    "gestation": "A male lined seahorse is pregnant for about 2–3 weeks, depending on water temperature. The female deposits her eggs in his brood pouch, where he fertilizes them, supplies oxygen and regulates salinity. He then gives birth to roughly 100–1,500 fully formed young, each about 1 cm long, and can mate again within days.",
+    "diet": "Lined seahorses are carnivores that eat tiny crustaceans such as copepods, amphipods and small shrimp, along with fish larvae. They are ambush hunters, waiting motionless and then snapping the head upward to suck prey in. With no stomach to store food, they eat almost constantly.",
+    "habitat": "Lined seahorses live in shallow coastal waters of the western Atlantic, from Nova Scotia to Venezuela, usually less than 70 m deep. They cling with their tails to seagrass, mangrove roots, sponges, corals and floating sargassum weed, and they tolerate the varying salinity of estuaries and bays.",
+    "conservation": "The lined seahorse is listed as Vulnerable on the IUCN Red List, with a decreasing population. It is caught accidentally in shrimp trawls and collected for aquariums, curios and traditional medicine, and it is losing seagrass and mangrove habitat to coastal development. International trade in all seahorses is regulated under CITES Appendix II."
+  },
+  "funFacts": [
+    "Bonded pairs of lined seahorses greet each other every morning with a dance, changing color and swimming with tails linked.",
+    "A seahorse strikes by pivoting its head upward in a few milliseconds, and its snout shape creates almost no wake to warn its prey.",
+    "Seahorses swim with a small dorsal fin that flutters up to about 35 times a second, steering with tiny fins behind the head.",
+    "The genus name Hippocampus comes from the Greek for horse and sea monster, and a seahorse-shaped part of the human brain is named after it.",
+    "A seahorse's eyes move independently, like a chameleon's, so it can watch for prey and predators at the same time."
+  ],
+  "relatedAnimals": ["clownfish", "veiled-chameleon", "common-octopus", "guppy", "moon-jellyfish"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Do male seahorses really give birth?", "answer": "Yes. In seahorses the male becomes pregnant. The female transfers her eggs into a pouch on his belly, he fertilizes them there, and the embryos develop inside the pouch, which supplies oxygen and nutrients. After two to three weeks, muscular contractions expel the fully formed young."},
+    {"question": "Is a seahorse a fish?", "answer": "Yes. Seahorses are bony fish in the same family as pipefish and seadragons. They breathe through gills, have a swim bladder and fins, and hatch from eggs. Their upright posture, armor of bony plates, grasping tail and lack of tail fin just make them look unlike other fish."},
+    {"question": "Do seahorses mate for life?", "answer": "Not strictly. Lined seahorses form pair bonds that are reinforced by daily greeting rituals and often last through a breeding season or longer. If a partner dies or disappears, the remaining seahorse will find a new mate, so they are better described as seasonally monogamous."},
+    {"question": "Can you keep a lined seahorse as a pet?", "answer": "Yes, but they are demanding. Lined seahorses need a tall, calm marine aquarium with things to grip, stable water quality and several feedings a day of frozen mysis shrimp. Buy captive-bred animals, which eat frozen food readily and do not deplete wild populations."},
+    {"question": "How many babies do seahorses have?", "answer": "A male lined seahorse usually gives birth to between about 100 and 1,500 young at a time, depending on his size. The babies are independent from birth and drift in the plankton, and only a tiny fraction survive to adulthood."}
+  ],
+  "meta": {
+    "title": "Lined Seahorse Facts: Size, Lifespan & Male Pregnancy",
+    "description": "Lined seahorses grow 12–19 cm tall, live 1–4 years and the males are pregnant for 2–3 weeks, giving birth to 100–1,500 young. Diet, habitat and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Hippocampus%20erectus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Hippocampus_erectus/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Lined_seahorse"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q2578911"}
+    ]
+  }
+}

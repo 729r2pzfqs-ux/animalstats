@@ -1,0 +1,64 @@
+{
+  "slug": "cockatiel",
+  "commonName": "Cockatiel",
+  "scientificName": "Nymphicus hollandicus",
+  "alternateNames": ["Quarrion", "Weero", "Tiel"],
+  "nameSingular": "cockatiel",
+  "namePlural": "cockatiels",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Psittaciformes", "family": "Cacatuidae", "genus": "Nymphicus", "species": "N. hollandicus"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 15, "unit": "years", "context": "in the wild, as commonly estimated", "display": "10–15 years"},
+    "lifespanCaptivity": {"min": 15, "max": 25, "unit": "years", "context": "well-cared-for pets; a few have passed 30", "display": "15–25 years"},
+    "weight": {"min": 80, "max": 100, "unit": "g", "context": "adults", "display": "80–100 g (2.8–3.5 oz)"},
+    "height": {"min": 30, "max": 33, "unit": "cm", "label": "Length", "display": "30–33 cm (12–13 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 18, "max": 21, "unit": "days", "label": "Incubation", "display": "18–21 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Mainly small seeds of grasses, shrubs and trees such as acacia, gathered on the ground; also grain crops like sorghum and sunflower, with some berries and fruit.",
+    "habitat": ["Arid and semi-arid scrubland", "Open woodland", "Grassland", "Farmland near water"],
+    "range": "Most of inland mainland Australia, especially the arid and semi-arid interior; largely absent from the wettest coastal regions and from Tasmania.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The cockatiel is a small, slender Australian parrot and the smallest member of the cockatoo family, recognizable by its upright crest, long pointed tail and round orange cheek patches. Wild birds are gray with white wing flashes, and males have a bright yellow face; captive breeding has added lutino, pied, pearl, cinnamon and white-faced varieties. In the wild, cockatiels roam the dry interior of Australia in pairs and flocks, following water and seeding grasses. Gentle, affectionate and easy to breed, they are the second most popular pet parrot in the world after the budgerigar.",
+  "answers": {
+    "lifespan": "Pet cockatiels typically live 15–25 years, while wild cockatiels are estimated to live 10–15 years. A few captive birds have passed 30. Good diet is the biggest factor: cockatiels fed only seed are prone to obesity and fatty liver disease, and many die before they are ten.",
+    "weight": "An adult cockatiel weighs 80–100 g (2.8–3.5 oz), about as much as a deck of cards. Males and females are similar in weight. Owners are often advised to weigh pet birds regularly on a gram scale, because a drop of ten percent can be an early sign of illness.",
+    "size": "Cockatiels are 30–33 cm (12–13 in) long, and the tail makes up roughly half of that length. They are the smallest of the cockatoos, about twice the length of a budgerigar. The crest adds a few extra centimeters of height when it is raised.",
+    "speed": null,
+    "gestation": "Cockatiel eggs hatch after 18–21 days of incubation. The hen lays four to seven eggs, one every other day, in a tree hollow or nest box, and unusually for parrots, the male shares incubation, typically sitting by day while the female sits at night. Chicks fledge at four to five weeks.",
+    "diet": "Wild cockatiels are herbivores that feed mainly on small seeds from grasses, shrubs and acacia trees, collected on the ground. They also eat ripening grain and can be minor crop pests. Pet cockatiels stay healthiest on a pellet-based diet with vegetables and only limited seed, which is high in fat.",
+    "habitat": "Wild cockatiels live across the arid and semi-arid interior of Australia, in open scrub, grassland and lightly timbered country, never far from fresh water. They are nomadic, moving to wherever rain has produced seed, and they nest in hollows of eucalyptus trees near creeks and waterholes.",
+    "conservation": "The cockatiel is listed as Least Concern on the IUCN Red List, with a stable wild population. It is common across inland Australia and has benefited from farm dams and grain crops. Australia banned the export of native birds decades ago, so pet cockatiels around the world are all captive-bred."
+  },
+  "funFacts": [
+    "A cockatiel's crest shows its mood: upright when alert or curious, flattened when angry or frightened, and relaxed and tilted back when content.",
+    "Cockatiels are cockatoos, not parakeets. Genetic studies place them in the cockatoo family, of which they are the smallest member.",
+    "Male cockatiels are skilled whistlers and can learn whole tunes, which they usually manage far better than spoken words.",
+    "Special powder-down feathers produce a fine white dust that cockatiels use to keep their plumage clean and water-resistant.",
+    "The genus name Nymphicus means 'little nymph', and hollandicus refers to New Holland, an old European name for Australia."
+  ],
+  "relatedAnimals": ["budgerigar", "african-grey-parrot", "scarlet-macaw", "emu", "pigeon"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can cockatiels talk?", "answer": "Some can. Male cockatiels may learn a handful of words and short phrases, but their voices are not very clear, and they are much better at whistling tunes and copying household sounds such as phones and microwaves. Females rarely talk or whistle."},
+    {"question": "How can you tell a male cockatiel from a female?", "answer": "In normal gray cockatiels, adult males have a bright yellow face and vivid orange cheek patches, while females have a mostly gray face and barring under the tail. Color varieties such as lutino and pied are harder to sex and may need a DNA test."},
+    {"question": "Are cockatiels good pets for beginners?", "answer": "Yes. Cockatiels are widely recommended as a first parrot because they are gentle, relatively quiet, affordable and easy to tame. They still need daily time out of the cage, company, a good diet and a commitment of 15–25 years."},
+    {"question": "Why do cockatiels have orange cheeks?", "answer": "The orange ear patches are a signal to other cockatiels. They are brightest in adult males and help birds judge sex and condition. The color comes from psittacofulvins, pigments that only parrots produce, and captive varieties such as the white-faced lack them entirely."},
+    {"question": "What is a cockatiel night fright?", "answer": "A night fright is a sudden panic in the dark, when a startled cockatiel thrashes around its cage and may break feathers or injure itself. It is common in this species. A dim night light and a calm, draft-free sleeping spot reduce the risk."}
+  ],
+  "meta": {
+    "title": "Cockatiel Lifespan, Size, Weight & Care Facts",
+    "description": "Cockatiels live 15–25 years as pets and 10–15 in the wild, weigh 80–100 g (2.8–3.5 oz) and are 30–33 cm long. Diet, Australian habitat and pet facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Nymphicus%20hollandicus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Nymphicus_hollandicus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Nymphicus_hollandicus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Cockatiel"}
+    ]
+  }
+}

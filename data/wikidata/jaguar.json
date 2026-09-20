@@ -1,0 +1,32 @@
+{
+  "slug": "jaguar",
+  "commonName": "Jaguar",
+  "scientificName": "Panthera onca",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q35694",
+  "iucnStatus": "Near Threatened",
+  "wikipedia": "Jaguar",
+  "taxonomy": {
+    "species": "Panthera onca",
+    "genus": "Panthera",
+    "family": "Felidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "800",
+      "unit": "g",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "99",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

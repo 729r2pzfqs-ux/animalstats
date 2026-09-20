@@ -1,0 +1,26 @@
+{
+  "slug": "llama",
+  "commonName": "Llama",
+  "scientificName": "Lama glama",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q42569",
+  "iucnStatus": null,
+  "wikipedia": "Llama",
+  "taxonomy": {
+    "species": "Lama glama",
+    "genus": "Lama",
+    "family": "Camelidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "358",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

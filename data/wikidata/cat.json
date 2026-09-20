@@ -1,0 +1,36 @@
+{
+  "slug": "cat",
+  "commonName": "Cat",
+  "scientificName": "Felis catus",
+  "classSlug": "mammals",
+  "aliases": [
+    "house cat",
+    "domestic cat",
+    "kitten"
+  ],
+  "qid": "Q20980826",
+  "iucnStatus": null,
+  "wikipedia": "Felis catus",
+  "taxonomy": {
+    "species": "Felis catus",
+    "genus": "Felis",
+    "family": "Felidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "lifeExpectancy",
+      "amount": "22",
+      "unit": "year",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "64",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

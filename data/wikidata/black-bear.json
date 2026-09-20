@@ -1,0 +1,28 @@
+{
+  "slug": "black-bear",
+  "commonName": "American Black Bear",
+  "scientificName": "Ursus americanus",
+  "classSlug": "mammals",
+  "aliases": [
+    "black bear"
+  ],
+  "qid": "Q122783",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "American black bear",
+  "taxonomy": {
+    "species": "Ursus americanus",
+    "genus": "Ursus",
+    "family": "Ursidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "212",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

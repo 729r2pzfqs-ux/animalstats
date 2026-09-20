@@ -1,0 +1,22 @@
+{
+  "slug": "bluefin-tuna",
+  "commonName": "Atlantic Bluefin Tuna",
+  "scientificName": "Thunnus thynnus",
+  "classSlug": "fish",
+  "aliases": [
+    "tuna"
+  ],
+  "qid": "Q214415",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Atlantic bluefin tuna",
+  "taxonomy": {
+    "species": "Thunnus thynnus",
+    "genus": "Thunnus",
+    "family": "Scombridae",
+    "order": "Scombriformes",
+    "class": "Actinopteri",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

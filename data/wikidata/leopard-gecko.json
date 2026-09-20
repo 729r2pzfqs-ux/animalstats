@@ -1,0 +1,22 @@
+{
+  "slug": "leopard-gecko",
+  "commonName": "Leopard Gecko",
+  "scientificName": "Eublepharis macularius",
+  "classSlug": "reptiles",
+  "aliases": [
+    "gecko"
+  ],
+  "qid": "Q256860",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Leopard gecko",
+  "taxonomy": {
+    "species": "Eublepharis macularius",
+    "genus": "Eublepharis",
+    "family": "Eublepharidae",
+    "order": "Squamata",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

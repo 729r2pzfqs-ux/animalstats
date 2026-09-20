@@ -1,0 +1,64 @@
+{
+  "slug": "bluefin-tuna",
+  "commonName": "Atlantic Bluefin Tuna",
+  "scientificName": "Thunnus thynnus",
+  "alternateNames": ["Northern bluefin tuna", "Giant bluefin", "Bluefin tuna", "Tunny"],
+  "nameSingular": "Atlantic bluefin tuna",
+  "namePlural": "Atlantic bluefin tuna",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Scombriformes", "family": "Scombridae", "genus": "Thunnus", "species": "T. thynnus"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 40, "unit": "years", "context": "in the wild; the western Atlantic stock is the longer-lived", "display": "20–40 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 225, "max": 400, "unit": "kg", "context": "mature adults average 225–250 kg; giants above 600 kg are records", "display": "225–400 kg (500–880 lb)"},
+    "height": {"min": 2, "max": 2.5, "unit": "m", "label": "Length", "display": "2–2.5 m (6.5–8.2 ft)"},
+    "speed": {"min": 36, "max": 54, "unit": "km/h", "verb": "swim", "context": "estimated physical ceiling for short bursts from hydrodynamic studies; the often-quoted 70–100 km/h has never been measured", "display": "roughly 36–54 km/h (22–34 mph)"},
+    "gestationPeriod": {"min": 2, "max": 2, "unit": "days", "label": "Egg development", "display": "about 2 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Schooling fish such as herring, mackerel, menhaden, sand lance and anchovies, together with squid and crustaceans; larvae and juveniles start on zooplankton and small fish.",
+    "habitat": ["Open ocean", "Continental shelf", "Temperate coastal seas"],
+    "range": "North Atlantic Ocean and Mediterranean Sea, from Newfoundland and Norway south to the Gulf of Mexico and West Africa; it spawns mainly in the Gulf of Mexico and the Mediterranean.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The Atlantic bluefin is the largest of the tunas and one of the biggest bony fish, a torpedo-shaped ocean predator that can top 600 kg. Unlike most fish it is warm-bodied: a network of blood vessels conserves heat from its swimming muscles, keeping its core well above water temperature so it can hunt from the tropics to near-Arctic seas and dive below 900 m. Bluefin cross the Atlantic in weeks and return to spawn in the Gulf of Mexico or the Mediterranean. Their fatty red flesh is the most prized sushi fish in the world, and decades of overfishing drove stocks to historic lows before strict quotas began a recovery.",
+  "answers": {
+    "lifespan": "Atlantic bluefin tuna live 20–40 years. Fish from the western Atlantic stock grow more slowly, mature later, at around 8 years or more, and live longest; eastern and Mediterranean fish mature at about 4 years. Ages are read from growth rings in the ear bones, checked against bomb radiocarbon dating.",
+    "weight": "Mature Atlantic bluefin tuna typically weigh 225–400 kg (500–880 lb), and the average adult is about 225–250 kg. The heaviest on record, caught off Nova Scotia in 1979, weighed 679 kg (1,496 lb). Fish of that size have become very rare after decades of heavy fishing.",
+    "size": "Adult Atlantic bluefin tuna are usually 2–2.5 m (6.5–8.2 ft) long, and exceptional giants exceed 3 m (10 ft). That makes it the largest tuna species, ahead of the Pacific and southern bluefins. It reaches about 1 m in length by three to four years of age.",
+    "speed": "Atlantic bluefin tuna probably top out at roughly 36–54 km/h (22–34 mph) in short bursts. Popular sources claim 70 km/h or even 100 km/h, but no such speed has been measured, and hydrodynamic studies suggest fins would be damaged by cavitation above about 10–15 m per second. Tagged bluefin usually cruise at under 10 km/h.",
+    "gestation": "Atlantic bluefin tuna eggs hatch about two days after they are fertilized. Tuna do not get pregnant: females release millions of tiny buoyant eggs into warm surface water and males fertilize them externally. The larvae are only about 3 mm long at hatching, and very few survive their first weeks.",
+    "diet": "Atlantic bluefin tuna are carnivores that eat schooling fish such as herring, mackerel, menhaden and sand lance, along with squid and crustaceans. They hunt by sight and speed, often herding bait schools to the surface. Their warm muscles and high metabolism mean they must eat large amounts of energy-rich prey.",
+    "habitat": "Atlantic bluefin tuna live in the open waters of the North Atlantic and the Mediterranean Sea, from the surface down to 900 m or more. They feed in cool, productive waters off Canada, New England, Iceland and Norway in summer and migrate thousands of kilometers to warm spawning grounds in the Gulf of Mexico and the Mediterranean.",
+    "conservation": "The Atlantic bluefin tuna was moved from Endangered to Least Concern on the IUCN Red List in 2021 after strict catch quotas and a crackdown on illegal fishing allowed the large eastern stock to rebuild. The smaller western stock, which spawns in the Gulf of Mexico, remains far below its historic size."
+  },
+  "funFacts": [
+    "Bluefin tuna are warm-bodied fish: heat-exchanging blood vessels can keep their muscles 10 °C or more above the surrounding water.",
+    "A tagged bluefin can cross the Atlantic Ocean in under two months, and fish from both sides of the ocean mix on the same feeding grounds.",
+    "At the first Tokyo fish auction of 2019, a single 278 kg Pacific bluefin, a close relative, sold for a record 333.6 million yen, about 3 million US dollars.",
+    "Bluefin can fold their dorsal and pectoral fins into grooves in the body to cut drag when swimming fast.",
+    "Until the 1960s, giant bluefin caught off North America were considered poor eating and were often sold cheaply for pet food."
+  ],
+  "relatedAnimals": ["swordfish", "sailfish", "great-white-shark", "atlantic-salmon", "orca", "ocean-sunfish"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why is bluefin tuna so expensive?", "answer": "Bluefin tuna is expensive because its fatty belly meat, called toro, is the most sought-after cut in sushi and sashimi, and supply is tightly limited by catch quotas. Prices depend heavily on fat content and handling; headline auction prices in Tokyo are partly publicity and far above normal market value."},
+    {"question": "Is Atlantic bluefin tuna endangered?", "answer": "Not any longer at the global level. The IUCN reclassified the species from Endangered to Least Concern in 2021 because the eastern Atlantic and Mediterranean stock had increased under strict management. The western Atlantic stock is still depleted, so conservationists urge continued caution."},
+    {"question": "How big is the biggest bluefin tuna ever caught?", "answer": "The largest Atlantic bluefin tuna on record weighed 679 kg (1,496 lb). It was caught by angler Ken Fraser off Aulds Cove, Nova Scotia, in October 1979 and still stands as the International Game Fish Association all-tackle world record for the species."},
+    {"question": "Are bluefin tuna warm-blooded?", "answer": "Partly. Bluefin tuna are regional endotherms: a counter-current network of blood vessels traps heat made by the swimming muscles, keeping the muscles, eyes, brain and gut warmer than the water. This powers fast, sustained swimming and lets them feed in cold seas that would slow other fish."},
+    {"question": "What is the difference between bluefin and yellowfin tuna?", "answer": "Bluefin are larger, up to several hundred kilograms, have short pectoral fins, darker and fattier red flesh, and tolerate cold water. Yellowfin are smaller tropical tuna, rarely over 180 kg, with long bright yellow second dorsal and anal fins and leaner, milder meat."}
+  ],
+  "meta": {
+    "title": "Atlantic Bluefin Tuna Facts: Size, Speed & Lifespan",
+    "description": "Atlantic bluefin tuna grow 2–2.5 m long, weigh 225–400 kg (record 679 kg) and live 20–40 years. What is known about their real top speed, diet and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Thunnus%20thynnus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Thunnus_thynnus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Thunnus_thynnus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Atlantic_bluefin_tuna"}
+    ]
+  }
+}

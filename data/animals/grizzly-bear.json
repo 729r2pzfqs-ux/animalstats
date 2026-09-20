@@ -1,0 +1,65 @@
+{
+  "slug": "grizzly-bear",
+  "commonName": "Grizzly Bear",
+  "scientificName": "Ursus arctos horribilis",
+  "alternateNames": ["Grizzly", "North American brown bear", "Silvertip bear"],
+  "nameSingular": "grizzly bear",
+  "namePlural": "grizzly bears",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Ursidae", "genus": "Ursus", "species": "U. a. horribilis"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 25, "unit": "years", "context": "in the wild", "display": "20–25 years"},
+    "lifespanCaptivity": {"min": 30, "max": 35, "unit": "years", "context": "in human care; a few have passed 40", "display": "30–35 years"},
+    "weight": {"min": 130, "max": 360, "unit": "kg", "context": "inland adults; females 130–180 kg, males 180–360 kg; coastal brown bears are heavier", "display": "130–360 kg (290–790 lb)"},
+    "height": {"min": 0.9, "max": 1.1, "unit": "m", "label": "Shoulder height", "display": "0.9–1.1 m (3–3.6 ft)"},
+    "speed": {"min": 56, "max": 56, "unit": "km/h", "verb": "run", "context": "short sprints", "display": "56 km/h (35 mph)"},
+    "gestationPeriod": {"min": 180, "max": 250, "unit": "days", "label": "Gestation", "display": "180–250 days (6–8 months), including delayed implantation"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Roots, grasses, berries, pine nuts and insects make up most of the diet, along with salmon and trout, ground squirrels, elk and moose calves, and carrion, depending on region and season.",
+    "habitat": ["Mountain forest", "Alpine meadow", "Tundra", "River valley", "Prairie edge"],
+    "range": "Alaska, western Canada (Yukon, Northwest Territories, British Columbia, Alberta) and small populations in Montana, Wyoming, Idaho and Washington in the northwestern United States.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable",
+    "population": "roughly 55,000 in North America, most of them in Alaska and western Canada"
+  },
+  "description": "The grizzly bear is the North American subspecies of the brown bear (Ursus arctos), the same species that lives across Europe and Asia. The name comes from the pale, grizzled tips of its fur. Grizzlies are recognized by a muscular shoulder hump, a dished face and long front claws built for digging. They are mostly solitary omnivores that spend summer and fall fattening up before sleeping through winter in a den. Once found from Alaska to Mexico and east onto the Great Plains, grizzlies now occupy only a small fraction of their former range south of Canada, where they are protected as a threatened population.",
+  "answers": {
+    "lifespan": "Grizzly bears live 20–25 years in the wild and 30–35 years in zoos. Females tend to outlive males, and a few wild bears have been documented past 30. Most deaths of adult grizzlies are caused by people, through conflicts over livestock and food, hunting where it is legal, and collisions with vehicles and trains.",
+    "weight": "Adult grizzly bears weigh 130–360 kg (290–790 lb). Inland females usually weigh 130–180 kg and males 180–360 kg. Weight swings with the seasons: a bear can be 30 percent or more heavier in fall than in spring. Coastal brown bears with access to salmon grow much larger than inland grizzlies.",
+    "size": "A grizzly bear stands 0.9–1.1 m (3–3.6 ft) tall at the shoulder on all fours. Standing upright on its hind legs, a large male can reach about 2.4 m (8 ft). Head-and-body length is roughly 1.8–2.4 m, and the front claws can be 5–10 cm long.",
+    "speed": "Grizzly bears can run at about 56 km/h (35 mph) over short distances. That is far faster than any human sprinter, and grizzlies can hold a fast pace uphill or downhill, which is why wildlife agencies advise never trying to outrun one.",
+    "gestation": "A grizzly bear pregnancy lasts 180–250 days (6–8 months), but most of that is delayed implantation. Mating happens in May to July, the embryo implants around November, and actual fetal growth takes only about eight weeks. One to three tiny cubs, weighing around 500 g, are born in the winter den in January or February.",
+    "diet": "Grizzly bears are omnivores, and plants usually make up most of what they eat. They dig roots and bulbs, graze on grasses, and gorge on berries and whitebark pine nuts, adding insects, salmon, ground squirrels, elk calves and carrion when available. In fall they may eat for up to 20 hours a day to build fat for winter.",
+    "habitat": "Grizzly bears live in mountain forests, alpine meadows, tundra and river valleys in Alaska, western Canada and the northwestern United States. In the lower 48 states they survive mainly in and around Yellowstone and Glacier national parks. They need large, undisturbed areas: a male's home range can cover well over 1,000 square km.",
+    "conservation": "The brown bear species is listed as Least Concern on the IUCN Red List, and the grizzly subspecies is not assessed separately. In the contiguous United States, however, grizzlies are protected as threatened under the Endangered Species Act, with roughly 2,000 bears, up from a few hundred in the 1970s."
+  },
+  "funFacts": [
+    "The shoulder hump on a grizzly is a mass of muscle that powers the front legs for digging up roots and excavating winter dens.",
+    "In Yellowstone, grizzlies climb to high rocky slopes in summer to eat army cutworm moths, and a single bear can eat tens of thousands of moths in a day.",
+    "Grizzlies do not eat, drink, urinate or defecate for the five to seven months they spend in the winter den.",
+    "Cubs are born blind and nearly hairless while the mother is in her winter sleep, and they usually stay with her for two to three years.",
+    "A grizzly's sense of smell is considered better than a bloodhound's, letting it detect carcasses from kilometers away."
+  ],
+  "relatedAnimals": ["polar-bear", "black-bear", "giant-panda", "gray-wolf", "moose", "wolverine"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a grizzly bear and a brown bear?", "answer": "All grizzlies are brown bears, but not all brown bears are grizzlies. The grizzly is the North American subspecies of the brown bear. In everyday use, 'grizzly' usually means inland bears, while larger, salmon-fed bears on the Alaskan coast are simply called brown bears or, on the Kodiak Archipelago, Kodiak bears."},
+    {"question": "Are grizzly bears dangerous to humans?", "answer": "Yes, grizzly bears can be dangerous, although attacks are rare. Most attacks are defensive: a bear surprised at close range, a mother protecting cubs, or a bear guarding a carcass. Wildlife agencies recommend hiking in groups, making noise, carrying bear spray and storing food securely."},
+    {"question": "How can you tell a grizzly bear from a black bear?", "answer": "Look at the shape rather than the color. Grizzlies have a prominent shoulder hump, a dished (concave) face profile, short rounded ears and long, fairly straight front claws. Black bears have no hump, a straight face profile, taller ears and short curved claws suited to climbing trees."},
+    {"question": "Who would win, a grizzly bear or a polar bear?", "answer": "There is no definitive answer. Polar bears are larger on average, but observations in northern Alaska show grizzlies often displacing polar bears at whale carcasses, suggesting grizzlies are the more aggressive of the two. Where their ranges meet, the two occasionally interbreed and produce hybrid offspring."},
+    {"question": "How many grizzly bears are left?", "answer": "Roughly 55,000 grizzly bears live in North America. About 30,000 are in Alaska and most of the rest are in western Canada. Around 2,000 live in the lower 48 United States, mainly in the Yellowstone and Northern Continental Divide ecosystems."}
+  ],
+  "meta": {
+    "title": "Grizzly Bear Facts: Size, Weight, Speed & Lifespan",
+    "description": "Grizzly bears live 20–25 years, weigh 130–360 kg (290–790 lb) and can run 56 km/h (35 mph). Diet, habitat, cubs and status of the North American brown bear.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Ursus%20arctos&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Ursus_arctos/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Ursus_arctos"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Grizzly_bear"}
+    ]
+  }
+}

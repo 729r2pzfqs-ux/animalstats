@@ -1,0 +1,64 @@
+{
+  "slug": "great-white-shark",
+  "commonName": "Great White Shark",
+  "scientificName": "Carcharodon carcharias",
+  "alternateNames": ["White shark", "Great white", "White pointer"],
+  "nameSingular": "great white shark",
+  "namePlural": "great white sharks",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Chondrichthyes", "classSlug": "fish", "order": "Lamniformes", "family": "Lamnidae", "genus": "Carcharodon", "species": "C. carcharias"},
+  "facts": {
+    "lifespan": {"min": 40, "max": 70, "unit": "years", "context": "estimated from radiocarbon-dated vertebrae; the oldest shark aged was about 73", "display": "an estimated 40–70 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 520, "max": 1100, "unit": "kg", "context": "adults; females are larger, and the biggest females are estimated at close to 2,000 kg", "display": "520–1,100 kg (1,150–2,400 lb)"},
+    "height": {"min": 3.4, "max": 4.9, "unit": "m", "label": "Length", "display": "3.4–4.9 m (11–16 ft)"},
+    "speed": {"min": 40, "max": 40, "unit": "km/h", "verb": "swim", "context": "short bursts when attacking; cruising speed is only a few km/h", "display": "about 40 km/h (25 mph)"},
+    "gestationPeriod": {"min": 330, "max": 365, "unit": "days", "label": "Gestation", "display": "an estimated 11–12 months"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Juveniles eat mostly fish, rays and smaller sharks; adults add seals, sea lions, dolphins and porpoises, and readily scavenge on whale carcasses. Sea turtles and seabirds are taken occasionally.",
+    "habitat": ["Coastal seas", "Continental shelf", "Open ocean", "Seal colonies"],
+    "range": "Cool-temperate and subtropical seas worldwide, with hotspots off California and Mexico, South Africa, southern Australia and New Zealand, the northeastern United States and the Mediterranean.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The great white shark is the largest predatory shark and one of the ocean's top hunters, reaching around 6 m in the biggest females. It belongs to the mackerel shark family and, unlike most fish, keeps its muscles, eyes and brain warmer than the surrounding water, which lets it hunt in cool seas and make fast attacks. Its broad, serrated, triangular teeth are built for cutting chunks from seals and whale carcasses. Great whites grow slowly, mature late, at around 26 years for males and 33 for females, and bear few young, so populations recover slowly from fishing pressure.",
+  "answers": {
+    "lifespan": "Great white sharks are estimated to live 40–70 years. A 2014 study that dated vertebrae using radiocarbon from Cold War bomb tests found a male of about 73 and a female of about 40, far older than earlier estimates of 20–30 years. They do not survive in aquariums; the longest anyone has kept one is 198 days.",
+    "weight": "Adult great white sharks weigh 520–1,100 kg (1,150–2,400 lb). Females are the larger sex, typically 680–1,100 kg against 520–770 kg for males. The very largest females, around 6 m long, are estimated to weigh close to 2,000 kg, though few giants have been weighed accurately.",
+    "size": "Adult great white sharks are 3.4–4.9 m (11–16 ft) long. Males usually measure 3.4–4 m and females 4.6–4.9 m. The largest reliably measured individuals are about 6 m (20 ft); older claims of sharks 7 m or more are not considered trustworthy. Pups are already 1.2–1.5 m long at birth.",
+    "speed": "Great white sharks can swim at about 40 km/h (25 mph) in short bursts, and some sources quote as much as 56 km/h. They reach those speeds when rushing prey from below, sometimes launching fully out of the water. Most of the time they cruise at only a few kilometers per hour.",
+    "gestation": "Great white shark pregnancy is estimated to last about 11–12 months, though it has never been observed directly and some researchers suggest up to 18 months. Females give birth to 2–10 live pups. The embryos feed on unfertilized eggs in the womb, and females probably breed only every two or three years.",
+    "diet": "Great white sharks are carnivores whose diet shifts with size. Young sharks under about 3 m eat mainly fish, rays and small sharks; adults add seals, sea lions, dolphins and whale carcasses. They often attack from below with a single massive bite, then wait for the prey to weaken.",
+    "habitat": "Great white sharks live in cool-temperate and subtropical coastal seas around the world, especially near seal and sea lion colonies. They are not tied to the coast: tagged sharks cross entire ocean basins and dive below 1,000 m, and northeastern Pacific sharks gather each year in a mid-ocean area nicknamed the White Shark Café.",
+    "conservation": "The great white shark is listed as Vulnerable on the IUCN Red List, with a decreasing global trend. The main threats are accidental capture in fishing gear, beach protection nets and illegal trade in jaws and fins. It is protected in many countries and listed on CITES Appendix II, and some regional populations are recovering."
+  },
+  "funFacts": [
+    "A great white has about 300 serrated teeth arranged in several rows, and lost teeth are replaced continuously throughout its life.",
+    "Great whites are partly warm-blooded: a heat-exchanging network of blood vessels keeps their swimming muscles and stomach well above sea temperature.",
+    "A tagged female nicknamed Nicole swam from South Africa to Australia and back, about 20,000 km, in roughly nine months.",
+    "Orcas are the great white's only natural predator, and sharks have been recorded abandoning hunting grounds for months after orcas appear.",
+    "The longest a great white has survived in an aquarium is 198 days, at Monterey Bay Aquarium in 2004–2005, before it was released."
+  ],
+  "relatedAnimals": ["tiger-shark", "bull-shark", "hammerhead-shark", "whale-shark", "orca", "greenland-shark"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are great white sharks dangerous to humans?", "answer": "Great white sharks are responsible for more recorded unprovoked bites on people than any other shark, but attacks are rare, typically around ten or fewer worldwide each year, and most victims survive. Humans are not normal prey; many bites appear to be investigative or cases of mistaken identity with seals."},
+    {"question": "Who would win, an orca or a great white shark?", "answer": "The orca. Orcas are far larger, hunt in coordinated groups, and have been documented killing great whites off South Africa, California and Australia, often eating only the energy-rich liver. Great whites typically flee the area when orcas arrive and may stay away for weeks or months."},
+    {"question": "How many great white sharks are left?", "answer": "No reliable global count exists. Great whites are naturally scarce and wide-ranging, and regional estimates run from a few hundred to a few thousand animals, such as those off California, South Africa and eastern Australia. The IUCN considers the global population to be decreasing."},
+    {"question": "Why are there no great white sharks in aquariums?", "answer": "Great whites do not survive in captivity. They are open-water sharks that need to swim constantly over long distances, and captive individuals refuse food, injure themselves on tank walls and weaken quickly. Monterey Bay Aquarium held young sharks for up to 198 days before ending the program."},
+    {"question": "How many teeth does a great white shark have?", "answer": "A great white shark has around 300 teeth at any one time, arranged in multiple rows, with only the front rows in active use and the rest waiting as replacements. The teeth are triangular, serrated and up to about 6 cm long, and a shark may go through thousands in a lifetime."}
+  ],
+  "meta": {
+    "title": "Great White Shark Facts: Size, Lifespan, Speed & Diet",
+    "description": "Great white sharks grow 3.4–4.9 m long, weigh 520–1,100 kg, live an estimated 40–70 years and sprint at about 40 km/h. Diet, habitat and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Carcharodon%20carcharias&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Carcharodon_carcharias/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Carcharodon_carcharias"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Great_white_shark"}
+    ]
+  }
+}

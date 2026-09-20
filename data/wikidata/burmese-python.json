@@ -1,0 +1,22 @@
+{
+  "slug": "burmese-python",
+  "commonName": "Burmese Python",
+  "scientificName": "Python bivittatus",
+  "classSlug": "reptiles",
+  "aliases": [
+    "python"
+  ],
+  "qid": "Q2716137",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Burmese python",
+  "taxonomy": {
+    "species": "Python bivittatus",
+    "genus": "Python",
+    "family": "Pythonidae",
+    "order": "Squamata",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

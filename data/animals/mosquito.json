@@ -1,0 +1,63 @@
+{
+  "slug": "mosquito",
+  "commonName": "Yellow Fever Mosquito",
+  "scientificName": "Aedes aegypti",
+  "alternateNames": ["Dengue mosquito", "Egyptian tiger mosquito"],
+  "nameSingular": "yellow fever mosquito",
+  "namePlural": "yellow fever mosquitoes",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Insecta", "classSlug": "invertebrates", "order": "Diptera", "family": "Culicidae", "genus": "Aedes", "species": "A. aegypti"},
+  "facts": {
+    "lifespan": {"min": 2, "max": 4, "unit": "weeks", "context": "adults; females outlive males, and eggs can survive dry for several months before hatching", "display": "2–4 weeks as an adult"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 1, "max": 2.5, "unit": "mg", "context": "unfed adults, approximate; a female can roughly double or triple her weight with a blood meal", "display": "about 1–2.5 mg (under 0.0001 oz)"},
+    "height": {"min": 4, "max": 7, "unit": "mm", "label": "Body length", "display": "4–7 mm (0.16–0.28 in)"},
+    "speed": {"min": 1.5, "max": 2.5, "unit": "km/h", "verb": "fly", "context": "typical mosquito flight speed", "display": "about 1.5–2.5 km/h (1–1.5 mph)"},
+    "gestationPeriod": {"min": 2, "max": 7, "unit": "days", "label": "Egg development", "display": "2–7 days, then eggs hatch when flooded"}
+  },
+  "ecology": {
+    "diet": "Nectarivore",
+    "dietDetails": "Both sexes feed on nectar, plant sap and fruit juices for energy. Only females bite, taking blood, overwhelmingly from humans, to obtain the protein needed to develop each batch of eggs. Larvae filter microorganisms from water.",
+    "habitat": ["Towns and cities", "Homes and yards", "Water containers", "Tropical lowlands"],
+    "range": "Tropical and subtropical regions worldwide, including Africa, where it originated, South and Southeast Asia, northern Australia, Latin America, the Caribbean and the southern United States.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The yellow fever mosquito is a small, dark mosquito with white bands on its legs and a white lyre-shaped marking on its back. It is the main carrier of the viruses that cause dengue, yellow fever, Zika and chikungunya, which makes it one of the most medically important insects in the world. Originally a forest species from Africa, it has adapted to living with people, breeding in flowerpots, tires, buckets and other small containers of water around homes. Unlike many mosquitoes it bites mainly during the day, often indoors, and strongly prefers human blood.",
+  "answers": {
+    "lifespan": "Adult yellow fever mosquitoes live about 2–4 weeks, with females outliving males. The egg stage can last far longer: eggs glued to the inside of a dry container can survive for several months, up to around eight, and hatch when rain refills it. Larva and pupa stages together take about a week to ten days in warm weather.",
+    "weight": "A yellow fever mosquito weighs only about 1–2.5 mg, so it would take several hundred to weigh one gram. A female can take in more than her own body weight in blood during a single meal, then rests for a couple of days while she digests it and develops her eggs.",
+    "size": "Yellow fever mosquitoes are 4–7 mm (0.16–0.28 in) long, smaller than many common mosquitoes. Females are larger than males, which have bushier antennae. The species is recognized by its black-and-white banded legs and the white lyre-shaped pattern of scales on the top of the thorax.",
+    "speed": "Mosquitoes fly slowly, at about 1.5–2.5 km/h (1–1.5 mph). Yellow fever mosquitoes are also weak travelers: most spend their whole lives within about 100–200 meters of where they hatched, which is why outbreaks of dengue tend to cluster by neighborhood and why clearing local breeding sites works.",
+    "gestation": "Yellow fever mosquito embryos develop in about 2–7 days, but the eggs hatch only when they are covered by water. Females lay roughly 100 eggs per batch, spread over several containers, just above the waterline. If the container stays dry, the fully developed eggs simply wait, for months if necessary.",
+    "diet": "Yellow fever mosquitoes feed on plant sugars such as nectar, and only the females drink blood. Blood supplies the protein needed to make eggs, and this species strongly prefers humans over other animals. Females often take several small blood meals per egg batch, which increases the chances of spreading a virus.",
+    "habitat": "Yellow fever mosquitoes live in and around human homes in tropical and subtropical regions worldwide. They breed in small artificial containers of water, including plant saucers, discarded tires, buckets, blocked gutters and water storage jars, and adults rest indoors in dark places such as closets and under furniture.",
+    "conservation": "The yellow fever mosquito has not been evaluated for the IUCN Red List and is of no conservation concern. It is an invasive pest whose range is expanding with global trade, urban growth and a warming climate. Control programs target it with breeding-site removal, insecticides, sterile males and Wolbachia-carrying mosquitoes."
+  },
+  "funFacts": [
+    "Only female mosquitoes bite; males feed entirely on nectar and other plant sugars.",
+    "Mosquitoes track people by following exhaled carbon dioxide from a distance, then body heat, moisture and skin odors at close range.",
+    "Yellow fever mosquitoes bite mostly during the day, with peaks in the early morning and the hours before dusk, so bed nets offer limited protection.",
+    "Releasing mosquitoes infected with Wolbachia bacteria, which block virus replication inside the insect, has sharply reduced dengue cases in several trial cities.",
+    "The species spread from Africa to the Americas aboard ships during the era of the transatlantic slave trade, breeding in the water barrels."
+  ],
+  "relatedAnimals": ["housefly", "dragonfly", "vampire-bat", "common-swift", "guppy"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What diseases does the yellow fever mosquito carry?", "answer": "Aedes aegypti is the main vector of dengue, yellow fever, Zika and chikungunya viruses. It does not transmit malaria, which is spread by Anopheles mosquitoes. A female becomes infectious after biting an infected person and stays so for the rest of her life."},
+    {"question": "Why do mosquitoes bite some people more than others?", "answer": "Mosquitoes are drawn to carbon dioxide, body heat and chemicals on the skin. People who breathe out more carbon dioxide, such as larger adults and pregnant women, and people whose skin produces more of certain carboxylic acids are consistently bitten more often than others."},
+    {"question": "What is the deadliest animal in the world?", "answer": "Mosquitoes, taken together, kill more people than any other animal, with estimates in the hundreds of thousands of deaths each year. Most of those deaths are from malaria carried by Anopheles mosquitoes; Aedes aegypti adds tens of thousands more, largely from dengue and yellow fever."},
+    {"question": "What is the difference between Aedes aegypti and the Asian tiger mosquito?", "answer": "Both are small, black-and-white day-biters. The yellow fever mosquito has a lyre-shaped white pattern on its back, while the Asian tiger mosquito has a single white stripe down the middle. The tiger mosquito tolerates cooler climates and bites a wider range of animals."},
+    {"question": "How do you get rid of yellow fever mosquitoes?", "answer": "Remove standing water, since this species breeds in small containers close to homes. Empty and scrub plant saucers, buckets, pet bowls and gutters at least once a week, cover water storage, and discard old tires. Scrubbing matters because the eggs stick to container walls."}
+  ],
+  "meta": {
+    "title": "Yellow Fever Mosquito (Aedes aegypti) Facts & Lifespan",
+    "description": "Yellow fever mosquitoes live 2–4 weeks as adults, are 4–7 mm long and fly about 1.5–2.5 km/h. Life cycle, diet, range and diseases of Aedes aegypti.",
+    "sources": [
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Aedes_aegypti/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Aedes_aegypti"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q1148004"}
+    ]
+  }
+}

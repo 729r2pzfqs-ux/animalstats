@@ -1,0 +1,27 @@
+{
+  "slug": "american-robin",
+  "commonName": "American Robin",
+  "scientificName": "Turdus migratorius",
+  "classSlug": "birds",
+  "aliases": [
+    "robin"
+  ],
+  "qid": "Q460967",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "American robin",
+  "taxonomy": {
+    "species": "Turdus migratorius",
+    "genus": "Turdus",
+    "family": "Turdidae",
+    "order": "Passeriformes",
+    "class": "Aves"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "77.3",
+      "unit": "g",
+      "sex": null
+    }
+  ]
+}

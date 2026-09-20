@@ -1,0 +1,59 @@
+{
+  "slug": "cat-vs-dog",
+  "summary": "The main difference between cats and dogs is that cats are solitary, strict meat-eaters descended from the African wildcat, while dogs are social, more omnivorous animals descended from wolves. That ancestry explains most of what owners notice: dogs look to a group for direction and are easy to train, while cats are independent hunters that climb, stalk and groom themselves.",
+  "differences": [
+    {
+      "title": "Ancestry and domestication",
+      "text": "Dogs were the first domesticated animal, descended from an extinct wolf population well over 15,000 years ago, and have been bred for herding, hunting and guarding ever since. Cats descend from the African wildcat and began living alongside farmers in the Near East roughly 10,000 years ago, drawn by rodents in grain stores. Cats have been changed far less by breeding."
+    },
+    {
+      "title": "Diet",
+      "text": "Cats are obligate carnivores. They need nutrients found in animal tissue, including taurine, arachidonic acid and preformed vitamin A, and cannot thrive on a plant-based diet. Dogs are carnivores by ancestry but digest starch well and do fine on a mixed diet. That is why dog food is not a safe long-term diet for a cat."
+    },
+    {
+      "title": "Social behavior",
+      "text": "Dogs inherited the pack instincts of wolves. They read human gestures, follow a pointing finger and generally want to cooperate, which makes training straightforward. Cats evolved as solitary hunters. They form real bonds with people and other cats, but on their own terms, and they respond better to rewards and routine than to commands."
+    },
+    {
+      "title": "Claws and movement",
+      "text": "A cat's claws retract into sheaths, which keeps them sharp for climbing and gripping prey. A dog's claws are always out and are blunted by contact with the ground. Cats also have a very flexible spine and a free-floating collarbone, which helps them twist in midair, squeeze through gaps and land on their feet."
+    },
+    {
+      "title": "Teeth and senses",
+      "text": "Adult cats have 30 teeth and adult dogs have 42, including extra molars for grinding. Dogs have the better nose by a wide margin and are used to detect everything from explosives to disease. Cats have excellent low-light vision and hearing that extends to very high frequencies, ideal for locating small rodents."
+    },
+    {
+      "title": "Variety of breeds",
+      "text": "Dogs are the most physically variable land mammal, ranging from Chihuahuas to Great Danes, because people bred them intensively for different jobs. Domestic cats vary mostly in coat, color and face shape, and even the largest breeds are only a few times heavier than the smallest. Body size and proportions stay remarkably consistent."
+    }
+  ],
+  "similarities": "Cats and dogs both belong to the order Carnivora and share a common ancestor from tens of millions of years ago. Both walk on their toes, have sharp cheek teeth called carnassials for slicing meat, see well in dim light, and communicate through scent, body posture and voice. Both are also able to form lasting social bonds with people.",
+  "howToTell": [
+    "Look at the claws: cat claws are usually hidden inside the paw, while dog claws are always visible.",
+    "Cats have short, rounded faces with vertical slit pupils in bright light; dogs have round pupils and usually a longer muzzle.",
+    "Paw prints differ: dog tracks normally show claw marks, and cat tracks usually do not.",
+    "Listen for the sound. Purring and meowing mean cat; barking means dog."
+  ],
+  "faq": [
+    {
+      "question": "Can cats and dogs interbreed?",
+      "answer": "No. Cats and dogs belong to different families that separated tens of millions of years ago, and their genomes are incompatible. Cats have 38 chromosomes and dogs have 78. No cat–dog hybrid has ever existed, and mating behavior, anatomy and genetics all rule it out."
+    },
+    {
+      "question": "Are cats or dogs smarter?",
+      "answer": "Neither is clearly smarter, because they are good at different things. Dogs excel at social tasks such as reading human gestures and learning commands. Cats are harder to test because they are less motivated to cooperate, but they show strong memory, problem-solving and hunting skills. Comparing them on a single scale is not very meaningful."
+    },
+    {
+      "question": "Which lives longer, a cat or a dog?",
+      "answer": "Cats usually live longer than dogs. Indoor cats commonly outlive most dog breeds by several years. Among dogs, small breeds tend to live notably longer than giant breeds, which is unusual, since larger species usually live longer than smaller ones. See the comparison table for typical lifespans."
+    },
+    {
+      "question": "Can a cat eat dog food?",
+      "answer": "A few mouthfuls will not hurt, but a cat should not live on dog food. Cats need more protein than dogs, plus taurine and other nutrients that dog food may not supply in sufficient amounts. Long-term taurine deficiency in cats can cause heart disease and blindness."
+    }
+  ],
+  "meta": {
+    "title": "Cat vs Dog: Differences in Biology, Diet and Behavior",
+    "description": "Cats are solitary obligate carnivores descended from wildcats; dogs are social, more omnivorous descendants of wolves. See how they compare."
+  }
+}

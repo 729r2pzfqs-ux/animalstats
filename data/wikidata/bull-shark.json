@@ -1,0 +1,20 @@
+{
+  "slug": "bull-shark",
+  "commonName": "Bull Shark",
+  "scientificName": "Carcharhinus leucas",
+  "classSlug": "fish",
+  "aliases": [],
+  "qid": "Q190469",
+  "iucnStatus": "Vulnerable",
+  "wikipedia": "Bull shark",
+  "taxonomy": {
+    "species": "Carcharhinus leucas",
+    "genus": "Carcharhinus",
+    "family": "Carcharhinidae",
+    "order": "Carcharhiniformes",
+    "class": "Chondrichthyes",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

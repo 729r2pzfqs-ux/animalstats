@@ -1,0 +1,22 @@
+{
+  "slug": "housefly",
+  "commonName": "Housefly",
+  "scientificName": "Musca domestica",
+  "classSlug": "invertebrates",
+  "aliases": [
+    "fly"
+  ],
+  "qid": "Q166111",
+  "iucnStatus": null,
+  "wikipedia": "Housefly",
+  "taxonomy": {
+    "species": "Musca domestica",
+    "genus": "Musca",
+    "family": "Muscidae",
+    "order": "Diptera",
+    "class": "Insecta",
+    "phylum": "Arthropoda",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block main %}
+<div class="wrap">
+  <h1 class="pt-4 text-[1.7rem] font-extrabold leading-tight tracking-tight sm:text-4xl">{{ fact.title }}</h1>
+  <p class="prose-p mt-2 sm:text-lg">{{ fact.intro }}</p>
+  {% if fact.toplist %}<p class="mt-3"><a href="{{ fact.toplist.url }}" class="chip font-semibold">{{ icon('trophy', 'w-4 h-4') }} {{ fact.toplist.title }}</a></p>{% endif %}
+  <p class="mt-4 text-sm text-slate-500">{{ animals|length }} animals, A–Z. Tap a column heading to sort.</p>
+  <div class="card mt-2 overflow-x-auto">
+    <table class="tbl" data-sortable>
+      <thead><tr><th data-sort="text">Animal</th><th data-sort="text">Class</th><th data-sort="num">{{ fact.column }}</th>{% if fact.metric == 'lifespan' %}<th data-sort="num">In human care</th>{% endif %}{% if fact.metric in ['speed', 'weight', 'height', 'gestation'] %}<th>Notes</th>{% endif %}</tr></thead>
+      <tbody>
+      {% for a in animals %}
+        {% set f = a.facts %}
+        <tr>
+          <td><a href="{{ a.url }}" class="link">{{ a.commonName }}</a></td>
+          <td class="text-slate-600">{{ a.cls.name }}</td>
+          {% if fact.metric == 'lifespan' %}<td data-v="{{ a.n.lifespan }}">{{ f.lifespan.display }}</td><td data-v="{{ (a.n.longevity if f.lifespanCaptivity else 0) }}">{{ f.lifespanCaptivity.display if f.lifespanCaptivity else '—' }}</td>
+          {% elif fact.metric == 'weight' %}<td data-v="{{ a.n.weight or 0 }}">{{ f.weight.display if f.weight else '—' }}</td><td class="text-slate-600">{{ (f.weight.context or '') if f.weight else '' }}</td>
+          {% elif fact.metric == 'height' %}<td data-v="{{ a.n.height }}">{{ f.height.display }}</td><td class="text-slate-600">{{ f.height.label }}</td>
+          {% elif fact.metric == 'speed' %}<td data-v="{{ a.n.speed or 0 }}">{{ f.speed.display if f.speed else '—' }}</td><td class="text-slate-600">{{ (f.speed.verb ~ (': ' ~ f.speed.context if f.speed.context else '')) if f.speed else '' }}</td>
+          {% elif fact.metric == 'gestation' %}<td data-v="{{ a.n.gestation or 0 }}">{{ f.gestationPeriod.display if f.gestationPeriod else '—' }}</td><td class="text-slate-600">{{ f.gestationPeriod.label if f.gestationPeriod else '' }}</td>
+          {% elif fact.metric == 'diet' %}<td><strong class="text-slate-900">{{ a.ecology.diet }}</strong><div class="text-xs text-slate-600">{{ a.ecology.dietDetails }}</div></td>
+          {% else %}<td data-v="{{ {'EX': 7, 'EW': 6, 'CR': 5, 'EN': 4, 'VU': 3, 'NT': 2, 'LC': 1}.get(a.ecology.iucnCategory, 0) }}"><span class="iucn iucn-{{ a.ecology.iucnCategory }}">{{ a.ecology.conservationStatus }}</span><div class="mt-1 text-xs text-slate-600">{% if a.ecology.iucnCategory not in ['DOM', 'NE'] %}Trend: {{ a.ecology.populationTrend|lower }}{% endif %}</div></td>{% endif %}
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <h2 class="h2">More fact charts</h2>
+  <div class="flex flex-wrap gap-2">{% for x in facts if x.slug != fact.slug %}<a href="{{ x.url }}" class="chip">{{ icon(x.icon, 'w-4 h-4') }} {{ x.column }}</a>{% endfor %}</div>
+</div>
+<script src="/js/sort.js" defer></script>
+{% endblock %}

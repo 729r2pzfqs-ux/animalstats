@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% set title = "Privacy Policy | AnimalStats" %}
+{% set description = "AnimalStats has no accounts and collects no personal details directly. How analytics, advertising cookies and Google Consent Mode are used on this site." %}
+{% set email %}<!--email_off--><a class="link" href="mailto:info&#64;animalstats&#46;org">info&#64;animalstats&#46;org</a><!--/email_off-->{% endset %}
+{% block main %}
+<div class="wrap">
+  <h1 class="pt-4 text-[1.7rem] font-extrabold leading-tight tracking-tight sm:text-4xl">Privacy Policy</h1>
+  <p class="mt-2 text-sm text-slate-500">Last updated {{ site.updated }}</p>
+  <div class="prose-p mt-4 space-y-4">
+    <p>AnimalStats (animalstats.org) is a static reference website. There are no accounts, comments or forms, and we do not ask for your name, email address or any other personal details. The search box works entirely in your browser; what you type is not sent to us.</p>
+
+    <h2 class="h2">Analytics</h2>
+    {% if site.ga4_id or site.ahrefs_key %}
+    <p>{% if site.ga4_id %}We use <strong>Google Analytics 4</strong> to understand which pages are used. It records pages viewed, approximate location derived from your IP address, device and browser type and the referring site, using cookies or similar identifiers. See <a class="link" href="https://policies.google.com/privacy" rel="noopener">Google’s privacy policy</a>. {% endif %}{% if site.ahrefs_key %}We use <strong>Ahrefs Web Analytics</strong>, which counts visits without cookies and does not build visitor profiles.{% endif %}</p>
+    {% else %}
+    <p>This site does not currently run any analytics scripts. If that changes, this page will be updated to name the service and what it records.</p>
+    {% endif %}
+
+    <h2 class="h2">Advertising</h2>
+    {% if site.adsense_client %}
+    <p>The site is supported by advertising served through <strong>Google AdSense</strong>. Google and its partners may use cookies to show ads based on your previous visits to this and other websites. You can opt out of personalized advertising at <a class="link" href="https://adssettings.google.com/" rel="noopener">adssettings.google.com</a>, or for other participating vendors at <a class="link" href="https://www.aboutads.info/choices/" rel="noopener">aboutads.info</a>.</p>
+    {% else %}
+    <p>This site does not currently show advertising.</p>
+    {% endif %}
+
+    <h2 class="h2">Visitors in the EEA, United Kingdom and Switzerland</h2>
+    <p>We implement Google Consent Mode v2. For visitors from the European Economic Area, the United Kingdom and Switzerland, analytics and advertising storage are set to <em>denied</em> by default, so Google tags run without setting analytics or advertising cookies unless consent is granted.</p>
+
+    <h2 class="h2">Hosting</h2>
+    <p>The site is hosted on GitHub Pages and may be delivered through a content delivery network. These providers process IP addresses and request logs as needed to deliver pages and protect against abuse.</p>
+
+    <h2 class="h2">Your choices</h2>
+    <p>You can block or delete cookies in your browser settings; the site works without them. For questions or requests about your data, write to {{ email }}.</p>
+  </div>
+</div>
+{% endblock %}

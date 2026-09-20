@@ -1,0 +1,64 @@
+{
+  "slug": "sailfish",
+  "commonName": "Indo-Pacific Sailfish",
+  "scientificName": "Istiophorus platypterus",
+  "alternateNames": ["Sailfish", "Pacific sailfish"],
+  "nameSingular": "sailfish",
+  "namePlural": "sailfish",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Istiophoriformes", "family": "Istiophoridae", "genus": "Istiophorus", "species": "I. platypterus"},
+  "facts": {
+    "lifespan": {"min": 4, "max": 13, "unit": "years", "context": "most live about 4–5 years; maximum estimates are 13–15", "display": "typically 4–5 years, up to about 13"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 30, "max": 100, "unit": "kg", "context": "adults; the angling record is 100 kg", "display": "30–100 kg (65–220 lb)"},
+    "height": {"min": 2, "max": 3.4, "unit": "m", "label": "Length", "display": "2–3.4 m (6.5–11 ft)"},
+    "speed": {"min": 30, "max": 36, "unit": "km/h", "verb": "swim", "context": "fastest bursts measured or calculated in modern studies; the popular 110 km/h figure is not supported", "display": "about 30–36 km/h (19–22 mph)"},
+    "gestationPeriod": {"min": 1.5, "max": 1.5, "unit": "days", "label": "Egg development", "display": "about 36 hours"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Small schooling fish such as sardines, anchovies, mackerel and jacks, plus squid and other cephalopods, usually hunted near the surface and often in groups.",
+    "habitat": ["Open ocean", "Warm surface waters", "Continental shelf edges"],
+    "range": "Tropical and subtropical waters of the Indian and Pacific Oceans, from East Africa and the Red Sea to the Pacific coast of the Americas; many authorities treat Atlantic sailfish as the same species.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The sailfish is a slender billfish of warm oceans, instantly recognized by the huge sail-like dorsal fin that runs most of the length of its back and stands taller than the body is deep. It hunts schooling fish near the surface, often in groups, raising the sail to herd prey and slashing through the school with its thin bill to injure fish before eating them. Sailfish flash dramatic color changes while hunting. They grow extraordinarily fast, reaching over a meter in their first year. Long celebrated as the fastest fish, the sailfish is quick and agile, but modern measurements show its top speed is far below the famous claim.",
+  "answers": {
+    "lifespan": "Indo-Pacific sailfish typically live only about 4–5 years, with maximum ages estimated at around 13–15. They grow extremely fast, reaching 1.2–1.5 m within their first year, and mature at about three years. Sailfish cannot be kept in aquariums, so there are no captive lifespan records.",
+    "weight": "Adult Indo-Pacific sailfish weigh 30–100 kg (65–220 lb). Most fish caught by anglers are between 30 and 60 kg, and the all-tackle record is 100.2 kg (221 lb), landed off Ecuador in 1947. Pacific sailfish grow noticeably heavier than those in the Atlantic, which rarely pass 60 kg.",
+    "size": "Indo-Pacific sailfish are usually 2–3.4 m (6.5–11 ft) long including the bill, with about 3.4 m the maximum. The sail-like first dorsal fin is taller than the body is deep. Females grow larger than males, which is typical of billfish.",
+    "speed": "Sailfish have been reliably measured at about 30–36 km/h (19–22 mph) in short bursts. The famous figure of 110 km/h (68 mph) comes from unverified fishing-line trials in the early 1900s; high-speed video and muscle studies since 2015 put the sailfish's real top speed at roughly 8–10 m per second.",
+    "gestation": "Sailfish eggs hatch about 36 hours after fertilization. Sailfish do not get pregnant: a female releases several million tiny floating eggs over a spawning season in warm surface water, and one or more males fertilize them. The larvae are about 3 mm long at hatching and grow exceptionally quickly.",
+    "diet": "Sailfish are carnivores that eat small schooling fish such as sardines, anchovies and mackerel, along with squid. Groups of sailfish take turns attacking a bait ball, using the bill to tap or slash individual fish. Filming shows the bill tip moves faster than the prey can react.",
+    "habitat": "Indo-Pacific sailfish live in the warm surface waters of the tropical and subtropical Indian and Pacific Oceans, usually above the thermocline in water of 21–28 °C. They stay closer to coasts and islands than most billfish, and move toward higher latitudes in summer as the water warms.",
+    "conservation": "The sailfish is listed as Vulnerable on the IUCN Red List, with a decreasing population. Most are killed as bycatch in longline and net fisheries aimed at tuna and swordfish, and coastal fisheries target them in some countries. Sport fisheries for sailfish are now largely catch-and-release."
+  },
+  "funFacts": [
+    "Sailfish can change color in seconds, flashing blue stripes and darkening the body while hunting, which may confuse prey and signal to other sailfish.",
+    "The famous 110 km/h speed claim traces back to a fisherman timing line running off a reel in the early twentieth century, not to a scientific measurement.",
+    "High-speed footage shows that a sailfish's bill slashes accelerate faster than sardines can respond, even though the fish itself is not swimming especially fast.",
+    "Group hunting pays off for sailfish: each attack injures more sardines, making later captures easier for the whole group.",
+    "Sailfish usually keep the sail folded into a groove along the back while swimming and raise it when herding prey or when excited."
+  ],
+  "relatedAnimals": ["swordfish", "bluefin-tuna", "great-white-shark", "ocean-sunfish", "cheetah", "peregrine-falcon"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is the sailfish the fastest fish in the ocean?", "answer": "The sailfish is often called the fastest fish, but the evidence is weak. The 110 km/h claim is unverified, and modern studies measured bursts of only about 30–36 km/h. No fish has been reliably clocked much faster than that, so the true record holder is uncertain."},
+    {"question": "What is the difference between a sailfish and a swordfish?", "answer": "A sailfish has a huge sail-like dorsal fin, a slim round bill, pelvic fins and small scales, and weighs up to about 100 kg. A swordfish is much heavier, up to several hundred kilograms, with a long flat sword, a short rigid dorsal fin, no pelvic fins and no scales as an adult."},
+    {"question": "What is the difference between a sailfish and a marlin?", "answer": "Sailfish and marlins belong to the same family, but the sailfish has a far taller dorsal fin that runs most of the length of its back and is much lighter. Blue and black marlin can exceed 500 kg, several times the weight of the largest sailfish."},
+    {"question": "Why do sailfish have a sail?", "answer": "Sailfish raise the sail mainly while hunting. It makes the fish look larger, helps herd schooling prey into a tight ball, and steadies the head so the bill can be swung accurately. It may also help with temperature regulation and signaling to other sailfish."},
+    {"question": "Can you eat sailfish?", "answer": "Sailfish is edible, but the meat is dark, tough and strongly flavored, so it is not highly regarded and is usually smoked where it is eaten. In many sport fisheries, including the United States, sailfish are released alive, and rules restrict keeping them."}
+  ],
+  "meta": {
+    "title": "How Fast Is a Sailfish? Speed, Size & Lifespan Facts",
+    "description": "Sailfish have been measured at about 30–36 km/h, not the often-claimed 110 km/h. They grow 2–3.4 m long, weigh 30–100 kg and live around 4–5 years.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Istiophorus%20platypterus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Istiophorus_platypterus/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Indo-Pacific_sailfish"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q694527"}
+    ]
+  }
+}

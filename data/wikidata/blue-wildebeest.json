@@ -1,0 +1,29 @@
+{
+  "slug": "blue-wildebeest",
+  "commonName": "Blue Wildebeest",
+  "scientificName": "Connochaetes taurinus",
+  "classSlug": "mammals",
+  "aliases": [
+    "wildebeest",
+    "gnu"
+  ],
+  "qid": "Q328809",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Blue wildebeest",
+  "taxonomy": {
+    "species": "Connochaetes taurinus",
+    "genus": "Connochaetes",
+    "family": "Bovidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "8.25",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "bowhead-whale",
+  "commonName": "Bowhead Whale",
+  "scientificName": "Balaena mysticetus",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q174652",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Bowhead whale",
+  "taxonomy": {
+    "species": "Balaena mysticetus",
+    "genus": "Balaena",
+    "family": "Balaenidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "11",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

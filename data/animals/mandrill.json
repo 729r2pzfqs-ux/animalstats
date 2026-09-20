@@ -1,0 +1,64 @@
+{
+  "slug": "mandrill",
+  "commonName": "Mandrill",
+  "scientificName": "Mandrillus sphinx",
+  "alternateNames": [],
+  "nameSingular": "mandrill",
+  "namePlural": "mandrills",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Primates", "family": "Cercopithecidae", "genus": "Mandrillus", "species": "M. sphinx"},
+  "facts": {
+    "lifespan": {"min": 20, "max": 20, "unit": "years", "context": "in the wild; estimated", "display": "about 20 years"},
+    "lifespanCaptivity": {"min": 25, "max": 31, "unit": "years", "context": "in human care; record about 40 years", "display": "25–31 years"},
+    "weight": {"min": 10, "max": 37, "unit": "kg", "context": "adults; females 10–15 kg, males 19–37 kg", "display": "10–37 kg (22–82 lb)"},
+    "height": {"min": 55, "max": 95, "unit": "cm", "label": "Body length", "display": "55–95 cm (22–37 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 167, "max": 176, "unit": "days", "label": "Gestation", "display": "about 175 days (6 months)"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Mostly fruit and seeds, plus leaves, pith, bark, roots and mushrooms; mandrills also eat ants, termites, beetles, snails, eggs, frogs and occasionally small vertebrates such as young duikers.",
+    "habitat": ["Tropical rainforest", "Gallery forest", "Forest-savanna mosaic"],
+    "range": "West-central Africa: southern Cameroon, mainland Equatorial Guinea, Gabon and the southwestern Republic of the Congo, between the Sanaga and Congo rivers.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The mandrill is the largest of all monkeys and one of the most colorful mammals. Adult males have a bright red stripe down the nose flanked by ridged blue cheeks, a yellow-orange beard, and a rump shaded in blue, lilac and red; females and young are duller and much smaller. Mandrills live in the rainforests of west-central Africa, where they forage mostly on the ground by day and sleep in trees at night. Although they resemble baboons and were once classed with them, their nearest relatives are the drill and the mangabeys. They gather in very large groups called hordes.",
+  "answers": {
+    "lifespan": "Mandrills are thought to live about 20 years in the wild and 25–31 years in zoos, with a captive record of around 40. Wild lifespans are poorly known, because mandrills live in dense forest and are hard to follow. Leopards are their main natural predator.",
+    "weight": "Adult mandrills weigh 10–37 kg (22–82 lb). Males weigh 19–37 kg, averaging a little over 30 kg, while females weigh just 10–15 kg. Males are therefore two to three times as heavy as females, one of the greatest sex differences in size of any primate.",
+    "size": "A mandrill's head and body measure 55–95 cm (22–37 in): about 55–67 cm in females and 70–95 cm in males. The stubby tail is only 5–10 cm long. Males stand roughly 55–65 cm high at the shoulder on all fours and have canine teeth up to about 4.5 cm long.",
+    "speed": null,
+    "gestation": "A mandrill is pregnant for about 175 days, or just under six months. Females give birth to one infant, usually between January and May, about every two years. The baby is born with a dark coat and pink skin and clings to its mother's belly.",
+    "diet": "Mandrills are omnivores that prefer fruit and seeds, eating from more than a hundred plant species. They also turn over leaf litter and logs for insects, snails and other small animals, and eat leaves, bark, roots and fungi. Males mostly forage on the ground, while females and young also climb.",
+    "habitat": "Mandrills live in tropical rainforest, gallery forest and forest-savanna mosaics in Gabon, southern Cameroon, Equatorial Guinea and the Republic of the Congo. They need large areas of dense forest and cover long distances, with hordes ranging over tens of square kilometers.",
+    "conservation": "The mandrill is listed as Vulnerable on the IUCN Red List, and its population is decreasing. Hunting for bushmeat is the main threat, because noisy hordes are easy for hunters with dogs to find, and logging roads open up once-remote forest. Gabon holds the largest remaining population."
+  },
+  "funFacts": [
+    "The largest gathering of non-human primates ever recorded was a horde of about 1,300 mandrills in Lopé National Park, Gabon.",
+    "A male's colors brighten as he rises in rank and his testosterone increases, and fade if he loses his position.",
+    "A mandrill baring its teeth with its head shaking is often giving a friendly greeting, not a threat.",
+    "Charles Darwin wrote that no other mammal is colored in so extraordinary a manner as the adult male mandrill.",
+    "Mandrills have cheek pouches that let them stuff in extra food to carry away and eat in safety."
+  ],
+  "relatedAnimals": ["japanese-macaque", "gorilla", "chimpanzee", "ring-tailed-lemur", "leopard"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is a mandrill a baboon?", "answer": "No. Mandrills look like baboons and were once placed in the same genus, but genetic studies show they are more closely related to the white-eyelid mangabeys. The mandrill and the drill are the only two species in the genus Mandrillus."},
+    {"question": "Is Rafiki from The Lion King a mandrill?", "answer": "Rafiki has the red and blue face of a mandrill, although the films call him a baboon and give him a long tail that real mandrills lack. Real mandrills also live in rainforest in west-central Africa, not on the East African savanna."},
+    {"question": "Why do mandrills have colorful faces?", "answer": "The colors are social signals. Red comes from blood vessels under the skin and is tied to testosterone, so it shows a male's rank and condition; brighter males win more matings. The blue comes from the arrangement of collagen fibers in the skin, not from pigment."},
+    {"question": "Are mandrills dangerous?", "answer": "Wild mandrills are shy and avoid people, so attacks are very rare. An adult male is still a powerful animal with long, sharp canine teeth, and captive mandrills have injured keepers. They are not suitable as pets."},
+    {"question": "What is a group of mandrills called?", "answer": "A group of mandrills is called a horde. Hordes are made up mainly of females and their young and commonly number several hundred animals. Most adult males live alone and join a horde only during the breeding season."}
+  ],
+  "meta": {
+    "title": "Mandrill Facts: Size, Colors, Lifespan & Diet",
+    "description": "Mandrills are the largest monkeys: males weigh 19–37 kg, females 10–15 kg, and they live about 20 years in the wild. Colors, diet, habitat and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Mandrillus%20sphinx&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Mandrillus_sphinx/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Mandrillus_sphinx"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Mandrill"}
+    ]
+  }
+}

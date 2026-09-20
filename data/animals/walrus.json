@@ -1,0 +1,64 @@
+{
+  "slug": "walrus",
+  "commonName": "Walrus",
+  "scientificName": "Odobenus rosmarus",
+  "alternateNames": ["Pacific walrus", "Atlantic walrus"],
+  "nameSingular": "walrus",
+  "namePlural": "walruses",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Odobenidae", "genus": "Odobenus", "species": "O. rosmarus"},
+  "facts": {
+    "lifespan": {"min": 30, "max": 40, "unit": "years", "context": "in the wild", "display": "30–40 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 400, "max": 1700, "unit": "kg", "context": "adults; Pacific females 400–1,250 kg, Pacific males 800–1,700 kg; Atlantic walruses are smaller", "display": "400–1,700 kg (880–3,750 lb)"},
+    "height": {"min": 2.2, "max": 3.6, "unit": "m", "label": "Length", "display": "2.2–3.6 m (7.2–11.8 ft)"},
+    "speed": {"min": 35, "max": 35, "unit": "km/h", "verb": "swim", "context": "short bursts; normally swims at about 7 km/h", "display": "up to 35 km/h (22 mph)"},
+    "gestationPeriod": {"min": 450, "max": 490, "unit": "days", "label": "Gestation", "display": "15–16 months, including delayed implantation"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mostly clams and other bivalves sucked out of their shells, together with marine worms, snails, sea cucumbers, crabs and shrimp from the seabed; a few walruses also prey on seals and seabirds.",
+    "habitat": ["Arctic seas", "Shallow continental shelf", "Pack ice", "Coastal beaches and islands"],
+    "range": "Shallow Arctic and subarctic seas: Pacific walruses in the Bering and Chukchi seas, Atlantic walruses from the eastern Canadian Arctic and Greenland to Svalbard, and a population in Russia's Laptev Sea.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Unknown"
+  },
+  "description": "The walrus is a huge, tusked, heavily whiskered marine mammal of the Arctic and the only living member of its family, Odobenidae. It is a pinniped, related to seals and sea lions, and among pinnipeds only the elephant seals are larger. Both males and females grow tusks, which are upper canine teeth that can reach about a meter in length. Walruses have thick, wrinkled, cinnamon-brown skin over a deep layer of blubber and a mustache of 400 to 700 stiff, sensitive whiskers used to find food on the seabed. They are intensely social, hauling out onto ice and beaches in herds that can number in the thousands.",
+  "answers": {
+    "lifespan": "Walruses live about 30–40 years in the wild. Healthy adults have little to fear apart from orcas, polar bears and human hunters, but calves are vulnerable, and stampedes at crowded haul-outs can crush young animals. Walruses are rarely kept in zoos, and they breed poorly there.",
+    "weight": "Adult walruses weigh 400–1,700 kg (880–3,750 lb). Pacific males weigh 800–1,700 kg, with exceptional bulls reaching about 2,000 kg, while Pacific females weigh 400–1,250 kg. Atlantic walruses are roughly 10–20 percent smaller. Newborn calves weigh a substantial 45–75 kg.",
+    "size": "Walruses are 2.2–3.6 m (7.2–11.8 ft) long, with males larger than females. Tusks average about 50 cm and can reach 1 m in old males; females' tusks are shorter and more slender. The skin alone can be 2–4 cm thick, thickest around the neck and shoulders of males.",
+    "speed": "Walruses usually swim at about 7 km/h (4 mph) but can reach roughly 35 km/h (22 mph) in short bursts. On land and ice they can turn their hind flippers forward and move on all fours, and over short distances they can keep pace with a running person.",
+    "gestation": "A walrus pregnancy lasts 15–16 months, which includes a delay of four to five months before the embryo implants. A single calf is born in spring, usually on the ice, and can swim at once. It nurses for two years or more, so females give birth only every two to three years.",
+    "diet": "Walruses are carnivores that feed mainly on clams and other seabed invertebrates. They root along the bottom in water less than about 80 m deep, find prey with their whiskers, and suck the soft body out of the shell with a piston-like tongue. One walrus can eat several thousand clams in a single feeding session.",
+    "habitat": "Walruses live in shallow Arctic and subarctic seas over the continental shelf, where they can reach the bottom to feed. They rest and give birth on drifting sea ice and, when ice is out of reach, crowd onto beaches and rocky islands in Alaska, Russia, Canada, Greenland and Svalbard.",
+    "conservation": "The walrus is listed as Vulnerable on the IUCN Red List, with an unknown overall population trend. The chief threat is the loss of summer sea ice, which forces Pacific walruses onto crowded shore haul-outs far from feeding grounds and leads to deadly stampedes. Regulated subsistence hunting by Arctic peoples continues."
+  },
+  "funFacts": [
+    "The genus name Odobenus means tooth-walker, because walruses use their tusks like ice axes to haul themselves out of the water.",
+    "A walrus can shut off blood flow to its skin in cold water and look almost white, then turn pinkish-brown as it warms up in the sun.",
+    "Males have inflatable air sacs in the throat that keep them afloat while sleeping and produce loud, bell-like sounds during courtship.",
+    "In recent years around 100,000 Pacific walruses have crowded onto a single beach at Cape Serdtse-Kamen in Russia when sea ice disappeared.",
+    "Walrus whiskers, called vibrissae, are sensitive enough to distinguish objects just a few millimeters across."
+  ],
+  "relatedAnimals": ["harbor-seal", "california-sea-lion", "polar-bear", "narwhal", "beluga-whale", "orca"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What are walrus tusks used for?", "answer": "Walruses use their tusks to haul themselves onto ice, to keep breathing holes open, to defend against polar bears and orcas, and above all for display and fighting among males, where larger tusks mean higher rank. They do not dig for clams with them."},
+    {"question": "Are walruses dangerous to humans?", "answer": "They can be. Walruses are usually wary of people, but they are enormous, armed with tusks, and quick to defend themselves or their calves. They have attacked and overturned kayaks and small boats, and Arctic hunters and researchers treat them with great caution."},
+    {"question": "Can a walrus kill a polar bear?", "answer": "Yes, occasionally. An adult walrus is heavier than a polar bear, and its tusks can inflict fatal wounds. Polar bears therefore rarely tackle healthy adults and instead try to panic a herd, hoping to grab a calf or an injured animal in the confusion."},
+    {"question": "How many walruses are there?", "answer": "There is no precise count. The Pacific walrus is by far the most numerous, with estimates generally in the range of 200,000 or more, while Atlantic walruses number in the low tens of thousands and the Laptev Sea population only a few thousand."},
+    {"question": "Do female walruses have tusks?", "answer": "Yes. Both sexes have tusks, which start to show at about one and a half to two years old. Females' tusks are shorter, thinner and more curved than those of males, but they grow throughout life in both sexes."}
+  ],
+  "meta": {
+    "title": "Walrus Facts: Weight, Tusks, Size, Lifespan & Diet",
+    "description": "Walruses weigh 400–1,700 kg (880–3,750 lb), reach 2.2–3.6 m long and live 30–40 years. What tusks are for, what walruses eat and why they are Vulnerable.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Odobenus%20rosmarus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Odobenus_rosmarus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Odobenus_rosmarus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Walrus"}
+    ]
+  }
+}

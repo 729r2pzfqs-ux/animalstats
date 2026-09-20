@@ -1,0 +1,64 @@
+{
+  "slug": "honey-badger",
+  "commonName": "Honey Badger",
+  "scientificName": "Mellivora capensis",
+  "alternateNames": ["Ratel"],
+  "nameSingular": "honey badger",
+  "namePlural": "honey badgers",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Mustelidae", "genus": "Mellivora", "species": "M. capensis"},
+  "facts": {
+    "lifespan": {"min": 7, "max": 8, "unit": "years", "context": "estimated; wild lifespan is poorly known", "display": "about 7–8 years"},
+    "lifespanCaptivity": {"min": 20, "max": 26, "unit": "years", "context": "in human care", "display": "up to 24–26 years"},
+    "weight": {"min": 5, "max": 16, "unit": "kg", "context": "adults; males 9–16 kg, females 5–10 kg", "display": "5–16 kg (11–35 lb)"},
+    "height": {"min": 23, "max": 28, "unit": "cm", "label": "Shoulder height", "display": "23–28 cm (9–11 in)"},
+    "speed": {"min": 30, "max": 30, "unit": "km/h", "verb": "run", "context": "commonly cited estimate", "display": "about 30 km/h (19 mph)"},
+    "gestationPeriod": {"min": 50, "max": 70, "unit": "days", "label": "Gestation", "display": "50–70 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Rodents, snakes including venomous species, lizards, scorpions, insects, birds, eggs and carrion, along with bee larvae and honey from raided hives, and some fruit, roots and bulbs.",
+    "habitat": ["Savanna", "Grassland", "Forest", "Semi-desert", "Mountains"],
+    "range": "Most of sub-Saharan Africa, parts of Morocco and Algeria, the Arabian Peninsula, Iran and western Asia east to Turkmenistan, India and Nepal.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The honey badger, or ratel, is a powerfully built member of the weasel family found across Africa, the Middle East and India, and it is not closely related to other badgers. It is famous for fearlessness, standing its ground against lions, leopards and hyenas. Its defenses include very thick, loose skin that lets it twist around and bite an attacker holding it, long digging claws, strong jaws and a foul-smelling anal gland secretion. Honey badgers are mostly solitary, range over huge areas and are skilled diggers and climbers. A broad white-gray mantle over a black body warns predators to stay away.",
+  "answers": {
+    "lifespan": "Honey badgers are estimated to live about 7–8 years in the wild and up to 24–26 years in human care. Wild lifespans are poorly known because the animals are solitary, wide-ranging and hard to study. Lions, leopards and people are the main causes of adult deaths.",
+    "weight": "Adult honey badgers weigh 5–16 kg (11–35 lb). Males weigh 9–16 kg and are considerably larger than females, which weigh 5–10 kg. Size also varies between regions and between the dozen or so described subspecies.",
+    "size": "A honey badger stands 23–28 cm (9–11 in) at the shoulder. Head-and-body length is 55–77 cm, and the short tail adds 12–30 cm. The body is long, flat and broad-backed, with short sturdy legs and front claws up to 4 cm long.",
+    "speed": "Honey badgers are usually credited with a top speed of about 30 km/h (19 mph), though this is an estimate. Their normal pace is a tireless jog-trot, and males may cover 25 km or more in a night while foraging and looking for mates.",
+    "gestation": "A honey badger is pregnant for about 50–70 days, according to field studies in the Kalahari; older sources give six months. The female usually raises a single cub, rarely two, moving it between dens every few days. The cub stays with her for 12–16 months.",
+    "diet": "Honey badgers are carnivores with a very broad diet of rodents, reptiles, insects, scorpions, birds, eggs and carrion. They kill and eat venomous snakes such as puff adders and cobras, raid beehives for larvae and honey, and also eat fruit, roots and bulbs.",
+    "habitat": "Honey badgers live in a wide range of habitats, including savanna, grassland, forest, semi-desert and mountains up to about 4,000 m. They occur across most of sub-Saharan Africa, Arabia, Iran and India, avoiding only the driest deserts and the densest rainforest.",
+    "conservation": "Honey badgers are listed as Least Concern on the IUCN Red List, but the population is decreasing. They live at naturally low densities and are killed by beekeepers and poultry farmers, caught in traps and poisoned baits set for other predators, and hunted for traditional medicine."
+  },
+  "funFacts": [
+    "A honey badger's skin is about 6 mm thick around the neck and so loose that the animal can turn around inside it to bite whatever is gripping it.",
+    "Honey badgers bitten by venomous snakes have been seen to collapse, recover after a few hours and then finish eating the snake.",
+    "Guinness World Records has described the honey badger as the world's most fearless animal.",
+    "Honey badgers are among the few mustelids recorded using tools; a captive male named Stoffel stacked objects to escape his enclosure.",
+    "Pale chanting goshawks and jackals often follow foraging honey badgers to snatch rodents and reptiles flushed by their digging."
+  ],
+  "relatedAnimals": ["wolverine", "striped-skunk", "meerkat", "sea-otter", "spotted-hyena", "tasmanian-devil"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Are honey badgers immune to snake venom?", "answer": "Honey badgers are highly resistant, but not completely immune. Their nerve receptors have mutations that stop cobra-type neurotoxins from binding properly, and they often survive bites that would kill a much larger animal. A large dose of venom can still make them ill or kill them."},
+    {"question": "Can a honey badger kill a lion?", "answer": "No, a honey badger cannot realistically kill a healthy adult lion. Lions and leopards do kill honey badgers. What the honey badger can do is put up such a fierce, noisy, smelly fight that a predator often decides the meal is not worth the injuries."},
+    {"question": "Are honey badgers dangerous to humans?", "answer": "Honey badgers avoid people and attacks are rare, but they will defend themselves aggressively if trapped, cornered or protecting a cub. Their bite and claws can cause serious wounds. They cause more trouble by breaking into beehives and poultry houses."},
+    {"question": "Do honey badgers really eat honey?", "answer": "Yes. Honey badgers break into wild and commercial beehives to eat honey and, above all, the protein-rich bee larvae. The popular story that a bird called the honeyguide leads them to hives is widely repeated, but it has never been reliably documented."},
+    {"question": "Is a honey badger related to a wolverine?", "answer": "Distantly. Both belong to the weasel family, Mustelidae, and have a similar reputation for toughness, but they sit in separate subfamilies. The honey badger is the only living member of the subfamily Mellivorinae and is not a true badger either."}
+  ],
+  "meta": {
+    "title": "Honey Badger Facts: Size, Diet, Lifespan & Toughness",
+    "description": "Honey badgers weigh 5–16 kg (11–35 lb), stand 23–28 cm at the shoulder and can live up to 26 years in captivity. Diet, snake venom resistance and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Mellivora%20capensis&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Mellivora_capensis/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Mellivora_capensis"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Honey_badger"}
+    ]
+  }
+}

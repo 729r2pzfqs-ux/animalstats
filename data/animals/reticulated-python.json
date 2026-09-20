@@ -1,0 +1,64 @@
+{
+  "slug": "reticulated-python",
+  "commonName": "Reticulated Python",
+  "scientificName": "Malayopython reticulatus",
+  "alternateNames": ["Retic", "Regal python", "Python reticulatus"],
+  "nameSingular": "reticulated python",
+  "namePlural": "reticulated pythons",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Squamata", "family": "Pythonidae", "genus": "Malayopython", "species": "M. reticulatus"},
+  "facts": {
+    "lifespan": {"min": 15, "max": 20, "unit": "years", "context": "estimated in the wild", "display": "about 15–20 years"},
+    "lifespanCaptivity": {"min": 20, "max": 25, "unit": "years", "context": "in human care; some have approached 30", "display": "20–25 years"},
+    "weight": {"min": 25, "max": 75, "unit": "kg", "context": "large adults; females are far heavier than males, and exceptional animals exceed 130 kg", "display": "25–75 kg (55–165 lb)"},
+    "height": {"min": 3, "max": 6, "unit": "m", "label": "Length", "display": "3–6 m (10–20 ft)"},
+    "speed": null,
+    "gestationPeriod": {"min": 80, "max": 90, "unit": "days", "label": "Incubation", "display": "80–90 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mammals and birds. Smaller pythons eat mostly rats, which draws them into towns and plantations; large adults take civets, monkeys, pigs, deer, dogs and poultry, and have occasionally eaten sun bears.",
+    "habitat": ["Tropical rainforest", "Woodland", "Riverbanks and swamps", "Plantations", "Urban edges and drains"],
+    "range": "South and Southeast Asia, from northeastern India and Bangladesh through Myanmar, Thailand, Vietnam, Malaysia and Singapore to Indonesia and the Philippines.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Unknown"
+  },
+  "description": "The reticulated python is the longest snake in the world, with wild adults regularly exceeding 5 m and a few passing 7 m. The green anaconda is heavier, but no snake is longer. It is named for the net-like, or reticulated, pattern of black, gold, brown and white on its back, which hides it well on the forest floor. A powerful constrictor and an excellent swimmer, it has colonized many small islands across Southeast Asia and lives comfortably in cities such as Singapore and Bangkok, where it hunts rats in drains. Genetic studies moved it from the genus Python to Malayopython in 2014.",
+  "answers": {
+    "lifespan": "Reticulated pythons are estimated to live about 15–20 years in the wild and 20–25 years in captivity, with some captive animals approaching 30. Wild lifespans are poorly documented. Very large individuals are old females, since these snakes keep growing slowly throughout life.",
+    "weight": "Large adult reticulated pythons weigh 25–75 kg (55–165 lb). Females are far heavier than males, which often stay under 25 kg. The heaviest reliably recorded, a captive named Medusa in the United States, weighed 158.8 kg (350 lb) in 2011.",
+    "size": "Adult reticulated pythons are typically 3–6 m (10–20 ft) long, making the species the longest snake in the world. The longest ever measured in captivity, Medusa, was 7.67 m (25 ft 2 in). A 10 m specimen reported from Sulawesi in 1912 is often quoted but was never verified.",
+    "speed": null,
+    "gestation": "Reticulated python eggs incubate for 80–90 days. The female lays about 15–80 eggs, depending on her size, and coils around them, shivering her muscles to keep them warm. Hatchlings are already 60–75 cm long and receive no further care.",
+    "diet": "Reticulated pythons are carnivores that eat mammals and birds, ambushing prey and killing it by constriction. Young and medium-sized snakes feed mostly on rats, while large adults swallow pigs, deer, monkeys and dogs. A big meal can sustain a python for weeks or months.",
+    "habitat": "Reticulated pythons live in the rainforests, woodlands and swamps of Southeast Asia, from northeastern India to Indonesia and the Philippines, usually near rivers or ponds. They adapt well to people and thrive in plantations, villages and even the sewers of large cities.",
+    "conservation": "The reticulated python is listed as Least Concern on the IUCN Red List, as it remains widespread and adaptable. It is one of the most heavily harvested snakes on Earth, with hundreds of thousands of skins traded each year for leather, so trade is regulated under CITES Appendix II. Its overall population trend is not well known."
+  },
+  "funFacts": [
+    "The reticulated python is one of very few snakes confirmed to have killed and swallowed adult humans, in a handful of documented cases in Indonesia.",
+    "Medusa, a captive reticulated python in Kansas City, was measured at 7.67 m (25 ft 2 in) by Guinness World Records in 2011 and needed 15 people to hold her.",
+    "Reticulated pythons swim well enough to cross open sea, and they were among the first reptiles to recolonize Krakatoa after the 1883 eruption.",
+    "Dwarf and super dwarf populations on small Indonesian islands mature at well under half the length of mainland snakes.",
+    "The net-like pattern that gives the snake its name breaks up its outline on leaf litter, making even a 5 m python very hard to spot."
+  ],
+  "relatedAnimals": ["burmese-python", "green-anaconda", "ball-python", "boa-constrictor", "king-cobra", "komodo-dragon"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the longest snake in the world?", "answer": "The reticulated python is the longest snake species. Wild adults regularly exceed 5 m, and the longest reliably measured captive, Medusa, reached 7.67 m (25 ft 2 in). The green anaconda is shorter but much heavier, so it holds the title of heaviest snake."},
+    {"question": "Can a reticulated python eat a human?", "answer": "Yes, though it is extremely rare. There are a few verified cases from Sulawesi, Indonesia, including adults found inside pythons in 2017 and 2018. Only the very largest pythons can swallow a person, because an adult's shoulders are difficult for a snake to get past."},
+    {"question": "Are reticulated pythons dangerous?", "answer": "Large ones can be. They are non-venomous, but a python over 4–5 m long is strong enough to kill an adult by constriction, and both wild and captive snakes have killed people. Most encounters end with the snake fleeing, and bites are usually defensive."},
+    {"question": "Do reticulated pythons make good pets?", "answer": "Not for most people. Standard reticulated pythons grow very large, are strong and fast, and need custom enclosures, big prey and more than one handler. They are banned or need permits in many places. Experienced keepers sometimes choose dwarf or super dwarf lines, which stay much smaller."},
+    {"question": "What is the difference between a reticulated python and an anaconda?", "answer": "The reticulated python is longer and slimmer, lives in Asia, lays eggs and spends much of its time on land. The green anaconda is shorter but far heavier, lives in South American wetlands, gives birth to live young and spends most of its life in water."}
+  ],
+  "meta": {
+    "title": "Reticulated Python: Longest Snake Size, Weight & Facts",
+    "description": "The reticulated python is the world's longest snake at 3–6 m (10–20 ft), with a verified record of 7.67 m. Weight, lifespan, diet, eggs and danger.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Malayopython%20reticulatus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Python_reticulatus/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Reticulated_python"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q216136"}
+    ]
+  }
+}

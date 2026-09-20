@@ -1,0 +1,64 @@
+{
+  "slug": "leatherback-sea-turtle",
+  "commonName": "Leatherback Sea Turtle",
+  "scientificName": "Dermochelys coriacea",
+  "alternateNames": ["Leatherback turtle", "Leatherback", "Leathery turtle", "Lute turtle"],
+  "nameSingular": "leatherback sea turtle",
+  "namePlural": "leatherback sea turtles",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia", "classSlug": "reptiles", "order": "Testudines", "family": "Dermochelyidae", "genus": "Dermochelys", "species": "D. coriacea"},
+  "facts": {
+    "lifespan": {"min": 45, "max": 50, "unit": "years", "context": "estimated; the true lifespan is poorly known and may be longer", "display": "about 45–50 years (estimated)"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 250, "max": 700, "unit": "kg", "context": "adults; the record is a 916 kg male", "display": "250–700 kg (550–1,540 lb)"},
+    "height": {"min": 1.3, "max": 1.8, "unit": "m", "label": "Shell length", "display": "1.3–1.8 m (4.3–5.9 ft)"},
+    "speed": {"min": 2, "max": 10, "unit": "km/h", "verb": "swim", "context": "typical travel speeds from satellite tracking; a burst of about 35 km/h is often quoted but poorly documented", "display": "2–10 km/h (1–6 mph)"},
+    "gestationPeriod": {"min": 60, "max": 70, "unit": "days", "label": "Incubation", "display": "60–70 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Almost entirely jellyfish and other soft-bodied drifting animals such as salps and pyrosomes. Because this prey is mostly water, a leatherback may eat a large fraction of its own body weight in a day.",
+    "habitat": ["Open ocean", "Continental shelf waters", "Cold temperate seas", "Tropical nesting beaches"],
+    "range": "The widest range of any reptile: all tropical and temperate oceans, north to Alaska, Canada and Norway and south to New Zealand and the tip of Africa.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The leatherback is the largest living turtle and one of the heaviest reptiles on Earth. Instead of a hard shell it has a flexible, rubbery carapace of thick skin over a mosaic of small bones, marked by seven lengthwise ridges. It is the only surviving member of its family, Dermochelyidae. Leatherbacks are built for the open ocean: they cross entire ocean basins between tropical nesting beaches and cold, jellyfish-rich feeding grounds, and they dive deeper than any other turtle. A large body, thick fat and a heat-exchanging blood supply let them stay warm in water that would stun other sea turtles.",
+  "answers": {
+    "lifespan": "Leatherback sea turtles are estimated to live about 45–50 years, though their true lifespan is not well known and could be longer. Unlike hard-shelled turtles they are very difficult to age, and they do not survive well in captivity, so the figures come from growth models and tagging studies.",
+    "weight": "Adult leatherback sea turtles weigh 250–700 kg (550–1,540 lb). They are the heaviest turtles alive and among the heaviest living reptiles. The largest on record, a male that washed ashore in Wales in 1988, weighed 916 kg (about 2,020 lb).",
+    "size": "A leatherback's shell is 1.3–1.8 m (4.3–5.9 ft) long, and large adults measure more than 2 m from head to tail. The front flippers are the longest of any sea turtle relative to body size and can span about 2.7 m (9 ft) in big adults.",
+    "speed": "Leatherback sea turtles normally swim at 2–10 km/h (1–6 mph), based on satellite tracking. A top speed of about 35 km/h (22 mph) is widely repeated, but it is poorly documented and should be treated as a claimed burst rather than a typical speed.",
+    "gestation": "Leatherback eggs incubate for 60–70 days in the sand. A female lays roughly 80–100 fertile eggs per nest, along with a number of small yolkless eggs, and may nest five to seven times in one season. Warmer sand produces more female hatchlings.",
+    "diet": "Leatherback sea turtles are carnivores that eat almost nothing but jellyfish and similar soft-bodied animals such as salps. Backward-pointing spines line the mouth and throat to keep slippery prey from escaping. Because they target jellyfish, leatherbacks often swallow floating plastic bags by mistake.",
+    "habitat": "Leatherback sea turtles live in the open ocean and have the widest range of any reptile, from the tropics to cold waters off Canada, Norway and New Zealand. They come ashore only to nest, on tropical and subtropical sandy beaches with deep-water approaches.",
+    "conservation": "The leatherback sea turtle is listed as Vulnerable on the IUCN Red List, and the global population is decreasing. Several subpopulations, including those in the Pacific, are assessed as Critically Endangered. The main threats are fishing bycatch, egg harvesting, loss of nesting beaches and swallowing plastic."
+  },
+  "funFacts": [
+    "Leatherbacks are the deepest-diving turtles, with recorded dives of more than 1,000 m (3,300 ft), deeper than many whales routinely go.",
+    "The leatherback has no hard shell; its carapace is leathery skin stretched over thousands of tiny bone plates, which flexes under pressure at depth.",
+    "Leatherbacks can keep their body temperature well above that of the surrounding water, which lets them feed in seas close to freezing.",
+    "Tagged Pacific leatherbacks have crossed the whole ocean from nesting beaches in Indonesia to feeding grounds off the US West Coast, a journey of more than 10,000 km.",
+    "The leatherback's lineage dates back more than 100 million years, and it is the last living species of its family."
+  ],
+  "relatedAnimals": ["green-sea-turtle", "galapagos-tortoise", "saltwater-crocodile", "moon-jellyfish", "ocean-sunfish", "red-eared-slider"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why is it called a leatherback?", "answer": "It is named for its shell, which is not hard and bony like other sea turtles' but covered in tough, rubbery, leather-like skin. Beneath the skin lies a layer of small interlocking bones, and seven ridges run the length of the back to help the turtle move efficiently through water."},
+    {"question": "How deep can a leatherback sea turtle dive?", "answer": "Leatherbacks can dive deeper than 1,000 m (3,300 ft), and dives of around 1,200 m have been recorded. Most dives are much shallower. A flexible shell, collapsible lungs and large oxygen stores in the blood and muscles allow them to withstand the pressure."},
+    {"question": "What is the biggest leatherback ever recorded?", "answer": "The largest leatherback on record was a male found dead on a beach at Harlech, Wales, in 1988. It weighed 916 kg (about 2,020 lb) and measured nearly 3 m (roughly 9 ft) in total length. It is displayed at the National Museum Cardiff."},
+    {"question": "Are leatherback sea turtles dangerous?", "answer": "No. Leatherbacks are not aggressive toward people and feed on jellyfish. They have sharp-edged jaws and a very powerful body, so a stressed turtle could injure someone at close quarters, but they pose no real threat. It is illegal to disturb them in most countries."},
+    {"question": "How many leatherback sea turtles are left?", "answer": "There is no precise global count. Sea turtles are usually counted as nesting females, and estimates put the world total in the tens of thousands of nesting females. Atlantic numbers are much stronger than Pacific ones, where nesting has fallen by more than 80 percent in recent decades."}
+  ],
+  "meta": {
+    "title": "Leatherback Sea Turtle: Size, Weight, Diving & Lifespan",
+    "description": "Leatherbacks are the largest turtles: 250–700 kg (550–1,540 lb) with shells 1.3–1.8 m long. They dive past 1,000 m and eat jellyfish. Full facts.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Dermochelys%20coriacea&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Dermochelys_coriacea/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Leatherback_sea_turtle"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q120043"}
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "asian-elephant",
+  "commonName": "Asian Elephant",
+  "scientificName": "Elephas maximus",
+  "alternateNames": ["Asiatic elephant", "Indian elephant", "Sri Lankan elephant", "Sumatran elephant"],
+  "nameSingular": "Asian elephant",
+  "namePlural": "Asian elephants",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Proboscidea", "family": "Elephantidae", "genus": "Elephas", "species": "E. maximus"},
+  "facts": {
+    "lifespan": {"min": 50, "max": 60, "unit": "years", "context": "in the wild; a few individuals reach 70 or more", "display": "50–60 years"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 2000, "max": 5000, "unit": "kg", "context": "adult females average about 2,700 kg, adult males about 4,000 kg", "display": "2,000–5,000 kg (4,400–11,000 lb)"},
+    "height": {"min": 2.0, "max": 3.0, "unit": "m", "label": "Shoulder height", "display": "2–3 m (6.6–9.8 ft)"},
+    "speed": {"min": 25, "max": 25, "unit": "km/h", "verb": "run", "context": "fastest speed measured in a scientific study; higher figures are sometimes quoted", "display": "about 25 km/h (15 mph)"},
+    "gestationPeriod": {"min": 615, "max": 670, "unit": "days", "label": "Gestation", "display": "18–22 months (about 650 days)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Grasses above all, plus bark, roots, leaves, bamboo, fruit and cultivated crops such as rice, sugarcane and bananas; an adult eats around 150 kg (330 lb) of plants daily.",
+    "habitat": ["Tropical forest", "Grassland", "Scrub forest", "Bamboo forest"],
+    "range": "Fragmented populations in 13 countries of South and Southeast Asia, from India, Nepal and Sri Lanka to Thailand, Sumatra and Borneo; India holds more than half.",
+    "conservationStatus": "Endangered",
+    "iucnCategory": "EN",
+    "populationTrend": "Decreasing",
+    "population": "roughly 40,000–50,000 in the wild"
+  },
+  "description": "The Asian elephant is the largest land animal in Asia and the only living species of its genus. It is smaller than the African bush elephant, with smaller rounded ears, a twin-domed forehead, an arched or level back and a single finger-like tip on its trunk. Only some males grow large tusks; females and many males have short tusks called tushes or none at all. Three subspecies are usually recognized: Indian, Sri Lankan and Sumatran. People have tamed Asian elephants for at least 4,000 years for logging, ceremony and war, and about a quarter of all remaining Asian elephants live in captivity.",
+  "answers": {
+    "lifespan": "Asian elephants live 50–60 years in the wild, and a few reach 70 or more. As with African elephants, life is limited by the last of six sets of molars wearing out. Studies have found that zoo-born Asian elephants tend to die younger than those in protected wild or working populations.",
+    "weight": "Adult Asian elephants weigh 2,000–5,000 kg (4,400–11,000 lb). Males average about 4,000 kg and females about 2,700 kg, so they are noticeably lighter than African bush elephants. A newborn calf weighs around 100 kg (220 lb).",
+    "size": "Asian elephants stand 2–3 m (6.6–9.8 ft) tall at the shoulder. Bulls average about 2.75 m and cows about 2.4 m. Unlike African elephants, the highest point of an Asian elephant's body is the top of its head rather than its shoulders.",
+    "speed": "The fastest speed reliably measured for an Asian elephant is about 25 km/h (15 mph). A 2003 study of elephants in Thailand found that even at top speed they never have all four feet off the ground, so their fast gait is part walk and part run.",
+    "gestation": "An Asian elephant is pregnant for 18–22 months, around 650 days, among the longest pregnancies of any mammal. A cow has one calf at a time, usually every four to five years. Calves nurse for two to three years and are looked after by the whole herd.",
+    "diet": "Asian elephants are herbivores that feed mainly on grasses, along with bark, roots, leaves, bamboo and fruit. An adult eats roughly 150 kg (330 lb) of vegetation a day and drinks 80–200 liters of water. They also raid rice, sugarcane and banana crops, a major cause of conflict with farmers.",
+    "habitat": "Asian elephants live in tropical and subtropical forests, grasslands and scrub across 13 countries in South and Southeast Asia. They prefer a mosaic of forest and grassy clearings near water. Today they occupy only a small fraction of a historic range that once stretched from Iraq to China's Yellow River.",
+    "conservation": "The Asian elephant is listed as Endangered on the IUCN Red List, with a decreasing population of roughly 40,000–50,000 wild animals. Habitat loss and fragmentation are the biggest threats, followed by conflict with farmers, poaching and capture of wild elephants for tourism."
+  },
+  "funFacts": [
+    "Only some male Asian elephants have large tusks; tuskless males are called makhnas.",
+    "Asian elephants are more closely related to the extinct woolly mammoth than to African elephants.",
+    "An Asian elephant's trunk has one finger-like tip, while an African elephant's has two.",
+    "Asian elephants have passed the mirror self-recognition test, a sign of self-awareness shared with great apes and dolphins.",
+    "Bulls periodically enter musth, a state of surging testosterone in which they secrete fluid from glands on the temples and become highly aggressive."
+  ],
+  "relatedAnimals": ["african-elephant", "tiger", "white-rhinoceros", "hippopotamus", "manatee"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "How many Asian elephants are left in the wild?", "answer": "Roughly 40,000–50,000 Asian elephants remain in the wild, more than half of them in India. That is about a tenth of the number of African elephants. A further 15,000 or so live in captivity, mainly in India, Myanmar and Thailand."},
+    {"question": "What is the difference between Asian and African elephants?", "answer": "Asian elephants are smaller, with small rounded ears, a twin-domed head, a rounded back and one trunk finger. African elephants are bigger, with huge ears, a dipped back and two trunk fingers, and both sexes usually carry tusks."},
+    {"question": "Do female Asian elephants have tusks?", "answer": "Not proper tusks. Female Asian elephants have only small tushes that seldom show beyond the lip, or none at all. Many males also lack tusks, especially in Sri Lanka, where only a small percentage of bulls are tuskers."},
+    {"question": "Are Asian elephants dangerous?", "answer": "Yes, they can be. Wild Asian elephants kill several hundred people a year, most of them in India, usually when elephants raid crops or are surprised at close range. Bulls in musth are especially unpredictable. In turn, many elephants are killed in retaliation."},
+    {"question": "Why are Asian elephants endangered?", "answer": "Asian elephants are endangered mainly because their forest habitat has been cleared and broken up by farms, roads and settlements in the most densely populated part of the world. Conflict with people, poaching for ivory and skin, and live capture add to the decline."}
+  ],
+  "meta": {
+    "title": "Asian Elephant: Lifespan, Size, Weight, Diet & Status",
+    "description": "Asian elephants weigh 2,000–5,000 kg, stand 2–3 m at the shoulder, live 50–60 years and are pregnant for up to 22 months. Habitat, diet and Endangered status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Elephas%20maximus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Elephas_maximus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Elephas_maximus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Asian_elephant"}
+    ]
+  }
+}

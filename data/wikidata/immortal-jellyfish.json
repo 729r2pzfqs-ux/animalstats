@@ -1,0 +1,20 @@
+{
+  "slug": "immortal-jellyfish",
+  "commonName": "Immortal Jellyfish",
+  "scientificName": "Turritopsis dohrnii",
+  "classSlug": "invertebrates",
+  "aliases": [],
+  "qid": "Q3322541",
+  "iucnStatus": null,
+  "wikipedia": "Turritopsis dohrnii",
+  "taxonomy": {
+    "species": "Turritopsis dohrnii",
+    "genus": "Turritopsis",
+    "family": "Oceaniidae",
+    "order": "Anthoathecata",
+    "class": "Hydrozoa",
+    "phylum": "Cnidaria",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "black-widow",
+  "commonName": "Southern Black Widow",
+  "scientificName": "Latrodectus mactans",
+  "alternateNames": ["Black widow spider", "Black widow", "Shoe-button spider"],
+  "nameSingular": "southern black widow",
+  "namePlural": "southern black widows",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Arachnida", "classSlug": "invertebrates", "order": "Araneae", "family": "Theridiidae", "genus": "Latrodectus", "species": "L. mactans"},
+  "facts": {
+    "lifespan": {"min": 1, "max": 3, "unit": "years", "context": "females; males live only a month or two after reaching maturity", "display": "1–3 years (females); males a few months"},
+    "lifespanCaptivity": null,
+    "weight": {"min": 1, "max": 1, "unit": "g", "context": "adult females, approximate; males weigh only a small fraction of this", "display": "about 1 g (0.035 oz)"},
+    "height": {"min": 8, "max": 13, "unit": "mm", "label": "Body length", "display": "8–13 mm (0.3–0.5 in); about 38 mm (1.5 in) with legs"},
+    "speed": null,
+    "gestationPeriod": {"min": 20, "max": 30, "unit": "days", "label": "Egg development", "display": "20–30 days"}
+  },
+  "ecology": {
+    "diet": "Insectivore",
+    "dietDetails": "Insects and other arthropods that blunder into the web, including flies, mosquitoes, beetles, grasshoppers, caterpillars, woodlice and other spiders. Prey is wrapped in silk, bitten, and its liquefied insides are sucked out.",
+    "habitat": ["Woodpiles and rock piles", "Sheds and outbuildings", "Rodent burrows", "Woodland", "Crawl spaces"],
+    "range": "Southeastern United States, from about New York and Ohio south to Florida and west to Texas and Oklahoma; also parts of Mexico and the Caribbean, and introduced to Hawaii.",
+    "conservationStatus": "Not Evaluated",
+    "iucnCategory": "NE",
+    "populationTrend": "Unknown"
+  },
+  "description": "The southern black widow is the best-known venomous spider in North America. The adult female is glossy black with a red hourglass marking on the underside of her round abdomen; males are much smaller, brownish and marked with red and white. She builds a messy, very strong tangle web close to the ground in dark, dry, sheltered places and hangs upside down in it, waiting for prey. The venom contains a nerve toxin called alpha-latrotoxin that causes severe muscle pain and cramps in people, but the spider is shy, bites only in defense, and deaths are very rare.",
+  "answers": {
+    "lifespan": "Female southern black widows live about 1–3 years, while males survive only a month or two after maturing. Females take several months to mature and can live through more than one breeding season, especially in captivity. Most spiderlings never reach adulthood: they eat one another in the egg sac and after hatching.",
+    "weight": "An adult female southern black widow weighs about 1 g (0.035 oz). Males are tiny by comparison, with bodies around half the length of the female's and only a small fraction of her weight. A female's weight rises noticeably when her abdomen swells with eggs before she spins an egg sac.",
+    "size": "Female southern black widows have a body 8–13 mm (0.3–0.5 in) long and measure about 38 mm (1.5 in) across with the legs spread. Males are only 3–6 mm long with proportionally longer legs. The female's abdomen is almost spherical, and the red hourglass underneath is usually complete in this species.",
+    "speed": null,
+    "gestation": "Southern black widow eggs hatch in about 20–30 days. The female spins a tough, papery, pear-shaped egg sac about a centimeter across, containing anywhere from about 100 to 400 eggs, and may produce several sacs in one summer. Spiderlings stay inside through their first molt, then disperse by ballooning on silk threads.",
+    "diet": "Southern black widows eat insects and other small arthropods caught in their webs, such as flies, beetles, grasshoppers, woodlice and other spiders. The spider throws sticky silk over the prey, bites it, and later sucks out the contents once digestive enzymes have liquefied them.",
+    "habitat": "Southern black widows live in dark, dry, undisturbed places close to the ground across the southeastern United States. Outdoors that means woodpiles, rock piles, hollow stumps and rodent burrows; around houses it means sheds, garages, meter boxes, crawl spaces and outdoor furniture. They are seldom found in lived-in rooms.",
+    "conservation": "The southern black widow has not been evaluated for the IUCN Red List and is common throughout its range. It adapts well to man-made structures. In some areas it appears to be displaced by the introduced brown widow, which competes for the same nest sites around buildings."
+  },
+  "funFacts": [
+    "Black widow venom is often described as about 15 times more potent than rattlesnake venom, but the spider injects such a tiny amount that deaths are very rare.",
+    "Despite the name, female southern black widows usually do not eat the male after mating; it happens mostly when the male cannot escape.",
+    "Black widow dragline silk is exceptionally strong for its weight and has been studied as a model for synthetic fibers.",
+    "Only adult females are dangerous to people; the fangs of males and juveniles are generally too small to deliver a significant bite.",
+    "The spider combs sticky silk over its prey using a row of curved bristles on its hind legs, the feature that gives comb-footed spiders their name."
+  ],
+  "relatedAnimals": ["goliath-birdeater", "emperor-scorpion", "praying-mantis", "rattlesnake", "gila-monster"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Can a black widow bite kill you?", "answer": "It is very unlikely. Black widow bites cause a syndrome called latrodectism, with severe muscle cramps, abdominal pain, sweating and nausea that can last several days, but deaths are extremely rare. Young children, older adults and people with heart conditions are at greatest risk and should get medical care."},
+    {"question": "What does a black widow bite feel like?", "answer": "The bite itself may feel like a pinprick or go unnoticed. Within about an hour, pain spreads from the bite, and cramping and rigidity can develop in the abdomen, back and chest, often with sweating, nausea and raised blood pressure. Most people recover in a few days."},
+    {"question": "What should you do if a black widow bites you?", "answer": "Wash the bite with soap and water, apply a cool pack, and call a poison center or see a doctor, especially if muscle cramps or other body-wide symptoms appear. Treatment is mainly pain relief and muscle relaxants; an antivenom exists for severe cases."},
+    {"question": "How do you identify a black widow?", "answer": "An adult female is shiny jet black with a round abdomen and a red hourglass on the underside. She hangs belly-up in an irregular, tangled web that feels unusually strong and crackles when pulled. Males and juveniles are smaller and paler, with red and white markings."},
+    {"question": "Are black widows aggressive?", "answer": "No. Black widows are timid and prefer to drop from the web, play dead or flick silk at a threat. Bites almost always happen when a spider is accidentally pressed against skin, for example in a glove, a shoe or a piece of stored firewood."}
+  ],
+  "meta": {
+    "title": "Southern Black Widow Facts: Size, Lifespan, Venom & Bite",
+    "description": "Female southern black widows live 1–3 years, have an 8–13 mm body and weigh about 1 g. Venom, bite symptoms, diet, habitat and identification facts.",
+    "sources": [
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Latrodectus_mactans/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Latrodectus_mactans"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q113297"}
+    ]
+  }
+}

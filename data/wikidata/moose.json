@@ -1,0 +1,26 @@
+{
+  "slug": "moose",
+  "commonName": "Moose",
+  "scientificName": "Alces alces",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q35517",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Moose",
+  "taxonomy": {
+    "species": "Alces alces",
+    "genus": "Alces",
+    "family": "Cervidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "233",
+      "unit": "day",
+      "sex": null
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "emu",
+  "commonName": "Emu",
+  "scientificName": "Dromaius novaehollandiae",
+  "alternateNames": [],
+  "nameSingular": "emu",
+  "namePlural": "emus",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves", "classSlug": "birds", "order": "Casuariiformes", "family": "Casuariidae", "genus": "Dromaius", "species": "D. novaehollandiae"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 20, "unit": "years", "context": "in the wild", "display": "10–20 years"},
+    "lifespanCaptivity": {"min": 20, "max": 35, "unit": "years", "context": "in human care; ages at the top of the range are exceptional", "display": "20–35 years"},
+    "weight": {"min": 30, "max": 55, "unit": "kg", "context": "adults; females average slightly heavier than males", "display": "30–55 kg (66–121 lb)"},
+    "height": {"min": 1.5, "max": 1.9, "unit": "m", "label": "Height", "display": "1.5–1.9 m (4.9–6.2 ft)"},
+    "speed": {"min": 48, "max": 48, "unit": "km/h", "verb": "run", "context": "sprinting; emus cannot fly", "display": "48 km/h (30 mph)"},
+    "gestationPeriod": {"min": 56, "max": 56, "unit": "days", "label": "Incubation", "display": "about 56 days (8 weeks)"}
+  },
+  "ecology": {
+    "diet": "Omnivore",
+    "dietDetails": "Seeds, fruits, flowers, fresh shoots and grasses, along with insects such as grasshoppers, beetles and caterpillars; emus also swallow stones and charcoal to help grind food.",
+    "habitat": ["Savanna woodland", "Eucalyptus forest", "Grassland", "Scrub and heath", "Semi-desert"],
+    "range": "Most of mainland Australia, from coastal regions to the arid interior; absent from dense rainforest, the driest deserts and heavily settled areas, and extinct in Tasmania.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The emu is Australia's tallest native bird and the second-tallest bird in the world after the ostrich. It is flightless, with shaggy gray-brown plumage, a bluish bare neck, tiny hidden wings and long, powerful legs ending in three toes. Emus roam most of mainland Australia in pairs or loose groups, walking long distances to follow rain and food. The sexes reverse the usual roles: the female courts the male, and he alone incubates the dark green eggs and raises the striped chicks. The emu appears with the red kangaroo on Australia's coat of arms.",
+  "answers": {
+    "lifespan": "Emus live 10–20 years in the wild and commonly 20 years or more in human care, with exceptional captive birds reported to reach about 35. Adult emus have few natural enemies apart from dingoes and wedge-tailed eagles. Chicks are much more vulnerable, and drought, vehicles and fences kill many wild birds.",
+    "weight": "Adult emus weigh 30–55 kg (66–121 lb). Unusually for a large bird, females are slightly heavier than males, averaging about 37 kg against 32 kg. Breeding males can lose up to a third of their body weight during the eight weeks they spend incubating without eating.",
+    "size": "Emus stand 1.5–1.9 m (4.9–6.2 ft) tall, second only to the ostrich among living birds. They measure about 1.4–1.6 m from bill to tail. Their wings are tiny, only about 20 cm long, and hidden under the loose, hair-like plumage.",
+    "speed": "Emus can sprint at about 48 km/h (30 mph). Their long legs cover nearly 3 m in a single stride at full speed, and they can trot for many kilometers at a steady pace. Emus are flightless, but they swim well and readily cross rivers.",
+    "gestation": "Emu eggs hatch after about 56 days, or eight weeks, of incubation. The male does all of it, sitting on a clutch of 5–15 dark green eggs almost without eating, drinking or defecating. He then guards the cream-and-brown striped chicks for up to seven months.",
+    "diet": "Emus are omnivores that eat seeds, fruits, flowers, young shoots and grasses, and they take large numbers of insects such as grasshoppers, caterpillars and beetles. They pick the most nutritious food available and swallow stones to grind it in the gizzard. Their droppings spread the seeds of many native plants.",
+    "habitat": "Emus live across most of mainland Australia in savanna woodland, open eucalyptus forest, grassland, scrub and semi-desert. They avoid dense rainforest and the most barren deserts. They are nomadic in drier regions and may travel hundreds of kilometers to follow rainfall, fresh growth and water.",
+    "conservation": "The emu is listed as Least Concern on the IUCN Red List, with a stable population. It remains common across mainland Australia, though an isolated population on the New South Wales north coast is officially endangered. The Tasmanian, King Island and Kangaroo Island emus were wiped out soon after European settlement."
+  },
+  "funFacts": [
+    "In the 'Great Emu War' of 1932, Australian soldiers with machine guns were sent to cull emus damaging wheat crops in Western Australia. The emus largely won.",
+    "Emu eggs are dark green, almost black, and weigh roughly 450–650 g, about the same as ten chicken eggs.",
+    "An inflatable pouch in the throat lets emus make deep booming and drumming calls that carry up to 2 km.",
+    "The emu stands opposite the red kangaroo on Australia's coat of arms; both animals are popularly said to be unable to walk backward easily.",
+    "Each emu feather has two shafts growing from a single base, giving the plumage its shaggy, hair-like look."
+  ],
+  "relatedAnimals": ["ostrich", "kiwi", "red-kangaroo", "emperor-penguin", "cockatiel", "budgerigar"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between an emu and an ostrich?", "answer": "Ostriches are African, much bigger (up to 2.7 m and 145 kg), have two toes and black-and-white or gray-brown plumage. Emus are Australian, stand up to 1.9 m and 55 kg, have three toes and shaggy gray-brown feathers. Emu eggs are dark green; ostrich eggs are cream."},
+    {"question": "Are emus dangerous to humans?", "answer": "Emus are usually curious rather than aggressive, but they are large, strong birds with clawed feet and can kick hard if cornered or defending chicks. Injuries to people are uncommon and rarely serious. It is wise to keep a respectful distance from wild and farmed emus alike."},
+    {"question": "What was the Great Emu War?", "answer": "It was a 1932 military operation in Western Australia in which soldiers armed with two Lewis machine guns tried to cull some 20,000 emus that were destroying wheat crops. The birds scattered and proved hard to hit, fewer than a thousand were reported killed, and the operation was abandoned."},
+    {"question": "Can emus fly?", "answer": "No. Emus are flightless ratites with tiny wings about 20 cm long and no keel on the breastbone to anchor flight muscles. They rely on running instead, reaching about 48 km/h, and use their small wings for balance and for cooling off."},
+    {"question": "Why do male emus raise the chicks?", "answer": "In emus the usual sex roles are reversed. After laying, the female leaves and may mate with other males, while the male incubates the eggs for eight weeks and guards the chicks for months. This lets a female produce several clutches in a good season."}
+  ],
+  "meta": {
+    "title": "Emu Facts: Height, Weight, Speed, Lifespan & Eggs",
+    "description": "Emus stand 1.5–1.9 m (4.9–6.2 ft) tall, weigh 30–55 kg, run at 48 km/h (30 mph) and live 10–20 years in the wild. Diet, green eggs and habitat.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Dromaius%20novaehollandiae&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Dromaius_novaehollandiae/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Dromaius_novaehollandiae"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Emu"}
+    ]
+  }
+}

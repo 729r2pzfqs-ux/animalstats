@@ -1,0 +1,44 @@
+{% macro ad(key) %}
+{% if site.adsense_client and site.ad_slots[key] %}
+<div class="ad-slot" aria-label="Advertisement">
+  <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="{{ site.adsense_client }}" data-ad-slot="{{ site.ad_slots[key] }}"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{% else %}
+<!-- ad placement: {{ key }} — set ad_slots.{{ key }} in data/site.json to activate -->
+{% endif %}
+{% endmacro %}
+
+{% macro badge(a) %}<span class="iucn iucn-{{ a.ecology.iucnCategory }}">{{ a.ecology.conservationStatus }}</span>{% endmacro %}
+
+{% macro animal_rows(items) %}
+{% for a in items %}
+<tr>
+  <td><a href="{{ a.url }}" class="link">{{ a.commonName }}</a><div class="text-xs italic text-slate-500">{{ a.scientificName }}</div></td>
+  <td>{{ a.facts.lifespan.display }}</td>
+  <td>{% if a.facts.weight %}{{ a.facts.weight.display }}{% else %}<span class="text-slate-400">—</span>{% endif %}</td>
+  <td>{% if a.facts.speed %}{{ a.facts.speed.display }}{% else %}<span class="text-slate-400">—</span>{% endif %}</td>
+  <td><span class="iucn iucn-{{ a.ecology.iucnCategory }}">{{ a.ecology.iucnCategory if a.ecology.iucnCategory != 'DOM' else 'Domestic' }}</span></td>
+</tr>
+{% endfor %}
+{% endmacro %}
+
+{% macro animal_table(items) %}
+<div class="card overflow-x-auto">
+  <table class="tbl">
+    <thead><tr><th>Animal</th><th>Lifespan</th><th>Weight</th><th>Top speed</th><th>Status</th></tr></thead>
+    <tbody>{{ animal_rows(items) }}</tbody>
+  </table>
+</div>
+{% endmacro %}
+
+{% macro faq_block(items, open_first=true) %}
+<div class="space-y-2">
+  {% for q in items %}
+  <details class="card group px-4 py-3"{% if loop.first and open_first %} open{% endif %}>
+    <summary class="flex cursor-pointer list-none items-start justify-between gap-3 font-semibold text-slate-900">{{ q.question }}<span class="mt-0.5 shrink-0 text-slate-400 transition-transform group-open:rotate-180">{{ icon('chevron-down', 'w-5 h-5') }}</span></summary>
+    <p class="prose-p mt-2">{{ q.answer }}</p>
+  </details>
+  {% endfor %}
+</div>
+{% endmacro %}

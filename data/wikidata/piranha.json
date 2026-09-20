@@ -1,0 +1,22 @@
+{
+  "slug": "piranha",
+  "commonName": "Red-Bellied Piranha",
+  "scientificName": "Pygocentrus nattereri",
+  "classSlug": "fish",
+  "aliases": [
+    "piranha"
+  ],
+  "qid": "Q928382",
+  "iucnStatus": null,
+  "wikipedia": "Red-bellied piranha",
+  "taxonomy": {
+    "species": "Pygocentrus nattereri",
+    "genus": "Pygocentrus",
+    "family": "Serrasalmidae",
+    "order": "Characiformes",
+    "class": "Actinopteri",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

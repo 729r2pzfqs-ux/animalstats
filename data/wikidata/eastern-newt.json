@@ -1,0 +1,22 @@
+{
+  "slug": "eastern-newt",
+  "commonName": "Eastern Newt",
+  "scientificName": "Notophthalmus viridescens",
+  "classSlug": "amphibians",
+  "aliases": [
+    "newt"
+  ],
+  "qid": "Q1552306",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Eastern newt",
+  "taxonomy": {
+    "species": "Notophthalmus viridescens",
+    "genus": "Notophthalmus",
+    "family": "Salamandridae",
+    "order": "Caudata",
+    "class": "Amphibia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

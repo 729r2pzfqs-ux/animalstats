@@ -1,0 +1,64 @@
+{
+  "slug": "ocean-sunfish",
+  "commonName": "Ocean Sunfish",
+  "scientificName": "Mola mola",
+  "alternateNames": ["Mola", "Common mola", "Moonfish"],
+  "nameSingular": "ocean sunfish",
+  "namePlural": "ocean sunfish",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Actinopterygii", "classSlug": "fish", "order": "Tetraodontiformes", "family": "Molidae", "genus": "Mola", "species": "M. mola"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 20, "unit": "years", "context": "rough estimate; lifespan in the wild has not been measured reliably", "display": "unknown; estimated at 10–20+ years"},
+    "lifespanCaptivity": {"min": 10, "max": 10, "unit": "years", "context": "longest reported in aquariums", "display": "up to about 10 years"},
+    "weight": {"min": 247, "max": 1000, "unit": "kg", "context": "adults; the largest exceed 2,000 kg", "display": "247–1,000 kg (545–2,200 lb)"},
+    "height": {"min": 1.8, "max": 3.3, "unit": "m", "label": "Length", "display": "1.8–3.3 m (6–11 ft)"},
+    "speed": {"min": 3.2, "max": 3.2, "unit": "km/h", "verb": "swim", "context": "typical cruising speed; capable of short faster bursts", "display": "about 3.2 km/h (2 mph)"},
+    "gestationPeriod": null
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Jellyfish, salps, comb jellies and siphonophores, together with small fish, fish larvae, squid, crustaceans and brittle stars; younger sunfish eat a more varied diet nearer the seabed.",
+    "habitat": ["Open ocean", "Temperate coastal seas", "Kelp forest edges"],
+    "range": "Temperate and tropical waters of the Atlantic, Pacific and Indian Oceans and the Mediterranean, usually in water warmer than about 10 °C.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The ocean sunfish, or mola, is one of the heaviest bony fish in the world, a huge, flattened disc that looks like a fish head with fins attached. It never grows a true tail; instead the back of the body ends in a rounded, rudder-like flap called a clavus, and the fish rows itself along with its tall dorsal and anal fins. Sunfish are named for their habit of basking on their sides at the surface, probably to rewarm after deep, cold feeding dives and to let seabirds and cleaner fish pick off parasites. Females produce more eggs than any other known vertebrate.",
+  "answers": {
+    "lifespan": "Nobody knows exactly how long ocean sunfish live. Individuals have survived up to about 10 years in aquariums, and growth studies of sunfish suggest wild lifespans of 20 years or more, so 10–20+ years is a reasonable estimate. Captive sunfish can grow astonishingly fast, one gaining over 370 kg in 15 months.",
+    "weight": "Adult ocean sunfish typically weigh 247–1,000 kg (545–2,200 lb), and the largest can exceed 2,000 kg. The heaviest bony fish ever recorded, a 2,744 kg giant found off the Azores in 2021, belonged to a close relative, the giant or bump-head sunfish, Mola alexandrini.",
+    "size": "Ocean sunfish average about 1.8 m (6 ft) long and can reach 3.3 m (11 ft). They are often taller than they are long: measured from the tip of the dorsal fin to the tip of the anal fin, an average adult is about 2.5 m and a very large one over 4 m.",
+    "speed": "Ocean sunfish cruise at about 3.2 km/h (2 mph). They are not the helpless drifters they were once thought to be: tagged sunfish swim steadily, cover around 26 km a day, dive hundreds of meters, and can accelerate quickly enough to leap clear of the water.",
+    "gestation": null,
+    "diet": "Ocean sunfish are carnivores that eat jellyfish, salps and other gelatinous animals along with small fish, squid, crustaceans and brittle stars. Jellyfish were long thought to be nearly their whole diet, but DNA and tissue studies show a broader menu, especially in younger fish. Their teeth are fused into a parrot-like beak.",
+    "habitat": "Ocean sunfish live in the open waters of all temperate and tropical oceans. They feed by diving repeatedly to 200–600 m and then return to the surface to bask and warm up. They are often seen near coasts and kelp forests, where cleaner fish and gulls remove their many skin parasites.",
+    "conservation": "The ocean sunfish is listed as Vulnerable on the IUCN Red List, with a decreasing population. The biggest threat is bycatch: sunfish are caught in huge numbers in drift nets, longlines and trawls, at times making up a large part of the catch in swordfish gillnet fisheries. They also swallow plastic bags that resemble jellyfish."
+  },
+  "funFacts": [
+    "A single female ocean sunfish was found carrying an estimated 300 million eggs, more than any other known vertebrate.",
+    "Sunfish larvae are about 2.5 mm long and covered in spines like tiny pufferfish; an adult can weigh tens of millions of times as much.",
+    "The scientific name mola is Latin for millstone, describing the fish's gray, round, rough-skinned body.",
+    "Ocean sunfish can carry around 40 kinds of parasites, and they visit cleaning stations or bask so that fish and seabirds can pick them off.",
+    "In German the fish is called Schwimmender Kopf, swimming head, and in several other languages it is known as the moon fish."
+  ],
+  "relatedAnimals": ["whale-shark", "manta-ray", "swordfish", "bluefin-tuna", "moon-jellyfish", "leatherback-sea-turtle"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is the ocean sunfish the heaviest bony fish?", "answer": "It is one of the heaviest. The record, a 2,744 kg fish found off the Azores in 2021, belongs to the closely related giant sunfish, Mola alexandrini, and some older record specimens once labeled Mola mola have been reidentified as that species. Mola mola itself is reported to reach about 2,000 kg or a little more."},
+    {"question": "Are ocean sunfish dangerous to humans?", "answer": "No. Ocean sunfish are docile, have small mouths and do not bite divers. The only hazards come from their size: large sunfish have occasionally injured people by leaping into boats, and collisions can damage small vessels."},
+    {"question": "Can you eat ocean sunfish?", "answer": "Sunfish is eaten in parts of Asia, notably Japan, Korea and Taiwan, where most of the body including the skin and intestines is used. The European Union bans the sale of fish from the family Molidae, and the flesh is not popular elsewhere."},
+    {"question": "Why do sunfish float on their side at the surface?", "answer": "Sunfish bask on their sides mainly to warm up after long feeding dives into cold, deep water, which tagging studies have confirmed. Basking also exposes their skin to seabirds and cleaner fish that remove parasites. A sunfish lying flat at the surface is not sick or dying."},
+    {"question": "What eats ocean sunfish?", "answer": "Adult ocean sunfish have few predators because of their size and thick, tough skin, but sea lions, orcas and large sharks take them. California sea lions sometimes bite the fins off small sunfish and leave them. Young sunfish are eaten by tuna, mahi-mahi and other fast predatory fish."}
+  ],
+  "meta": {
+    "title": "Ocean Sunfish (Mola Mola) Facts: Size, Weight & Diet",
+    "description": "Ocean sunfish average 1.8 m long, reach 3.3 m and weigh 247–1,000 kg, with giants over 2,000 kg. They cruise at about 3.2 km/h. Diet, lifespan and status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Mola%20mola&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Mola_mola/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Ocean_sunfish"},
+      {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q192285"}
+    ]
+  }
+}

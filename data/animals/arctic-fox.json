@@ -1,0 +1,64 @@
+{
+  "slug": "arctic-fox",
+  "commonName": "Arctic Fox",
+  "scientificName": "Vulpes lagopus",
+  "alternateNames": ["White fox", "Polar fox", "Snow fox", "Blue fox"],
+  "nameSingular": "Arctic fox",
+  "namePlural": "Arctic foxes",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Carnivora", "family": "Canidae", "genus": "Vulpes", "species": "V. lagopus"},
+  "facts": {
+    "lifespan": {"min": 3, "max": 6, "unit": "years", "context": "in the wild; most die in their first year", "display": "3–6 years"},
+    "lifespanCaptivity": {"min": 10, "max": 14, "unit": "years", "context": "in human care", "display": "10–14 years"},
+    "weight": {"min": 2.5, "max": 8, "unit": "kg", "context": "adults; males average about 3.5 kg, females about 2.9 kg; heaviest in fall", "display": "2.5–8 kg (5.5–17.5 lb)"},
+    "height": {"min": 25, "max": 30, "unit": "cm", "label": "Shoulder height", "display": "25–30 cm (10–12 in)"},
+    "speed": null,
+    "gestationPeriod": {"min": 49, "max": 57, "unit": "days", "label": "Gestation", "display": "about 52 days"}
+  },
+  "ecology": {
+    "diet": "Carnivore",
+    "dietDetails": "Mostly lemmings and voles inland, and seabirds, eggs, fish and seal pups on coasts; also Arctic hares, carrion left by polar bears and wolves, and some berries and seaweed.",
+    "habitat": ["Arctic tundra", "Sea ice", "Coastal cliffs"],
+    "range": "Circumpolar Arctic tundra: Alaska, northern Canada, Greenland, Iceland, Svalbard, northern Scandinavia and northern Russia, including many Arctic islands and the winter sea ice.",
+    "conservationStatus": "Least Concern",
+    "iucnCategory": "LC",
+    "populationTrend": "Stable"
+  },
+  "description": "The Arctic fox is a small, compact fox built for some of the coldest places on Earth. Short legs, a short muzzle, small rounded ears and fur-covered foot pads all reduce heat loss, and its winter coat is among the warmest of any mammal. Most Arctic foxes are white in winter and brown-gray in summer; a less common 'blue' form stays dark gray year-round. Their numbers rise and fall with lemming populations, and they produce some of the largest litters of any wild carnivore in good years. The species is common across the Arctic, but the small Scandinavian population is threatened, and warming allows red foxes to move north into its range.",
+  "answers": {
+    "lifespan": "Arctic foxes live 3–6 years in the wild, and up to 10–14 years in captivity. Life on the tundra is harsh: most pups die in their first year, often of starvation when lemming numbers crash. Predators include red foxes, wolves, wolverines, golden eagles and snowy owls.",
+    "weight": "Adult Arctic foxes weigh 2.5–8 kg (5.5–17.5 lb), with males averaging about 3.5 kg and females about 2.9 kg. They are smaller than red foxes. Body weight peaks in fall, when Arctic foxes can increase their fat reserves by half or more to help them through the winter.",
+    "size": "An Arctic fox stands 25–30 cm (10–12 in) tall at the shoulder. Head-and-body length is 46–68 cm (18–27 in), plus a thick tail of about 30 cm (12 in) that the fox wraps around itself when sleeping. Its rounded, compact shape minimizes the surface area exposed to cold.",
+    "speed": null,
+    "gestation": "Arctic fox pregnancy lasts about 52 days, with a range of 49–57 days. Pups are born in late spring in large underground dens that may be used for generations. Litters average 5–8 pups but can reach 18 or more when lemmings are plentiful, among the largest litters of any wild mammal in the order Carnivora.",
+    "diet": "Arctic foxes are carnivores that feed mainly on lemmings and voles, and a fox family can eat dozens of lemmings a day. Coastal foxes rely on seabirds, eggs, fish and ringed seal pups. In winter many follow polar bears onto the sea ice to scavenge seal kills, and they cache surplus food.",
+    "habitat": "Arctic foxes live on treeless tundra and coasts all around the Arctic, in Alaska, Canada, Greenland, Iceland, Scandinavia and Russia. They range out onto the sea ice in winter. The Arctic fox is the only land mammal native to Iceland, which it reached by crossing sea ice at the end of the last ice age.",
+    "conservation": "The Arctic fox is listed as Least Concern on the IUCN Red List, with a stable population numbering in the hundreds of thousands. Populations in Norway, Sweden and Finland are very small and heavily managed. Climate warming is a long-term threat, because it shrinks tundra and lets the larger red fox expand north."
+  },
+  "funFacts": [
+    "An Arctic fox does not start shivering until the temperature drops to around −70 °C (−94 °F), thanks to its dense multilayered winter coat.",
+    "The coat changes with the seasons: thick and white in winter, thinner and brown-gray in summer, matching snow and bare tundra.",
+    "A young female tracked by the Norwegian Polar Institute walked from Svalbard to northern Canada in 2018, covering about 3,500 km in 76 days.",
+    "Arctic foxes locate lemmings under the snow by sound and then leap up and dive headfirst through the crust to catch them.",
+    "Generations of foxes fertilize the ground around their dens, creating green 'gardens' on the tundra that are visible from a distance."
+  ],
+  "relatedAnimals": ["red-fox", "fennec-fox", "polar-bear", "snowy-owl", "gray-wolf", "reindeer"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Why do Arctic foxes change color?", "answer": "Arctic foxes change color for camouflage. They molt twice a year, growing a thick white coat for the snowy winter and a thinner brown-gray coat for the summer tundra. A minority, the 'blue' morph common on coasts and islands, is dark gray-brown all year with a lighter winter shade."},
+    {"question": "How do Arctic foxes survive the cold?", "answer": "Arctic foxes survive cold with extremely dense fur, a compact body with short ears, legs and muzzle, fur-covered paws, and a bushy tail used as a blanket. They also have heat-exchanging blood vessels in their legs, build up fat in fall, and shelter in snow dens during storms."},
+    {"question": "Are Arctic foxes endangered?", "answer": "Not globally. The species is listed as Least Concern, with several hundred thousand animals across the Arctic. However, the population in mainland Norway, Sweden and Finland numbers only a few hundred and is critically endangered regionally, supported by captive breeding and supplementary feeding."},
+    {"question": "Can you keep an Arctic fox as a pet?", "answer": "Arctic foxes do not make good pets. They are wild animals with a strong odor, a need to dig and a poor tolerance for warm climates. Owning one is illegal or requires a permit in many countries and US states. Most Arctic foxes in captivity descend from fur-farm stock."},
+    {"question": "What is the difference between an Arctic fox and a red fox?", "answer": "The Arctic fox is smaller and stockier, with a shorter muzzle, small rounded ears, furry foot pads and a coat that turns white in winter. The red fox is larger and longer-legged, with tall pointed ears. Where the two meet, red foxes dominate and sometimes kill Arctic foxes."}
+  ],
+  "meta": {
+    "title": "Arctic Fox Facts: Size, Weight, Lifespan & Adaptations",
+    "description": "Arctic foxes weigh 2.5–8 kg (5.5–17.5 lb), stand 25–30 cm tall and live 3–6 years in the wild. How they survive the cold, what they eat and where they live.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Vulpes%20lagopus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Vulpes_lagopus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Vulpes_lagopus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Arctic_fox"}
+    ]
+  }
+}

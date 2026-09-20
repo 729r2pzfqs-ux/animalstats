@@ -1,0 +1,20 @@
+{
+  "slug": "peregrine-falcon",
+  "commonName": "Peregrine Falcon",
+  "scientificName": "Falco peregrinus",
+  "classSlug": "birds",
+  "aliases": [
+    "falcon"
+  ],
+  "qid": "Q30535",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Peregrine falcon",
+  "taxonomy": {
+    "species": "Falco peregrinus",
+    "genus": "Falco",
+    "family": "Falconidae",
+    "order": "Falconiformes",
+    "class": "Aves"
+  },
+  "quantities": []
+}

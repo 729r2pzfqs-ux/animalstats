@@ -1,0 +1,20 @@
+{
+  "slug": "hummingbird",
+  "commonName": "Ruby-Throated Hummingbird",
+  "scientificName": "Archilochus colubris",
+  "classSlug": "birds",
+  "aliases": [
+    "hummingbird"
+  ],
+  "qid": "Q834843",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Ruby-throated hummingbird",
+  "taxonomy": {
+    "species": "Archilochus colubris",
+    "genus": "Archilochus",
+    "family": "Trochilidae",
+    "order": "Apodiformes",
+    "class": "Aves"
+  },
+  "quantities": []
+}

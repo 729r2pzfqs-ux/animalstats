@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body { @apply bg-slate-50 text-slate-800 antialiased; }
+  h1, h2, h3 { @apply text-slate-900; }
+  summary::-webkit-details-marker { display: none; }
+}
+
+@layer components {
+  .wrap { @apply mx-auto w-full max-w-4xl px-4; }
+  .card { @apply rounded-2xl border border-slate-200 bg-white shadow-sm; }
+  .h2 { @apply mt-10 mb-3 flex items-center gap-2 text-xl font-bold tracking-tight sm:text-2xl; }
+  .prose-p { @apply leading-relaxed text-slate-700; }
+  .link { @apply font-medium text-emerald-700 underline decoration-emerald-300 underline-offset-2 hover:decoration-emerald-700; }
+  .chip { @apply inline-flex items-center gap-1.5 rounded-full border border-slate-300 bg-white px-3 py-1.5 text-sm hover:border-emerald-600 hover:text-emerald-700; }
+
+  /* six-stat quick-answer card */
+  .stat { @apply flex flex-col rounded-xl border border-slate-200 bg-slate-50 px-3 py-2.5; }
+  .stat-label { @apply flex items-center gap-1.5 text-[11px] font-semibold uppercase tracking-wider text-slate-600; }
+  .stat-value { @apply mt-0.5 text-[15px] font-extrabold leading-snug text-slate-900 sm:text-lg; }
+  .stat-note { @apply text-xs leading-snug text-slate-500; }
+
+  /* IUCN Red List badge colours */
+  .iucn { @apply inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-bold uppercase tracking-wide; }
+  .iucn-EX { @apply bg-black text-white; }
+  .iucn-EW { @apply bg-purple-900 text-white; }
+  .iucn-CR { @apply bg-red-700 text-white; }
+  .iucn-EN { @apply bg-orange-600 text-white; }
+  .iucn-VU { @apply bg-amber-300 text-amber-950; }
+  .iucn-NT { @apply bg-lime-300 text-lime-950; }
+  .iucn-LC { @apply bg-emerald-600 text-white; }
+  .iucn-DD, .iucn-NE { @apply bg-slate-200 text-slate-700; }
+  .iucn-DOM { @apply bg-sky-100 text-sky-900; }
+
+  .tbl { @apply w-full border-collapse text-sm; }
+  .tbl th { @apply bg-slate-100 px-3 py-2 text-left text-xs font-semibold uppercase tracking-wide text-slate-600; }
+  .tbl td { @apply border-t border-slate-100 px-3 py-2.5 align-top; }
+  .tbl tr:hover td { @apply bg-slate-50; }
+  .tbl th[data-sort] { @apply cursor-pointer select-none; }
+
+  .ad-slot { @apply my-8 min-h-[280px] overflow-hidden text-center; }
+}

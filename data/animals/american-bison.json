@@ -1,0 +1,65 @@
+{
+  "slug": "american-bison",
+  "commonName": "American Bison",
+  "scientificName": "Bison bison",
+  "alternateNames": ["Buffalo", "American buffalo", "Plains bison", "Wood bison"],
+  "nameSingular": "American bison",
+  "namePlural": "American bison",
+  "article": "an",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Artiodactyla", "family": "Bovidae", "genus": "Bison", "species": "B. bison"},
+  "facts": {
+    "lifespan": {"min": 12, "max": 20, "unit": "years", "context": "in the wild", "display": "12–20 years"},
+    "lifespanCaptivity": {"min": 20, "max": 25, "unit": "years", "context": "in human care; occasionally longer", "display": "20–25 years"},
+    "weight": {"min": 360, "max": 900, "unit": "kg", "context": "adults; cows 360–500 kg, bulls 700–900 kg or more", "display": "360–900 kg (790–2,000 lb)"},
+    "height": {"min": 1.5, "max": 1.9, "unit": "m", "label": "Shoulder height", "display": "1.5–1.9 m (5–6.2 ft)"},
+    "speed": {"min": 56, "max": 56, "unit": "km/h", "verb": "run", "context": "top speed; can keep up a fast gallop for long distances", "display": "56 km/h (35 mph)"},
+    "gestationPeriod": {"min": 270, "max": 285, "unit": "days", "label": "Gestation", "display": "about 9.5 months (270–285 days)"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Mostly grasses and sedges, grazed for 9–11 hours a day, with some forbs, shrubs and, in winter and in northern wood bison, willow twigs and lichens.",
+    "habitat": ["Prairie", "Grassland", "River valley", "Boreal forest meadow"],
+    "range": "Scattered conservation herds in the United States, Canada and northern Mexico, including Yellowstone and Wood Buffalo national parks; formerly across most of North America's grasslands.",
+    "conservationStatus": "Near Threatened",
+    "iucnCategory": "NT",
+    "populationTrend": "Stable",
+    "population": "about 31,000 in conservation herds, plus several hundred thousand in commercial herds"
+  },
+  "description": "The American bison is the largest land mammal in North America and the national mammal of the United States. It is a massive, shaggy wild ox with a huge head, a shoulder hump and short curved horns carried by both sexes. There are two subspecies, the plains bison and the larger, darker wood bison of northern Canada and Alaska. Tens of millions of bison once roamed from Canada to Mexico, shaping the prairie with their grazing and wallowing, before commercial slaughter in the 1800s reduced them to fewer than 1,000. They are often called buffalo, although they are only distantly related to the true buffalo of Africa and Asia.",
+  "answers": {
+    "lifespan": "American bison live 12–20 years in the wild and 20–25 years in captivity. Cows usually outlive bulls. Wolves and grizzly bears prey on calves and on weak or old adults, but harsh winters, accidents such as falling through ice, and management culls account for many deaths in herds such as Yellowstone's.",
+    "weight": "Adult bison bulls weigh about 700–900 kg (1,540–2,000 lb), and cows weigh 360–500 kg (790–1,100 lb). Exceptional bulls exceed 1,000 kg. Wood bison are on average heavier than plains bison. Calves weigh 15–25 kg at birth and are reddish-orange for their first few months.",
+    "size": "An American bison stands 1.5–1.9 m (5–6.2 ft) tall at the shoulder hump, with bulls at the upper end. Head-and-body length is 2.1–3.5 m (7–11.5 ft), plus a 50–60 cm tail. The hump is formed by long spines on the vertebrae that anchor powerful neck muscles.",
+    "speed": "Bison can run at about 56 km/h (35 mph), roughly three times faster than a person can, and keep up a gallop over long distances. They are also agile: a bison can spin quickly, swim rivers and jump fences around 1.8 m (6 ft) high.",
+    "gestation": "A bison cow is pregnant for about nine and a half months, or 270–285 days. Breeding takes place during the rut from July to September, and a single calf is born in April or May. The calf can stand within minutes and keep up with the herd within a few hours.",
+    "diet": "American bison are herbivores that graze mainly on grasses and sedges. An adult eats roughly 1.6 percent of its body weight in dry vegetation each day, around 11 kg (24 lb) for a big bull. In winter bison swing their massive heads from side to side to sweep snow off buried grass.",
+    "habitat": "Bison live on prairies, grasslands, river valleys and, in the case of wood bison, meadows within northern boreal forest. Once found from Alaska to northern Mexico and east nearly to the Atlantic, wild herds now survive only in parks, refuges and tribal lands such as Yellowstone, Wood Buffalo and Badlands.",
+    "conservation": "The American bison is listed as Near Threatened on the IUCN Red List, with a stable population. About 31,000 live in herds managed for conservation, and only a fraction of those roam freely; several hundred thousand more are raised as livestock. Limited range, small herd sizes and past hybridization with cattle remain concerns."
+  },
+  "funFacts": [
+    "An estimated 30–60 million bison lived in North America before the 1800s; by the late 1880s fewer than 1,000 remained.",
+    "Yellowstone National Park is the only place in the United States where bison have lived continuously since prehistoric times.",
+    "A bison's tail often signals its mood: hanging down it is calm, but standing straight out or up means it may be about to charge.",
+    "Bison roll in dirt depressions called wallows to shed fur and deter insects; old wallows still dot the Great Plains and collect rainwater.",
+    "The American bison was named the national mammal of the United States in 2016."
+  ],
+  "relatedAnimals": ["african-buffalo", "cow", "elk", "pronghorn", "gray-wolf", "grizzly-bear"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "What is the difference between a bison and a buffalo?", "answer": "They are different animals. Bison live in North America and Europe and have a large shoulder hump, a massive head, a beard and a thick shaggy coat. True buffalo, the African buffalo and Asian water buffalo, have no hump, smoother coats and much larger horns. 'Buffalo' is simply a traditional name for American bison."},
+    {"question": "Are bison dangerous?", "answer": "Yes. Bison look placid but are unpredictable, can run 56 km/h and weigh up to a tonne. In Yellowstone, bison have injured more visitors than any other animal, usually people who approached too closely. The National Park Service requires staying at least 25 yards (23 m) away."},
+    {"question": "How many bison are left in North America?", "answer": "Roughly 31,000 bison live in conservation herds in the United States, Canada and Mexico, and several hundred thousand more are kept in private commercial herds. Only a minority of conservation bison are truly free-ranging; Yellowstone's herd, around 5,000 animals, is the largest on public land in the US."},
+    {"question": "Why did bison almost go extinct?", "answer": "In the 1800s, bison were slaughtered on an industrial scale for hides, meat and tongues, helped by the expansion of railroads. Killing was also encouraged as a way to undermine the Plains Indian nations that depended on them. Tens of millions were reduced to under 1,000 within a few decades."},
+    {"question": "Can bison breed with cattle?", "answer": "Yes. Bison and domestic cattle can interbreed, and ranchers crossed them in the late 1800s and 1900s to produce 'beefalo' or 'cattalo'. As a result, many bison herds today carry small amounts of cattle DNA, and herds without it, such as Yellowstone's, are especially valuable for conservation."}
+  ],
+  "meta": {
+    "title": "American Bison Facts: Weight, Height, Speed & History",
+    "description": "American bison bulls weigh 700–900 kg (1,540–2,000 lb), stand up to 1.9 m at the hump and run 56 km/h (35 mph). Lifespan, diet, range and near-extinction.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Bison%20bison&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Bison_bison/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Bison_bison"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/American_bison"}
+    ]
+  }
+}

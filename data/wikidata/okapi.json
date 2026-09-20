@@ -1,0 +1,37 @@
+{
+  "slug": "okapi",
+  "commonName": "Okapi",
+  "scientificName": "Okapia johnstoni",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q82037",
+  "iucnStatus": "Endangered",
+  "wikipedia": "Okapi",
+  "taxonomy": {
+    "species": "Okapia johnstoni",
+    "genus": "Okapia",
+    "family": "Giraffidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "22",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "250",
+      "unit": "kg",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "14.5",
+      "unit": "month",
+      "sex": null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block main %}
+<div class="wrap">
+  <h1 class="pt-4 text-[1.7rem] font-extrabold leading-tight tracking-tight sm:text-4xl">All Animals A–Z</h1>
+  <p class="prose-p mt-2">{{ animal_count }} animals, each with lifespan, weight, size, speed, diet, habitat and conservation status.</p>
+  <nav aria-label="Letters" class="mt-4 flex flex-wrap gap-1.5 text-sm font-semibold">
+    {% for letter in letters %}<a href="#{{ letter }}" class="flex h-9 w-9 items-center justify-center rounded-lg border border-slate-300 bg-white hover:border-emerald-600 hover:text-emerald-700">{{ letter }}</a>{% endfor %}
+  </nav>
+  {% for letter, items in letters.items() %}
+  <h2 class="h2" id="{{ letter }}">{{ letter }}</h2>
+  <ul class="grid grid-cols-1 gap-x-6 gap-y-1.5 sm:grid-cols-2 md:grid-cols-3">
+    {% for a in items %}<li class="flex items-baseline justify-between gap-2 border-b border-slate-100 py-1"><a href="{{ a.url }}" class="link">{{ a.commonName }}</a><span class="shrink-0 text-xs text-slate-500">{{ a.cls.singular|capitalize }}</span></li>{% endfor %}
+  </ul>
+  {% endfor %}
+</div>
+{% endblock %}

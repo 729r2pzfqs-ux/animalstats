@@ -1,0 +1,21 @@
+{
+  "slug": "bactrian-camel",
+  "commonName": "Bactrian Camel",
+  "scientificName": "Camelus bactrianus",
+  "classSlug": "mammals",
+  "aliases": [
+    "two-humped camel"
+  ],
+  "qid": "Q132922",
+  "iucnStatus": null,
+  "wikipedia": "Bactrian camel",
+  "taxonomy": {
+    "species": "Camelus bactrianus",
+    "genus": "Camelus",
+    "family": "Camelidae",
+    "order": "Artiodactyla",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": []
+}

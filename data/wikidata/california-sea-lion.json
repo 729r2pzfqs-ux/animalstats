@@ -1,0 +1,28 @@
+{
+  "slug": "california-sea-lion",
+  "commonName": "California Sea Lion",
+  "scientificName": "Zalophus californianus",
+  "classSlug": "mammals",
+  "aliases": [
+    "sea lion"
+  ],
+  "qid": "Q379732",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "California sea lion",
+  "taxonomy": {
+    "species": "Zalophus californianus",
+    "genus": "Zalophus",
+    "family": "Otariidae",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "phylum": "Chordata"
+  },
+  "quantities": [
+    {
+      "property": "gestation",
+      "amount": "50",
+      "unit": "week",
+      "sex": null
+    }
+  ]
+}

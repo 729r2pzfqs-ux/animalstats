@@ -1,0 +1,22 @@
+{
+  "slug": "bearded-dragon",
+  "commonName": "Central Bearded Dragon",
+  "scientificName": "Pogona vitticeps",
+  "classSlug": "reptiles",
+  "aliases": [
+    "bearded dragon"
+  ],
+  "qid": "Q792301",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Central bearded dragon",
+  "taxonomy": {
+    "species": "Pogona vitticeps",
+    "genus": "Pogona",
+    "family": "Agamidae",
+    "order": "Squamata",
+    "class": "Reptilia",
+    "phylum": "Chordata",
+    "kingdom": "Animalia"
+  },
+  "quantities": []
+}

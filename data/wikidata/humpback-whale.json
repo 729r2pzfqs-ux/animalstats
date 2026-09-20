@@ -1,0 +1,61 @@
+{
+  "slug": "humpback-whale",
+  "commonName": "Humpback Whale",
+  "scientificName": "Megaptera novaeangliae",
+  "classSlug": "mammals",
+  "aliases": [],
+  "qid": "Q132905",
+  "iucnStatus": "Least Concern",
+  "wikipedia": "Humpback whale",
+  "taxonomy": {
+    "species": "Megaptera novaeangliae",
+    "genus": "Megaptera",
+    "family": "Balaenopteridae",
+    "order": "Artiodactyla",
+    "class": "Mammalia"
+  },
+  "quantities": [
+    {
+      "property": "mass",
+      "amount": "45",
+      "unit": "t",
+      "sex": null
+    },
+    {
+      "property": "mass",
+      "amount": "1.5",
+      "unit": "t",
+      "sex": null
+    },
+    {
+      "property": "lifeExpectancy",
+      "amount": "47.5",
+      "unit": "year",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "11.5",
+      "unit": "month",
+      "sex": null
+    },
+    {
+      "property": "gestation",
+      "amount": "12",
+      "unit": "month",
+      "sex": null
+    },
+    {
+      "property": "length",
+      "amount": "16",
+      "unit": "m",
+      "sex": null
+    },
+    {
+      "property": "length",
+      "amount": "4.5",
+      "unit": "m",
+      "sex": null
+    }
+  ]
+}

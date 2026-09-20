@@ -1,0 +1,64 @@
+{
+  "slug": "koala",
+  "commonName": "Koala",
+  "scientificName": "Phascolarctos cinereus",
+  "alternateNames": ["Koala bear"],
+  "nameSingular": "koala",
+  "namePlural": "koalas",
+  "article": "a",
+  "taxonomy": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia", "classSlug": "mammals", "order": "Diprotodontia", "family": "Phascolarctidae", "genus": "Phascolarctos", "species": "P. cinereus"},
+  "facts": {
+    "lifespan": {"min": 10, "max": 15, "unit": "years", "context": "in the wild; females outlive males", "display": "10–15 years"},
+    "lifespanCaptivity": {"min": 15, "max": 20, "unit": "years", "context": "in human care", "display": "15–20 years"},
+    "weight": {"min": 4, "max": 15, "unit": "kg", "context": "adults; southern koalas and males are heaviest", "display": "4–15 kg (9–33 lb)"},
+    "height": {"min": 60, "max": 85, "unit": "cm", "label": "Body length", "display": "60–85 cm (24–33 in)"},
+    "speed": {"min": 10, "max": 10, "unit": "km/h", "verb": "run", "context": "short bounding runs on the ground; figures are rough estimates", "display": "about 10 km/h (6 mph)"},
+    "gestationPeriod": {"min": 33, "max": 36, "unit": "days", "label": "Gestation", "display": "33–36 days"}
+  },
+  "ecology": {
+    "diet": "Herbivore",
+    "dietDetails": "Almost entirely eucalyptus leaves, chosen from a few dozen favored species out of the hundreds that exist. An adult eats roughly 200–500 g of leaves a day and gets most of its water from them.",
+    "habitat": ["Eucalyptus forest", "Open woodland"],
+    "range": "Eastern and southeastern Australia: Queensland, New South Wales, the Australian Capital Territory, Victoria and a small part of South Australia.",
+    "conservationStatus": "Vulnerable",
+    "iucnCategory": "VU",
+    "populationTrend": "Decreasing"
+  },
+  "description": "The koala is a tree-dwelling marsupial found only in eastern Australia and is not a bear, despite the common nickname. It is the sole living member of its family, and its closest relatives are the wombats. Koalas spend almost their whole lives in eucalyptus trees, feeding on leaves that are tough, low in nutrients and toxic to most mammals. To cope with such a poor diet they have a slow metabolism and rest or sleep for around 18–20 hours a day. Koalas from the cooler south are noticeably larger and have thicker fur than those in Queensland.",
+  "answers": {
+    "lifespan": "Koalas live 10–15 years in the wild and 15–20 years in human care. Females tend to outlive males, which are more often injured in fights and while roaming in search of mates. Near towns, many koalas die early from vehicle strikes, dog attacks and chlamydia infections.",
+    "weight": "Adult koalas weigh 4–15 kg (9–33 lb). Size depends on sex and location: males are about 50 percent heavier than females, and koalas in Victoria are much bigger than those in Queensland, where a typical female weighs only about 5 kg.",
+    "size": "A koala measures 60–85 cm (24–33 in) from head to rump and has no visible tail. Southern animals are at the top of that range and have longer, denser fur for cooler winters. Large, strongly clawed paws with two opposable digits on each hand give a firm grip on branches.",
+    "speed": "A koala can run at roughly 10 km/h (6 mph) over short distances on the ground, although reliable measurements are scarce and estimates vary. Koalas only come down to change trees, and in the canopy they move slowly and deliberately to save energy.",
+    "gestation": "A koala is pregnant for 33–36 days. The single joey is born about 2 cm long, hairless and blind, and crawls into the pouch, where it stays for around six months. It then rides on its mother's back until it is about a year old.",
+    "diet": "Koalas are herbivores that eat almost nothing but eucalyptus leaves, roughly 200–500 g a day. A very long cecum full of bacteria breaks down the fiber and toxins. Koalas are picky, favoring a small number of eucalyptus species and the most nutritious young leaves.",
+    "habitat": "Koalas live in eucalyptus forests and open woodlands of eastern and southeastern Australia, from northern Queensland to South Australia. They need the right food-tree species on reasonably fertile soils, which is why their range overlaps so heavily with land cleared for farms and housing.",
+    "conservation": "Koalas are listed as Vulnerable on the IUCN Red List, and the population is decreasing. Habitat clearing, bushfires, drought, disease, dogs and traffic are the main threats. In 2022 Australia listed the koalas of Queensland, New South Wales and the ACT as endangered under national law."
+  },
+  "funFacts": [
+    "Koalas sleep or rest for about 18–20 hours a day because eucalyptus leaves provide so little energy.",
+    "Koalas have fingerprints so similar to human ones that the two are hard to tell apart even under a microscope.",
+    "A joey eats a special soft dropping from its mother called pap, which passes on the gut microbes it needs to digest eucalyptus.",
+    "Male koalas bellow surprisingly deep calls using an extra pair of vocal folds outside the larynx, a feature unknown in other land mammals.",
+    "On hot days koalas hug cool tree trunks to lower their body temperature."
+  ],
+  "relatedAnimals": ["wombat", "red-kangaroo", "tasmanian-devil", "platypus", "sloth", "giant-panda"],
+  "appearsInLists": [],
+  "faq": [
+    {"question": "Is a koala a bear?", "answer": "No. A koala is a marsupial, not a bear. Early European settlers called it a 'koala bear' because of its round ears and stocky build, but it carries its young in a pouch and its nearest living relatives are wombats."},
+    {"question": "Why do koalas sleep so much?", "answer": "Koalas sleep or rest for 18–20 hours a day to save energy. Eucalyptus leaves are fibrous, low in calories and full of toxins that take a lot of energy to break down, so a slow metabolism and long rests are the koala's way of balancing the budget. The leaves do not make koalas 'drunk'."},
+    {"question": "Are koalas dangerous?", "answer": "Koalas are not aggressive, but they are wild animals with sharp claws and strong jaws, and a frightened koala can bite and scratch badly. They should never be picked up in the wild. Injured koalas should be reported to a local wildlife rescue group."},
+    {"question": "How many koalas are left in the wild?", "answer": "Nobody knows precisely. Koalas are hard to count, and published estimates range from under 100,000 to several hundred thousand. What is clear is that numbers have fallen steeply in Queensland and New South Wales over the past two decades."},
+    {"question": "Do koalas drink water?", "answer": "Yes, although not often. Koalas get most of their moisture from eucalyptus leaves, but they also lick water running down tree trunks when it rains and will drink from pools or bowls during heatwaves and droughts."}
+  ],
+  "meta": {
+    "title": "Koala Facts: Lifespan, Weight, Diet, Sleep & Habitat",
+    "description": "Koalas live 10–15 years in the wild, weigh 4–15 kg (9–33 lb) and sleep up to 20 hours a day. Eucalyptus diet, pregnancy length, habitat and Vulnerable status.",
+    "sources": [
+      {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Phascolarctos%20cinereus&searchType=species"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Phascolarctos_cinereus/"},
+      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Phascolarctos_cinereus"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Koala"}
+    ]
+  }
+}
