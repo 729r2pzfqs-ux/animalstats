@@ -51,8 +51,11 @@ published figure is `null`, never an estimate. Source links are restricted to a 
 ## Performance, analytics, ads
 
 Tailwind is compiled (~20 KB) and inlined; Lucide icons are inlined SVG; no web fonts; the search index loads on first focus.
-`templates/base.html` runs Consent Mode v2 defaults inline (denied for EEA + UK + CH, granted elsewhere), then injects
-AdSense → gtag → Ahrefs after the `load` event, each only if configured in `data/site.json`. In-article ad units
+`templates/base.html` emits Consent Mode v2 defaults inline (denied for EEA + UK + CH, granted elsewhere), then the static
+Google tag (`gtag.js` + config, without re-declaring `dataLayer`/`gtag`), then a loader that injects AdSense and Ahrefs after
+the `load` event (AdSense is the only tag heavy enough to hurt Lighthouse). Each renders only if configured in `data/site.json`.
+With these defaults and no consent banner, EEA/UK/CH visitors send only consent-denied pings (`gcs=G100`) that GA4 reports do not show.
+In-article ad units
 (after the third question section and before related animals; never above the quick-facts card) render once `ad_slots` are set.
 
 ## Deploy

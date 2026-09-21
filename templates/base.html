@@ -26,9 +26,14 @@ gtag('consent', 'default', {
   'ad_personalization': 'granted'
 });
 </script>
+{% if site.ga4_id %}
+<!-- Google tag (gtag.js): must come after the consent defaults above; dataLayer/gtag are already declared there -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga4_id }}"></script>
+<script>gtag('js', new Date());gtag('config', '{{ site.ga4_id }}');</script>
+{% endif %}
 <script>
-/* Third-party tags load after first paint, in this order: AdSense, then the gtag loader, then Ahrefs.
-   Consent defaults above are already in the dataLayer; dataLayer/gtag are not re-declared. */
+/* AdSense and Ahrefs load after first paint (AdSense is ~225 KB and was the Lighthouse cost).
+   The Google tag itself is a static tag above, directly after the consent defaults. */
 (function () {
   function add(src, attrs) {
     var s = document.createElement('script');
@@ -39,10 +44,6 @@ gtag('consent', 'default', {
   function tags() {
 {% if site.adsense_client %}
     add('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense_client }}', { crossorigin: 'anonymous' });
-{% endif %}
-{% if site.ga4_id %}
-    add('https://www.googletagmanager.com/gtag/js?id={{ site.ga4_id }}', {});
-    gtag('js', new Date()); gtag('config', '{{ site.ga4_id }}');
 {% endif %}
 {% if site.ahrefs_key %}
     add('https://analytics.ahrefs.com/analytics.js', { 'data-key': '{{ site.ahrefs_key }}' });

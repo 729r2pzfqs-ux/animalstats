@@ -5,6 +5,7 @@ import json, os, re, sys
 OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "output")
 SITE = "https://animalstats.org"
 errors, n, titles, descs = [], 0, {}, {}
+GA4_REQUIRED = bool(json.load(open(os.path.join(os.path.dirname(OUT), "data", "site.json"))).get("ga4_id"))
 index = open(os.path.join(OUT, "sitemap.xml")).read()
 parts = re.findall(r"<loc>" + re.escape(SITE) + r"/(sitemap-[a-z]+\.xml)</loc>", index)
 if len(parts) < 3:
@@ -30,10 +31,15 @@ for root, _, files in os.walk(OUT):
                 types.append(json.loads(b).get("@type"))
             except ValueError as e:
                 errors.append(f"{rel}: bad JSON-LD {e}")
-        c, a, g, h = (html.find(x) for x in ("gtag('consent', 'default'", "adsbygoogle.js", "googletagmanager.com/gtag/js", "analytics.ahrefs.com"))
-        order = [x for x in (c, a, g, h) if x > 0]
-        if c < 0 or order != sorted(order):
-            errors.append(f"{rel}: consent → AdSense → gtag → Ahrefs order wrong")
+        c = html.find("gtag('consent', 'default'")
+        g = html.find('<script async src="https://www.googletagmanager.com/gtag/js?id=')
+        cfg, a = html.find("gtag('config', '"), html.find("adsbygoogle.js")
+        if c < 0 or (a > 0 and a < c):
+            errors.append(f"{rel}: consent defaults must come before AdSense")
+        if g > 0 and not (c < g < cfg):
+            errors.append(f"{rel}: expected consent defaults → static gtag.js → gtag config")
+        if GA4_REQUIRED and g < 0:
+            errors.append(f"{rel}: static gtag.js tag missing")
         if html.count("window.dataLayer = window.dataLayer") != 1:
             errors.append(f"{rel}: dataLayer declared {html.count('window.dataLayer = window.dataLayer')} times")
         noindex = 'name="robots" content="noindex"' in html
