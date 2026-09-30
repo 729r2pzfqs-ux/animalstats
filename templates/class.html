@@ -12,7 +12,7 @@
   </header>
   {% if cls.groups|length > 1 %}
   <nav aria-label="Orders" class="mt-4 flex flex-wrap gap-2">
-    {% for order, items in cls.groups %}<a href="#{{ order|lower }}" class="chip">{{ order }} <span class="text-slate-400">{{ items|length }}</span></a>{% endfor %}
+    {% for order, items in cls.groups %}<a href="#{{ order|lower }}" class="chip">{{ order }} <span class="text-slate-500">{{ items|length }}</span></a>{% endfor %}
   </nav>
   {% endif %}
   {% for order, items in cls.groups %}

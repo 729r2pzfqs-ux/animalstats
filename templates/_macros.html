@@ -16,8 +16,8 @@
 <tr>
   <td><a href="{{ a.url }}" class="link">{{ a.commonName }}</a><div class="text-xs italic text-slate-500">{{ a.scientificName }}</div></td>
   <td>{{ a.facts.lifespan.display }}</td>
-  <td>{% if a.facts.weight %}{{ a.facts.weight.display }}{% else %}<span class="text-slate-400">—</span>{% endif %}</td>
-  <td>{% if a.facts.speed %}{{ a.facts.speed.display }}{% else %}<span class="text-slate-400">—</span>{% endif %}</td>
+  <td>{% if a.facts.weight %}{{ a.facts.weight.display }}{% else %}<span class="text-slate-500">—</span>{% endif %}</td>
+  <td>{% if a.facts.speed %}{{ a.facts.speed.display }}{% else %}<span class="text-slate-500">—</span>{% endif %}</td>
   <td><span class="iucn iucn-{{ a.ecology.iucnCategory }}">{{ a.ecology.iucnCategory if a.ecology.iucnCategory != 'DOM' else 'Domestic' }}</span></td>
 </tr>
 {% endfor %}

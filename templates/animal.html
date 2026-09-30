@@ -18,10 +18,10 @@
   <section aria-label="Quick facts" class="card mt-3 p-3 sm:p-4">
     <div class="grid grid-cols-2 gap-2 sm:grid-cols-3 sm:gap-3">
       <div class="stat"><div class="stat-label">{{ icon('hourglass', 'w-3.5 h-3.5 text-emerald-700') }} Lifespan</div><div class="stat-value">{{ f.lifespan.display }}</div><div class="stat-note">{{ f.lifespan.context }}</div></div>
-      <div class="stat"><div class="stat-label">{{ icon('weight', 'w-3.5 h-3.5 text-emerald-700') }} Weight</div><div class="stat-value">{% if f.weight %}{{ f.weight.display }}{% else %}<span class="text-slate-400">Not recorded</span>{% endif %}</div></div>
+      <div class="stat"><div class="stat-label">{{ icon('weight', 'w-3.5 h-3.5 text-emerald-700') }} Weight</div><div class="stat-value">{% if f.weight %}{{ f.weight.display }}{% else %}<span class="text-slate-500">Not recorded</span>{% endif %}</div></div>
       <div class="stat"><div class="stat-label">{{ icon('ruler', 'w-3.5 h-3.5 text-emerald-700') }} {{ f.height.label }}</div><div class="stat-value">{{ f.height.display }}</div></div>
-      <div class="stat"><div class="stat-label">{{ icon('zap', 'w-3.5 h-3.5 text-emerald-700') }} Top speed</div><div class="stat-value">{% if f.speed %}{{ f.speed.display }}{% else %}<span class="text-slate-400">Not recorded</span>{% endif %}</div>{% if f.speed and f.speed.context %}<div class="stat-note">{{ f.speed.context }}</div>{% endif %}</div>
-      <div class="stat"><div class="stat-label">{{ icon('baby', 'w-3.5 h-3.5 text-emerald-700') }} {{ f.gestationPeriod.label if f.gestationPeriod else 'Gestation' }}</div><div class="stat-value">{% if f.gestationPeriod %}{{ f.gestationPeriod.display }}{% else %}<span class="text-slate-400">Not applicable</span>{% endif %}</div></div>
+      <div class="stat"><div class="stat-label">{{ icon('zap', 'w-3.5 h-3.5 text-emerald-700') }} Top speed</div><div class="stat-value">{% if f.speed %}{{ f.speed.display }}{% else %}<span class="text-slate-500">Not recorded</span>{% endif %}</div>{% if f.speed and f.speed.context %}<div class="stat-note">{{ f.speed.context }}</div>{% endif %}</div>
+      <div class="stat"><div class="stat-label">{{ icon('baby', 'w-3.5 h-3.5 text-emerald-700') }} {{ f.gestationPeriod.label if f.gestationPeriod else 'Gestation' }}</div><div class="stat-value">{% if f.gestationPeriod %}{{ f.gestationPeriod.display }}{% else %}<span class="text-slate-500">Not applicable</span>{% endif %}</div></div>
       <div class="stat"><div class="stat-label">{{ icon('utensils', 'w-3.5 h-3.5 text-emerald-700') }} Diet</div><div class="stat-value">{{ eco.diet }}</div></div>
     </div>
   </section>

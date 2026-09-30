@@ -28,10 +28,10 @@
   .iucn-EX { @apply bg-black text-white; }
   .iucn-EW { @apply bg-purple-900 text-white; }
   .iucn-CR { @apply bg-red-700 text-white; }
-  .iucn-EN { @apply bg-orange-600 text-white; }
+  .iucn-EN { @apply bg-orange-700 text-white; }
   .iucn-VU { @apply bg-amber-300 text-amber-950; }
   .iucn-NT { @apply bg-lime-300 text-lime-950; }
-  .iucn-LC { @apply bg-emerald-600 text-white; }
+  .iucn-LC { @apply bg-emerald-700 text-white; }
   .iucn-DD, .iucn-NE { @apply bg-slate-200 text-slate-700; }
   .iucn-DOM { @apply bg-sky-100 text-sky-900; }
 
