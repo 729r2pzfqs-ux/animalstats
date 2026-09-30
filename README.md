@@ -18,13 +18,13 @@ plus class hubs, comparisons, leaderboards and fact charts. Static site: JSON da
 | `templates/`, `static/`, `icons/` | Jinja2 templates, JS/favicons/OG card, the Lucide SVGs inlined at build time (ISC) |
 | `build.py` | Generator → `output/` (git-ignored) |
 | `tools/validate.py` | Data validator: schema, fixed units, word limits, answer-first rule, source URL whitelist, Wikidata cross-check (`-w` lists warnings) |
-| `tools/check_site.py` | Output checker: links, JSON-LD, canonicals, split sitemaps, tag order, unique titles/descriptions, 6-stat card above any ad |
+| `tools/check_site.py` | Output checker: links, JSON-LD, canonicals, flat sitemap, tag order, unique titles/descriptions, 6-stat card above any ad |
 
 ## URLs
 
 `/animals/<slug>/` · `/mammals/` `/birds/` `/reptiles/` `/amphibians/` `/fish/` `/invertebrates/` · `/compare/<a>-vs-<b>/` ·
 `/lists/<topic>/` · `/facts/<type>/` · `/animals/` (A–Z) · `/search/?q=` (noindex; target of the WebSite SearchAction) ·
-`sitemap.xml` is an index of `sitemap-animals.xml`, `sitemap-compare.xml`, `sitemap-lists.xml`, `sitemap-pages.xml`.
+`sitemap.xml` is a single flat `<urlset>` listing every indexable page.
 
 ## Build
 

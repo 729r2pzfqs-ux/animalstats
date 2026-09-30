@@ -365,19 +365,14 @@ def main():
     with open(os.path.join(OUT, "search-index.json"), "w", encoding="utf-8") as fh:
         json.dump(index, fh, ensure_ascii=False, separators=(",", ":"))
 
-    for group, items in urls.items():
-        with open(os.path.join(OUT, f"sitemap-{group}.xml"), "w", encoding="utf-8") as fh:
-            fh.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
+    # One flat <urlset>: ~280 URLs is far below the 50,000-URL limit, so no sitemap index is needed.
+    with open(os.path.join(OUT, "sitemap.xml"), "w", encoding="utf-8") as fh:
+        fh.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
+        for items in urls.values():
             for path, prio, lastmod in sorted(items, key=lambda u: (-u[1], u[0])):
                 fh.write(f"<url><loc>{site['url']}{path}</loc><lastmod>{lastmod}</lastmod>"
                          f"<priority>{prio:.1f}</priority></url>\n")
-            fh.write("</urlset>\n")
-    with open(os.path.join(OUT, "sitemap.xml"), "w", encoding="utf-8") as fh:
-        fh.write('<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
-        for group, items in urls.items():
-            lastmod = max(u[2] for u in items)
-            fh.write(f"<sitemap><loc>{site['url']}/sitemap-{group}.xml</loc><lastmod>{lastmod}</lastmod></sitemap>\n")
-        fh.write("</sitemapindex>\n")
+        fh.write("</urlset>\n")
     files = {
         "robots.txt": f"User-agent: *\nAllow: /\nDisallow: /search/\n\nSitemap: {site['url']}/sitemap.xml\n",
         "CNAME": site["domain"] + "\n",

@@ -1,18 +1,18 @@
 #!/usr/bin/env python3
-"""Validate output/: links, JSON-LD, canonicals, split sitemaps, tag order, unique titles/descriptions, page structure."""
+"""Validate output/: links, JSON-LD, canonicals, flat sitemap, tag order, unique titles/descriptions, page structure."""
 import json, os, re, sys
 
 OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "output")
 SITE = "https://animalstats.org"
 errors, n, titles, descs = [], 0, {}, {}
 GA4_REQUIRED = bool(json.load(open(os.path.join(os.path.dirname(OUT), "data", "site.json"))).get("ga4_id"))
-index = open(os.path.join(OUT, "sitemap.xml")).read()
-parts = re.findall(r"<loc>" + re.escape(SITE) + r"/(sitemap-[a-z]+\.xml)</loc>", index)
-if len(parts) < 3:
-    errors.append("sitemap.xml should be an index of split sitemaps")
-sitemap = set()
-for p in parts:
-    sitemap |= set(re.findall(r"<loc>" + re.escape(SITE) + r"(/[^<]*)</loc>", open(os.path.join(OUT, p)).read()))
+smap = open(os.path.join(OUT, "sitemap.xml")).read()
+if "<urlset" not in smap or "<sitemapindex" in smap:
+    errors.append("sitemap.xml should be a single flat <urlset>")
+locs = re.findall(r"<loc>" + re.escape(SITE) + r"(/[^<]*)</loc>", smap)
+if len(locs) != len(set(locs)):
+    errors.append("sitemap.xml has duplicate URLs")
+sitemap = set(locs)
 for root, _, files in os.walk(OUT):
     for f in files:
         if not f.endswith(".html"):
@@ -74,7 +74,7 @@ for root, _, files in os.walk(OUT):
             if v in store:
                 errors.append(f"{rel}: duplicate {kind} with {store[v]}")
             store[v] = rel
-print(f"checked {n} html files, {len(sitemap)} sitemap urls in {len(parts)} sitemaps, {len(errors)} errors")
+print(f"checked {n} html files, {len(sitemap)} sitemap urls, {len(errors)} errors")
 for e in errors[:40]:
     print("  ", e)
 sys.exit(1 if errors else 0)
