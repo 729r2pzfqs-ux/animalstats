@@ -35,6 +35,7 @@
         {% if animal.alternateNames %}<tr><td class="font-semibold text-slate-900">Also called</td><td>{{ animal.alternateNames|join(', ') }}</td></tr>{% endif %}
         <tr><td class="font-semibold text-slate-900">Class</td><td><a href="{{ animal.cls.url }}" class="link">{{ animal.taxonomy.class }}</a> ({{ animal.cls.name|lower }})</td></tr>
         <tr><td class="font-semibold text-slate-900">Order · Family</td><td>{{ animal.taxonomy.order }} · {{ animal.taxonomy.family }}</td></tr>
+        {% if animal.family %}<tr><td class="font-semibold text-slate-900">Same family</td><td>{% for b in animal.family %}<a href="{{ b.url }}" class="link">{{ b.commonName }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>{% endif %}
         <tr><td class="font-semibold text-slate-900">Habitat</td><td>{{ eco.habitat|join(', ') }}</td></tr>
         <tr><td class="font-semibold text-slate-900">Range</td><td>{{ eco.range }}</td></tr>
         {% if f.lifespanCaptivity %}<tr><td class="font-semibold text-slate-900">Lifespan {{ f.lifespanCaptivity.context or 'in human care' }}</td><td>{{ f.lifespanCaptivity.display }}</td></tr>{% endif %}

@@ -192,6 +192,8 @@ def main():
         enrich(a)
     for a in animals.values():
         a["related"] = [animals[s] for s in a["relatedAnimals"] if s in animals]
+        a["family"] = sorted((b for b in animals.values() if b is not a and b["taxonomy"]["family"] == a["taxonomy"]["family"]),
+                             key=lambda b: b["commonName"])
     for c in classes:
         c["url"] = f"/{c['slug']}/"
         c["animals"] = sorted((a for a in animals.values() if a["taxonomy"]["classSlug"] == c["slug"]),
