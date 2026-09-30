@@ -348,7 +348,7 @@ def main():
            description=f"A–Z index of all {len(animals)} animals on AnimalStats, each with lifespan, weight, size, speed, diet, habitat and conservation status.")
     crumbs = [("Home", "/"), ("Search", "/search/")]
     render("search.html", "/search/", crumbs=crumbs, schema=[crumbs_schema(crumbs)], noindex=True)
-    for slug, name, prio in (("about", "About", 0.3), ("privacy", "Privacy", 0.2)):
+    for slug, name, prio in (("about", "About", 0.3), ("privacy", "Privacy", 0.2), ("terms", "Terms", 0.2)):
         crumbs = [("Home", "/"), (name, f"/{slug}/")]
         render(f"{slug}.html", f"/{slug}/", "pages", prio, crumbs=crumbs, schema=[crumbs_schema(crumbs)])
     render("404.html", "/", filename="404.html", crumbs=[("Home", "/")], schema=[], noindex=True)

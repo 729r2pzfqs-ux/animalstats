@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% set title = "Terms of Use | AnimalStats" %}
+{% set description = "AnimalStats is free to use as a general animal facts reference. Terms covering accuracy, reuse of our content, third-party data licenses and links." %}
+{% set email %}<!--email_off--><a class="link" href="mailto:info&#64;animalstats&#46;org">info&#64;animalstats&#46;org</a><!--/email_off-->{% endset %}
+{% block main %}
+<div class="wrap">
+  <h1 class="pt-4 text-[1.7rem] font-extrabold leading-tight tracking-tight sm:text-4xl">Terms of Use</h1>
+  <p class="mt-2 text-sm text-slate-500">Last updated {{ site.updated }}</p>
+  <div class="prose-p mt-4 space-y-4">
+    <p>By using AnimalStats (animalstats.org) you agree to these terms. If you do not agree, please do not use the site.</p>
+
+    <h2 class="h2">A general reference</h2>
+    <p>AnimalStats is provided free of charge for general information and education. Figures are typical ranges compiled from published sources; animals vary and sources disagree, and conservation assessments and taxonomy change over time. The site is provided “as is”, without warranties of any kind, and should not be relied on for veterinary, animal-care, safety, legal or scientific decisions. To the extent permitted by law, we are not liable for any loss arising from use of the site.</p>
+
+    <h2 class="h2">Using our content</h2>
+    <p>You are welcome to quote individual facts and short passages with a link back to the page you used. Please do not republish pages or the dataset wholesale. Reference data drawn from Wikidata is available under CC0; material adapted from Wikipedia is available under the <a class="link" href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener">CC BY-SA 4.0</a> license; IUCN Red List categories remain subject to the <a class="link" href="https://www.iucnredlist.org/terms/terms-of-use" rel="noopener">IUCN Red List terms of use</a>. Icons are from Lucide (ISC license).</p>
+
+    <h2 class="h2">Links and advertising</h2>
+    <p>Pages link to external sources and may show advertising served by third parties. We are not responsible for the content or practices of other websites. How cookies and analytics are handled is explained in our <a class="link" href="/privacy/">privacy policy</a>.</p>
+
+    <h2 class="h2">Changes and contact</h2>
+    <p>We may update these terms; the date above shows the latest version. Questions and corrections: {{ email }}.</p>
+  </div>
+</div>
+{% endblock %}
