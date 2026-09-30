@@ -58,7 +58,7 @@
     "description": "Galápagos tortoises live over 100 years, weigh 110–270 kg (250–600 lb) and walk at just 0.3 km/h. Size, diet, eggs, numbers left and conservation.",
     "sources": [
       {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Chelonoidis&searchType=species"},
-      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Geochelone_nigra/"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Chelonoidis_nigra/"},
       {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_tortoise"}
     ]
   }

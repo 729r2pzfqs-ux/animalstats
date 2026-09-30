@@ -57,7 +57,6 @@
     "sources": [
       {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Xiphias%20gladius&searchType=species"},
       {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Xiphias_gladius/"},
-      {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Xiphias_gladius"},
       {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Swordfish"}
     ]
   }

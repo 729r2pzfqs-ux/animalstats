@@ -57,7 +57,7 @@
     "description": "Snowy owls weigh 1.6–3 kg (3.5–6.6 lb), have a 1.25–1.5 m wingspan and live about 10 years in the wild. Arctic diet, irruptions and Vulnerable status.",
     "sources": [
       {"name": "IUCN Red List", "url": "https://www.iucnredlist.org/search?query=Bubo%20scandiacus&searchType=species"},
-      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Bubo_scandiacus/"},
+      {"name": "Animal Diversity Web", "url": "https://animaldiversity.org/accounts/Nyctea_scandiaca/"},
       {"name": "AnAge Database", "url": "https://genomics.senescence.info/species/entry.php?species=Bubo_scandiacus"},
       {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Snowy_owl"}
     ]
