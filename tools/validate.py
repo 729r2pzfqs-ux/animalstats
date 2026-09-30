@@ -163,6 +163,8 @@ def check(path, M):
         E(f"meta.title {len(meta.get('title', ''))} chars (≤ 60)")
     if not 110 <= len(meta.get("description", "")) <= 158:
         E(f"meta.description {len(meta.get('description', ''))} chars (110–158)")
+    if "reviewed" in meta and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(meta["reviewed"])):
+        E(f"meta.reviewed {meta['reviewed']!r} is not YYYY-MM-DD")
     src = meta.get("sources", [])
     if not 2 <= len(src) <= 4:
         E("meta.sources: 2–4 items")

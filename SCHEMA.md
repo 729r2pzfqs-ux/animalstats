@@ -41,7 +41,8 @@ Validate with `python3 tools/validate.py [files…]`.
   "meta": {
     "title": "…",                        // ≤ 60 chars, unique
     "description": "…",                  // 110–158 chars, unique, answer-first with the key numbers
-    "sources": [{"name": "…", "url": "…"}]   // 2–4, ONLY these URL patterns (see AUTHORING.md)
+    "sources": [{"name": "…", "url": "…"}],  // 2–4, ONLY these URL patterns (see AUTHORING.md)
+    "reviewed": "2026-09-30"             // optional YYYY-MM-DD: set when the record's facts or sources change; drives "Reviewed", dateModified and sitemap lastmod (default: site.json "updated")
   }
 }
 ```

@@ -87,7 +87,7 @@
   <p class="mt-6"><a href="{{ animal.cls.url }}" class="inline-flex items-center gap-1.5 rounded-full bg-emerald-700 px-4 py-2 text-sm font-semibold text-white hover:bg-emerald-800">All {{ animal.cls.name|lower }} {{ icon('arrow-right', 'w-4 h-4') }}</a></p>
 
   <div class="mt-8 border-t border-slate-200 pt-4 text-xs leading-relaxed text-slate-500">
-    <p><strong class="text-slate-600">Sources:</strong> {% for s in animal.meta.sources %}<a href="{{ s.url }}" rel="noopener nofollow" class="underline">{{ s.name }}</a>{% if not loop.last %} · {% endif %}{% endfor %}. Reviewed {{ site.updated }}. Figures are typical adult ranges; individuals and populations vary. <a href="/about/" class="underline">How we compile this data</a>.</p>
+    <p><strong class="text-slate-600">Sources:</strong> {% for s in animal.meta.sources %}<a href="{{ s.url }}" rel="noopener nofollow" class="underline">{{ s.name }}</a>{% if not loop.last %} · {% endif %}{% endfor %}. Reviewed {{ updated }}. Figures are typical adult ranges; individuals and populations vary. <a href="/about/" class="underline">How we compile this data</a>.</p>
   </div>
 </article>
 {% endblock %}

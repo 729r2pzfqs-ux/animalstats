@@ -230,14 +230,15 @@ def main():
 
     urls = {"animals": [], "compare": [], "lists": [], "pages": []}
 
-    def render(template, path, group="pages", priority=0.5, filename="index.html", **ctx):
-        html = env.get_template(template).render(path=path, canonical=site["url"] + path, **ctx)
+    def render(template, path, group="pages", priority=0.5, filename="index.html", updated=None, **ctx):
+        updated = updated or site.get("page_updated", {}).get(path) or site["updated"]
+        html = env.get_template(template).render(path=path, canonical=site["url"] + path, updated=updated, **ctx)
         dest = os.path.join(OUT, path.strip("/"), filename)
         os.makedirs(os.path.dirname(dest), exist_ok=True)
         with open(dest, "w", encoding="utf-8") as fh:
             fh.write(html)
         if filename == "index.html" and not ctx.get("noindex"):
-            urls[group].append((path, priority))
+            urls[group].append((path, priority, updated))
 
     def crumbs_schema(crumbs):
         return {"@context": "https://schema.org", "@type": "BreadcrumbList",
@@ -257,9 +258,9 @@ def main():
     org = {"@type": "Organization", "name": site["name"], "url": site["url"] + "/",
            "logo": {"@type": "ImageObject", "url": site["url"] + "/icon-512.png"}}
 
-    def article(title, desc, path):
+    def article(title, desc, path, updated=None):
         return {"@context": "https://schema.org", "@type": "Article", "headline": title, "description": desc,
-                "mainEntityOfPage": site["url"] + path, "dateModified": site["updated"],
+                "mainEntityOfPage": site["url"] + path, "dateModified": updated or site["updated"],
                 "datePublished": site["updated"], "inLanguage": "en", "image": site["url"] + "/og-default.png",
                 "author": org, "publisher": org}
 
@@ -268,9 +269,10 @@ def main():
         crumbs = [("Home", "/"), (a["cls"]["name"], a["cls"]["url"]), (a["commonName"], a["url"])]
         # The heading questions are part of the FAQ schema too: they are the queries the page answers.
         faq_items = [{"question": h, "answer": a["answers"][k]} for k, h in a["headings"].items()] + a["faq"]
-        render("animal.html", a["url"], "animals", 0.8, animal=a, crumbs=crumbs,
+        reviewed = a["meta"].get("reviewed", site["updated"])
+        render("animal.html", a["url"], "animals", 0.8, updated=reviewed, animal=a, crumbs=crumbs,
                schema=[crumbs_schema(crumbs), faq_schema(faq_items),
-                       article(a["meta"]["title"], a["meta"]["description"], a["url"])],
+                       article(a["meta"]["title"], a["meta"]["description"], a["url"], reviewed)],
                title=a["meta"]["title"], description=a["meta"]["description"])
 
     # ---- class pages
@@ -366,14 +368,15 @@ def main():
     for group, items in urls.items():
         with open(os.path.join(OUT, f"sitemap-{group}.xml"), "w", encoding="utf-8") as fh:
             fh.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
-            for path, prio in sorted(items, key=lambda u: (-u[1], u[0])):
-                fh.write(f"<url><loc>{site['url']}{path}</loc><lastmod>{site['updated']}</lastmod>"
+            for path, prio, lastmod in sorted(items, key=lambda u: (-u[1], u[0])):
+                fh.write(f"<url><loc>{site['url']}{path}</loc><lastmod>{lastmod}</lastmod>"
                          f"<priority>{prio:.1f}</priority></url>\n")
             fh.write("</urlset>\n")
     with open(os.path.join(OUT, "sitemap.xml"), "w", encoding="utf-8") as fh:
         fh.write('<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
-        for group in urls:
-            fh.write(f"<sitemap><loc>{site['url']}/sitemap-{group}.xml</loc><lastmod>{site['updated']}</lastmod></sitemap>\n")
+        for group, items in urls.items():
+            lastmod = max(u[2] for u in items)
+            fh.write(f"<sitemap><loc>{site['url']}/sitemap-{group}.xml</loc><lastmod>{lastmod}</lastmod></sitemap>\n")
         fh.write("</sitemapindex>\n")
     files = {
         "robots.txt": f"User-agent: *\nAllow: /\nDisallow: /search/\n\nSitemap: {site['url']}/sitemap.xml\n",
